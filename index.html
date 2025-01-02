@@ -3,19 +3,25 @@
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
+    {% assign readme_post = false %}
     {% for post in site.posts %}
       {% if post.title == "readme" %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-          <div class="post-content">
-            {{ post.content }}
-          </div>
-        </li>
+        {% assign readme_post = post %}
       {% endif %}
     {% endfor %}
+
+    {% if readme_post %}
+    <li>
+      <span class="post-meta">{{ readme_post.date | date: "%b %-d, %Y" }}</span>
+      <h2>
+        <a class="post-link" href="{{ readme_post.url | prepend: site.baseurl }}">{{ readme_post.title }}</a>
+      </h2>
+      <div class="post-content">
+        {{ readme_post.content }}
+      </div>
+    </li>
+    {% endif %}
+
     {% for post in site.posts %}
       {% if post.title!= "readme" %}
         <li>
