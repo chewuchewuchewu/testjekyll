@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+    {% assign readme_post = false %}
+    {% for post in site.posts %}
+      {% if post.title == "readme" %}
+        {% assign readme_post = post %}
+      {% endif %}
+    {% endfor %}
+
+    {% if readme_post %}
+
+      <div class="post-content">
+        {{ readme_post.content }}
+      </div>
+    {% endif %}
+  
+
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
