@@ -3,9 +3,11 @@
 * URL: https://job.ctrip.com/index.html#/social-recruitment
 * with filters
 
+
 ```
 - 搜索关键字 
 - 匹配关键字 ['SQL', 'Python', 'Hive', 'Spark', 'Java', 'Go', 'Golang', 'bash', 'airflow', '数仓', '数据仓库', '数据湖', '治理', '离线', '分布式计算', '实时', 'lakehouse', 'datalake', 'data warehouse', '可视化', 'OLAP', 'ETL', '调度', '监控', '大数据', 'delta lake', 'deltalake', 'Tableau', 'Flink', 'Linux', 'yarn', 'Hadoop', 'Kafka', 'MySQL', 'ClickHouse', 'HBase', 'DeltaLake', 'databricks', 'presto', 'AWS', 'devops', '容器', 'docker', 'kubernetes', 'k8s', '团队负责人', '报表', '元数据', 'metadata']
+
 
 ```
 
@@ -15,6 +17,7 @@
 ##### 上海-资深数据开发工程师(MJ024752)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024752
 * Match:15:java,数据仓库,spark,实时,python,数仓,kafka,presto,flink,hive,hadoop,离线,etl,sql,大数据
+
 
 
 ```
@@ -44,12 +47,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深大数据平台开发工程师(MJ022449)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ022449
 * Match:13:java,spark,python,airflow,docker,kubernetes,监控,metadata,flink,调度,hadoop,etl,大数据
+
 
 
 ```
@@ -99,12 +104,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据仓库工程师(MJ024768)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024768
 * Match:13:java,数据仓库,spark,实时,python,数仓,监控,flink,hive,离线,etl,hbase,大数据
+
 
 
 ```
@@ -134,12 +141,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据开发工程师(MJ022748)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ022748
 * Match:13:java,数据仓库,spark,python,数仓,kafka,presto,flink,hive,hadoop,etl,sql,大数据
+
 
 
 ```
@@ -166,12 +175,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级数据工程师(MJ023981)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023981
 * Match:13:数据仓库,治理,spark,python,kafka,go,监控,hadoop,etl,aws,sql,数据湖,大数据
+
 
 
 ```
@@ -210,12 +221,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据仓库工程师(MJ023518)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023518
 * Match:12:数据仓库,治理,报表,spark,实时,数仓,hive,hadoop,离线,etl,sql,mysql
+
 
 
 ```
@@ -248,12 +261,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-数据专家(MJ023148)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023148
 * Match:11:数据仓库,治理,spark,实时,数仓,hive,hadoop,离线,etl,sql,mysql
+
 
 
 ```
@@ -284,12 +299,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深后端开发工程师(MJ024138)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024138
 * Match:11:java,治理,实时,python,kafka,go,监控,flink,linux,sql,mysql
+
 
 
 ```
@@ -329,12 +346,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据仓库工程师(MJ023542)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023542
 * Match:11:数据仓库,治理,spark,实时,数仓,hive,hadoop,离线,etl,sql,mysql
+
 
 
 ```
@@ -361,12 +380,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级/资深安全研发工程师(MJ024513)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024513
 * Match:11:java,spark,kafka,flink,linux,hive,hadoop,sql,hbase,大数据,mysql
+
 
 
 ```
@@ -395,12 +416,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-AI中台资深算法系统工程师/技术专家（算法工程方向）(MJ017167)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ017167
 * Match:10:java,spark,python,docker,flink,hive,hadoop,hbase,大数据,k8s
+
 
 
 ```
@@ -428,12 +451,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-后端开发(MJ024688)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024688
 * Match:10:spark,kafka,go,presto,flink,linux,hive,sql,hbase,大数据
+
 
 
 ```
@@ -466,12 +491,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深后端/技术专家(MJ024303)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024303
 * Match:10:spark,kafka,go,presto,flink,linux,hive,sql,hbase,大数据
+
 
 
 ```
@@ -499,12 +526,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深算法系统工程师（训练优化方向） (MJ024041)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024041
 * Match:10:java,spark,python,docker,flink,hive,hadoop,hbase,大数据,k8s
+
 
 
 ```
@@ -532,12 +561,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深中台数据仓库工程师(MJ024564)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024564
 * Match:9:数据仓库,治理,报表,实时,元数据,数仓,监控,hive,sql
+
 
 
 ```
@@ -564,12 +595,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据仓库工程师-财务(MJ023909)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023909
 * Match:9:数据仓库,治理,报表,实时,元数据,数仓,监控,hive,sql
+
 
 
 ```
@@ -596,12 +629,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级Java研发工程师(MJ023322)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023322
 * Match:9:java,报表,clickhouse,kafka,监控,hive,sql,大数据,mysql
+
 
 
 ```
@@ -630,12 +665,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-Java后端开发工程师(MJ022994)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ022994
 * Match:8:java,clickhouse,go,linux,sql,hbase,大数据,mysql
+
 
 
 ```
@@ -669,12 +706,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-OLAP分析引擎高级/资深开发工程师(MJ022291)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ022291
 * Match:8:java,olap,python,监控,presto,linux,sql,大数据
+
 
 
 ```
@@ -704,12 +743,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据开发工程师(MJ003432)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ003432
 * Match:8:java,python,监控,hive,离线,sql,大数据,mysql
+
 
 
 ```
@@ -732,12 +773,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级Java开发工程师（用户）(MJ023680)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023680
 * Match:8:java,spark,实时,flink,linux,hive,sql,大数据
+
 
 
 ```
@@ -763,12 +806,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-BI实习生(MJ023715)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023715
 * Match:7:数据仓库,报表,数仓,hive,hadoop,sql,大数据
+
 
 
 ```
@@ -791,12 +836,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-数据仓库工程师(MJ021760)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021760
 * Match:7:java,数据仓库,监控,hive,离线,sql,mysql
+
 
 
 ```
@@ -821,12 +868,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师(MJ023265)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023265
 * Match:7:数据仓库,治理,报表,python,hive,etl,sql
+
 
 
 ```
@@ -853,12 +902,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-订单组 - 后端架构师(MJ020470)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ020470
 * Match:7:java,治理,kubernetes,kafka,sql,容器,mysql
+
 
 
 ```
@@ -880,12 +931,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深后端开发工程师(MJ017051)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ017051
 * Match:7:java,治理,python,go,hive,sql,mysql
+
 
 
 ```
@@ -913,12 +966,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据分析师（大搜方向）(MJ024527)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024527
 * Match:7:治理,报表,tableau,python,可视化,sql,大数据
+
 
 
 ```
@@ -954,12 +1009,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级数据分析师(MJ020275)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ020275
 * Match:7:治理,报表,tableau,python,可视化,sql,大数据
+
 
 
 ```
@@ -997,12 +1054,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级数据分析师(MJ021223)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021223
 * Match:7:治理,报表,tableau,python,可视化,sql,大数据
+
 
 
 ```
@@ -1040,12 +1099,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海- 资深后端开发工程师(MJ024727)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024727
 * Match:6:java,监控,go,sql,hbase,mysql
+
 
 
 ```
@@ -1077,12 +1138,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-AGG - 高级/资深后端开发工程师(MJ024801)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024801
 * Match:6:java,kubernetes,容器,hbase,sql,mysql
+
 
 
 ```
@@ -1115,12 +1178,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-Business Analyst (ETL)(MJ018763)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ018763
 * Match:6:data warehouse,spark,kafka,hive,hadoop,etl
+
 
 
 ```
@@ -1148,12 +1213,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-价格策略运营(MJ024556)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024556
 * Match:6:spark,可视化,监控,hive,sql,大数据
+
 
 
 ```
@@ -1182,12 +1249,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-公共组-后端架构师(MJ020473)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ020473
 * Match:6:java,kubernetes,容器,hbase,sql,mysql
+
 
 
 ```
@@ -1223,12 +1292,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-公共组-高级/资深后端工程师(MJ021097)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021097
 * Match:6:java,kubernetes,容器,hbase,sql,mysql
+
 
 
 ```
@@ -1261,12 +1332,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-后端开发专家(MJ020220)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ020220
 * Match:6:java,治理,监控,go,sql,mysql
+
 
 
 ```
@@ -1296,12 +1369,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-大前端组-高级/资深后端开发工程师(MJ023130)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023130
 * Match:6:java,kubernetes,容器,hbase,sql,mysql
+
 
 
 ```
@@ -1331,12 +1406,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-用车后端开发(MJ024516)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024516
 * Match:6:java,治理,监控,go,sql,mysql
+
 
 
 ```
@@ -1362,12 +1439,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-程意控- 高级/资深后端工程师(MJ024504)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024504
 * Match:6:java,kubernetes,容器,hbase,sql,mysql
+
 
 
 ```
@@ -1397,12 +1476,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-程曦- 高级/资深后端工程师(MJ024285)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024285
 * Match:6:java,kubernetes,容器,hbase,sql,mysql
+
 
 
 ```
@@ -1432,12 +1513,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-策略运营(MJ024631)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024631
 * Match:6:spark,可视化,监控,hive,sql,大数据
+
 
 
 ```
@@ -1461,12 +1544,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-算法工程师(MJ024148)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024148
 * Match:6:java,spark,python,hive,hadoop,sql
+
 
 
 ```
@@ -1495,12 +1580,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-算法工程师（风控策略）(MJ024162)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024162
 * Match:6:java,spark,python,hive,hadoop,sql
+
 
 
 ```
@@ -1525,12 +1612,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-订单组 - 高级/资深后端工程师(MJ021281)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021281
 * Match:6:java,kubernetes,容器,hbase,sql,mysql
+
 
 
 ```
@@ -1563,12 +1652,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深算法工程师(MJ024059)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024059
 * Match:6:java,spark,python,hive,hadoop,sql
+
 
 
 ```
@@ -1593,12 +1684,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-风控策略部门经理/总监（交易/业务安全）(MJ017208)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ017208
 * Match:6:报表,python,可视化,监控,hive,sql
+
 
 
 ```
@@ -1627,12 +1720,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级后端开发工程师(MJ024477)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024477
 * Match:6:java,治理,linux,sql,大数据,mysql
+
 
 
 ```
@@ -1669,12 +1764,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级数据分析(MJ023717)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023717
 * Match:6:数据仓库,spark,python,数仓,监控,sql
+
 
 
 ```
@@ -1699,12 +1796,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级数据分析师(MJ023358)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023358
 * Match:6:数据仓库,spark,python,数仓,监控,sql
+
 
 
 ```
@@ -1728,12 +1827,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-BI/数据高级分析师 （金融方向）(MJ023191)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023191
 * Match:5:监控,hive,etl,sql,大数据
+
 
 
 ```
@@ -1761,12 +1862,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-业务数据分析师(MJ023011)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023011
 * Match:5:spark,可视化,监控,sql,tableau
+
 
 
 ```
@@ -1794,12 +1897,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-后端开发专家（跨境支付）(MJ014567)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ014567
 * Match:5:java,监控,go,sql,mysql
+
 
 
 ```
@@ -1829,12 +1934,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-测试开发工程师(MJ018338)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ018338
 * Match:5:java,python,linux,sql,mysql
+
 
 
 ```
@@ -1862,12 +1969,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-测试开发工程师(MJ022371)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ022371
 * Match:5:java,python,linux,sql,mysql
+
 
 
 ```
@@ -1897,12 +2006,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深后端开发工程师(MJ023095)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023095
 * Match:5:java,go,sql,hbase,mysql
+
 
 
 ```
@@ -1929,12 +2040,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级JAVA开发工程师(MJ022933)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ022933
 * Match:5:java,go,sql,hbase,mysql
+
 
 
 ```
@@ -1963,12 +2076,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-Business Analyst(Report Visualization)(MJ024717)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024717
 * Match:4:mysql,tableau,go,sql
+
 
 
 ```
@@ -1993,12 +2108,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-Java开发工程师-中间件(MJ012954)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ012954
 * Match:4:java,linux,mysql,sql
+
 
 
 ```
@@ -2025,12 +2142,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-Senior Procedure Supervisor (Data)(MJ020767)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ020767
 * Match:4:可视化,监控,报表,sql
+
 
 
 ```
@@ -2060,12 +2179,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-Senior Risk Analyst(MJ021068)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021068
 * Match:4:hive,python,go,sql
+
 
 
 ```
@@ -2084,12 +2205,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-后端开发专家（国际化）(MJ022241)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ022241
 * Match:4:java,监控,mysql,sql
+
 
 
 ```
@@ -2119,12 +2242,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-存储系统高级研发工程师(MJ012953)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ012953
 * Match:4:java,linux,mysql,sql
+
 
 
 ```
@@ -2151,12 +2276,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-推荐算法工程师(MJ018476)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ018476
 * Match:4:java,python,hadoop,spark
+
 
 
 ```
@@ -2181,12 +2308,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-收益管理经理(MJ023281)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023281
 * Match:4:hive,python,tableau,sql
+
 
 
 ```
@@ -2219,12 +2348,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-数据仓库工程师(MJ021658)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021658
 * Match:4:数据仓库,离线,治理,监控
+
 
 
 ```
@@ -2244,12 +2375,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析专家(MJ021118)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021118
 * Match:4:可视化,监控,hive,sql
+
 
 
 ```
@@ -2276,12 +2409,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析航司向(MJ024152)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024152
 * Match:4:监控,hive,presto,sql
+
 
 
 ```
@@ -2302,12 +2437,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-策略产品经理（国际火车）(MJ024642)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024642
 * Match:4:治理,实时,监控,sql
+
 
 
 ```
@@ -2335,12 +2472,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深后端开发(MJ019991)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ019991
 * Match:4:java,linux,mysql,sql
+
 
 
 ```
@@ -2374,12 +2513,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深后端开发工程师(MJ021800)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021800
 * Match:4:java,linux,mysql,sql
+
 
 
 ```
@@ -2414,12 +2555,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深后端开发工程师（AI平台）(MJ023980)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023980
 * Match:4:java,linux,mysql,sql
+
 
 
 ```
@@ -2452,12 +2595,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深搜索算法工程师(MJ024667)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024667
 * Match:4:java,python,hadoop,spark
+
 
 
 ```
@@ -2483,12 +2628,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级/资深测试工具开发工程师（后端）(MJ024257)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024257
 * Match:4:java,linux,docker,go
+
 
 
 ```
@@ -2518,12 +2665,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级/资深测试开发工程师(MJ023131)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023131
 * Match:4:java,linux,python,go
+
 
 
 ```
@@ -2550,12 +2699,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级业务安全工程师(MJ024821)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024821
 * Match:4:hive,python,大数据,sql
+
 
 
 ```
@@ -2587,12 +2738,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-高级数据仓库工程师(MJ024002)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024002
 * Match:4:数据仓库,离线,治理,监控
+
 
 
 ```
@@ -2618,6 +2771,7 @@ Req:
 ,.etc
 
 
+
 ```
 
 
@@ -2626,6 +2780,7 @@ Req:
 ##### 北京-算法工程师(MJ014573)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ014573
 * Match:8:java,spark,python,监控,linux,hive,hadoop,大数据
+
 
 
 ```
@@ -2649,12 +2804,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-算法工程师(MJ018580)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ018580
 * Match:8:java,spark,python,监控,linux,hive,hadoop,大数据
+
 
 
 ```
@@ -2682,12 +2839,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师(MJ018579)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ018579
 * Match:5:java,治理,实时,python,数仓
+
 
 
 ```
@@ -2711,12 +2870,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-测试开发工程师(MJ024258)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024258
 * Match:5:java,python,监控,devops,linux
+
 
 
 ```
@@ -2747,12 +2908,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-Java开发工程师-集团运营(MJ022720)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ022720
 * Match:4:java,mysql,kafka,sql
+
 
 
 ```
@@ -2780,12 +2943,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-测试开发工程师(MJ015525)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ015525
 * Match:4:java,linux,mysql,sql
+
 
 
 ```
@@ -2816,12 +2981,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-资深JAVA开发工程师(MJ014572)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ014572
 * Match:4:java,linux,mysql,sql
+
 
 
 ```
@@ -2845,6 +3012,7 @@ Req:
 * buName: 金融业务 
 * publishDate: 2022-11-21 
 ,.etc
+
 
 
 ```

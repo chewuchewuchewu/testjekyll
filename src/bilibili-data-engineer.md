@@ -3,9 +3,11 @@
 * URL: https://jobs.bilibili.com/social/positions
 * with filters
 
+
 ```
 - 搜索关键字: none
 - 匹配关键字: ['SQL', 'Python', 'Hive', 'Spark', 'Java', 'Go', 'bash', 'airflow', '数仓', '数据仓库', '数据湖', '治理', '离线', '分布式计算', '实时', 'lakehouse', 'datalake', 'data warehouse', '可视化', 'OLAP', 'ETL', '调度', '监控', '大数据', 'delta lake', 'deltalake', 'Tableau', 'Flink', 'Linux', 'yarn', 'Hadoop', 'Kafka', 'MySQL', 'ClickHouse', 'HBase', 'DeltaLake', 'databricks', 'presto', 'AWS', 'devops', '容器', 'docker', 'kubernetes', 'k8s', '团队负责人', '报表', '元数据', 'metadata']
+
 
 ```
 
@@ -15,6 +17,7 @@
 ##### 上海-高级数据开发工程师
 * URL: https://jobs.bilibili.com/social/positions/21313
 * Match:14:spark,sql,大数据,hbase,etl,flink,java,hadoop,数据仓库,报表,mysql,可视化,hive,python
+
 
 
 ```
@@ -34,12 +37,14 @@ JD: 工作职责:
 pushTime:2024-11-08 15:32:16
 
 
+
 ```
 
 
 ##### 上海-数据开发工程师
 * URL: https://jobs.bilibili.com/social/positions/16664
 * Match:13:spark,大数据,etl,flink,java,hadoop,数据仓库,可视化,clickhouse,实时,离线,数仓,python
+
 
 
 ```
@@ -57,12 +62,14 @@ JD: 工作职责:
 pushTime:2023-09-12 11:27:01
 
 
+
 ```
 
 
 ##### 上海-资深/高级数据开发工程师（游戏行业）
 * URL: https://jobs.bilibili.com/social/positions/5515
 * Match:13:spark,sql,大数据,分布式计算,flink,kafka,java,hadoop,mysql,实时,hive,数仓,python
+
 
 
 ```
@@ -85,12 +92,14 @@ JD: 工作职责:
 pushTime:2023-04-16 18:03:59
 
 
+
 ```
 
 
 ##### 上海-机器学习平台研发工程师
 * URL: https://jobs.bilibili.com/social/positions/20561
 * Match:12:spark,大数据,k8s,分布式计算,flink,java,go,hadoop,airflow,docker,调度,python
+
 
 
 ```
@@ -111,12 +120,14 @@ JD: 工作职责:
 pushTime:2024-08-26 21:11:57
 
 
+
 ```
 
 
 ##### 上海-高级/资深数据开发-交易方向
 * URL: https://jobs.bilibili.com/social/positions/18642
 * Match:12:spark,sql,大数据,元数据,flink,java,hadoop,数据仓库,clickhouse,实时,离线,hive
+
 
 
 ```
@@ -136,12 +147,14 @@ JD: 工作职责:
 pushTime:2024-05-17 15:11:26
 
 
+
 ```
 
 
 ##### 上海-高级/资深开发工程师（平台工具方向)
 * URL: https://jobs.bilibili.com/social/positions/17303
 * Match:10:spark,大数据,flink,linux,java,go,hadoop,clickhouse,实时,hive
+
 
 
 ```
@@ -159,12 +172,14 @@ JD: 工作职责:
 pushTime:2023-12-05 14:19:55
 
 
+
 ```
 
 
 ##### 上海-高级/资深数据开发工程师-商业化
 * URL: https://jobs.bilibili.com/social/positions/15669
 * Match:9:spark,sql,大数据,etl,flink,kafka,hadoop,数据仓库,hive
+
 
 
 ```
@@ -184,12 +199,14 @@ JD: 工作职责:
 pushTime:2024-05-17 15:06:49
 
 
+
 ```
 
 
 ##### 上海-资深数据开发工程师
 * URL: https://jobs.bilibili.com/social/positions/20435
 * Match:8:spark,hbase,hadoop,数据仓库,报表,hive,数仓,python
+
 
 
 ```
@@ -212,12 +229,14 @@ JD: 工作职责:
 pushTime:2024-08-15 16:47:48
 
 
+
 ```
 
 
 ##### 上海-高级/资深研发工程师（算法7组）
 * URL: https://jobs.bilibili.com/social/positions/16606
 * Match:8:sql,flink,presto,linux,java,离线,hive,python
+
 
 
 ```
@@ -237,12 +256,14 @@ d. 具备较强的数据分析能力和洞察力，对新事物的好奇心和�
 pushTime:2023-09-05 20:21:40
 
 
+
 ```
 
 
 ##### 上海-搜索算法工程师（NLP/模型/策略方向）
 * URL: https://jobs.bilibili.com/social/positions/20429
 * Match:7:spark,大数据,java,go,hadoop,hive,python
+
 
 
 ```
@@ -260,12 +281,14 @@ JD: 工作职责:
 pushTime:2024-08-15 14:42:49
 
 
+
 ```
 
 
 ##### 上海-数据开发
 * URL: https://jobs.bilibili.com/social/positions/19870
 * Match:7:治理,sql,大数据,etl,java,数据仓库,python
+
 
 
 ```
@@ -286,12 +309,14 @@ JD: 工作职责:
 pushTime:2024-07-26 12:09:15
 
 
+
 ```
 
 
 ##### 上海-用户增长算法工程师（广告投放）
 * URL: https://jobs.bilibili.com/social/positions/20428
 * Match:7:spark,大数据,linux,go,hadoop,hive,python
+
 
 
 ```
@@ -306,12 +331,14 @@ JD: 工作职责:
 pushTime:2024-08-15 14:43:34
 
 
+
 ```
 
 
 ##### 上海-研发工程师（用户生态技术部）
 * URL: https://jobs.bilibili.com/social/positions/21016
 * Match:7:治理,sql,k8s,kafka,go,mysql,容器
+
 
 
 ```
@@ -335,12 +362,14 @@ JD: 工作职责:
 pushTime:2024-10-15 18:33:26
 
 
+
 ```
 
 
 ##### 上海-高级/资深 Java 开发工程师（游戏商业方向）
 * URL: https://jobs.bilibili.com/social/positions/21106
 * Match:7:spark,大数据,flink,kafka,java,hadoop,hive
+
 
 
 ```
@@ -358,12 +387,14 @@ JD: 工作职责:
 pushTime:2024-11-11 15:58:01
 
 
+
 ```
 
 
 ##### 上海-高级SRE工程师
 * URL: https://jobs.bilibili.com/social/positions/20839
 * Match:7:sql,kafka,linux,devops,java,mysql,python
+
 
 
 ```
@@ -382,12 +413,14 @@ JD: 工作职责:
 pushTime:2024-09-23 11:23:27
 
 
+
 ```
 
 
 ##### 上海-Golang开发工程师（高级/资深）
 * URL: https://jobs.bilibili.com/social/positions/4831
 * Match:6:sql,linux,java,go,mysql,python
+
 
 
 ```
@@ -410,12 +443,14 @@ JD: 工作职责:
 pushTime:2023-03-09 21:10:39
 
 
+
 ```
 
 
 ##### 上海-大模型&AIGC研发工程师
 * URL: https://jobs.bilibili.com/social/positions/19330
 * Match:6:spark,分布式计算,linux,java,go,python
+
 
 
 ```
@@ -435,12 +470,14 @@ JD: 工作职责:
 pushTime:2024-06-03 14:29:34
 
 
+
 ```
 
 
 ##### 上海-社区服务端开发
 * URL: https://jobs.bilibili.com/social/positions/17013
 * Match:6:sql,大数据,kafka,java,go,mysql
+
 
 
 ```
@@ -459,12 +496,14 @@ JD: 工作职责:
 pushTime:2023-10-30 12:20:02
 
 
+
 ```
 
 
 ##### 上海-资深Golang开发工程师（直播/稿件）
 * URL: https://jobs.bilibili.com/social/positions/5233
 * Match:6:sql,linux,java,go,mysql,python
+
 
 
 ```
@@ -487,12 +526,14 @@ JD: 工作职责:
 pushTime:2023-03-09 21:10:39
 
 
+
 ```
 
 
 ##### 上海-资深SRE研发工程师
 * URL: https://jobs.bilibili.com/social/positions/21114
 * Match:6:治理,k8s,go,可视化,容器,调度
+
 
 
 ```
@@ -513,12 +554,14 @@ JD: 工作职责:
 pushTime:2024-10-23 17:28:30
 
 
+
 ```
 
 
 ##### 上海-资深golang开发工程师（流媒体平台方向）
 * URL: https://jobs.bilibili.com/social/positions/18958
 * Match:6:sql,linux,go,mysql,调度,python
+
 
 
 ```
@@ -538,12 +581,14 @@ JD: 工作职责:
 pushTime:2024-05-07 14:50:58
 
 
+
 ```
 
 
 ##### 上海-资深云平台开发工程师-基础架构部
 * URL: https://jobs.bilibili.com/social/positions/19364
 * Match:6:k8s,java,go,容器,yarn,调度
+
 
 
 ```
@@ -561,12 +606,14 @@ JD: 工作职责:
 pushTime:2024-06-05 13:58:09
 
 
+
 ```
 
 
 ##### 上海-资深开发工程师（工程效率部）
 * URL: https://jobs.bilibili.com/social/positions/21213
 * Match:6:kubernetes,devops,java,go,容器,python
+
 
 
 ```
@@ -589,12 +636,14 @@ JD: 工作职责:
 pushTime:2024-10-30 11:24:29
 
 
+
 ```
 
 
 ##### 上海-高级/资深服务端测试开发工程师（B端质量保障部）
 * URL: https://jobs.bilibili.com/social/positions/5004
 * Match:6:sql,java,go,mysql,可视化,python
+
 
 
 ```
@@ -613,12 +662,14 @@ JD: 工作职责:
 pushTime:2023-07-21 12:02:49
 
 
+
 ```
 
 
 ##### 上海-高级golang开发工程师-机审服务
 * URL: https://jobs.bilibili.com/social/positions/18464
 * Match:6:sql,linux,java,go,mysql,python
+
 
 
 ```
@@ -642,12 +693,14 @@ JD: 工作职责:
 pushTime:2024-03-20 20:34:02
 
 
+
 ```
 
 
 ##### 上海-高级golang开发工程师（版权音乐）
 * URL: https://jobs.bilibili.com/social/positions/19204
 * Match:6:sql,linux,java,go,mysql,python
+
 
 
 ```
@@ -670,12 +723,14 @@ JD: 工作职责:
 pushTime:2024-05-21 20:06:03
 
 
+
 ```
 
 
 ##### 上海-高级后端开发工程师（用户生态技术部）
 * URL: https://jobs.bilibili.com/social/positions/20801
 * Match:6:sql,kafka,linux,java,go,mysql
+
 
 
 ```
@@ -696,12 +751,14 @@ JD: 工作职责:
 pushTime:2024-09-19 11:15:39
 
 
+
 ```
 
 
 ##### 上海-高级开发工程师（主站社区）
 * URL: https://jobs.bilibili.com/social/positions/20696
 * Match:6:治理,sql,linux,java,go,python
+
 
 
 ```
@@ -721,12 +778,14 @@ JD: 工作职责:
 pushTime:2024-09-03 18:15:47
 
 
+
 ```
 
 
 ##### 上海-可观测性平台开发工程师
 * URL: https://jobs.bilibili.com/social/positions/20942
 * Match:5:flink,kafka,java,go,clickhouse
+
 
 
 ```
@@ -744,12 +803,14 @@ JD: 工作职责:
 pushTime:2024-09-29 18:47:02
 
 
+
 ```
 
 
 ##### 上海-后端开发-直播技术部
 * URL: https://jobs.bilibili.com/social/positions/17330
 * Match:5:sql,linux,java,go,python
+
 
 
 ```
@@ -768,12 +829,14 @@ JD: 工作职责:
 pushTime:2023-12-08 12:11:39
 
 
+
 ```
 
 
 ##### 上海-后端开发工程师-微服务治理平台
 * URL: https://jobs.bilibili.com/social/positions/5450
 * Match:5:治理,kubernetes,docker,java,go
+
 
 
 ```
@@ -796,12 +859,14 @@ JD: 工作职责:
 pushTime:2023-04-27 11:06:25
 
 
+
 ```
 
 
 ##### 上海-商业化-数据科学家
 * URL: https://jobs.bilibili.com/social/positions/21002
 * Match:5:sql,mysql,可视化,hive,python
+
 
 
 ```
@@ -817,12 +882,14 @@ JD: 工作职责:
 pushTime:2024-10-14 16:56:24
 
 
+
 ```
 
 
 ##### 上海-游戏分析方向-资深数据分析师
 * URL: https://jobs.bilibili.com/social/positions/21363
 * Match:5:治理,sql,tableau,etl,数据仓库
+
 
 
 ```
@@ -841,12 +908,14 @@ JD: 工作职责:
 pushTime:2024-11-13 15:48:32
 
 
+
 ```
 
 
 ##### 上海-游戏分析方向-高级分析师
 * URL: https://jobs.bilibili.com/social/positions/21361
 * Match:5:治理,sql,tableau,etl,数据仓库
+
 
 
 ```
@@ -864,12 +933,14 @@ JD: 工作职责:
 pushTime:2024-11-13 15:46:03
 
 
+
 ```
 
 
 ##### 上海-游戏运维总监
 * URL: https://jobs.bilibili.com/social/positions/20649
 * Match:5:linux,监控,java,go,python
+
 
 
 ```
@@ -886,12 +957,14 @@ JD: 工作职责:
 pushTime:2024-08-29 19:06:01
 
 
+
 ```
 
 
 ##### 上海-漫画分析方向-高级分析师
 * URL: https://jobs.bilibili.com/social/positions/21370
 * Match:5:治理,sql,tableau,etl,数仓
+
 
 
 ```
@@ -908,12 +981,14 @@ JD: 工作职责:
 pushTime:2024-11-13 17:21:15
 
 
+
 ```
 
 
 ##### 上海-用户增长算法工程师
 * URL: https://jobs.bilibili.com/social/positions/16737
 * Match:5:spark,大数据,linux,hadoop,hive
+
 
 
 ```
@@ -928,12 +1003,14 @@ JD: 工作职责:
 pushTime:2023-09-19 15:42:04
 
 
+
 ```
 
 
 ##### 上海-资深后端开发工程师(多媒体)
 * URL: https://jobs.bilibili.com/social/positions/20959
 * Match:5:监控,docker,go,调度,python
+
 
 
 ```
@@ -953,12 +1030,14 @@ JD: 工作职责:
 pushTime:2024-10-09 12:07:41
 
 
+
 ```
 
 
 ##### 上海-资深开发工程师（可观测平台）
 * URL: https://jobs.bilibili.com/social/positions/5740
 * Match:5:flink,kafka,java,go,clickhouse
+
 
 
 ```
@@ -977,12 +1056,14 @@ JD: 工作职责:
 pushTime:2023-07-21 12:02:49
 
 
+
 ```
 
 
 ##### 上海-资深服务端开发（直播电商）
 * URL: https://jobs.bilibili.com/social/positions/4577
 * Match:5:sql,大数据,kafka,go,mysql
+
 
 
 ```
@@ -1001,12 +1082,14 @@ JD: 工作职责:
 pushTime:2023-03-09 21:10:38
 
 
+
 ```
 
 
 ##### 上海-风控技术负责人
 * URL: https://jobs.bilibili.com/social/positions/20899
 * Match:5:大数据,sql,java,实时,python
+
 
 
 ```
@@ -1026,12 +1109,14 @@ JD: 工作职责:
 pushTime:2024-09-25 17:57:26
 
 
+
 ```
 
 
 ##### 上海-风控算法工程师
 * URL: https://jobs.bilibili.com/social/positions/20951
 * Match:5:大数据,sql,flink,hive,python
+
 
 
 ```
@@ -1048,12 +1133,14 @@ JD: 工作职责:
 pushTime:2024-10-08 14:55:31
 
 
+
 ```
 
 
 ##### 上海-高级/资深客户端测试工程师
 * URL: https://jobs.bilibili.com/social/positions/18578
 * Match:5:sql,java,go,mysql,python
+
 
 
 ```
@@ -1070,12 +1157,14 @@ JD: 工作职责:
 pushTime:2024-12-04 11:48:24
 
 
+
 ```
 
 
 ##### 上海-高级/资深广告模型算法工程师
 * URL: https://jobs.bilibili.com/social/positions/18654
 * Match:5:分布式计算,linux,java,go,python
+
 
 
 ```
@@ -1095,12 +1184,14 @@ JD: 工作职责:
 pushTime:2024-08-13 20:10:48
 
 
+
 ```
 
 
 ##### 上海-高级/资深游戏SRE
 * URL: https://jobs.bilibili.com/social/positions/17018
 * Match:5:sql,java,go,mysql,python
+
 
 
 ```
@@ -1131,12 +1222,14 @@ JD: 工作职责:
 pushTime:2023-10-30 14:58:22
 
 
+
 ```
 
 
 ##### 上海-高级/资深算法工程师（风控方向）
 * URL: https://jobs.bilibili.com/social/positions/18690
 * Match:5:治理,sql,kafka,java,python
+
 
 
 ```
@@ -1161,12 +1254,14 @@ JD: 工作职责:
 pushTime:2024-12-17 14:34:09
 
 
+
 ```
 
 
 ##### 上海-高级服务端开发（直播）
 * URL: https://jobs.bilibili.com/social/positions/4490
 * Match:5:sql,大数据,kafka,go,mysql
+
 
 
 ```
@@ -1186,12 +1281,14 @@ JD: 工作职责:
 pushTime:2023-03-09 21:10:38
 
 
+
 ```
 
 
 ##### 上海-（增值业务）资深后端开发工程师
 * URL: https://jobs.bilibili.com/social/positions/21416
 * Match:5:sql,linux,java,go,mysql
+
 
 
 ```
@@ -1209,12 +1306,14 @@ JD: 工作职责:
 pushTime:2024-11-19 19:16:54
 
 
+
 ```
 
 
 ##### 上海-CRM数据产品经理
 * URL: https://jobs.bilibili.com/social/positions/20721
 * Match:4:可视化,sql,数仓,python
+
 
 
 ```
@@ -1230,12 +1329,14 @@ JD: 工作职责:
 pushTime:2024-09-06 14:23:15
 
 
+
 ```
 
 
 ##### 上海-Java开发工程师
 * URL: https://jobs.bilibili.com/social/positions/18884
 * Match:4:kafka,mysql,java,sql
+
 
 
 ```
@@ -1256,12 +1357,14 @@ JD: 工作职责:
 pushTime:2024-04-25 15:33:55
 
 
+
 ```
 
 
 ##### 上海-Java开发工程师（交易业务）
 * URL: https://jobs.bilibili.com/social/positions/16978
 * Match:4:mysql,java,sql,治理
+
 
 
 ```
@@ -1280,12 +1383,14 @@ JD: 工作职责:
 pushTime:2023-11-15 16:51:10
 
 
+
 ```
 
 
 ##### 上海-golang高级开发工程师
 * URL: https://jobs.bilibili.com/social/positions/18748
 * Match:4:kafka,mysql,go,sql
+
 
 
 ```
@@ -1302,12 +1407,14 @@ JD: 工作职责:
 pushTime:2024-04-11 11:33:29
 
 
+
 ```
 
 
 ##### 上海-创作者质量生态策略产品
 * URL: https://jobs.bilibili.com/social/positions/21061
 * Match:4:监控,治理,sql,python
+
 
 
 ```
@@ -1324,12 +1431,14 @@ JD: 工作职责:
 pushTime:2024-10-18 16:06:26
 
 
+
 ```
 
 
 ##### 上海-数据分析师-内容品类向
 * URL: https://jobs.bilibili.com/social/positions/16628
 * Match:4:hive,sql,tableau,数仓
+
 
 
 ```
@@ -1347,12 +1456,14 @@ JD: 工作职责:
 pushTime:2023-09-07 18:55:25
 
 
+
 ```
 
 
 ##### 上海-数据分析师-带货方向
 * URL: https://jobs.bilibili.com/social/positions/5339
 * Match:4:监控,可视化,sql,python
+
 
 
 ```
@@ -1369,12 +1480,14 @@ JD: 工作职责:
 pushTime:2024-04-03 10:48:20
 
 
+
 ```
 
 
 ##### 上海-数据分析师-广告方向
 * URL: https://jobs.bilibili.com/social/positions/4760
 * Match:4:监控,可视化,sql,python
+
 
 
 ```
@@ -1391,12 +1504,14 @@ JD: 工作职责:
 pushTime:2024-08-23 16:00:45
 
 
+
 ```
 
 
 ##### 上海-数据分析师（游戏）
 * URL: https://jobs.bilibili.com/social/positions/16874
 * Match:4:可视化,etl,tableau,python
+
 
 
 ```
@@ -1418,12 +1533,14 @@ JD: 工作职责:
 pushTime:2023-10-12 11:29:02
 
 
+
 ```
 
 
 ##### 上海-机器学习平台资深开发工程师
 * URL: https://jobs.bilibili.com/social/positions/5518
 * Match:4:容器,go,k8s,python
+
 
 
 ```
@@ -1445,12 +1562,14 @@ JD: 工作职责:
 pushTime:2023-04-17 11:38:09
 
 
+
 ```
 
 
 ##### 上海-消息队列技术专家
 * URL: https://jobs.bilibili.com/social/positions/17333
 * Match:4:kafka,java,kubernetes,go
+
 
 
 ```
@@ -1467,12 +1586,14 @@ JD: 工作职责:
 pushTime:2023-12-08 13:41:39
 
 
+
 ```
 
 
 ##### 上海-策略运营
 * URL: https://jobs.bilibili.com/social/positions/21505
 * Match:4:可视化,报表,sql,python
+
 
 
 ```
@@ -1488,12 +1609,14 @@ JD: 工作职责:
 pushTime:2024-12-02 18:07:43
 
 
+
 ```
 
 
 ##### 上海-资深/高级测试开发工程师（工程效率部）
 * URL: https://jobs.bilibili.com/social/positions/20382
 * Match:4:linux,java,go,python
+
 
 
 ```
@@ -1513,12 +1636,14 @@ JD: 工作职责:
 pushTime:2024-08-13 14:18:26
 
 
+
 ```
 
 
 ##### 上海-资深/高级测试开发工程师（用户生态技术质量部）
 * URL: https://jobs.bilibili.com/social/positions/19366
 * Match:4:linux,java,go,python
+
 
 
 ```
@@ -1536,12 +1661,14 @@ JD: 工作职责:
 pushTime:2024-06-05 14:07:05
 
 
+
 ```
 
 
 ##### 上海-资深数据产品经理（数据平台部）
 * URL: https://jobs.bilibili.com/social/positions/16579
 * Match:4:可视化,治理,大数据,元数据
+
 
 
 ```
@@ -1560,12 +1687,14 @@ JD: 工作职责:
 pushTime:2023-09-04 17:57:01
 
 
+
 ```
 
 
 ##### 上海-资深算法工程师（平台算法）
 * URL: https://jobs.bilibili.com/social/positions/16979
 * Match:4:spark,hive,大数据,hadoop
+
 
 
 ```
@@ -1583,12 +1712,14 @@ JD: 工作职责:
 pushTime:2023-12-13 16:52:42
 
 
+
 ```
 
 
 ##### 上海-资深算法工程师（游戏）
 * URL: https://jobs.bilibili.com/social/positions/5488
 * Match:4:实时,java,分布式计算,python
+
 
 
 ```
@@ -1613,12 +1744,14 @@ JD: 工作职责:
 pushTime:2023-04-23 10:53:17
 
 
+
 ```
 
 
 ##### 上海-资深算法工程师（行业算法）
 * URL: https://jobs.bilibili.com/social/positions/16982
 * Match:4:spark,hive,大数据,hadoop
+
 
 
 ```
@@ -1634,12 +1767,14 @@ JD: 工作职责:
 pushTime:2024-04-15 17:05:35
 
 
+
 ```
 
 
 ##### 上海-资深调度开发工程师(视频云)
 * URL: https://jobs.bilibili.com/social/positions/5210
 * Match:4:调度,java,go,python
+
 
 
 ```
@@ -1656,12 +1791,14 @@ JD: 工作职责:
 pushTime:2023-03-09 21:10:39
 
 
+
 ```
 
 
 ##### 上海-高级/资深 Golang 开发
 * URL: https://jobs.bilibili.com/social/positions/21008
 * Match:4:kafka,mysql,go,sql
+
 
 
 ```
@@ -1682,12 +1819,14 @@ JD: 工作职责:
 pushTime:2024-10-14 18:30:59
 
 
+
 ```
 
 
 ##### 上海-高级/资深研发工程师（安全方向）
 * URL: https://jobs.bilibili.com/social/positions/17665
 * Match:4:java,sql,go,python
+
 
 
 ```
@@ -1703,12 +1842,14 @@ JD: 工作职责:
 pushTime:2024-01-15 12:22:44
 
 
+
 ```
 
 
 ##### 上海-高级测试开发工程师-创新质量部
 * URL: https://jobs.bilibili.com/social/positions/19809
 * Match:4:linux,java,go,python
+
 
 
 ```
@@ -1727,12 +1868,14 @@ JD: 工作职责:
 pushTime:2024-07-23 10:49:08
 
 
+
 ```
 
 
 ##### 上海-高级调度开发工程师（视频云）
 * URL: https://jobs.bilibili.com/social/positions/5209
 * Match:4:调度,java,go,python
+
 
 
 ```
@@ -1747,6 +1890,7 @@ JD: 工作职责:
 pushTime:2023-03-09 21:10:39
 
 
+
 ```
 
 
@@ -1755,6 +1899,7 @@ pushTime:2023-03-09 21:10:39
 ##### 北京-高级/资深搜索广告算法工程师（北京）
 * URL: https://jobs.bilibili.com/social/positions/17813
 * Match:7:spark,大数据,java,go,hadoop,hive,python
+
 
 
 ```
@@ -1771,12 +1916,14 @@ JD: 工作职责:
 pushTime:2024-05-17 15:08:18
 
 
+
 ```
 
 
 ##### 北京-高级/资深售卖机制算法工程师（北京）
 * URL: https://jobs.bilibili.com/social/positions/17811
 * Match:4:spark,hive,大数据,hadoop
+
 
 
 ```
@@ -1790,6 +1937,7 @@ JD: 工作职责:
 3、熟悉spark、hadoop、hive等大数据处理技术
 4、有推荐/广告/搜索算法的工作经验，对相应系统和技术问题有充分理解,.etc
 pushTime:2024-05-17 15:07:51
+
 
 
 ```

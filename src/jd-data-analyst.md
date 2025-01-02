@@ -3,9 +3,11 @@
 * URL:  https://zhaopin.jd.com/web/job_info_list/3 
 * with filters
 
+
 ```
 - 搜索关键字 ['数据', '数仓', 'BI', 'DevOps', '商业分析', '产品经理']
 - 匹配关键字 ['数据分析', '商业分析', '建模', '数据科学', 'A/B', 'PMO', 'PMP', '项目管理', '数据仓库', '数仓', '大数据', '数据湖', 'lakehouse', 'datalake', 'data warehouse', '商业智能', 'PowerBi', 'BI', '可视化', '调度', '监控', 'SQL', 'Python', 'Tableau', 'hive', 'AWS', 'presto', 'delta lake', 'deltalake', '团队负责人', '报表']
+
 
 ```
 
@@ -15,6 +17,7 @@
 ##### 上海-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:5:数据仓库,sql,hive,数仓,报表
+
 
 
 ```
@@ -35,6 +38,7 @@ Req:1、计算机相关专业本科以上学历，2年以上数仓开发实施�
 ,.etc
 
 
+
 ```
 
 
@@ -43,6 +47,7 @@ Req:1、计算机相关专业本科以上学历，2年以上数仓开发实施�
 ##### 北京-数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师'，展开职位描述
 * Match:9:tableau,数据分析,可视化,bi,数据科学,python,hive,sql,报表
+
 
 
 ```
@@ -65,12 +70,14 @@ Req:1 、本科及以上学历，数学、计算机、数据科学等相关专�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析专家
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析专家'，展开职位描述
 * Match:8:tableau,数据分析,建模,可视化,数据科学,监控,hive,sql
+
 
 
 ```
@@ -89,12 +96,14 @@ Req:1、个人信用良好，本科及以上学历，经济学、统计学、应
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师岗'，展开职位描述
 * Match:8:建模,可视化,python,sql,监控,hive,数仓,大数据
+
 
 
 ```
@@ -116,12 +125,14 @@ Req:1、能够独立承担并完成各项数据任务，具备丰富的数据处
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师岗'，展开职位描述
 * Match:8:数据分析,建模,可视化,python,sql,监控,hive,数仓
+
 
 
 ```
@@ -142,12 +153,14 @@ Req:1、能够独立承担并完成各项数据任务，具备丰富的数据处
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师岗'，展开职位描述
 * Match:8:数据分析,建模,可视化,python,sql,监控,hive,数仓
+
 
 
 ```
@@ -168,12 +181,14 @@ Req:1、能够独立承担并完成各项数据任务，具备丰富的数据处
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '高级数据分析师'，展开职位描述
 * Match:8:数据分析,建模,可视化,a/b,python,报表,sql,大数据
+
 
 
 ```
@@ -192,12 +207,14 @@ Req:1、对数据敏感，能从数据中发现问题、解决问题，3年及�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-商业分析
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '商业分析'，展开职位描述
 * Match:7:tableau,商业分析,数据分析,python,监控,sql,报表
+
 
 
 ```
@@ -222,12 +239,14 @@ Req:1. 拥有商业分析、数据分析、经营分析、咨询相关工作经�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-商业分析专家
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '商业分析专家'，展开职位描述
 * Match:7:商业分析,数据分析,bi,python,sql,监控,数仓
+
 
 
 ```
@@ -250,12 +269,14 @@ Req:职位要求：
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师'，展开职位描述
 * Match:7:数据仓库,数据分析,可视化,python,hive,sql,报表
+
 
 
 ```
@@ -274,12 +295,14 @@ Req:1、 计算机相关专业，或统计学、数学、应用数学、计量�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据应用工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据应用工程师'，展开职位描述
 * Match:7:数据仓库,数据分析,建模,python,hive,sql,大数据
+
 
 
 ```
@@ -299,12 +322,14 @@ Req:1.三年以上工作经验，全日制硕士学历，计算机相关专业�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据应用工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据应用工程师'，展开职位描述
 * Match:7:数据仓库,数据分析,建模,bi,hive,sql,大数据
+
 
 
 ```
@@ -323,12 +348,14 @@ Req:1. 精通Java，熟练使用SpringBoot、Mybatis、Mysql、Redis、Kafka等�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:7:数据仓库,数据科学,python,监控,hive,sql,大数据
+
 
 
 ```
@@ -346,12 +373,14 @@ Req:1、全日制本科或以上学历，计算机科学、信息技术、统计
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-HR数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 'HR数据分析岗'，展开职位描述
 * Match:6:tableau,数据分析,bi,python,监控,sql
+
 
 
 ```
@@ -374,12 +403,14 @@ Req:1、本科及以上学历，统计学、人力资源管理、运营管理、
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据应用开发架构师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '大数据应用开发架构师'，展开职位描述
 * Match:6:数据分析,可视化,python,hive,sql,大数据
+
 
 
 ```
@@ -408,12 +439,14 @@ Req:1、资深大数据应用工程相关工作经验
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据研发工程师_资产管理方向
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '大数据研发工程师_资产管理方向'，展开职位描述
 * Match:6:数据仓库,python,监控,hive,sql,大数据
+
 
 
 ```
@@ -432,12 +465,14 @@ Req:1. 211/985院校计算机相关专业毕节，5年以上工作经验，熟�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析岗'，展开职位描述
 * Match:6:数据分析,可视化,bi,监控,sql,报表
+
 
 
 ```
@@ -458,12 +493,14 @@ Req:1. 本科及以上学历，5年经营分析、数据分析工作经验，互
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师'，展开职位描述
 * Match:6:数据仓库,数据分析,a/b,python,hive,sql
+
 
 
 ```
@@ -482,12 +519,14 @@ Req:1.计算机、统计学、数学等相关专业统招本科以上学历，5�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师'，展开职位描述
 * Match:6:数据分析,a/b,python,监控,hive,sql
+
 
 
 ```
@@ -512,12 +551,14 @@ Req:任职要求
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据运营专家
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据运营专家'，展开职位描述
 * Match:6:数据分析,可视化,bi,python,sql,报表
+
 
 
 ```
@@ -542,12 +583,14 @@ Req:1、工作经验：具有5年以上金融贷后领域数据运营或相关�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-离线数仓数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '离线数仓数据开发工程师岗'，展开职位描述
 * Match:6:数据仓库,数据分析,建模,hive,数仓,大数据
+
 
 
 ```
@@ -565,12 +608,14 @@ Req:1、统招硕士及以上学历，3年以上的数据开发经验，互联�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-产品经理
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '产品经理'，展开职位描述
 * Match:5:数据分析,python,监控,sql,项目管理
+
 
 
 ```
@@ -592,12 +637,14 @@ Req:教育背景：本科及以上学历，计算机科学、市场营销、设�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-商业分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '商业分析岗'，展开职位描述
 * Match:5:商业分析,数据分析,可视化,数据科学,sql
+
 
 
 ```
@@ -619,12 +666,14 @@ Req:1. 国内或海外重点院校本科及以上学历，统计学、应用数�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析岗'，展开职位描述
 * Match:5:数据分析,可视化,python,监控,sql
+
 
 
 ```
@@ -647,12 +696,14 @@ Req:1、统招本科及以上学历，3年以上相关岗位工作经验；统�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析岗'，展开职位描述
 * Match:5:数据分析,可视化,bi,sql,报表
+
 
 
 ```
@@ -671,12 +722,14 @@ Req:1.熟练SQL，可独立取数；
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析经理
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析经理'，展开职位描述
 * Match:5:数据分析,bi,监控,hive,sql
+
 
 
 ```
@@ -697,12 +750,14 @@ Req:1、拥有统计、计算机、数学、金融类、财务等本科及以上
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:5:数据仓库,建模,python,sql,大数据
+
 
 
 ```
@@ -732,12 +787,14 @@ Req:1. 教育背景
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:5:数据湖,python,hive,sql,大数据
+
 
 
 ```
@@ -760,12 +817,14 @@ Hive，Spark, Flink, Kafka, HBase，数据湖Hudi及Iceberg等。
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据科学岗'，展开职位描述
 * Match:5:数据分析,建模,数据科学,python,sql
+
 
 
 ```
@@ -788,12 +847,14 @@ Req:1、计算机（机器学习、人工智能等方向）、数学、统计、
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-高级商业分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '高级商业分析师'，展开职位描述
 * Match:5:商业分析,数据分析,python,sql,报表
+
 
 
 ```
@@ -812,12 +873,14 @@ Req:1、对数据敏感，能从数据中发现问题、解决问题；统计、
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据分析师（数据科学）
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '高级数据分析师（数据科学）'，展开职位描述
 * Match:5:数据分析,数据科学,监控,sql,报表
+
 
 
 ```
@@ -839,12 +902,14 @@ Req:任职资格：
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-京东健康-营养保健部-数据分析专家
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '京东健康-营养保健部-数据分析专家'，展开职位描述
 * Match:4:python,数据分析,sql,建模
+
 
 
 ```
@@ -863,12 +928,14 @@ Req:1.本科及以上学历，数据分析、商业管理、经济学等具备�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-商业分析专家（财富方向）
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '商业分析专家（财富方向）'，展开职位描述
 * Match:4:数据分析,sql,报表,商业分析
+
 
 
 ```
@@ -887,12 +954,14 @@ Req:1.全日制统招本科以上学历;
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-商业分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '商业分析岗'，展开职位描述
 * Match:4:python,数据分析,sql,商业分析
+
 
 
 ```
@@ -913,12 +982,14 @@ Req:1、本科及以上学历，商业分析、经济学、统计学、市场营
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-商业分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '商业分析岗'，展开职位描述
 * Match:4:python,数据分析,sql,商业分析
+
 
 
 ```
@@ -940,12 +1011,14 @@ Req:1、本科及以上学历，专业不限，经济管理、商业分析、统
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据运维平台架构师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '大数据运维平台架构师'，展开职位描述
 * Match:4:监控,python,数据分析,大数据
+
 
 
 ```
@@ -965,12 +1038,14 @@ Req:1.3年及以上运维数据中台、AIOps及监控告警产品研发经验�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-广告商业分析行业研究
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '广告商业分析行业研究'，展开职位描述
 * Match:4:项目管理,数据分析,调度,商业分析
+
 
 
 ```
@@ -989,12 +1064,14 @@ Req:1-本科及以上学历，对电商行业或者商业化发展趋势有一�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析岗'，展开职位描述
 * Match:4:python,数据分析,sql,可视化
+
 
 
 ```
@@ -1014,12 +1091,14 @@ Req:1.掌握SQL/R/Python等数据分析能力或数据分析工具应用。
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析岗'，展开职位描述
 * Match:4:python,数据分析,sql,bi
+
 
 
 ```
@@ -1044,12 +1123,14 @@ Req:任职要求
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师'，展开职位描述
 * Match:4:python,数据分析,sql,建模
+
 
 
 ```
@@ -1069,12 +1150,14 @@ Req:1.熟悉物流、电商交易、贸易、供应链、企业财务与融资�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师'，展开职位描述
 * Match:4:数据分析,sql,监控,商业分析
+
 
 
 ```
@@ -1094,12 +1177,14 @@ Req:1、本科及以上学历学历 ，5年以上数据分析或商业分析经�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师岗'，展开职位描述
 * Match:4:报表,数据分析,监控,可视化
+
 
 
 ```
@@ -1119,12 +1204,14 @@ Req:岗位要求
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据安全工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据安全工程师'，展开职位描述
 * Match:4:python,数据分析,sql,大数据
+
 
 
 ```
@@ -1147,12 +1234,14 @@ Req:1、本科以上学历，网络安全、计算机等相关专业，8 年及�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:4:hive,sql,建模,presto
+
 
 
 ```
@@ -1176,12 +1265,14 @@ hadoop/hive/hbase/spark/kafka/flink/presto/kylin等;
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:4:hive,sql,建模,presto
+
 
 
 ```
@@ -1203,12 +1294,14 @@ hadoop/hive/hbase/spark/kafka/flink/presto/kylin等;
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师岗'，展开职位描述
 * Match:4:sql,hive,数仓,大数据
+
 
 
 ```
@@ -1228,12 +1321,14 @@ Req:1、计算机等相关专业统招本科以上学历，3年及以上大数�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据架构师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据架构师'，展开职位描述
 * Match:4:数据仓库,hive,数仓,大数据
+
 
 
 ```
@@ -1251,12 +1346,14 @@ Req:1、计算机相关专业本科及以上学历，5年以上大数据领域�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-用户运营-数据分析方向
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '用户运营-数据分析方向'，展开职位描述
 * Match:4:python,数据分析,sql,监控
+
 
 
 ```
@@ -1279,12 +1376,14 @@ Req:1. 3年以上工作经验，本科及以上学历；
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-经营分析、数据分析、商业分析、财务分析
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '经营分析、数据分析、商业分析、财务分析'，展开职位描述
 * Match:4:数据分析,sql,报表,商业分析
+
 
 
 ```
@@ -1304,12 +1403,14 @@ Req:行业视角：了解目前行业主要几个电商玩家优劣势，敏锐�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-金融工程数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '金融工程数据分析师'，展开职位描述
 * Match:4:python,数据分析,sql,建模
+
 
 
 ```
@@ -1330,6 +1431,7 @@ Req:1. 教育背景与工作经验：硕士及以上学历，优先考虑量化�
 ,.etc
 
 
+
 ```
 
 
@@ -1338,6 +1440,7 @@ Req:1. 教育背景与工作经验：硕士及以上学历，优先考虑量化�
 ##### 安徽-数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析岗'，展开职位描述
 * Match:4:python,数据分析,sql,报表
+
 
 
 ```
@@ -1360,6 +1463,7 @@ Req:本科及以上，不低于三年工作经验，统计及数据专业优先�
 ,.etc
 
 
+
 ```
 
 
@@ -1368,6 +1472,7 @@ Req:本科及以上，不低于三年工作经验，统计及数据专业优先�
 ##### 广东-数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析岗'，展开职位描述
 * Match:8:tableau,数据分析,可视化,bi,python,监控,sql,报表
+
 
 
 ```
@@ -1391,6 +1496,7 @@ Req:1、教育背景：本科及以上学历，统计学、数学、计算机、
 ,.etc
 
 
+
 ```
 
 
@@ -1399,6 +1505,7 @@ Req:1、教育背景：本科及以上学历，统计学、数学、计算机、
 ##### 江苏-商业分析师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '商业分析师岗'，展开职位描述
 * Match:6:商业分析,数据分析,可视化,python,sql,商业智能
+
 
 
 ```
@@ -1422,6 +1529,7 @@ Req:1. 教育背景
 * formatPublishTime: 2024-12-12 
 * id: 102877 
 ,.etc
+
 
 
 ```

@@ -3,9 +3,11 @@
 * URL: https://careers.tencent.com/zh-cn/jobopportunity.html
 * with filters
 
+
 ```
 - 搜索关键字 ['数据', '数仓', 'BI', 'DevOps', '商业分析', '产品经理']
 - 匹配关键字 ['数据分析', '商业分析', '建模', '数据科学', 'A/B', 'PMO', 'PMP', '项目管理', '数据仓库', '数仓', '大数据', '数据湖', 'lakehouse', 'datalake', 'data warehouse', '商业智能', 'PowerBi', 'BI', '可视化', '调度', '监控', 'SQL', 'Python', 'Tableau', 'hive', 'AWS', 'presto', 'delta lake', 'deltalake', '团队负责人', '报表']
+
 
 ```
 
@@ -15,6 +17,7 @@
 ##### 上海-腾讯云大数据-高级产品经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1823634032324276224
 * Match:5:大数据,presto,数据分析,数据湖,delta lake
+
 
 
 ```
@@ -34,12 +37,14 @@ Req:1.本科以上学历，具有大型企业数据分析、大数据平台类�
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-《王者荣耀世界》资深数据分析
 * URL: http://careers.tencent.com/jobdesc.html?postId=1855875729372241920
 * Match:4:sql,可视化,监控,数据分析
+
 
 
 ```
@@ -56,12 +61,14 @@ Req:1.本科及以上学历，拥有3年及以上游戏数据分析经验，有m
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-腾讯云-大数据产品架构师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864567300812726272
 * Match:4:sql,大数据,数据仓库,数据湖
+
 
 
 ```
@@ -82,12 +89,14 @@ Req:1.对大数据、数据仓库、数据湖、数据中台、数据工具相�
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-腾讯云-大数据产品架构师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1839493317763559424
 * Match:4:sql,大数据,数据仓库,数据湖
+
 
 
 ```
@@ -109,12 +118,14 @@ Req:1.对大数据、数据仓库、数据湖、数据中台、数据工具相�
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-腾讯广告-数据科学家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1849266474938556416
 * Match:4:大数据,a/b,python,sql
+
 
 
 ```
@@ -131,6 +142,7 @@ Req:1.计算机、统计学、经济学等相关的专业硕士研究生及以�
 ,.etc
 
 
+
 ```
 
 
@@ -139,6 +151,7 @@ Req:1.计算机、统计学、经济学等相关的专业硕士研究生及以�
 ##### 北京-海外网络研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1779433417734103040
 * Match:6:可视化,sql,数据分析,python,调度,监控
+
 
 
 ```
@@ -156,12 +169,14 @@ Req:1.本科学历及以上，计算机、网络相关专业背景，英语可�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-搜狗输入法-数据科学家(增长分析)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1706867483568250880
 * Match:5:建模,sql,数据科学,数据分析,python
+
 
 
 ```
@@ -181,12 +196,14 @@ Req:1.本科及以上学历，计算机科学、数据科学、统计学、应�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-CSIG经营系统-高级数据分析师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1814209986893463552
 * Match:4:sql,可视化,bi,数据分析
+
 
 
 ```
@@ -206,12 +223,14 @@ Req:1.大学本科以上学历，五年以上数据分析工作经验；
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-微信输入法-高级后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1699632287001354240
 * Match:4:监控,调度,python,数据分析
+
 
 
 ```
@@ -228,12 +247,14 @@ Req:1.本科及以上学历，计算机相关专业；
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-搜狗输入法-#数据科学家(增长分析)#
 * URL: http://careers.tencent.com/jobdesc.html?postId=1851413912340160512
 * Match:4:sql,a/b,python,数据分析
+
 
 
 ```
@@ -253,12 +274,14 @@ Req:1.具备2-3年数据分析相关工作经验，本科及以上学历，统�
 3.具备良好的数据敏感度和创新思维，,.etc
 
 
+
 ```
 
 
 ##### 北京-腾讯投资-投资运营分析师-数据分析
 * URL: http://careers.tencent.com/jobdesc.html?postId=1826585324734672896
 * Match:4:sql,商业分析,python,数据分析
+
 
 
 ```
@@ -279,12 +302,14 @@ Req:1.5年数据分析经验，拥有股权投资数据分析、互联网商业�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-自动驾驶实验室-决策算法高级工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1823921347143688192
 * Match:4:大数据,数据科学,python,数据分析
+
 
 
 ```
@@ -311,6 +336,7 @@ Req:1.计算机、人工智能、机器人、自动化或相关领域的硕士�
 2.在相关顶级学术会议或期刊发表过相关论,.etc
 
 
+
 ```
 
 
@@ -319,6 +345,7 @@ Req:1.计算机、人工智能、机器人、自动化或相关领域的硕士�
 ##### 广州-微信小店-数据科学
 * URL: http://careers.tencent.com/jobdesc.html?postId=1833091818481283072
 * Match:7:大数据,a/b,hive,数据科学,sql,数据分析,python
+
 
 
 ```
@@ -343,12 +370,14 @@ Req:1.1年以上数据科学相关岗位的工作经验；
 3.对机器学习、人工,.etc
 
 
+
 ```
 
 
 ##### 广州-微信-数据分析师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810940442745778176
 * Match:5:大数据,hive,数据科学,数据分析,python
+
 
 
 ```
@@ -367,12 +396,14 @@ Req:1.1-3年以上数据科学相关岗位的工作经验，有内容行业相�
 ,.etc
 
 
+
 ```
 
 
 ##### 广州-微信视频号-内容安全算法工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1811063050866794496
 * Match:5:大数据,建模,sql,数据分析,python
+
 
 
 ```
@@ -391,12 +422,14 @@ Req:1.数学、统计、计算机等相关专业本科及以上学历；
 ,.etc
 
 
+
 ```
 
 
 ##### 广州-微信视频号-内容安全算法高级工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1846431350073090048
 * Match:5:大数据,建模,sql,数据分析,python
+
 
 
 ```
@@ -414,12 +447,14 @@ Req:1.数学、统计、计算机等相关专业本科及以上学历，3年以�
 ,.etc
 
 
+
 ```
 
 
 ##### 广州-微信视频号-安全策略高级工程师-商业交易
 * URL: http://careers.tencent.com/jobdesc.html?postId=1861335830992281600
 * Match:5:大数据,建模,sql,数据分析,python
+
 
 
 ```
@@ -438,12 +473,14 @@ Req:1.数学、统计、计算机等相关专业本科及以上学历， 3年以
 ,.etc
 
 
+
 ```
 
 
 ##### 广州-视频号-后台策略安全
 * URL: http://careers.tencent.com/jobdesc.html?postId=1845014660965756928
 * Match:5:大数据,建模,sql,数据分析,python
+
 
 
 ```
@@ -462,12 +499,14 @@ Req:1.数学、统计、计算机等相关专业本科及以上学历；
 ,.etc
 
 
+
 ```
 
 
 ##### 广州-企业微信-数据产品运营
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864921773829550080
 * Match:4:sql,python,建模,数据分析
+
 
 
 ```
@@ -485,12 +524,14 @@ Req:1.统计学、数学、计算机科学、经济学、市场营销等相关�
 ,.etc
 
 
+
 ```
 
 
 ##### 广州-微信公众平台-产品经理-推荐策略
 * URL: http://careers.tencent.com/jobdesc.html?postId=1850818482095022080
 * Match:4:sql,python,建模,数据分析
+
 
 
 ```
@@ -515,12 +556,14 @@ Req:1.具备良好的产品意识和内容推荐策略相关工作经验；
 * Require,.etc
 
 
+
 ```
 
 
 ##### 广州-微信小店-应用研究工程师-交易治理方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1836335098966859776
 * Match:4:sql,大数据,python,数据分析
+
 
 
 ```
@@ -539,12 +582,14 @@ Req:1.数学、统计、计算机、机器学习等相关专业研究生及以�
 ,.etc
 
 
+
 ```
 
 
 ##### 广州-微信小店-数据研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1833091812475039744
 * Match:4:大数据,python,hive,建模
+
 
 
 ```
@@ -567,12 +612,14 @@ Req:1.计算机科学或相关领域本科及以上学历，具备扎实的数�
 ,.etc
 
 
+
 ```
 
 
 ##### 广州-微信小店-高级应用研究工程师-交易治理方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1845014956211204096
 * Match:4:sql,大数据,python,数据分析
+
 
 
 ```
@@ -593,12 +640,14 @@ Req:1.数学、统计、计算机、机器学习等相关专业研究生及以�
 ,.etc
 
 
+
 ```
 
 
 ##### 广州-微信小程序-数据分析
 * URL: http://careers.tencent.com/jobdesc.html?postId=1833515729350062080
 * Match:4:sql,python,hive,数据分析
+
 
 
 ```
@@ -613,12 +662,14 @@ Req:1.具备优秀的数据分析和解决问题能力，自驱力强，有团�
 ,.etc
 
 
+
 ```
 
 
 ##### 广州-腾讯云-泛互联网行业解决方案架构师-数据服务方向-深/广/上/杭
 * URL: http://careers.tencent.com/jobdesc.html?postId=1795376224747397120
 * Match:4:sql,大数据,数据湖,数仓
+
 
 
 ```
@@ -637,6 +688,7 @@ Req:1.本科以上学历，5年以上数据库、大数据开发或架构设计�
 ,.etc
 
 
+
 ```
 
 
@@ -645,6 +697,7 @@ Req:1.本科以上学历，5年以上数据库、大数据开发或架构设计�
 ##### 成都-腾讯云原生数仓-研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1752267358262534144
 * Match:7:大数据,sql,数据仓库,数据分析,数据湖,调度,bi
+
 
 
 ```
@@ -664,12 +717,14 @@ Req:1.熟练掌握C/C++或者Go语言、数据结构和操作系统等基础知�
 5.在同等条件下，通,.etc
 
 
+
 ```
 
 
 ##### 成都-腾讯云-大数据系统测试工程师（成都/深圳/北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1767021926825336832
 * Match:4:大数据,python,数据湖,hive
+
 
 
 ```
@@ -690,6 +745,7 @@ Req:1.5年以上大数据相关的开发/测试经验或对大数据有浓厚兴
 ,.etc
 
 
+
 ```
 
 
@@ -698,6 +754,7 @@ Req:1.5年以上大数据相关的开发/测试经验或对大数据有浓厚兴
 ##### 武汉-大数据系统测试工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1772448596122148864
 * Match:4:大数据,python,数据湖,hive
+
 
 
 ```
@@ -719,6 +776,7 @@ Req:1.本科以上学历，3年以上大数据相关的开发/测试经验或对
 ,.etc
 
 
+
 ```
 
 
@@ -727,6 +785,7 @@ Req:1.本科以上学历，3年以上大数据相关的开发/测试经验或对
 ##### 深圳-游戏数据科学家
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Senior-Data-Scientist_R104375-2
 * Match:9:大数据,tableau,建模,数据科学,sql,报表,数据分析,python,bi
+
 
 
 ```
@@ -747,12 +806,14 @@ Req:岗位要求
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-QQ浏览器-#数据科学#
 * URL: http://careers.tencent.com/jobdesc.html?postId=1862701217327636480
 * Match:8:a/b,tableau,数据科学,商业分析,sql,数据分析,python,监控
+
 
 
 ```
@@ -775,12 +836,14 @@ Req:1.具备1～3年的数据分析工作经验，其中至少1年广告商业�
 * Req,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯会议-大数据高级开发工程师-大数据平台方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1825383658735824896
 * Match:8:大数据,hive,数仓,presto,sql,数据分析,项目管理,python
+
 
 
 ```
@@ -799,12 +862,14 @@ Req:1.计算机科学或相关专业本科及以上学历，3年以上大数据�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯灯塔-#数据产品经理#（深圳/北京）-分析工具产品经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1843911679801323520
 * Match:8:powerbi,大数据,可视化,tableau,数仓,建模,数据分析,bi
+
 
 
 ```
@@ -824,12 +889,14 @@ Req:1.具备至少1年数据类产品相关经验；
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-大数据高级开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1793831848799903744
 * Match:7:大数据,hive,数仓,presto,建模,python,数据湖
+
 
 
 ```
@@ -847,12 +914,14 @@ Req:1.3年及以上大数据项目架构/开发/调优经验，具有数据平�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-游戏运营（数据分析方向）-PUBG Mobile 拉美区域
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/---PUBG-Mobile-_R104296-2
 * Match:7:可视化,tableau,sql,数据分析,python,bi,监控
+
 
 
 ```
@@ -873,12 +942,14 @@ Req:任职要求
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯云原生数仓-研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1752267353149677568
 * Match:7:大数据,sql,数据仓库,数据分析,数据湖,调度,bi
+
 
 
 ```
@@ -898,12 +969,14 @@ Req:1.熟练掌握C/C++或者Go语言、数据结构和操作系统等基础知�
 5.在同等条件下，通,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯云成本数据分析经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1863479261923401728
 * Match:7:大数据,建模,sql,报表,数据分析,python,监控
+
 
 
 ```
@@ -920,12 +993,14 @@ Req:1.全日制本科或以上学历，数学、统计、计算机、财务管�
 * DepartmentIntroduction: 腾讯云，腾讯倾力打造的云服务品牌，为客户提供先进的云产品与云服务。依托各地的数据中心，我们将云计算、大数据、人工智能、物联网、安全等先进技术与智慧产业业务场景相结合，同时面向金融、教育、医疗、零售、制造与消费电子、交通、能源与资源、广,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯广告-企微广告服务商合作数据开发工程师(北京)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864195927456112640
 * Match:7:大数据,hive,建模,sql,数据仓库,数据分析,python
+
 
 
 ```
@@ -946,12 +1021,14 @@ Req:1.编程语言：熟练掌握Java、Scala、Python等大数据处理相关�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-S2-业务风控经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1859488072324898816
 * Match:6:powerbi,sql,数据分析,项目管理,python,bi
+
 
 
 ```
@@ -972,12 +1049,14 @@ Req:1.本科及以上学历，有 1 年以上内控工作经验，项目管理�
 * DepartmentIntroduction: S2职能系统—财经线，秉持“专业、诚信、卓越”的价值观和专业精神，承担着腾讯公司业务经营财务管理、业务财务风险控制、公司上市披露公告等重要责任，为业务部门提供财经专业支持，发展成为具备综合管理职能的财经系统。岗位涵盖业务线财务管理、财务分析、会计、税务、资金管理、风险管理、内部审计、财经IT系统建设等多个领域，全方位、强有力的协助支持腾讯公司业务,.etc
 
 
+
 ```
 
 
 ##### 深圳-《穿越火线手游》机器学习应用研究员 
 * URL: http://careers.tencent.com/jobdesc.html?postId=1812681510919086080
 * Match:6:hive,建模,sql,数据分析,python,监控
+
 
 
 ```
@@ -994,12 +1073,14 @@ Req:1.数学或计算机专业本科及以上学历，扎实的计算机算法�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-大数据平台架构技术负责人（深圳/北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1788455266086297600
 * Match:6:大数据,数仓,数据科学,hive,bi,调度
+
 
 
 ```
@@ -1020,12 +1101,14 @@ Req:1.了解数据治理的方法论体系，有大数据、数仓或BI项目架
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-微信广告-数据开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1794902794294009856
 * Match:6:presto,sql,数据科学,数据分析,python,bi
+
 
 
 ```
@@ -1041,12 +1124,14 @@ Req:1.计算机、数据科学、统计或相关专业本科及以上学历；
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-海外网络研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1779433420015804416
 * Match:6:可视化,sql,数据分析,python,调度,监控
+
 
 
 ```
@@ -1064,12 +1149,14 @@ Req:1.本科学历及以上，计算机、网络相关专业背景，英语可�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-混元大模型数据研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1817943705315733504
 * Match:6:大数据,可视化,hive,数据分析,python,监控
+
 
 
 ```
@@ -1087,12 +1174,14 @@ Req:1.了解LLM大模型，熟悉大模型的数据建设原理，有一定的�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-混元数据科学分析师（北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1846705948127682560
 * Match:6:hive,数仓,sql,数据科学,数据分析,python
+
 
 
 ```
@@ -1111,12 +1200,14 @@ Req:1.计算机科学、数据科学、机器学习、统计学、应用数学�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-游戏运营（数据分析方向）-PUBGM 中欧区域
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Live-Ops-Specialist--Data-Analysis---In-game-Activities_R103753-2
 * Match:6:hive,建模,sql,数据分析,python,监控
+
 
 
 ```
@@ -1135,12 +1226,14 @@ Req:- 2年以上数据分析岗位工作经验，有FPS、MOBA、BR品类有相�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-结算平台高级开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1747406139303141376
 * Match:6:大数据,建模,sql,数据仓库,python,调度
+
 
 
 ```
@@ -1156,12 +1249,14 @@ Req:1.精通linux操作系统，三年以上java或golang/python/c++等后台开
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯云BI-后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1823634065643827200
 * Match:6:大数据,商业智能,数据分析,hive,bi,调度
+
 
 
 ```
@@ -1180,12 +1275,14 @@ Req:1.基础知识扎实、充满学习热情，熟练掌握java/golang等至少
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯会议-大数据高级开发工程师（数仓方向）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1816693709656322048
 * Match:6:大数据,hive,数仓,建模,数据分析,python
+
 
 
 ```
@@ -1203,12 +1300,14 @@ Req:1.本科以上学历，具有 3 年以上大数据研发经验，包括实�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯广告-搜索广告数据开发工程师-深圳
 * URL: http://careers.tencent.com/jobdesc.html?postId=1856007712089858048
 * Match:6:大数据,hive,sql,报表,数据分析,python
+
 
 
 ```
@@ -1225,12 +1324,14 @@ Req:1.大学本科以上学历，1年以上开发经验；
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯游戏流量海外数据产品经理（大数据方向）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1802633260941975552
 * Match:6:大数据,数据科学,sql,数据分析,项目管理,hive
+
 
 
 ```
@@ -1248,12 +1349,14 @@ Req:1.本科及以上学历，计算机、统计、数学等相关专业优先�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯灯塔-#大数据后台开发工程师#-大数据方向（北京/深圳）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810947269185249280
 * Match:6:大数据,可视化,presto,建模,sql,数据分析
+
 
 
 ```
@@ -1272,12 +1375,14 @@ Req:1.本科及以上学历，1年以上大型分布式系统设计和开发经�
 2.具有头部大数据平台领域方向的工作背景优先,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯灯塔-#数据产品经理#-AI数据产品经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1858388065920245760
 * Match:6:powerbi,tableau,sql,数据分析,python,bi
+
 
 
 ```
@@ -1294,12 +1399,14 @@ Req:1.主导或深度参与过AI产品的建设，具备prompt工程、模型应
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-采购流程管理高级工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1856875571397554176
 * Match:6:建模,报表,数据分析,项目管理,bi,监控
+
 
 
 ```
@@ -1317,12 +1424,14 @@ Req:1.本科及以上学历，具备 5 年以上的大型企业采购、BI、经
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-Game Operation Manager
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Game-Operation-Manager_R104043-1
 * Match:5:可视化,sql,数据分析,python,bi
+
 
 
 ```
@@ -1343,12 +1452,14 @@ Req:1. 统计学、数学、计算机科学或相关领域的学士学位，海�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-PCG-#腾讯灯塔产品运营#
 * URL: http://careers.tencent.com/jobdesc.html?postId=1848977375426011136
 * Match:5:tableau,sql,数据分析,bi,监控
+
 
 
 ```
@@ -1367,12 +1478,14 @@ Req:1.1年产品运营用户增长的经验，有0-1成功的用户增长案例�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-TCS云原生套件-产品运营-深圳/北京
 * URL: http://careers.tencent.com/jobdesc.html?postId=1668888151239696384
 * Match:5:建模,商业分析,报表,数据分析,监控
+
 
 
 ```
@@ -1391,12 +1504,14 @@ Req:1.全日制本科或以上学历，数学、计算机、财务管理等相�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-互联网网络运营工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1837069570112774144
 * Match:5:可视化,sql,数据分析,项目管理,python
+
 
 
 ```
@@ -1415,12 +1530,14 @@ Req:1.本科学历及以上，计算机、网络相关专业背景；
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-后端开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810556421616443392
 * Match:5:大数据,tableau,sql,项目管理,hive
+
 
 
 ```
@@ -1440,12 +1557,14 @@ Req:1.计算机相关专业本科及以上学历，五年以上互联网开发�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-微信-生态 AI 训练与部署系统高级工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1852251727147855872
 * Match:5:大数据,数据分析,python,bi,调度
+
 
 
 ```
@@ -1464,12 +1583,14 @@ Req:1.本科以上学历，计算机相关专业；
 4.熟悉分布式系统原理，熟悉常见的分布式计,.etc
 
 
+
 ```
 
 
 ##### 深圳-智慧零售-业务管理高级经理（流程规则类）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1837029029367013376
 * Match:5:tableau,sql,数据分析,项目管理,python
+
 
 
 ```
@@ -1489,12 +1610,14 @@ Req:1.本科及以上学历，5年以上业务经营管理或咨询经验；有2
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-渠道数据分析师（游戏发行）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1824286262471712768
 * Match:5:可视化,sql,数据分析,项目管理,python
+
 
 
 ```
@@ -1517,12 +1640,14 @@ Req:1.本科及以上学历，计算机、统计学或相关专业优先；
 3.对游戏行业有深刻理解，熟悉玩家心理和行为习惯；,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯云-大数据高级工程师-数据工程
 * URL: http://careers.tencent.com/jobdesc.html?postId=1807691190032670720
 * Match:5:大数据,hive,数据仓库,数据分析,python
+
 
 
 ```
@@ -1545,12 +1670,14 @@ Req:1.本科及以上学历，数学、统计、运筹学、计算机等相关�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯云-数仓开发/运维工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1856875483619160064
 * Match:5:大数据,数仓,sql,数据仓库,python
+
 
 
 ```
@@ -1569,12 +1696,14 @@ Req:1.踏实勤奋, 5年以上数据库运维或者设计工作经验，有2年�
 3.在同等条件下，通过腾讯云认证或取得同等资格认证的候选人，我们会,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯广告-商业分析/数据分析
 * URL: http://careers.tencent.com/jobdesc.html?postId=1850526492396642304
 * Match:5:pmo,数据科学,商业分析,数据分析,监控
+
 
 
 ```
@@ -1591,12 +1720,14 @@ Req:1.3年及以上互联网数据分析工作经验，有广告/推荐/策略�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯广告-数据科学
 * URL: http://careers.tencent.com/jobdesc.html?postId=1840754523103064064
 * Match:5:hive,sql,数据科学,数据分析,python
+
 
 
 ```
@@ -1614,12 +1745,14 @@ Req:1.本科以上学历，具有 3 年以上数据分析挖掘经验，有数�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯广告-算法工程师-特征方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1838028152413118464
 * Match:5:大数据,sql,数据分析,python,监控
+
 
 
 ```
@@ -1638,12 +1771,14 @@ Req:1.本科及以上学历，人工智能、计算机、统计、数学等相�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯游戏高级海外运营经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1584450850393169920
 * Match:5:sql,数据分析,项目管理,python,监控
+
 
 
 ```
@@ -1660,12 +1795,14 @@ Req:1.3年以上海外UA相关经验，对东南亚、欧美等市场有深入�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-金融信贷-大数据风控专家   
 * URL: http://careers.tencent.com/jobdesc.html?postId=1846024638732201984
 * Match:5:大数据,建模,sql,python,监控
+
 
 
 ```
@@ -1683,12 +1820,14 @@ Req:1.计算机、数学、统计、机器学习、金融等相关专业硕士�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-高级开发工程师（Java）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1701136543831302144
 * Match:5:大数据,tableau,sql,项目管理,hive
+
 
 
 ```
@@ -1708,12 +1847,14 @@ Req:1.计算机相关专业本科及以上学历，五年以上互联网开发�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-CSIG经营系统-高级数据分析师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1814209989066113024
 * Match:4:sql,可视化,bi,数据分析
+
 
 
 ```
@@ -1733,12 +1874,14 @@ Req:1.大学本科以上学历，五年以上数据分析工作经验；
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-CSIG高级经营分析经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1593137112918532096
 * Match:4:sql,python,tableau,数据分析
+
 
 
 ```
@@ -1757,12 +1900,14 @@ Req:1.本科及以上学历，5年以上业务经营管理或咨询经验；有2
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-IDC资源优化经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1831883330006573056
 * Match:4:sql,项目管理,python,数据分析
+
 
 
 ```
@@ -1782,12 +1927,14 @@ Req:1.本科及以上学历，计算机、电气自动化、通信电子、数�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-Marketing Data Analyst (深圳)
 * URL: https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Marketing-Data-Analyst---_R103404
 * Match:4:sql,可视化,监控,数据分析
+
 
 
 ```
@@ -1800,12 +1947,14 @@ Req:1.Bachelor's degree or above, with at least 5 years of experience in data an
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-PCG大数据平台部-#数据产品经理#（深圳/北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1803082493612531712
 * Match:4:大数据,数据科学,数据仓库,sql
+
 
 
 ```
@@ -1828,12 +1977,14 @@ Req:1.本科及以上学历，计算机科学、数据科学或相关专业优�
 3.,.etc
 
 
+
 ```
 
 
 ##### 深圳-《三角洲行动》数据分析
 * URL: http://careers.tencent.com/jobdesc.html?postId=1834063870688260096
 * Match:4:sql,a/b,监控,数据分析
+
 
 
 ```
@@ -1850,12 +2001,14 @@ Req:1.3年以上游戏商业化和活跃分析经验，有全面负责过一款�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-《无畏契约》-数据分析
 * URL: http://careers.tencent.com/jobdesc.html?postId=1759266725469102080
 * Match:4:sql,hive,bi,数据分析
+
 
 
 ```
@@ -1874,12 +2027,14 @@ Req:1.本科以上学历，3年以上游戏行业相关工作经验，擅长从�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-《王者荣耀》国际版-数据分析和用研负责人
 * URL: http://careers.tencent.com/jobdesc.html?postId=1852173817535815680
 * Match:4:sql,项目管理,python,数据分析
+
 
 
 ```
@@ -1899,12 +2054,14 @@ Req:1.学历背景：计算机科学、统计学、心理学或相关专业本�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-《王者荣耀》国际版-用户研究和战略分析
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810497054049312768
 * Match:4:sql,商业分析,tableau,数据分析
+
 
 
 ```
@@ -1925,12 +2082,14 @@ Req:1.本科以上学历；3年以上用户研究、行业研究、商业分析�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-分布式计算研发工程师-Ray（深圳/北京/上海）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810497161331220480
 * Match:4:大数据,数据科学,python,调度
+
 
 
 ```
@@ -1947,12 +2106,14 @@ Req:1.计算机相关专业，本科及以上学历，3年及以上工作经验�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-反洗钱风险分析师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1580102497685479424
 * Match:4:sql,大数据,python,数据分析
+
 
 
 ```
@@ -1968,12 +2129,14 @@ Req:1.熟悉SQL，有Python编程经验，熟悉常见的机器学习算法；
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1843970560049045504
 * Match:4:sql,python,调度,监控
+
 
 
 ```
@@ -1992,12 +2155,14 @@ Req:1.精通C/C++ 和 Python，了解go编程语言，熟悉常用机器学习�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-大数据产品售前leader-深圳/上海
 * URL: http://careers.tencent.com/jobdesc.html?postId=1726440390040494080
 * Match:4:sql,大数据,数据仓库,数据湖
+
 
 
 ```
@@ -2017,12 +2182,14 @@ Req:1.对云计算、大数据、数据中台相关技术有深刻的理解，�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-大数据产品解决方案架构师-上海/北京
 * URL: http://careers.tencent.com/jobdesc.html?postId=1815605288846258176
 * Match:4:sql,大数据,数据仓库,数据湖
+
 
 
 ```
@@ -2042,12 +2209,14 @@ Req:1.对大数据、数据仓库、数据湖、数据中台、数据工具相�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-大数据平台产品经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1832038029108211712
 * Match:4:大数据,数据科学,bi,数据分析
+
 
 
 ```
@@ -2066,12 +2235,14 @@ Req:1.本科及以上学历、有互联网数据产品经理/产品运营相关�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-大数据平台研发工程师-应用架构专家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1727144270969708544
 * Match:4:大数据,hive,presto,建模
+
 
 
 ```
@@ -2088,12 +2259,14 @@ Req:1.计算机或相关本科及以上学历，在大数据相关领域有5年�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-微信支付-金融信贷风控专家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1826454813831884800
 * Match:4:sql,大数据,python,数据分析
+
 
 
 ```
@@ -2110,12 +2283,14 @@ Req:1.工作5年以上，数学、统计、计算机等相关专业硕士及以�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-支付风控高级产品经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1858360925145292800
 * Match:4:sql,监控,python,数据分析
+
 
 
 ```
@@ -2139,12 +2314,14 @@ Req:1.本科及以上学历，计算机、信息安全或相关专业；
 3.在同等条件下，通过腾讯云认证或取得同等资格认证的候选,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据科学Data Scientist-代码智能
 * URL: http://careers.tencent.com/jobdesc.html?postId=1808385238447955968
 * Match:4:sql,数据科学,python,数据分析
+
 
 
 ```
@@ -2161,12 +2338,14 @@ Req:1.本科及以上学历，计算机科学、数据科学、统计学、应�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据科学平台研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1832038027019444224
 * Match:4:sql,数据科学,python,数据分析
+
 
 
 ```
@@ -2182,12 +2361,14 @@ Req:1.硕士及以上学历，计算机科学、数据科学、统计学、应�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-游可爱平台-数据分析师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1836598161079033856
 * Match:4:sql,python,建模,数据分析
+
 
 
 ```
@@ -2205,12 +2386,14 @@ Req:1.计算机、数学或统计学等相关专业，至少3年和内容业务�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-游戏数据分析运营
 * URL: http://careers.tencent.com/jobdesc.html?postId=1863846028516548608
 * Match:4:sql,监控,python,数据分析
+
 
 
 ```
@@ -2229,12 +2412,14 @@ Req:1.本科及以上学历，3年以上游戏数据分析相关工作经验；
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-爆裂小队（Squad Busters）高级美术项目经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810497435873583104
 * Match:4:项目管理,监控,pmp,数据分析
+
 
 
 ```
@@ -2252,12 +2437,14 @@ Req:1.负责审查项目管理流程规范，监控和分析数据，识别风�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯云-产品稳定性SRE-后台开发
 * URL: http://careers.tencent.com/jobdesc.html?postId=1805913923845627904
 * Match:4:sql,大数据,python,监控
+
 
 
 ```
@@ -2277,12 +2464,14 @@ Req:1.本科及以上学历，3年及以上后台研发工作经验；
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯云BI-大模型算法工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864567323050930176
 * Match:4:sql,大数据,python,bi
+
 
 
 ```
@@ -2301,12 +2490,14 @@ Req:1.计算机、人工智能、数学等相关专业的全日制本科、研�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯广告-应用开发工程师(深圳/上海)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1861224160198418432
 * Match:4:sql,大数据,python,hive
+
 
 
 ```
@@ -2323,12 +2514,14 @@ Req:1.有后端开发相关经验，熟练掌握Java/Golang/Scala/Python等开�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯广告-数据科学家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1849266471813804032
 * Match:4:大数据,a/b,python,sql
+
 
 
 ```
@@ -2345,12 +2538,14 @@ Req:1.计算机、统计学、经济学等相关的专业硕士研究生及以�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯游戏-游戏前沿研究-数据分析与应用研究
 * URL: http://careers.tencent.com/jobdesc.html?postId=1849701407565836288
 * Match:4:项目管理,python,可视化,数据分析
+
 
 
 ```
@@ -2368,12 +2563,14 @@ Req:1.拥有1年或以上数据分析经验，对数据具有敏锐洞察力，�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯游戏数据科学家-UA方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1623155951987073024
 * Match:4:大数据,数据科学,python,sql
+
 
 
 ```
@@ -2391,12 +2588,14 @@ Req:1.数学、统计学、计算机等相关领域，本科及以上学历，2�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-腾讯灯塔-#前端开发工程师#-大数据应用
 * URL: http://careers.tencent.com/jobdesc.html?postId=1788122875408949248
 * Match:4:大数据,bi,可视化,数据分析
+
 
 
 ```
@@ -2420,12 +2619,14 @@ Req:1.计算机相关专业本科及以上学历，具有1年及以上web前端�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-边缘安全加速测试高级工程师（成都）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1833387106173480960
 * Match:4:大数据,python,调度,数据分析
+
 
 
 ```
@@ -2445,12 +2646,14 @@ Req:1.本科以上学历，3年以上开发或测试经验；
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-金融科技-风险模型专家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1863161266785247232
 * Match:4:sql,大数据,python,数仓
+
 
 
 ```
@@ -2469,6 +2672,7 @@ Req:1.硕士以上学历，8年以上工作经验，有数据工程、数据挖�
 ,.etc
 
 
+
 ```
 
 
@@ -2477,6 +2681,7 @@ Req:1.硕士以上学历，8年以上工作经验，有数据工程、数据挖�
 ##### 西安-大数据系统测试工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1843460940566130688
 * Match:4:大数据,python,数据湖,hive
+
 
 
 ```
@@ -2496,6 +2701,7 @@ Req:1.本科以上学历，3年以上大数据相关的开发/测试经验或对
 * ImportantItem: 1.在同等条件下，通过腾讯云认证或取得同等资格认证的候选人，我们会优先考虑。 
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
+
 
 
 ```

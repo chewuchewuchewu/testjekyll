@@ -3,9 +3,11 @@
 * URL:  https://talent.antgroup.com/off-campus
 * with filters
 
+
 ```
 - 搜索关键字 ['数据', '数仓', 'BI', 'DevOps', '商业分析', '产品经理', 'data', 'data warehouse', 'analyst', 'analytics', 'product manager']
 - 匹配关键字 ['数据分析', '商业分析', '建模', '数据科学', 'A/B', 'PMO', 'PMP', '项目管理', '数据仓库', '数仓', '大数据', '数据湖', 'lakehouse', 'datalake', 'data warehouse', '商业智能', 'PowerBi', 'BI', '可视化', '调度', '监控', 'SQL', 'Python', 'Tableau', 'hive', 'AWS', 'presto', 'delta lake', 'deltalake', '团队负责人', '报表']
+
 
 ```
 
@@ -15,6 +17,7 @@
 ##### 上海-Ant International-B+ BI Specialist-Shanghai-International BG
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1956115
 * Match:6:hive,tableau,python,sql,a/b,bi
+
 
 
 ```
@@ -33,12 +36,14 @@ Req:• One to five years experience in data analysis and business decision-maki
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-Ant International-AML Quantitative Data Analytics and Strategy Senior Manager/Analyst-International BG
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1951401
 * Match:5:项目管理,大数据,python,sql,建模
+
 
 
 ```
@@ -62,12 +67,14 @@ Req:1.数学统计、计算机等相关专业本科或以上学历，有风控�
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-蚂蚁国际-数据算法质量工程师-全球技术
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24092901901781
 * Match:5:大数据,python,sql,数仓,监控
+
 
 
 ```
@@ -94,12 +101,14 @@ Req:1. 计算机相关专业本科及以上学历，2年以上数据开发/质�
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-蚂蚁国际-财务BP专家-国际财务
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24112602517640
 * Match:4:bi,监控,python,建模
+
 
 
 ```
@@ -123,6 +132,7 @@ Req:1. 需要拥有金融、商业、经济学或分析性领域的学士学位�
 ,.etc
 
 
+
 ```
 
 
@@ -131,6 +141,7 @@ Req:1. 需要拥有金融、商业、经济学或分析性领域的学士学位�
 ##### 上海,杭州-蚂蚁国际-商业决策分析专家-流量/营销-战略部
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1951710
 * Match:11:hive,tableau,商业分析,python,a/b,建模,sql,数据分析,可视化,数仓,监控
+
 
 
 ```
@@ -158,12 +169,14 @@ Req:1. 五年及以上数据分析及商业决策经验，支付、电商、互�
 ,.etc
 
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-大模型应用数据分析与挖掘-出行/高质量内容生成方向-生活管家
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24092501832600
 * Match:7:大数据,python,sql,建模,数据分析,数据仓库,监控
+
 
 
 ```
@@ -185,12 +198,14 @@ Req:1、拥有计算机科学、机器学习、统计学、数学、运筹学、
 ,.etc
 
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-数据研发专家-生活管家
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24081501314063
 * Match:6:项目管理,大数据,hive,报表,建模,数据仓库
+
 
 
 ```
@@ -213,12 +228,14 @@ Req:1. 3年以上数据研发相关工作经验，对所负责业务领域能够
 ,.etc
 
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁国际-数据产品运营-A+跨境
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24120602680214
 * Match:5:sql,可视化,数据分析,bi,监控
+
 
 
 ```
@@ -242,12 +259,14 @@ Req:1. 5年及以上数据分析和运营经验，有良好的商业sense；
 ,.etc
 
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-数据开发专家-杭州/上海
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24073101119028
 * Match:5:hive,大数据,python,建模,数据仓库
+
 
 
 ```
@@ -270,12 +289,14 @@ Req:1、3年以上工作经验，计算机等相关专业本科以上学历 ，�
 ,.etc
 
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-数据科学专家（体验增长）-支付宝技术【数据】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1954001
 * Match:5:大数据,python,数据科学,sql,建模
+
 
 
 ```
@@ -298,12 +319,14 @@ Req:1、拥有计算机科学、机器学习、统计学、数学、运筹学、
 ,.etc
 
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁国际-数据科学工程师/专家-全球技术
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24102702157166
 * Match:4:python,数据科学,sql,建模
+
 
 
 ```
@@ -324,12 +347,14 @@ Req:1、拥有计算机科学、机器学习、统计学、数学、运筹学、
 ,.etc
 
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-数据科学专家-生活管家
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121802797965
 * Match:4:python,数据科学,sql,项目管理
+
 
 
 ```
@@ -350,6 +375,7 @@ Req:1. 3年以上数据科学相关工作经验，统计学、数学、机器学
 ,.etc
 
 
+
 ```
 
 
@@ -358,6 +384,7 @@ Req:1. 3年以上数据科学相关工作经验，统计学、数学、机器学
 ##### 东京-OceanBase-Database Solution Architect-Japan-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24120302627880
 * Match:4:bi,python,sql,aws
+
 
 
 ```
@@ -375,6 +402,7 @@ Req:•	Bachelor's degree in Engineering, Computer Science, MIS or a comparable 
 * department: OceanBase 
 * degree: bachelor 
 ,.etc
+
 
 
 ```
@@ -387,6 +415,7 @@ Req:•	Bachelor's degree in Engineering, Computer Science, MIS or a comparable 
 * Match:4:bi,python,sql,aws
 
 
+
 ```
 JD:•	Be a subject matter expert on databases, particularly on Relational Databases, able to discuss with customer on database modelling, migration, performance testing and day to day operations
 •	Have wide ranging experience with open source and commercial databases such as MySQL, PostgreSQL, Oracle & SQL Server…etc
@@ -404,6 +433,7 @@ Req:•	Bachelor's degree in Engineering, Computer Science, MIS or a comparable 
 ,.etc
 
 
+
 ```
 
 
@@ -412,6 +442,7 @@ Req:•	Bachelor's degree in Engineering, Computer Science, MIS or a comparable 
 ##### 北京-蚂蚁集团-DRE-数据技术专家-北京【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24070200807629
 * Match:5:hive,大数据,python,建模,数据仓库
+
 
 
 ```
@@ -434,12 +465,14 @@ Req:1、3 年以上工作经验，计算机等相关专业本科以上学历 ，
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-蚂蚁数字科技-数字科技线-数据分析师
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24100901966838
 * Match:4:数据分析,python,sql,监控
+
 
 
 ```
@@ -461,6 +494,7 @@ Req:1. 统计，数学，计算机等类数据专业毕业，熟练使用sql，p
 ,.etc
 
 
+
 ```
 
 
@@ -469,6 +503,7 @@ Req:1. 统计，数学，计算机等类数据专业毕业，熟练使用sql，p
 ##### 北京,杭州-蚂蚁集团-数据库内核产品经理-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1945504
 * Match:4:大数据,数据分析,数仓,数据仓库
+
 
 
 ```
@@ -493,6 +528,7 @@ Req: 有计算机相关工作经历，2年以上工作经验优先
 ,.etc
 
 
+
 ```
 
 
@@ -501,6 +537,7 @@ Req: 有计算机相关工作经历，2年以上工作经验优先
 ##### 吉隆坡-Ant International-Risk Strategy Analyst (to B Product)-Malaysia
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1938416
 * Match:4:bi,python,sql,hive
+
 
 
 ```
@@ -519,6 +556,7 @@ Req:1. Bachelor's and above degree in computer science, mathematics, statistics,
 ,.etc
 
 
+
 ```
 
 
@@ -527,6 +565,7 @@ Req:1. Bachelor's and above degree in computer science, mathematics, statistics,
 ##### 成都,杭州-蚂蚁集团-数据研发工程师-杭州/成都
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1936205
 * Match:5:hive,大数据,sql,建模,数据仓库
+
 
 
 ```
@@ -547,6 +586,7 @@ Req:1. 2年以上工作经验，计算机等相关专业本科以上学历 ，�
 ,.etc
 
 
+
 ```
 
 
@@ -555,6 +595,7 @@ Req:1. 2年以上工作经验，计算机等相关专业本科以上学历 ，�
 ##### 新加坡-OceanBase-Database Solution Architect-Singapore-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24090301538088
 * Match:4:bi,python,sql,aws
+
 
 
 ```
@@ -572,6 +613,7 @@ Req:•	Bachelor's degree in Engineering, Computer Science, MIS or a comparable 
 * department: OceanBase 
 * degree: bachelor 
 ,.etc
+
 
 
 ```
@@ -584,6 +626,7 @@ Req:•	Bachelor's degree in Engineering, Computer Science, MIS or a comparable 
 * Match:4:bi,python,sql,aws
 
 
+
 ```
 JD:•	Be a subject matter expert on databases, particularly on Relational Databases, able to discuss with customer on database modelling, migration, performance testing and day to day operations
 •	Have wide ranging experience with open source and commercial databases such as MySQL, PostgreSQL, Oracle & SQL Server…etc
@@ -601,6 +644,7 @@ Req:•	Bachelor's degree in Engineering, Computer Science, MIS or a comparable 
 ,.etc
 
 
+
 ```
 
 
@@ -609,6 +653,7 @@ Req:•	Bachelor's degree in Engineering, Computer Science, MIS or a comparable 
 ##### 杭州-蚂蚁集团-商业数据分析高级专家-N+
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24100901956975
 * Match:8:hive,tableau,商业分析,python,a/b,建模,可视化,数据分析
+
 
 
 ```
@@ -631,12 +676,14 @@ Req:1、统计、数学、信息技术、金融经济等本科以上学历，8�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据分析专家（用工管理方向）-资源线
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24090301561970
 * Match:8:hive,tableau,python,sql,建模,可视化,数据分析,监控
+
 
 
 ```
@@ -659,12 +706,14 @@ Req:1、统计、数学、信息技术、供应链等专业，5年左右相关�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据研发工程师 (数仓/大数据/ETL开发)-征信方向
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24120902690029
 * Match:7:hive,大数据,python,建模,数据仓库,数仓,监控
+
 
 
 ```
@@ -685,12 +734,14 @@ Req:1、有较为丰富的数仓设计&开发经验，熟悉ETL分层建设方�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-高级数据工程师/数据技术专家-客权（智能中台）
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1922906
 * Match:7:hive,大数据,python,sql,建模,bi,数据仓库
+
 
 
 ```
@@ -713,12 +764,14 @@ Req:1、大学本科及以上学历，计算机或数学等相关专业优先，
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-网商银行-金融预测-风控方向
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24082201418488
 * Match:6:大数据,报表,python,sql,数据分析,数仓
+
 
 
 ```
@@ -739,12 +792,14 @@ Req:1. 了解行业前沿的数据解决方案（决策分析、AI、数仓、�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁数字科技-数字科技线-数智化运营专家
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24073001110045
 * Match:6:hive,大数据,python,数据科学,sql,数据分析
+
 
 
 ```
@@ -764,12 +819,14 @@ Req:1. 本科及以上学历，计算机、统计、数学相关专业，三年�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据技术专家（用户流量）-支付宝技术
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121302752322
 * Match:6:python,数据科学,sql,建模,数据仓库,数仓
+
 
 
 ```
@@ -801,12 +858,14 @@ Req:方向一：
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-金融数据分析专家-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121602765979
 * Match:6:大数据,报表,python,sql,数据分析,数仓
+
 
 
 ```
@@ -827,12 +886,14 @@ Req:1. 了解行业前沿的数据解决方案（决策分析、AI、数仓、�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁数字科技-数字科技线-高级数智化运营专家
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24111402397237
 * Match:5:大数据,python,数据科学,sql,数据分析
+
 
 
 ```
@@ -852,12 +913,14 @@ Req:1. 本科及以上学历，计算机、统计、数学相关专业，五年�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-信贷风控平台产品专家-消费信贷
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24112102468959
 * Match:5:大数据,python,sql,可视化,数据分析
+
 
 
 ```
@@ -879,12 +942,14 @@ Req:1. 本科以上学历，金融、数学、统计学、计算机科学等相�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-内容数据质量专家-成本治理-杭州【智能引擎】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121602778107
 * Match:5:python,数据科学,sql,数据分析,监控
+
 
 
 ```
@@ -905,12 +970,14 @@ Req:1、本科或以上学历，计算机科学、数据科学、数学、统计
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-商业数据分析高级专员-广告
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24120402648417
 * Match:5:hive,商业分析,sql,数据分析,监控
+
 
 
 ```
@@ -933,12 +1000,14 @@ Req:1、 良好的分析逻辑、数据敏感度、及业务洞察能力，能�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据科学专家（商家）-支付宝技术【数据】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1946309
 * Match:5:大数据,python,数据科学,sql,建模
+
 
 
 ```
@@ -963,12 +1032,14 @@ Req:1、拥有计算机科学、机器学习、统计学、数学、运筹学、
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-运维技术经理-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24102402130617
 * Match:5:项目管理,bi,团队负责人,aws,监控
+
 
 
 ```
@@ -992,12 +1063,14 @@ Req:  - 至少8年以上软件开发或技术架构相关经验，有运维团�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-网商银行-商业数据分析专家-业务增长&决策支持
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24082101397510
 * Match:4:数据分析,商业分析,sql,监控
+
 
 
 ```
@@ -1017,12 +1090,14 @@ Req:1、3年以上互联网商业分析，管理咨询、券商行业研究，�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-网商银行-金融预测和分析岗-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24081201267877
 * Match:4:大数据,数仓,python,sql
+
 
 
 ```
@@ -1045,12 +1120,14 @@ Req:1.  硕士及以上学历，有金融、数学、统计或相关专业背�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁数字科技-数字科技线-高级数据运营专员
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24072901086427
 * Match:4:数据分析,监控,sql,项目管理
+
 
 
 ```
@@ -1072,12 +1149,14 @@ Req:1. 3年以上互联网数据岗位相关工作经历，有管理视角sense�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-java研发高级工程师/专家-杭州【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24103002201008
 * Match:4:大数据,数据仓库,调度,建模
+
 
 
 ```
@@ -1104,12 +1183,14 @@ Req:1、计算机相关专业，本科及以上学历，两年以上软件工程
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-内容数据质量专家-杭州【智能引擎】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121202739037
 * Match:4:数据分析,python,数据科学,sql
+
 
 
 ```
@@ -1131,12 +1212,14 @@ Req:1、本科或以上学历，计算机科学、数据科学、数学、统计
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-前端数据研发专家-支付宝技术
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24090301578389
 * Match:4:大数据,presto,hive,监控
+
 
 
 ```
@@ -1154,12 +1237,14 @@ Req:● 具备 3 年及以上的大数据研发经验，能够独立主导某一
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-商业分析专家-线下支付
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24091201697666
 * Match:4:数据分析,商业分析,bi,项目管理
+
 
 
 ```
@@ -1179,12 +1264,14 @@ Req:1. 数据分析：具备3年以上经营分析相关的工作经验，熟悉
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-商业数据分析专家-保险
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24080801219729
 * Match:4:数据分析,监控,sql,建模
+
 
 
 ```
@@ -1207,12 +1294,14 @@ Req:1、统计、数学、金融、物理/材料学等本科以上学历；5年�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-商业数据分析专家-医疗
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24103102212768
 * Match:4:数据分析,数仓,sql,监控
+
 
 
 ```
@@ -1234,12 +1323,14 @@ Req:1、良好的商业sense及数据敏感度，能从海量数据和外部信�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-商业数据分析专家-游戏
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24092401835402
 * Match:4:数据分析,商业分析,sql,a/b
+
 
 
 ```
@@ -1260,12 +1351,14 @@ Req:1、本科及以上学历，211/985/海外高校优先考虑；
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-大模型算法高级专家-客权
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24112002455647
 * Match:4:大数据,bi,python,建模
+
 
 
 ```
@@ -1289,12 +1382,14 @@ Req:1. 硕士及以上学历，数学、统计学、计算机科学、金融工�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-安全策略分析师/专家-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24120502663834
 * Match:4:数据分析,python,sql,监控
+
 
 
 ```
@@ -1325,12 +1420,14 @@ Req:1.数学、统计、计算机、管理科学、金融等相关专业硕士�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-应用算法专家-客权
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24101802064999
 * Match:4:大数据,bi,python,建模
+
 
 
 ```
@@ -1357,12 +1454,14 @@ Req:1. 硕士及以上学历，数学、统计学、计算机科学、金融工�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-征信数据研发工程师-征信方向
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121002702499
 * Match:4:大数据,数据仓库,python,建模
+
 
 
 ```
@@ -1384,12 +1483,14 @@ Req:1. 有至少2年以上大数据开发及架构经验，熟悉ODPS相关数�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据研发工程师/专家（花借业务）-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1951533
 * Match:4:数仓,数据科学,sql,建模
+
 
 
 ```
@@ -1410,12 +1511,14 @@ Req:1、计算机、统计学等相关专业学历，3年以上工作经验，�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-财务高级专员/专家-管报经分数字化及运营
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1955001
 * Match:4:数据分析,商业分析,报表,项目管理
+
 
 
 ```
@@ -1434,12 +1537,14 @@ Req: 1、本科及以上财务相关专业毕业，6年以上管报及经营分�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-风险数据产品分析师专员/专家-机构风险
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24102802164734
 * Match:4:数据分析,python,sql,建模
+
 
 
 ```
@@ -1462,12 +1567,14 @@ Req:1. 了解风险数据行业情况，有量化策略、建模、数据分析�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-风险策略分析师/专家-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24091301734400
 * Match:4:数据分析,python,sql,项目管理
+
 
 
 ```
@@ -1489,12 +1596,14 @@ Req:1、数学、统计、网络安全等相关专业的本科以上学历；有
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-高级风险运营分析师-解决方案
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24100801948259
 * Match:4:数据分析,python,sql,监控
+
 
 
 ```
@@ -1514,6 +1623,7 @@ Req:1.数学、统计、金融、管理科学、计算机等相关专业的硕�
 ,.etc
 
 
+
 ```
 
 
@@ -1522,6 +1632,7 @@ Req:1.数学、统计、金融、管理科学、计算机等相关专业的硕�
 ##### 杭州,重庆-蚂蚁星河-数据技术工程师/专家-杭州/重庆
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24110602282003
 * Match:5:hive,大数据,python,建模,数据仓库
+
 
 
 ```
@@ -1545,6 +1656,7 @@ Req:1、2年以上工作经验，计算机等相关专业本科以上学历 ，�
 ,.etc
 
 
+
 ```
 
 
@@ -1553,6 +1665,7 @@ Req:1、2年以上工作经验，计算机等相关专业本科以上学历 ，�
 ##### 森尼韦尔-Ant Group-Sanctions Strategy/Controls-Americas & EMEA
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24071500933789
 * Match:5:python,数据分析,bi,aws,监控
+
 
 
 ```
@@ -1575,6 +1688,7 @@ Req:● Bachelor’s degree or higher, with a preference for majors in Law, Fina
 ,.etc
 
 
+
 ```
 
 
@@ -1583,6 +1697,7 @@ Req:● Bachelor’s degree or higher, with a preference for majors in Law, Fina
 ##### 深圳-蚂蚁国际-BI数据分析高级专员-战略部
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24112202487805
 * Match:9:hive,报表,数据科学,a/b,sql,可视化,数据分析,bi,监控
+
 
 
 ```
@@ -1605,6 +1720,7 @@ Req:1. 五年及以上数据分析及商业决策经验，支付/电商/互联�
 ,.etc
 
 
+
 ```
 
 
@@ -1613,6 +1729,7 @@ Req:1. 五年及以上数据分析及商业决策经验，支付/电商/互联�
 ##### 西安-OceanBase-OceanBase数据传输研发工程师-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1959610
 * Match:5:数据湖,大数据,sql,presto,数仓
+
 
 
 ```
@@ -1633,6 +1750,7 @@ Req:岗位要求：
 ,.etc
 
 
+
 ```
 
 
@@ -1641,6 +1759,7 @@ Req:岗位要求：
 ##### 重庆-蚂蚁消金-数据研发工程师/专家-重庆
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1947213
 * Match:4:大数据,数据仓库,python,建模
+
 
 
 ```
@@ -1661,6 +1780,7 @@ Req:1、有至少5年以上大数据开发及架构经验，熟悉ODPS相关数�
 * department: 蚂蚁消金 
 * degree: bachelor 
 ,.etc
+
 
 
 ```

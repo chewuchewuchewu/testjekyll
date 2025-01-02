@@ -3,9 +3,11 @@
 * URL: https://zhaopin.jd.com/web/job_info_list/3
 * with filters
 
+
 ```
 - 搜索关键字 ['数据', '数仓', 'BI', 'DevOps', '商业分析', '产品经理']
 - 匹配关键字 ['SQL', 'Python', 'Hive', 'Spark', 'Java', 'Go', 'bash', 'airflow', '数仓', '数据仓库', '数据湖', '治理', '离线', '分布式计算', '实时', 'lakehouse', 'datalake', 'data warehouse', '可视化', 'OLAP', 'ETL', '调度', '监控', '大数据', 'delta lake', 'deltalake', 'Tableau', 'Flink', 'Linux', 'yarn', 'Hadoop', 'Kafka', 'MySQL', 'ClickHouse', 'HBase', 'DeltaLake', 'databricks', 'presto', 'AWS', 'devops', '容器', 'docker', 'kubernetes', 'k8s', '团队负责人', '报表', '元数据', 'metadata']
+
 
 ```
 
@@ -15,6 +17,7 @@
 ##### 上海-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:12:元数据,离线,数据仓库,etl,clickhouse,实时,hbase,sql,mysql,hive,数仓,报表
+
 
 
 ```
@@ -37,6 +40,7 @@ Req:
 ,.etc
 
 
+
 ```
 
 
@@ -45,6 +49,7 @@ Req:
 ##### 北京-数据应用工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据应用工程师'，展开职位描述
 * Match:17:kafka,治理,元数据,离线,数据仓库,spark,java,etl,实时,flink,hadoop,clickhouse,hbase,mysql,hive,sql,大数据
+
 
 
 ```
@@ -65,12 +70,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:15:kafka,go,数据仓库,spark,java,flink,hadoop,clickhouse,python,hbase,监控,mysql,hive,sql,大数据
+
 
 
 ```
@@ -90,12 +97,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师岗'，展开职位描述
 * Match:13:spark,flink,hadoop,可视化,clickhouse,python,hbase,数仓,监控,mysql,hive,sql,大数据
+
 
 
 ```
@@ -119,12 +128,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据研发工程师_资产管理方向
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '大数据研发工程师_资产管理方向'，展开职位描述
 * Match:12:离线,数据仓库,spark,java,hadoop,实时,hbase,python,监控,hive,sql,大数据
+
 
 
 ```
@@ -145,12 +156,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:12:kafka,数据湖,spark,java,flink,实时,hadoop,python,hbase,hive,sql,大数据
+
 
 
 ```
@@ -175,12 +188,14 @@ Hive，Spark, Flink, Kafka, HBase，数据湖Hudi及Iceberg等。
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师岗'，展开职位描述
 * Match:12:spark,flink,hadoop,实时,可视化,python,hbase,数仓,监控,mysql,hive,sql
+
 
 
 ```
@@ -203,12 +218,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师岗'，展开职位描述
 * Match:12:spark,flink,hadoop,实时,可视化,python,hbase,数仓,监控,mysql,hive,sql
+
 
 
 ```
@@ -231,12 +248,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据应用工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据应用工程师'，展开职位描述
 * Match:11:离线,数据仓库,spark,etl,hadoop,实时,linux,python,hive,sql,大数据
+
 
 
 ```
@@ -258,12 +277,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据应用开发架构师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '大数据应用开发架构师'，展开职位描述
 * Match:10:spark,java,flink,实时,可视化,python,hadoop,hive,sql,大数据
+
 
 
 ```
@@ -294,12 +315,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师岗'，展开职位描述
 * Match:10:治理,离线,分布式计算,spark,flink,实时,sql,hive,数仓,大数据
+
 
 
 ```
@@ -321,12 +344,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:9:kafka,治理,spark,flink,hadoop,hbase,hive,sql,presto
+
 
 
 ```
@@ -352,12 +377,14 @@ hadoop/hive/hbase/spark/kafka/flink/presto/kylin等;
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:9:kafka,治理,spark,flink,hadoop,hbase,hive,sql,presto
+
 
 
 ```
@@ -381,12 +408,14 @@ hadoop/hive/hbase/spark/kafka/flink/presto/kylin等;
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据平台测试开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '大数据平台测试开发工程师'，展开职位描述
 * Match:8:kafka,离线,java,flink,实时,python,go,大数据
+
 
 
 ```
@@ -412,12 +441,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师'，展开职位描述
 * Match:8:数据仓库,spark,hadoop,可视化,python,hive,sql,报表
+
 
 
 ```
@@ -438,12 +469,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据库工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据库工程师'，展开职位描述
 * Match:8:go,clickhouse,hbase,linux,python,监控,mysql,sql
+
 
 
 ```
@@ -468,12 +501,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师岗'，展开职位描述
 * Match:8:kafka,flink,java,实时,clickhouse,hbase,数仓,大数据
+
 
 
 ```
@@ -496,12 +531,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师岗-内容研发
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师岗-内容研发'，展开职位描述
 * Match:8:kafka,分布式计算,spark,flink,java,hadoop,clickhouse,实时
+
 
 
 ```
@@ -523,12 +560,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据架构师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据架构师'，展开职位描述
 * Match:8:数据仓库,spark,hadoop,yarn,clickhouse,hive,数仓,大数据
+
 
 
 ```
@@ -548,12 +587,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-离线数仓数据开发工程师岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '离线数仓数据开发工程师岗'，展开职位描述
 * Match:8:治理,离线,数据仓库,spark,etl,hive,数仓,大数据
+
 
 
 ```
@@ -573,12 +614,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据存算引擎研发负责人
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '大数据存算引擎研发负责人'，展开职位描述
 * Match:7:spark,hadoop,yarn,clickhouse,调度,hive,大数据
+
 
 
 ```
@@ -597,12 +640,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:7:元数据,数据仓库,java,实时,python,sql,大数据
+
 
 
 ```
@@ -634,12 +679,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据运维平台架构师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '大数据运维平台架构师'，展开职位描述
 * Match:6:spark,java,flink,python,监控,大数据
+
 
 
 ```
@@ -661,12 +708,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师'，展开职位描述
 * Match:6:tableau,可视化,python,hive,sql,报表
+
 
 
 ```
@@ -691,12 +740,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '高级数据分析师'，展开职位描述
 * Match:6:可视化,实时,python,报表,sql,大数据
+
 
 
 ```
@@ -717,12 +768,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-HR数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 'HR数据分析岗'，展开职位描述
 * Match:5:tableau,治理,python,监控,sql
+
 
 
 ```
@@ -747,12 +800,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-商业分析
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '商业分析'，展开职位描述
 * Match:5:tableau,python,监控,sql,报表
+
 
 
 ```
@@ -779,12 +834,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-商业分析专家
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '商业分析专家'，展开职位描述
 * Match:5:治理,python,sql,监控,数仓
+
 
 
 ```
@@ -809,12 +866,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据产品经理岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据产品经理岗'，展开职位描述
 * Match:5:spark,flink,hadoop,hive,大数据
+
 
 
 ```
@@ -838,12 +897,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析专家
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析专家'，展开职位描述
 * Match:5:tableau,可视化,监控,hive,sql
+
 
 
 ```
@@ -864,12 +925,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据挖掘工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据挖掘工程师'，展开职位描述
 * Match:5:spark,java,hadoop,python,hive
+
 
 
 ```
@@ -890,12 +953,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据挖掘工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据挖掘工程师'，展开职位描述
 * Match:5:spark,java,hadoop,python,hive
+
 
 
 ```
@@ -919,12 +984,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据平台架构师/开发
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '大数据平台架构师/开发'，展开职位描述
 * Match:4:治理,调度,sql,大数据
+
 
 
 ```
@@ -951,12 +1018,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析岗'，展开职位描述
 * Match:4:python,sql,监控,可视化
+
 
 
 ```
@@ -981,12 +1050,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析岗'，展开职位描述
 * Match:4:报表,sql,监控,可视化
+
 
 
 ```
@@ -1009,12 +1080,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师'，展开职位描述
 * Match:4:python,数据仓库,hive,sql
+
 
 
 ```
@@ -1035,12 +1108,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析师'，展开职位描述
 * Match:4:python,hive,sql,监控
+
 
 
 ```
@@ -1067,12 +1142,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据安全工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据安全工程师'，展开职位描述
 * Match:4:python,治理,sql,大数据
+
 
 
 ```
@@ -1097,12 +1174,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据开发工程师'，展开职位描述
 * Match:4:治理,元数据,etl,大数据
+
 
 
 ```
@@ -1130,12 +1209,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据运营专家
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据运营专家'，展开职位描述
 * Match:4:python,sql,报表,可视化
+
 
 
 ```
@@ -1162,12 +1243,14 @@ Req:
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据采集工程师
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据采集工程师'，展开职位描述
 * Match:4:python,实时,java,大数据
+
 
 
 ```
@@ -1197,6 +1280,7 @@ Req:
 ,.etc
 
 
+
 ```
 
 
@@ -1205,6 +1289,7 @@ Req:
 ##### 广东-数据分析岗
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '数据分析岗'，展开职位描述
 * Match:6:tableau,可视化,python,监控,sql,报表
+
 
 
 ```
@@ -1230,6 +1315,7 @@ Req:
 ,.etc
 
 
+
 ```
 
 
@@ -1238,6 +1324,7 @@ Req:
 ##### 陕西-后端开发工程师-西安-京东物流-技术与数据智能部
 * URL: 在页面 https://zhaopin.jd.com/web/job_info_list/3 中搜索关键字 '后端开发工程师-西安-京东物流-技术与数据智能部'，展开职位描述
 * Match:5:kafka,olap,java,mysql,sql
+
 
 
 ```
@@ -1259,6 +1346,7 @@ Req:
 * formatPublishTime: 2024-11-22 
 * id: 100798 
 ,.etc
+
 
 
 ```

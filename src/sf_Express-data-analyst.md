@@ -3,9 +3,11 @@
 * URL: https://hr.sf-express.com/jobMainHandlerT/main?jobType=9999&outName=data
 * with filters
 
+
 ```
 - 搜索关键字: none
 - 匹配关键字: ['数据分析', '商业分析', '建模', '数据科学', 'A/B', 'PMO', 'PMP', '项目管理', '数据仓库', '数仓', '大数据', '数据湖', 'lakehouse', 'datalake', 'data warehouse', '商业智能', 'PowerBi', 'BI', '可视化', '调度', '监控', 'SQL', 'Python', 'Tableau', 'hive', 'AWS', 'presto', 'delta lake', 'deltalake', '团队负责人', '报表']
+
 
 ```
 
@@ -15,6 +17,7 @@
 ##### 北京市-IE流程管理工程师（数据建模）
 * URL: https://hr.sf-express.com/JobSearchById/53543,3
 * Match:5:sql,bi,数据分析,大数据,python
+
 
 
 ```
@@ -37,12 +40,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 北京市-产品经理
 * URL: https://hr.sf-express.com/JobSearchById/58667,3
 * Match:4:sql,项目管理,数据分析,大数据
+
 
 
 ```
@@ -63,6 +68,7 @@ extra:
 
 
 
+
 ```
 
 
@@ -71,6 +77,7 @@ extra:
 ##### 哈尔滨市-制造业-解决方案专员
 * URL: https://hr.sf-express.com/JobSearchById/55742,3
 * Match:4:项目管理,数据分析,pmo,监控
+
 
 
 ```
@@ -117,6 +124,7 @@ extra:
 
 
 
+
 ```
 
 
@@ -125,6 +133,7 @@ extra:
 ##### 宁波市-KA解决方案专家
 * URL: https://hr.sf-express.com/JobSearchById/53195,3
 * Match:4:项目管理,数据分析,pmo,监控
+
 
 
 ```
@@ -151,6 +160,7 @@ extra:
 
 
 
+
 ```
 
 
@@ -159,6 +169,7 @@ extra:
 ##### 广东省-DJK-数据开发高级工程师
 * URL: https://hr.sf-express.com/JobSearchById/57553,3
 * Match:4:sql,数仓,数据仓库,大数据
+
 
 
 ```
@@ -179,6 +190,7 @@ extra:
 
 
 
+
 ```
 
 
@@ -187,6 +199,7 @@ extra:
 ##### 武汉市-SC-数据仓库开发（武汉）
 * URL: https://hr.sf-express.com/JobSearchById/58934,3
 * Match:8:sql,hive,presto,报表,建模,数据仓库,数仓,大数据
+
 
 
 ```
@@ -207,12 +220,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 武汉市-LY-大数据挖掘与分析工程师
 * URL: https://hr.sf-express.com/JobSearchById/56039,3
 * Match:7:sql,hive,数据分析,建模,数据仓库,大数据,python
+
 
 
 ```
@@ -231,6 +246,7 @@ extra:
 
 
 
+
 ```
 
 
@@ -239,6 +255,7 @@ extra:
 ##### 江苏省-薪酬福利专员
 * URL: https://hr.sf-express.com/JobSearchById/59221,3
 * Match:4:数据分析,监控,大数据,报表
+
 
 
 ```
@@ -269,6 +286,7 @@ extra:
 
 
 
+
 ```
 
 
@@ -277,6 +295,7 @@ extra:
 ##### 浙江省-行业-解决方案专员
 * URL: https://hr.sf-express.com/JobSearchById/53810,3
 * Match:4:项目管理,数据分析,pmo,监控
+
 
 
 ```
@@ -305,12 +324,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 浙江省-行业-解决方案高级专员
 * URL: https://hr.sf-express.com/JobSearchById/55890,3
 * Match:4:项目管理,数据分析,pmo,监控
+
 
 
 ```
@@ -339,12 +360,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 浙江省-解决方案专员
 * URL: https://hr.sf-express.com/JobSearchById/53111,3
 * Match:4:项目管理,数据分析,pmo,监控
+
 
 
 ```
@@ -371,6 +394,7 @@ extra:
 
 
 
+
 ```
 
 
@@ -379,6 +403,7 @@ extra:
 ##### 深圳市-YWS-大数据仓库开发工程师
 * URL: https://hr.sf-express.com/JobSearchById/58397,3
 * Match:8:sql,hive,监控,数据分析,建模,数据仓库,大数据,python
+
 
 
 ```
@@ -399,12 +424,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 深圳市-SC-大数据挖掘与分析工程师
 * URL: https://hr.sf-express.com/JobSearchById/56383,3
 * Match:7:sql,hive,商业分析,数据分析,建模,a/b,python
+
 
 
 ```
@@ -425,12 +452,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 深圳市-大数据挖掘与分析工程师实习生
 * URL: https://hr.sf-express.com/JobSearchById/55660,3
 * Match:6:sql,hive,数据分析,建模,大数据,python
+
 
 
 ```
@@ -449,12 +478,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 深圳市-SJZ-机器学习高级工程师
 * URL: https://hr.sf-express.com/JobSearchById/58420,3
 * Match:5:hive,数据分析,建模,大数据,python
+
 
 
 ```
@@ -475,12 +506,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 深圳市-YWS-物流数据分析工程师
 * URL: https://hr.sf-express.com/JobSearchById/56621,3
 * Match:5:sql,hive,监控,数据分析,大数据
+
 
 
 ```
@@ -501,12 +534,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 深圳市-大数据挖掘与分析工程师
 * URL: https://hr.sf-express.com/JobSearchById/58835,3
 * Match:5:监控,数据分析,建模,大数据,python
+
 
 
 ```
@@ -527,12 +562,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 深圳市-机器学习工程师
 * URL: https://hr.sf-express.com/JobSearchById/58669,3
 * Match:5:hive,数据分析,建模,大数据,python
+
 
 
 ```
@@ -553,12 +590,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 深圳市-高级数据分析师
 * URL: https://hr.sf-express.com/JobSearchById/37717,3
 * Match:5:sql,监控,建模,大数据,python
+
 
 
 ```
@@ -581,12 +620,14 @@ extra:
 
 
 
+
 ```
 
 
 ##### 深圳市-城市物流运营经理
 * URL: https://hr.sf-express.com/JobSearchById/59126,3
 * Match:4:项目管理,数据分析,监控,可视化
+
 
 
 ```
@@ -609,6 +650,7 @@ extra:
 
 
 
+
 ```
 
 
@@ -617,6 +659,7 @@ extra:
 ##### 西安市-算法工程师
 * URL: https://hr.sf-express.com/JobSearchById/56364,3
 * Match:6:hive,数据分析,建模,调度,大数据,python
+
 
 
 ```
@@ -630,6 +673,7 @@ extra:
  *publishTime: 2024-06-25 11:13:30
 *workYearTxt: 3-5年
 *educationReqTxt: 大学本科
+
 
 
 

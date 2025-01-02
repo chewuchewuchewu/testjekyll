@@ -6,6 +6,7 @@
 * Match:4:bi,go,python,sql
 
 
+
 ```
 JD:Ant Group is looking for a Senior Enterprise Risk Manager to join the team in transforming Ant global risk management and establishing effective risk management framework and methodology. We are looking to hire a self-motivated, detail-oriented, team-spirited and adaptable Risk professional who will cover a diverse range of risk areas. This role will work closely with senior stakeholders across Bu,.etc
 
@@ -21,6 +22,7 @@ Req:Basic Requirement:
 ,.etc
 
 
+
 ```
 
 
@@ -29,6 +31,7 @@ Req:Basic Requirement:
 ##### 吉隆坡-Ant International-AML Data Analyst-Malaysia
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24111902438905
 * Match:4:bi,go,python,sql
+
 
 
 ```
@@ -48,12 +51,14 @@ Req:-Proficient in data handling coding (e.g., SQL) and at least one professiona
 ,.etc
 
 
+
 ```
 
 
 ##### 吉隆坡-Ant International-Risk Data Analyst (Acquiring)-Malaysia
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1933530
 * Match:4:bi,go,python,sql
+
 
 
 ```
@@ -74,6 +79,7 @@ Req:- Bachelor’s degree in mathematics, statistics, finance, management, compu
 ,.etc
 
 
+
 ```
 
 
@@ -82,6 +88,7 @@ Req:- Bachelor’s degree in mathematics, statistics, finance, management, compu
 ##### 杭州-蚂蚁集团-Java后端高级工程师-杭州【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24062700763332
 * Match:4:java,数据分析,报表,olap
+
 
 
 ```
@@ -101,12 +108,14 @@ Req:1. 熟练掌握 Java 基础知识、设计模式；熟悉常用开源框架S
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-唤端流量产品专家/高级产品专家-APP-端产品部
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24071600947606
 * Match:4:商业分析,报表,治理,数据分析
+
 
 
 ```
@@ -127,12 +136,14 @@ Req:1、具有5年以上互联网产品从业经验，有广告、流量管理�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据产品经理-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24101502019711
 * Match:4:大数据,数据分析,治理,建模
+
 
 
 ```
@@ -152,12 +163,14 @@ Req:1、具有良好的产品规划、设计能力：5年以上产品设计经�
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据生成技术高级专家-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24111502391765
 * Match:4:大数据,数据分析,spark,python
+
 
 
 ```
@@ -184,12 +197,14 @@ Req:1. 硕士学历及以上，8年及以上工作经验，人工智能、机器
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-隐私风险运营高级专员/专家-数据治理
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24091001658159
 * Match:4:大数据,数据分析,治理,sql
+
 
 
 ```
@@ -210,6 +225,7 @@ Req:1.网络安全/信息安全或者计算机相关专业；
 * department: 蚂蚁集团 
 * degree: bachelor 
 ,.etc
+
 
 
 ```

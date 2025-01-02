@@ -3,9 +3,11 @@
 * URL: https://jobs.bytedance.com/referral/pc/position
 * with filters
 
+
 ```
 - 搜索关键字 ['数据', '数仓', 'BI', 'DevOps', '商业分析', '产品经理']
 - 匹配关键字 ['数据分析', '商业分析', '建模', '数据科学', 'A/B', 'PMO', 'PMP', '项目管理', '数据仓库', '数仓', '大数据', '数据湖', 'lakehouse', 'datalake', 'data warehouse', '商业智能', 'PowerBi', 'BI', '可视化', '调度', '监控', 'SQL', 'Python', 'Tableau', 'hive', 'AWS', 'presto', 'delta lake', 'deltalake', '团队负责人', '报表']
+
 
 ```
 
@@ -15,6 +17,7 @@
 ##### 上海-数据分析师 - 职场服务 - 上海
 * URL: https://jobs.bytedance.com/referral/pc/position/7390314322566531354/detail
 * Match:11:数据分析,bi,可视化,监控,python,数仓,sql,tableau,powerbi,建模,报表
+
 
 
 ```
@@ -30,12 +33,14 @@ Req:1、本科及以上学历；五年以上数据分析相关经验；
 5、有良好的沟通表达,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商财务BP-BI方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7322313985478445339/detail
 * Match:10:大数据,数据分析,报表,可视化,python,hive,商业分析,sql,tableau,数据科学
+
 
 
 ```
@@ -48,6 +53,7 @@ Req:1、本科及以上学历，计算机、统计、数据分析、数据科学
 2、优秀的商业分析能力（结构化思维）、敏锐的数据洞察力和对数据分析工具、技术的学习、掌握能力；
 3、具备良好的沟通协调能力、学习能力，成就驱动，极强的保密意识和良好的职业道德；
 4、具备充分的数据处理和分析能力，熟练使用SQL、Python、Tableau或其他数据分,.etc
+
 
 
 ```
@@ -58,6 +64,7 @@ Req:1、本科及以上学历，计算机、统计、数据分析、数据科学
 * Match:10:大数据,数据分析,报表,可视化,python,hive,商业分析,sql,tableau,数据科学
 
 
+
 ```
 JD: 1、从工具和技术的层面协助对财务相关数据进行梳理、整合和报表设计，为业务部门决策提供支持；
 2、梳理并优化现有数据分析的内容、流程和机制，深度挖掘数据价值，为财务决策提供支持；
@@ -70,12 +77,14 @@ Req:1、本科及以上学历，计算机、统计、数据分析、数据科学
 4、具备充分的数据处理和分析能力，熟练使用SQL、Python、Tableau或其他数据分,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商 - 数据科学家/数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7400680391906937115/detail
 * Match:9:大数据,数据分析,bi,可视化,python,hive,sql,tableau,数据科学
+
 
 
 ```
@@ -88,12 +97,14 @@ Req:1、拥有统计、数学、物理、计算机、经济学等相关专业的
 3、熟练使用至少一种BI工具（例如：Tableau,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师-国际支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7447732710795823378/detail
 * Match:9:大数据,数据分析,报表,可视化,python,hive,sql,tableau,数据科学
+
 
 
 ```
@@ -108,12 +119,14 @@ Req:1、本科及以上学历，计算机、统计、数据分析、数据科学
 4、具备扎实的财务、金融基础知识，理解企业财务报表及财务比率分析，有财务金融类证书优,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-内容电商方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7434050204019607835/detail
 * Match:9:a/b,数据分析,报表,可视化,监控,python,hive,sql,数据科学
+
 
 
 ```
@@ -126,12 +139,14 @@ Req:1、本科及以上学历，具备良好的统计学基础，计算机、统
 4、熟悉A/B,.etc
 
 
+
 ```
 
 
 ##### 上海-隐私安全及数据运营经理-信息系统
 * URL: https://jobs.bytedance.com/referral/pc/position/7424821378056014090/detail
 * Match:9:大数据,数据仓库,数据分析,bi,可视化,监控,hive,sql,tableau
+
 
 
 ```
@@ -146,12 +161,14 @@ Req:1、本科或以上学历，计算机、数学、统计、管理信息系统
 4、逻辑清晰、执行力强、具,.etc
 
 
+
 ```
 
 
 ##### 上海-国际化电商 - 东南亚达人策略运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7091960024938940703/detail
 * Match:8:数据分析,可视化,python,hive,商业分析,sql,建模,报表
+
 
 
 ```
@@ -165,12 +182,14 @@ Req:1、2-3年以上工作经验，咨询、互联网战略/商业分析、电�
 5、商业建模、数据分析和报告撰写能力出色，在咨询公司承,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商 - 东南亚达人策略专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7218840300939708731/detail
 * Match:8:数据分析,可视化,python,hive,商业分析,sql,建模,报表
+
 
 
 ```
@@ -185,12 +204,14 @@ Req:1、3年及以上工作经验，咨询、互联网战略/商业分析、电�
 5、熟悉SQL/hive/Excel，至少可以熟练使用一种数据可视化分析工具，擅长R和Python者优,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商 - 数据分析师（治理分析）
 * URL: https://jobs.bytedance.com/referral/pc/position/7057453188844276005/detail
 * Match:8:a/b,数据分析,可视化,监控,python,hive,sql,报表
+
 
 
 ```
@@ -204,12 +225,14 @@ Req:1、本科及以上学历，5年以上数据分析工作经验，具备电�
 3、熟练使用Excel、精通SQL、hive，至少可以熟练使用一种数据可视化分析工具，擅长R和Py,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-战略分析师 (治理与体验战略) Strategy Analyst, E-Commerce Governance and Experience Strategy
 * URL: https://jobs.bytedance.com/referral/pc/position/7399943880228440346/detail
 * Match:8:数据分析,bi,可视化,监控,python,sql,tableau,建模
+
 
 
 ```
@@ -224,12 +247,14 @@ Req:1、本科及以上学历；数学、统计学、经济学、计算机科学
 4、具备一定的战略思维能力，能,.etc
 
 
+
 ```
 
 
 ##### 上海-经营/策略数据分析-抖音电商（超市）
 * URL: https://jobs.bytedance.com/referral/pc/position/7317556145915644211/detail
 * Match:8:a/b,数据分析,可视化,监控,python,hive,sql,报表
+
 
 
 ```
@@ -243,12 +268,14 @@ Req:1、本科及以上学历，5年以上数据分析工作经验，具备电�
 3、熟练使用Excel、精通SQL、hive，至少可以熟练使用一种数据可视化分析工具，擅长,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7424733457886693682/detail
 * Match:8:数据仓库,项目管理,数据分析,可视化,监控,hive,sql,报表
+
 
 
 ```
@@ -261,12 +288,14 @@ Req:1、本科及以上学历，计算机、金融、数学、统计学等相关
 3、精通EXCEL、PPT、SQL，熟悉Hive、Spark等数据库工具，了解数据仓库、数据可视化，熟悉常用的统计和分析方法，有互联网数据分析经验者优先；,.etc
 
 
+
 ```
 
 
 ##### 上海-商家增长策略产品经理-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7376862160368961818/detail
 * Match:7:a/b,项目管理,数据分析,python,sql,调度,建模
+
 
 
 ```
@@ -280,12 +309,14 @@ Req:1、5年以上策略、数据、增长产品经验，有B端商业增长策�
 4、具有算法建模经验者优先；能根据数据提供合理的见解推动产品的开发和迭代。,.etc
 
 
+
 ```
 
 
 ##### 上海-国际化数据科学家——广告创意方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7108544152501913863/detail
 * Match:7:数据分析,python,数仓,商业分析,sql,建模,数据科学
+
 
 
 ```
@@ -301,12 +332,14 @@ Req:1、计算机、统计、数据科学或者相关专业本科以上学历，
 4、善于沟通，工作积极主动，有主人翁意识，责任心强，具备良好的团队协作能力,.etc
 
 
+
 ```
 
 
 ##### 上海-国际支付-反欺诈风控策略 (Fraud Strategist)
 * URL: https://jobs.bytedance.com/referral/pc/position/7124681322009823524/detail
 * Match:7:数据分析,bi,可视化,监控,python,sql,tableau
+
 
 
 ```
@@ -322,12 +355,14 @@ Req:1、本科及以上学历；
 5、base上海。,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商 - 数据分析师/数据科学家（治理产品）
 * URL: https://jobs.bytedance.com/referral/pc/position/7312082325326956837/detail
 * Match:7:a/b,数据分析,可视化,python,hive,sql,数据科学
+
 
 
 ```
@@ -341,12 +376,14 @@ Req:1、本科及以上学历，3年以上数据科学/数据分析工作经验�
 3、熟练使用Excel、精通,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商 - 数据分析师（运营分析）
 * URL: https://jobs.bytedance.com/referral/pc/position/7057464071004489998/detail
 * Match:7:数据分析,可视化,监控,python,hive,sql,报表
+
 
 
 ```
@@ -359,12 +396,14 @@ Req:1、本科及以上学历，2年以上数据分析工作经验，具备良�
 3、精通SQL、hive、Excel，可熟练使用Python/R进行数据分析相关工,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商 - 数据科学家
 * URL: https://jobs.bytedance.com/referral/pc/position/7057452124288518431/detail
 * Match:7:大数据,数据分析,可视化,python,sql,建模,数据科学
+
 
 
 ```
@@ -379,12 +418,14 @@ Req:1、具备优秀的自我驱动，抗压能力，沟通能力，跨团队合
 4、优秀的产品和业务感觉，能够很好地把产品和业务问题转化成分析问题,，同时也能够很好地把分析的结果转化成产品和业务决策,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商- Global Selling数据分析（区域运营）
 * URL: https://jobs.bytedance.com/referral/pc/position/7428856083160500507/detail
 * Match:7:数据分析,监控,python,hive,商业分析,sql,数据科学
+
 
 
 ```
@@ -398,12 +439,14 @@ Req:1、本科以上学历，数据科学，统计学，商业分析，电子商
 4、能够基于数据分析和策略应用,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-东南亚营销策略分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7098648067256207653/detail
 * Match:7:数据分析,bi,监控,商业分析,sql,tableau,powerbi
+
 
 
 ```
@@ -417,12 +460,14 @@ Req:1、本科及以上学历， 5年以上投资/投行/策略/商业分析经�
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-东南亚营销策略分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7070400185768134920/detail
 * Match:7:数据分析,bi,监控,商业分析,sql,tableau,powerbi
+
 
 
 ```
@@ -436,12 +481,14 @@ Req:1、本科及以上学历， 1年以上投资/投行/策略/商业分析经�
 4、,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-东南亚达人策略运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7431834991015643429/detail
 * Match:7:数据分析,监控,商业分析,sql,tableau,建模,报表
+
 
 
 ```
@@ -456,12 +503,14 @@ Req:1、有互联网商业分析/战略/数分、电商背景优先；
 5、商业建模、数据分析和报告撰写能力出色，在咨询公司承担较多建模分析工作、财务管理、政策制定等优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-商业分析师（治理与体验）Global E-Commerce GNE-Business Planning-Business Analyst
 * URL: https://jobs.bytedance.com/referral/pc/position/7355028933475191067/detail
 * Match:7:数据分析,bi,可视化,python,sql,tableau,建模
+
 
 
 ```
@@ -478,12 +527,14 @@ Req:1、3年以上技术或咨询领域的研究、数据分析经验；
 6、必须了解常用的统计和分析方法以及Excel建模，同时具有SQL，R/Pytho,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-数据产品经理(跨境产品方向)
 * URL: https://jobs.bytedance.com/referral/pc/position/7356924252475722011/detail
 * Match:7:大数据,项目管理,数据分析,可视化,数仓,sql,数据科学
+
 
 
 ```
@@ -498,12 +549,14 @@ Req:1、本科以上学历，计算机、数学、统计学相关专业；
 5、熟练SQL语言，能自主从,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7376566004643891483/detail
 * Match:7:数据分析,bi,监控,python,sql,建模,报表
+
 
 
 ```
@@ -518,12 +571,14 @@ Req:1、本科及以上学历，数据、统计学、计算机、运筹学、供
 4、较强的学习能力和执行力，逻辑清晰、善于表达自己观点并推动落地。,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-数据科学家/数据分析师（体验分析方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7311330289497852186/detail
 * Match:7:数据分析,可视化,监控,python,hive,sql,数据科学
+
 
 
 ```
@@ -538,12 +593,14 @@ Req:1、本科及以上学历，3年以上数据科学/数据分析工作经验�
 3、熟练使用Excel、精通SQL、hive，至少可以熟练使用一种数据可视化分析工具，擅长,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-数据科学家/数据分析师（全托管）
 * URL: https://jobs.bytedance.com/referral/pc/position/7390222344637352218/detail
 * Match:7:大数据,数据分析,监控,python,hive,sql,数据科学
+
 
 
 ```
@@ -558,12 +615,14 @@ Req:1、本科以上学历，数据科学，统计学，计量经济学，大数
 4、能够基于数据分析和策略,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-数据科学家/数据分析师（跨境商家）
 * URL: https://jobs.bytedance.com/referral/pc/position/7390221381943822602/detail
 * Match:7:大数据,数据分析,监控,python,hive,sql,数据科学
+
 
 
 ```
@@ -577,12 +636,14 @@ Req:1、本科以上学历，数据科学，统计学，计量经济学，大数
 3、精通至少一种数据库操作，如Hive/Mysql等，熟练使用数据分析/挖掘语言，如Python/R为佳；有数据挖掘、算法背景优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-电商战略分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7341364342875801907/detail
 * Match:7:大数据,数据分析,python,商业分析,sql,建模,数据科学
+
 
 
 ```
@@ -597,12 +658,14 @@ Req:1、在复杂业务场景下能分解并抽象问题，具备框架性思维
 2、3年以上战略/商业分析/数据分析经验，有消费品/电商行业经验优先，有数据科学和算法模型能力加分,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-结算质控专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7272300788268566841/detail
 * Match:7:数据分析,bi,监控,python,sql,建模,报表
+
 
 
 ```
@@ -617,12 +680,14 @@ Req:1、大学本科及以上，财务/会计、数据、统计学等相关专�
 5、较强的学习能力和执行力，逻辑清晰、善于表达自己观点并推,.etc
 
 
+
 ```
 
 
 ##### 上海-大快消行业数据分析专家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7392102470909233418/detail
 * Match:7:数据分析,可视化,监控,python,hive,sql,报表
+
 
 
 ```
@@ -637,12 +702,14 @@ Req:1、对电商业务有较深理解，具备电商业务分析或运营经验
 5、熟练使用Excel、精通SQL、Hive，至少可以,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据研发高级工程师 — 实验评估方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6718620210376476941/detail
 * Match:7:大数据,数据仓库,presto,python,hive,sql,建模
+
 
 
 ```
@@ -657,12 +724,14 @@ Req:1、熟悉Presto、Hive、Spark、Flink、Clickhouse、Hadoop等大数据框
 4、愿意尝试新技术、新框架，接受业界大数据处理的新思想。,.etc
 
 
+
 ```
 
 
 ##### 上海-安全大数据工程师 - 数据仓库方向（上海）
 * URL: https://jobs.bytedance.com/referral/pc/position/7121656253445228814/detail
 * Match:7:大数据,数据仓库,监控,python,数仓,hive,sql
+
 
 
 ```
@@ -680,12 +749,14 @@ Req:1、计算机及相关专业背景，本科及以上学历。 有数仓建�
 5、具备安全相关行业经验,.etc
 
 
+
 ```
 
 
 ##### 上海-居家百货行业经营分析-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7267382642496325946/detail
 * Match:7:数据分析,可视化,python,hive,sql,tableau,报表
+
 
 
 ```
@@ -701,12 +772,14 @@ Req:1、本科及以上学历，商分、经分、投行、咨询方向优先；
 5、具备良好的沟通和协调能力，逻辑思维能力优秀，对数据敏感，能,.etc
 
 
+
 ```
 
 
 ##### 上海-数据产品经理 — BI方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6704459420329314573/detail
 * Match:7:大数据,数据分析,bi,可视化,sql,tableau,powerbi
+
 
 
 ```
@@ -723,12 +796,14 @@ Req:1、3年以上数据分析和产品设计经验，统计、数学、计算�
 6、善,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师/数据科学家-国际电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7346045145601837338/detail
 * Match:7:数据分析,可视化,监控,python,hive,sql,报表
+
 
 
 ```
@@ -741,12 +816,14 @@ Req:1、本科及以上学历，1年以上数据分析工作经验，具备良�
 3、精通SQL、hive、Excel，可熟练使用Python/R进行数据分析相关工,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师（治理体验方向）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6919494178864056590/detail
 * Match:7:a/b,数据分析,可视化,监控,python,hive,sql
+
 
 
 ```
@@ -760,12 +837,14 @@ Req:1、5年以上数据分析工作经验，具备电商或平台治理经验�
 3、熟练使用Excel、精通SQL、Hive，至少可以熟练使用一种数据可视化分析工具，擅长R和Python,.etc
 
 
+
 ```
 
 
 ##### 上海-数据开发工程师-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7126895661807126792/detail
 * Match:7:大数据,数据仓库,数据分析,python,hive,sql,建模
+
 
 
 ```
@@ -780,12 +859,14 @@ Req:1、5年以上大数据开发经验，精通SQL语言，具备存储过程�
 4、熟练Scala、Python、Java中至少一种,.etc
 
 
+
 ```
 
 
 ##### 上海-数据挖掘算法工程师-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7054748968974420260/detail
 * Match:7:大数据,数据仓库,数据分析,python,hive,sql,建模
+
 
 
 ```
@@ -800,12 +881,14 @@ Req:1、本科及以上学历，2年以上数据挖掘、机器学习等相关�
 4、自我驱动，能够深入了解业务，适应快速的业务变化；有良好的个人表达和,.etc
 
 
+
 ```
 
 
 ##### 上海-数据测试开发工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7086749174453176584/detail
 * Match:7:大数据,项目管理,监控,python,hive,sql,建模
+
 
 
 ```
@@ -820,12 +903,14 @@ Req:1、本科及以上学历，计算机软件等相关专业，2年及以上�
 4、具备数据库系统理论知识，掌,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家 - 国际化商业产品企业号方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7174244400565127460/detail
 * Match:7:数据分析,可视化,python,数仓,sql,建模,数据科学
+
 
 
 ```
@@ -839,12 +924,14 @@ Req:1、2年以上数据分析/数据科学行业经验；
 5、熟练使用SQL和其他数据分析/建模语言(Python, R等），可,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家 - 国际化广告产品
 * URL: https://jobs.bytedance.com/referral/pc/position/6953652160647825700/detail
 * Match:7:数据分析,python,hive,sql,tableau,建模,数据科学
+
 
 
 ```
@@ -858,12 +945,14 @@ Req:1、计算机、统计、数据科学或者相关专业本科以上学历，
 3、有用户增长相关成功项目经验优先，有互联网行业、移动互联网行,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家 - 国际化直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7385120287244831027/detail
 * Match:7:a/b,数据分析,可视化,监控,python,sql,数据科学
+
 
 
 ```
@@ -878,12 +967,14 @@ Req:1、本科及以上学历，统计学、数据科学、经济学等相关专
 4、优秀的思维逻辑，善于分析问题和解决问题，良好的沟通协作能力，对于挑战充满热情。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-创作与互动-国际化短视频
 * URL: https://jobs.bytedance.com/referral/pc/position/7439318471937509640/detail
 * Match:7:a/b,数据分析,监控,python,sql,建模,数据科学
+
 
 
 ```
@@ -897,12 +988,14 @@ Req:1、本科及以上学历，统计学、数学、经济学、计算机等相
 4、具备严谨的逻辑思维能力，较强的自驱力及跨团队沟通协作能力；了解推荐系统，有内容平台、图文社区等相关业务的分析经验加分。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7000331906651523359/detail
 * Match:7:大数据,数据分析,python,hive,商业分析,sql,建模
+
 
 
 ```
@@ -916,12 +1009,14 @@ Req:1、数学、统计学、数据挖掘、机器学习、计算机、经济学
 4、有IT大数据分析经验或互联网公司数据分析经验，其中具有全局分析视角,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7202853837479364925/detail
 * Match:7:大数据,数据分析,python,hive,商业分析,sql,建模
+
 
 
 ```
@@ -935,12 +1030,14 @@ Req:1、数学、统计学、数据挖掘、机器学习、计算机、经济学
 4、有IT大数据分析经验或互联网公司数据分析经验，其中具有全局分析视,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-社交
 * URL: https://jobs.bytedance.com/referral/pc/position/7433289357471009034/detail
 * Match:7:a/b,数据分析,监控,python,sql,建模,数据科学
+
 
 
 ```
@@ -955,12 +1052,14 @@ Req:1、研究生及以上学历，统计学，应用数学，运筹学，经济
 4、熟练运用SQL完成数据的提取及分析；熟练使用至少一种数据分析语言如Pytho,.etc
 
 
+
 ```
 
 
 ##### 上海-时尚综合行业经营分析-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7387368492204607781/detail
 * Match:7:数据分析,可视化,python,hive,sql,tableau,报表
+
 
 
 ```
@@ -976,12 +1075,14 @@ Req:1、本科及以上学历，商分、经分、投行、咨询方向优先；
 5、具备良好的沟通和协调能力，逻辑思维能力优秀，对数据敏感，能,.etc
 
 
+
 ```
 
 
 ##### 上海-服务/申诉/审核业务分析专家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7304531036867987738/detail
 * Match:7:数据分析,bi,python,数仓,hive,sql,建模
+
 
 
 ```
@@ -995,12 +1096,14 @@ Req:1、5年以上业务分析工作经验，熟悉互联网电商行业，有�
 4、沟通表达能力优、协调推动能力强。,.etc
 
 
+
 ```
 
 
 ##### 上海-经营分析leader
 * URL: https://jobs.bytedance.com/referral/pc/position/7430736163961293107/detail
 * Match:7:大数据,项目管理,数据分析,bi,可视化,监控,商业分析
+
 
 
 ```
@@ -1014,12 +1117,14 @@ Req:1、五年及以上战略分析、BI、经营分析、商业分析、用户�
 3、思维活跃，能适应公司工作节奏。,.etc
 
 
+
 ```
 
 
 ##### 上海-经营分析leader
 * URL: https://jobs.bytedance.com/referral/pc/position/7410310683169278235/detail
 * Match:7:大数据,项目管理,数据分析,bi,可视化,监控,商业分析
+
 
 
 ```
@@ -1034,12 +1139,14 @@ Req:1、五年及以上工作经验，数学、统计学、金融工程等数据
 4、抗压能力强，思维活跃，能适应公司工作节奏。,.etc
 
 
+
 ```
 
 
 ##### 上海-规模商家策略运营（数据分析）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7201073977543231801/detail
 * Match:7:数据分析,可视化,监控,python,hive,sql,报表
+
 
 
 ```
@@ -1053,12 +1160,14 @@ Req:1、本科及以上学历，5年及以上数据分析工作经验，具备�
 4、熟练使用Excel、精通SQ,.etc
 
 
+
 ```
 
 
 ##### 上海-财务BP-国际支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7362063447171631411/detail
 * Match:7:数据分析,bi,hive,sql,tableau,powerbi,报表
+
 
 
 ```
@@ -1073,12 +1182,14 @@ Req:1、大学本科及以上学历，经管、金融、会计相关专业优先
 6、熟练使用各,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据分析师-视频云
 * URL: https://jobs.bytedance.com/referral/pc/position/7402462573222070554/detail
 * Match:7:数据仓库,数据分析,可视化,python,hive,sql,建模
+
 
 
 ```
@@ -1095,12 +1206,14 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业，对
 5、沟通协调推动能力强，积,.etc
 
 
+
 ```
 
 
 ##### 上海-运营中台业务分析leader-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7277534854655904056/detail
 * Match:7:数据分析,bi,python,数仓,hive,sql,建模
+
 
 
 ```
@@ -1114,12 +1227,14 @@ Req:1、应用数学、统计学相关专业，有数据建模、BI经验或熟�
 4、沟通表达能力优、协调推动能力强，有搭建数据驱动机制经,.etc
 
 
+
 ```
 
 
 ##### 上海-高级后端开发工程师-Devmind
 * URL: https://jobs.bytedance.com/referral/pc/position/7226280029918628153/detail
 * Match:7:数据仓库,项目管理,数据分析,bi,可视化,python,sql
+
 
 
 ```
@@ -1135,12 +1250,14 @@ Req:1、本科及以上学历，6年以上工作经验，具备良好的业务�
 5、在数据分析、BI等领域有开发经验,.etc
 
 
+
 ```
 
 
 ##### 上海-高级数据产品经理 - BI
 * URL: https://jobs.bytedance.com/referral/pc/position/7138718538311502116/detail
 * Match:7:大数据,数据仓库,bi,可视化,sql,tableau,powerbi
+
 
 
 ```
@@ -1156,12 +1273,14 @@ Req:1、3年以上数据产品设计经验，统计、数学、计算机相关�
 5、熟练使用SQL及其他分,.etc
 
 
+
 ```
 
 
 ##### 上海-SRE 资源成本运营专家（云原生方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7241085059745925434/detail
 * Match:6:大数据,数据分析,可视化,监控,python,sql
+
 
 
 ```
@@ -1176,12 +1295,14 @@ Req:1、本科以上学历，计算机相关专业或同等实践经验，并具
 5、良好的沟通,.etc
 
 
+
 ```
 
 
 ##### 上海-品控业务分析专家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7308955567396882698/detail
 * Match:6:数据分析,bi,python,hive,sql,建模
+
 
 
 ```
@@ -1195,12 +1316,14 @@ Req:1、3年以上业务分析工作经验，熟悉珠宝/二奢/生鲜等垂类
 4、沟通表达能力优、协调推动能力强,.etc
 
 
+
 ```
 
 
 ##### 上海-商业分析师-国际电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7268141386494789943/detail
 * Match:6:数据分析,监控,python,hive,商业分析,sql
+
 
 
 ```
@@ -1213,12 +1336,14 @@ Req:1、三年及以上战略咨询或互联网商业分析经验（电商相关
 3、有较强的沟通能力，能够跨部门，多团队协作，同时有解决,.etc
 
 
+
 ```
 
 
 ##### 上海-商业化CRM数据分析-资金交易
 * URL: https://jobs.bytedance.com/referral/pc/position/7402497289699658021/detail
 * Match:6:a/b,数据分析,监控,数仓,sql,数据科学
+
 
 
 ```
@@ -1232,12 +1357,14 @@ Req:1、计算机、统计、数据科学或者相关专业本科及以上学历
 4、熟悉财务，资金，交易流程和产品能力者优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-商业化CRM数据科学-资金交易
 * URL: https://jobs.bytedance.com/referral/pc/position/7419196102119573769/detail
 * Match:6:a/b,数据分析,监控,数仓,sql,数据科学
+
 
 
 ```
@@ -1252,12 +1379,14 @@ Req:1、计算机、统计、数据科学或者相关专业本科及以上学历
 5、英文流利，可在纯英文环境工作,.etc
 
 
+
 ```
 
 
 ##### 上海-商业化数据科学家-品牌广告方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7153555109707008263/detail
 * Match:6:数据分析,监控,python,sql,建模,数据科学
+
 
 
 ```
@@ -1271,12 +1400,14 @@ Req:1. 本科及以上学历，数学、统计、经济学、计算机等专业�
 4. 精通 SQL，掌握Python/R中的一种，有S,.etc
 
 
+
 ```
 
 
 ##### 上海-国际化数据科学家/数据分析师 - 广告策略方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7074825777930537247/detail
 * Match:6:数据分析,python,数仓,sql,建模,数据科学
+
 
 
 ```
@@ -1290,12 +1421,14 @@ Req:1、计算机、统计、数据科学或者相关专业本科以上学历，
 4、善于沟通，工作积极主动，有主人翁意识，责任,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商- 数据科学家/数据分析师（商家产品）
 * URL: https://jobs.bytedance.com/referral/pc/position/7390221834022996251/detail
 * Match:6:大数据,数据分析,python,hive,sql,数据科学
+
 
 
 ```
@@ -1308,12 +1441,14 @@ Req:1、本科以上学历，数据科学，统计学，计量经济学，大数
 3、精通至少一种数据库操作，如Hive/Mysql等，熟练使用数据分析/挖掘语言，如Python/R为佳；有数据挖掘、算法背景优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-大快消行业经营分析专家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7392103283408292147/detail
 * Match:6:数据分析,可视化,python,商业分析,sql,报表
+
 
 
 ```
@@ -1327,12 +1462,14 @@ Req:1、本科及以上学历，3年以上互联网商业分析、经营分析�
 4、对内容电商有比较好的理解，有相关行业工作和项目经验优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据工程师-即时零售
 * URL: https://jobs.bytedance.com/referral/pc/position/7309458499615754523/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -1348,12 +1485,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据工程师-国际化电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7090037996616059143/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -1370,12 +1509,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据工程师-数仓方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7196998404374219063/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -1391,12 +1532,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据工程师-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6933184510234773773/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -1413,12 +1556,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据平台高级工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6704444065594738958/detail
 * Match:6:大数据,数据仓库,可视化,hive,调度,建模
+
 
 
 ```
@@ -1432,12 +1577,14 @@ Req:1、熟悉多项大数据处理/分析相关的工具/框架，e.g.  Hadoop,
 3、优秀的理解沟通能力，能快速理解,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据开发工程师-交易中台
 * URL: https://jobs.bytedance.com/referral/pc/position/7389525227669424435/detail
 * Match:6:数据仓库,数据分析,python,hive,sql,建模
+
 
 
 ```
@@ -1450,12 +1597,14 @@ Req:1、计算机相关专业本科以上学历，掌握计算机组成原理、
 3、熟练掌握SQL, 可以使用SQL进行复杂的分析, 并给予执行计划掌握并对SQL进行调优处理，熟练使用Java、Python和Sh,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据研发工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6987295846455429407/detail
 * Match:6:大数据,数据分析,bi,可视化,python,hive
+
 
 
 ```
@@ -1469,12 +1618,14 @@ Req:1、计算机相关专业，本科及以上学历，1-8年大数据开发相
 3、有ClickHouse/Druid/Kylin/Superse,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据研发工程师-数据平台
 * URL: https://jobs.bytedance.com/referral/pc/position/6926394601410922759/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -1491,12 +1642,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 5、有较,.etc
 
 
+
 ```
 
 
 ##### 上海-平台开发工程师/专家-视频云
 * URL: https://jobs.bytedance.com/referral/pc/position/6950912423923861774/detail
 * Match:6:大数据,数据分析,bi,监控,python,hive
+
 
 
 ```
@@ -1513,12 +1666,14 @@ Req:1、本科及以上学历，计算机相关专业；
 6、有较强的学习能力和抽象能,.etc
 
 
+
 ```
 
 
 ##### 上海-平台治理智能化专家（大模型运营流程改造方向）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7447087726787528968/detail
 * Match:6:项目管理,数据分析,可视化,监控,python,sql
+
 
 
 ```
@@ -1533,12 +1688,14 @@ Req:1、本科及以上学历，计算机科学、信息管理、数学、统计
 5、具备良好的,.etc
 
 
+
 ```
 
 
 ##### 上海-抖音数据分析师-文娱方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7278680039570852155/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -1555,12 +1712,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 7、对娱乐或音乐,.etc
 
 
+
 ```
 
 
 ##### 上海-抖音数据科学家-模型算法方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7140523266314520862/detail
 * Match:6:大数据,a/b,数据分析,python,hive,建模
+
 
 
 ```
@@ -1578,12 +1737,14 @@ Req:1、本科或以上学历，数学、统计学、经济学、计算机专业
 6,.etc
 
 
+
 ```
 
 
 ##### 上海-数据产品经理 — 开发套件方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6704565235669272844/detail
 * Match:6:大数据,项目管理,监控,数仓,hive,sql
+
 
 
 ```
@@ -1597,12 +1758,14 @@ Req:1、3年以上数据开发或产品经验，计算机相关专业或从事�
 4、良好的语言沟通与表达能力，自我驱动，善于系统性思考，,.etc
 
 
+
 ```
 
 
 ##### 上海-数据仓库开发工程师-飞书业务应用
 * URL: https://jobs.bytedance.com/referral/pc/position/7324898425199151369/detail
 * Match:6:大数据,数据仓库,数据分析,hive,sql,建模
+
 
 
 ```
@@ -1617,12 +1780,14 @@ Req:1、计算机、数学相关专业本科及以上学历，三年及以上大
 4、有产品意识，主动思,.etc
 
 
+
 ```
 
 
 ##### 上海-数据仓库开发工程师—抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7031786355051940127/detail
 * Match:6:大数据,数据仓库,hive,数仓,sql,报表
+
 
 
 ```
@@ -1637,12 +1802,14 @@ Req:1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase/Hive 等；
 4、有高性能分布式平台开发经验，有电商/生活服务相关行业经验优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师-TikTok
 * URL: https://jobs.bytedance.com/referral/pc/position/7218772342146042173/detail
 * Match:6:数据分析,监控,数仓,sql,建模,数据科学
+
 
 
 ```
@@ -1657,12 +1824,14 @@ Req:1、计算机、统计、数学相关专业优先，精通SQL以及至少一
 5、加分项：可英文办公。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师（商家与达人）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7332771977911208219/detail
 * Match:6:数据分析,可视化,监控,python,hive,sql
+
 
 
 ```
@@ -1676,12 +1845,14 @@ Req:1、3年以上数据分析工作经验，具备电商B端产品分析经验�
 4、沟,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师（数据基建方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7259685964133697852/detail
 * Match:6:数据分析,可视化,监控,python,hive,sql
+
 
 
 ```
@@ -1697,12 +1868,14 @@ Req:1、3年及以上数据分析工作经验，具有复杂业务数据处理�
 4、精通SQL，熟悉Hadoop/Hive，有数据可视化产品的使用经验，了解常见的量化归因方法，熟练掌握Pyt,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师（流量生态方向）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6919494074530662670/detail
 * Match:6:数据分析,报表,python,sql,建模,数据科学
+
 
 
 ```
@@ -1715,12 +1888,14 @@ Req:1、本科及以上学历，3年以上数据分析、挖掘、建模工作�
 3、对特征工程、用户行为建模等有相对丰富的经验，能够基于实际的业务,.etc
 
 
+
 ```
 
 
 ##### 上海-数据湖 高级工程师/技术专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7132713361330948360/detail
 * Match:6:大数据,lakehouse,presto,数据湖,hive,delta lake
+
 
 
 ```
@@ -1734,12 +1909,14 @@ Req:1、具备良好的 Java / Scala 编程基础和良好的计算机技术基�
 4、熟悉 KUDU，HBase，Cassandra 等分布式存储系统，或,.etc
 
 
+
 ```
 
 
 ##### 上海-数据湖存储专家-Hudi
 * URL: https://jobs.bytedance.com/referral/pc/position/7207267911018744121/detail
 * Match:6:大数据,lakehouse,presto,数据湖,hive,delta lake
+
 
 
 ```
@@ -1753,12 +1930,14 @@ Req:1、具备良好的 Java / Scala 编程基础和良好的计算机技术基�
 3、精通任一个 Parquet，ORC，Arrow 列存格式，或者 Avr,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学Leader-TikTok用户增长
 * URL: https://jobs.bytedance.com/referral/pc/position/7337230546227120435/detail
 * Match:6:a/b,数据分析,监控,python,sql,数据科学
+
 
 
 ```
@@ -1772,12 +1951,14 @@ Req:1、计算机/统计学/数学等相关专业，在用户产品分析/数据
 4、具备优秀的组织和协作能力，工作自驱，有韧性；有海,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-内容生态-国际化短视频
 * URL: https://jobs.bytedance.com/referral/pc/position/7433287034352470309/detail
 * Match:6:a/b,数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -1791,12 +1972,14 @@ Req:1、研究生学历，统计学，应用数学，运筹学，经济学，计
 3、具备良好的产品感觉和结构化思维，,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-剪映
 * URL: https://jobs.bytedance.com/referral/pc/position/7413274338193426739/detail
 * Match:6:a/b,可视化,python,hive,sql,数据科学
+
 
 
 ```
@@ -1811,12 +1994,14 @@ Req:1、硕士研究生及以上学历，数学、经济学、统计学、计算
 4、熟练使用Hive，精通SQL/Excel/Python/R等工具。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-国际化短视频-上海
 * URL: https://jobs.bytedance.com/referral/pc/position/7185094093390825785/detail
 * Match:6:a/b,数据分析,报表,python,sql,数据科学
+
 
 
 ```
@@ -1831,12 +2016,14 @@ Req:1、2年以上相关数据分析工作经验，硕士研究生及以上学�
 4、了解机器学习、推荐算法原理，有互联网公司分析经验优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-广告实验
 * URL: https://jobs.bytedance.com/referral/pc/position/7317153223856900389/detail
 * Match:6:数据分析,python,hive,sql,建模,数据科学
+
 
 
 ```
@@ -1852,12 +2039,14 @@ Req:1、计算机、统计、数据科学或者相关专业本科以上学历，
 5、良好的沟通能力、团队合作精神、工作规,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-海外生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7306897805640337701/detail
 * Match:6:a/b,数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -1873,12 +2062,14 @@ Req:1、本科及以上学位，具有生活服务、电商、短视频等背景
 5、业务处于早期阶段，适合愿意陪同业务一起成,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7083310328034019592/detail
 * Match:6:a/b,数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -1893,12 +2084,14 @@ Req:1、统计学、计算机、经济学等数据科学、量化分析相关专
 3、具备优秀的数据敏感度与逻辑思维能力，能够在较大不确定性的问题中构建分析框架，将数据转化为有效的信息进行定量洞察，有互联网及直播/短视频相,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-社区图文
 * URL: https://jobs.bytedance.com/referral/pc/position/7389522752308988197/detail
 * Match:6:a/b,数据仓库,项目管理,数据分析,监控,数据科学
+
 
 
 ```
@@ -1912,12 +2105,14 @@ Req:1、本科及以上学历，统计，数据科学，经济学等相关专业
 4、对于推荐系统和内容生态有数据方面的认知或经验者加分，有创作者或内容向经验加分。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家/算法工程师-用户增长-上海
 * URL: https://jobs.bytedance.com/referral/pc/position/7287183148441880889/detail
 * Match:6:大数据,数据分析,python,hive,sql,建模
+
 
 
 ```
@@ -1931,12 +2126,14 @@ Req:1、本科及以上学历，具备优秀的编码能力和扎实的数据结
 4、具备较强SQL+Python编码能力，熟悉Hadoop/Spa,.etc
 
 
+
 ```
 
 
 ##### 上海-服务端开发工程师-抖音直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7428892886907668786/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -1949,12 +2146,14 @@ Req:1、熟练掌握至少一种编程语言，包括但不限于Golang、Python
 4、有大数据处理、监控、报警、日志、SQL优化等领域的开发实践经验。,.etc
 
 
+
 ```
 
 
 ##### 上海-特征平台技术专家-Flink/Spark/Hudi
 * URL: https://jobs.bytedance.com/referral/pc/position/7287073071863925047/detail
 * Match:6:大数据,数据湖,数仓,hive,deltalake,建模
+
 
 
 ```
@@ -1969,12 +2168,14 @@ Req:1、对常见大数据计算系统Spark/Flink有框架源码级别了解，�
 4、有其他大数据系统/框架经验加分，Hive,.etc
 
 
+
 ```
 
 
 ##### 上海-直播国际化高级策略运营经理
 * URL: https://jobs.bytedance.com/referral/pc/position/7255567030929410362/detail
 * Match:6:项目管理,数据分析,监控,python,商业分析,sql
+
 
 
 ```
@@ -1986,12 +2187,14 @@ Req:1、本科及以上学历，5年以上互联网活动策划/策略运营及�
 3、优秀的数据分析能力，对数据敏感度高，能洞察数据背后的原因，分析总结活动背后数据变化的原因，独立思考与归纳总结；,.etc
 
 
+
 ```
 
 
 ##### 上海-经营分析专家-业务分析-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7342771232309299483/detail
 * Match:6:数据分析,可视化,hive,sql,tableau,报表
+
 
 
 ```
@@ -2008,12 +2211,14 @@ Req:1、商分、经分、业务分析、DA方向优先；
 5、具备良好的沟通和协调能力，能快速理解业务，找到数据背后的业务动因，提炼独立的见解。,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据分析师-TikTok用户增长
 * URL: https://jobs.bytedance.com/referral/pc/position/6981390184692680968/detail
 * Match:6:a/b,数据分析,监控,python,sql,数据科学
+
 
 
 ```
@@ -2027,12 +2232,14 @@ Req:1、计算机/统计学/数学等相关专业本科及以上学历，具备3
 4、具备优秀的组织和协作能力，工作自驱，有韧性；有,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据分析师（上海）
 * URL: https://jobs.bytedance.com/referral/pc/position/7433362495543642404/detail
 * Match:6:数据分析,可视化,监控,python,hive,sql
+
 
 
 ```
@@ -2046,12 +2253,14 @@ Req:1、本科及以上学历，5年以上数据分析、内容安全业务分�
 3、熟练使用Excel、精通SQL、Hive，至少可以熟练使用一种数据可视化分析工具，擅长R和Py,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据科学家(ROI方向)-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7384737237113784613/detail
 * Match:6:a/b,数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -2065,12 +2274,14 @@ Req:1、本科及以上学历，3年以上的数据分析和建模经验，数�
 3、精通Python和SQL，具备使用R、Python或其他编程语言的实践经验，具有运用机器学习技术进行建模、模型工程、运维等能力，熟练使用LTV、uplift模型建模，熟练使用平台工具,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据科学家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7120140141473368356/detail
 * Match:6:数据分析,python,hive,sql,建模,数据科学
+
 
 
 ```
@@ -2084,12 +2295,14 @@ Req:1、至少5年国内外公司或行业数据科学经验，电商相关背�
 4、优秀的逻辑思维能力、业务解读能力和快,.etc
 
 
+
 ```
 
 
 ##### 上海-金融风控算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7199946356894124348/detail
 * Match:6:大数据,数据分析,监控,hive,sql,建模
+
 
 
 ```
@@ -2104,12 +2317,14 @@ Req:1、计算机相关专业本科及以上， 优秀的编码能力，具备2�
 4、有风控行业相关建模经验和互联网用户画像等大数据挖掘,.etc
 
 
+
 ```
 
 
 ##### 上海-销售运营（食品餐饮行业）
 * URL: https://jobs.bytedance.com/referral/pc/position/7357879766496184602/detail
 * Match:6:数据分析,bi,可视化,python,商业分析,tableau
+
 
 
 ```
@@ -2123,12 +2338,14 @@ Req:1、本科及以上学历，3年及以上工作经验；
 4、具备良好的商业分析思维与,.etc
 
 
+
 ```
 
 
 ##### 上海-高级数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/6704454198093678861/detail
 * Match:6:数据仓库,数据分析,可视化,数仓,sql,建模
+
 
 
 ```
@@ -2142,12 +2359,14 @@ Req:1、研究生及以上学历，计算机、统计、数学相关专业优先
 4、能与工程师配合，完成业务,.etc
 
 
+
 ```
 
 
 ##### 上海-高级风控算法工程师-国际支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7175012479994284349/detail
 * Match:6:监控,python,hive,sql,建模,数据科学
+
 
 
 ```
@@ -2159,12 +2378,14 @@ Req:1、数学或计算机专业本科及以上学历，扎实的计算机算法
 4、3年以上互联网公司的数据挖掘或机器学,.etc
 
 
+
 ```
 
 
 ##### 上海-Devops/运维开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7380191524958587187/detail
 * Match:5:aws,监控,python,sql,调度
+
 
 
 ```
@@ -2176,12 +2397,14 @@ Req:1、掌握 Python/Shell/Golang中至少一种语言，并具备一定的编�
 3、有强烈的工作责任心，较好,.etc
 
 
+
 ```
 
 
 ##### 上海-LakeHouse 公有云技术专家 - 火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7132700235402479880/detail
 * Match:5:大数据,lakehouse,presto,数据湖,deltalake
+
 
 
 ```
@@ -2196,12 +2419,14 @@ Req:1、有大数据 toB 产品研发经验；有公有云大数据产品研发�
 4、熟悉业界大数据云产品，如 MaxCompute、EMR、MRS、DLF、Databricks、DLI、DLC,.etc
 
 
+
 ```
 
 
 ##### 上海-PMO-信息系统
 * URL: https://jobs.bytedance.com/referral/pc/position/7377582746766510373/detail
 * Match:5:pmo,项目管理,数据分析,监控,pmp
+
 
 
 ```
@@ -2214,12 +2439,14 @@ Req:1、本科或以上学历，4年或以上项目管理经验；熟悉产品�
 3、,.etc
 
 
+
 ```
 
 
 ##### 上海-业务数据BP-电商方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6976506108883487006/detail
 * Match:5:大数据,数据仓库,bi,hive,sql
+
 
 
 ```
@@ -2233,12 +2460,14 @@ Req:1、本科及以上学历，能够熟练使用SQL/Hive；
 4、熟悉大数据应用场景，有数据仓库、BI、数据挖掘、用户画像等方面的工作经验者优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-内容产品运营经理-国际化生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7405903701444397362/detail
 * Match:5:项目管理,数据分析,监控,sql,调度
+
 
 
 ```
@@ -2251,12 +2480,14 @@ Req:1、本科及以上学历，5年以上运营或策略经验，具备良好�
 4、有扎实的结构化思维能力，逻辑思维能力强，良好的数据分析能力，熟,.etc
 
 
+
 ```
 
 
 ##### 上海-反爬虫风控策略专家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7301285817245321510/detail
 * Match:5:数据分析,可视化,python,sql,建模
+
 
 
 ```
@@ -2272,12 +2503,14 @@ Req:1、计算机、信息安全、统计、数学等相关专业；
 5、具有较强的问题解决能力，能够,.etc
 
 
+
 ```
 
 
 ##### 上海-后端开发工程师-实时通信
 * URL: https://jobs.bytedance.com/referral/pc/position/7306037838126500106/detail
 * Match:5:bi,监控,python,sql,调度
+
 
 
 ```
@@ -2292,12 +2525,14 @@ Req:1、本科及以上学历，至少熟练使用一门编程语言(C/C++/Java/
 4、了解zipkin等链路跟踪工具，常用RPC框架如Springcloud、dubb,.etc
 
 
+
 ```
 
 
 ##### 上海-后端研发专家/高级工程师-大数据查询服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7238923044030318907/detail
 * Match:5:大数据,presto,hive,sql,调度
+
 
 
 ```
@@ -2313,12 +2548,14 @@ Req:1、精通Java/Scala语言，包括JVM、类装载、线程、并发、IO资
 5、具备较强的项目推,.etc
 
 
+
 ```
 
 
 ##### 上海-后端研发技术专家/工程师-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7229998178317650232/detail
 * Match:5:大数据,项目管理,数据分析,数仓,hive
+
 
 
 ```
@@ -2337,12 +2574,14 @@ Req:1、计算机相关专业，本科及以上学历；
 5、熟悉大数据生态环境，了解 Flink 或 Hadoop，Hive，Kafka，Spark，Druid等大数据技术栈；分析,.etc
 
 
+
 ```
 
 
 ##### 上海-后端研发负责人-电商平台方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7372039804613036339/detail
 * Match:5:大数据,python,hive,数仓,sql
+
 
 
 ```
@@ -2357,12 +2596,14 @@ Req:1、5年以上研发工作经验，本科及以上学历，计算机、自�
 5、熟悉大数据开发流程，掌握,.etc
 
 
+
 ```
 
 
 ##### 上海-向量化计算引擎技术专家/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7195383370012150073/detail
 * Match:5:大数据,数据仓库,presto,hive,sql
+
 
 
 ```
@@ -2376,12 +2617,14 @@ Req:1、良好的 C++ 编程基础；
 3、对数据仓库或者大数据领域有深刻的理解，熟悉至少一款主流大数据系统原理及源码，比如Spark、Presto、Druid、Kylin、Hive、Impala、Doris、ClickHouse、StarRocks等；,.etc
 
 
+
 ```
 
 
 ##### 上海-向量化计算引擎技术专家/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7260395115256072506/detail
 * Match:5:大数据,数据仓库,presto,hive,sql
+
 
 
 ```
@@ -2395,12 +2638,14 @@ Req:1、良好的 C++ 编程基础；
 3、对数据仓库或者大数据领域有深刻的理解，熟悉至少一款主流大数据系统原理及源码，比如Spark、ClickHouse、Impala、Doris、TiDB、Presto、Druid、Kylin、Hive、MySQL、,.etc
 
 
+
 ```
 
 
 ##### 上海-商业化数据科学家-穿山甲
 * URL: https://jobs.bytedance.com/referral/pc/position/6963168681346189598/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -2413,12 +2658,14 @@ Req:1、统计学、计算机、经济学等数据科学、量化分析相关专
 3、具备优秀的商业敏感度与逻辑思维能力，能够在较大不确定性的问题中构建框架，将数据转化为有效的商业洞察，有互联网及计算广告相关行业经验优先；,.etc
 
 
+
 ```
 
 
 ##### 上海-国际化数据科学家 - 线索广告
 * URL: https://jobs.bytedance.com/referral/pc/position/7200573153818298681/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -2432,12 +2679,14 @@ Req:1、3年以上数据分析/数据科学行业经验；
 5、熟练使用SQL和其他数据分析/建模语言(Python, R等），可以熟练处理,.etc
 
 
+
 ```
 
 
 ##### 上海-国际化数据科学家 - 非闭环电商广告方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7244542282749413688/detail
 * Match:5:可视化,python,hive,sql,数据科学
+
 
 
 ```
@@ -2456,12 +2705,14 @@ Req:1、2年以上工作经验，数理学科背景优先（如统计学，运�
 5、英文听说读写流利,.etc
 
 
+
 ```
 
 
 ##### 上海-国际化数据科学家/数据分析师 - 中小企业增长
 * URL: https://jobs.bytedance.com/referral/pc/position/7074939991797729550/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -2474,6 +2725,7 @@ Req:1、5年以上数据分析/数据科学行业经验；
 3、扎实的数据分析理论和技术基础，有开发、算法背景优先；能根据数据提供合理的见解推动产品的开发和迭代；
 4、有广告业务、营销行业或用户增长相关经验优先；
 5、熟练使用SQL和其他数据分析/建模语言(Python, R等），可以熟练处理,.etc
+
 
 
 ```
@@ -2484,6 +2736,7 @@ Req:1、5年以上数据分析/数据科学行业经验；
 * Match:5:数据分析,python,sql,建模,数据科学
 
 
+
 ```
 JD: 作为目前全球领先的短视频平台，我们的使命是鼓励创作，激发创意。依托于短视频平台的高速增长，国际化商业广告产品，希望连接起全球广告商和客户，建立一个易于理解、易于使用的强大的广告平台。 
 国际化商业产品数据科学团队旨在以数据和科学的方法，引领产品决策迭代，实现收入的可持续增长。我们诚邀优秀的数据科学家一起，建立面向全球的接触团队，打造一流的广告平台。
@@ -2496,12 +2749,14 @@ Req:1、5年以上数据分析/数据科学行业经验；
 5、熟练使用SQL和其他数据分析/建模语言(Python, R等），可以熟练处理,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商 - 数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/6930117949588883720/detail
 * Match:5:数据分析,可视化,监控,hive,sql
+
 
 
 ```
@@ -2518,12 +2773,14 @@ Req:1、本科及以上学历，3年以上电商平台数据分析经验，有�
 6、沟通能力强，英语工,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商 - 资深数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/6960584509260040462/detail
 * Match:5:数据分析,可视化,监控,hive,sql
+
 
 
 ```
@@ -2540,12 +2797,14 @@ Req:1、本科及以上学历，5年以上电商平台数据分析经验，有�
 6、沟通能力强，英语工作能,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-东南亚策略分析师（经营分析方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7129403954690148622/detail
 * Match:5:数据分析,监控,python,商业分析,sql
+
 
 
 ```
@@ -2558,12 +2817,14 @@ Req:1、本科及以上学历，经济学、商业分析、统计学、数学、
 2、逻辑性强、思维严谨，具有较强的数据能力和业务敏感度，熟练掌握相关数据提取工具，能从海量数据提炼核心结果，熟悉主流的数据库及数据分析工具，需熟练使用SQL、Excel，掌握分析工具如R，Python，SAS等加分,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-商业分析师（治理与体验方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7441583397862869256/detail
 * Match:5:项目管理,数据分析,监控,商业分析,报表
+
 
 
 ```
@@ -2579,12 +2840,14 @@ Req:1、本科及以上学历，3年以上战略或商业分析工作经验，�
 5、英语可作为工作语言，有电商工作经验优先,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-商品产品运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7434809835881892147/detail
 * Match:5:项目管理,数据分析,可视化,hive,sql
+
 
 
 ```
@@ -2602,12 +2865,14 @@ Req:1、本科以上学历，3年及以上电商平台商品运营相关经验�
 6、有数据产品，算法,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-商品域产品运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7370928843337845030/detail
 * Match:5:项目管理,数据分析,可视化,hive,sql
+
 
 
 ```
@@ -2625,12 +2890,14 @@ Req:1、本科以上学历，3年及以上电商平台商品运营相关经验�
 6、有数据产品，,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-战略商业分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7340878515842402611/detail
 * Match:5:数据分析,可视化,商业分析,sql,建模
+
 
 
 ```
@@ -2645,12 +2912,14 @@ Req:1、认可战略研究+经营分析+数据分析结合的价值，喜欢挖�
 4、英文可作为工作语言。,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-数据分析师/数据科学家（物流分析方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7342754369983973641/detail
 * Match:5:数据分析,bi,监控,sql,报表
+
 
 
 ```
@@ -2664,12 +2933,14 @@ Req:1、本科及以上学历，数学、统计学、运筹学、供应链与物
 4、较强的沟通能力，学习能力和执行力，逻辑清晰、善于表达自己观点并推动落地。,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-规模化商家招募-欧洲市场
 * URL: https://jobs.bytedance.com/referral/pc/position/7446988572747811090/detail
 * Match:5:数据分析,bi,监控,商业分析,sql
+
 
 
 ```
@@ -2685,12 +2956,14 @@ Req:1、本科及以上学历；
 6、英语流利，能根据业务要求,.etc
 
 
+
 ```
 
 
 ##### 上海-国际电商-越南头部达人策略
 * URL: https://jobs.bytedance.com/referral/pc/position/7311249278206445850/detail
 * Match:5:数据分析,可视化,监控,商业分析,sql
+
 
 
 ```
@@ -2706,12 +2979,14 @@ Req:1、本科及以上学历，2年以上电商、咨询、商业分析经验�
 5、具备良好的英文沟通、书写能力，英,.etc
 
 
+
 ```
 
 
 ##### 上海-增长算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7260124569721588029/detail
 * Match:5:大数据,数据分析,python,hive,建模
+
 
 
 ```
@@ -2723,12 +2998,14 @@ Req:1、掌握扎实的计算机科学基础知识 (数据结构/算法/网络�
 3、具有敏锐的数据分析和洞察能力，熟悉常见的大数据开发工具,.etc
 
 
+
 ```
 
 
 ##### 上海-增长算法工程师-电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7244754044768766263/detail
 * Match:5:大数据,数据分析,python,sql,建模
+
 
 
 ```
@@ -2741,12 +3018,14 @@ Req:1、硕士研究生及以上学历，具备扎实的机器学习技术基础
 3、具备较好的商业理解能力，能够根据业务需求合理抽象算法问题，有良好的沟通和总结能力，,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据开发工程师-流式计算方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7012135555505441054/detail
 * Match:5:大数据,python,数据湖,sql,deltalake
+
 
 
 ```
@@ -2760,12 +3039,14 @@ Req:1、对流式计算系统有深入的了解，在生产环境有TB级别Flin
 3、熟悉Jav,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据架构师-国际化电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7090040449352681764/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -2780,12 +3061,14 @@ Req:1、熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 4、5年以上数据仓库或大数据开发，丰富的实时或者离线数据体系建设经验。,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据架构师-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6933190344915306760/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -2800,12 +3083,14 @@ Req:1、熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 4、6年以上数据仓库或大数据开发，丰富的实时或者离线数据体系建设经验。,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据研发架构师-数据平台
 * URL: https://jobs.bytedance.com/referral/pc/position/6926389422281099527/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -2820,12 +3105,14 @@ Req:1、 熟练使用Hadoop、Hive、spark，flink等大数据框架，熟悉SQL
 4、 6年以上数据仓库或大数据开发，丰富的实时或者离线数据体系建设经验,.etc
 
 
+
 ```
 
 
 ##### 上海-大数据高级研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7231814480194423077/detail
 * Match:5:大数据,python,数据湖,sql,deltalake
+
 
 
 ```
@@ -2840,12 +3127,14 @@ Req:1、对大数据系统有深入的了解，在生产环境有TB级别Flink�
 3、熟悉Java,.etc
 
 
+
 ```
 
 
 ##### 上海-大模型应用架构师/负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7441429020011940114/detail
 * Match:5:数据仓库,项目管理,数据分析,python,sql
+
 
 
 ```
@@ -2857,12 +3146,14 @@ Req:1、擅长数据开发流程及相关技术栈，包括但不限于数据库
 3、拥有扎实的编程基础，熟练掌握至少一种主流编程语言（如Pytho,.etc
 
 
+
 ```
 
 
 ##### 上海-家装商家策略运营经理-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7432248257591789878/detail
 * Match:5:项目管理,数据分析,监控,商业分析,sql
+
 
 
 ```
@@ -2876,12 +3167,14 @@ Req:1、本科及以上学历，5年及以上商业分析、战略、商家/商�
 4、有韧性，有责任感与目标感，能抓住重点解决复杂问题，长期主义。,.etc
 
 
+
 ```
 
 
 ##### 上海-抖音搜索数据科学家-业务模型方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7344991710440589605/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -2896,12 +3189,14 @@ Req:1、本科及以上学历，欢迎有多学科背景且能将跨学科知识
 5、有,.etc
 
 
+
 ```
 
 
 ##### 上海-抖音搜索数据科学家-实验评估方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7344993955833186610/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -2917,12 +3212,14 @@ Req:1、本科及以上学历，统计学、数据科学、计算机、计量经
 6、有搜索经验为加分,.etc
 
 
+
 ```
 
 
 ##### 上海-抖音数据分析师-创作者经营方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7291188469785856311/detail
 * Match:5:数据分析,可视化,监控,hive,sql
+
 
 
 ```
@@ -2937,12 +3234,14 @@ Req:1、本科及以上学历，2年以上互联网产品数据分析经验者�
 5、沟通能力强，工作能力优秀。,.etc
 
 
+
 ```
 
 
 ##### 上海-抖音数据分析师-社交与创作方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7291186930220632357/detail
 * Match:5:数据分析,可视化,监控,hive,sql
+
 
 
 ```
@@ -2957,12 +3256,14 @@ Req:1、本科及以上学历，2年以上C端用户产品数据分析经验优�
 5、沟通能力强，工作能力优秀。,.etc
 
 
+
 ```
 
 
 ##### 上海-推荐算法工程师-国际电商（商城）
 * URL: https://jobs.bytedance.com/referral/pc/position/7330538563832088869/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -2977,12 +3278,14 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
 
+
 ```
 
 
 ##### 上海-推荐算法工程师-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7088259604949731592/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -2995,6 +3298,7 @@ Req:1. 扎实的算法和数据结构基础，优秀的问题理解能力和编�
 2. 机器学习基础理论扎实，熟悉常用的算法模型（如CF、FM、Word2vec、LR、GBDT、DNN），对模型调优有一定实践经验；
 3. 对推荐系统召回/排序/多样性/冷启动中一个或多个方向有过深入的实践，了解业界经典的模型和方法；
 4. 熟悉至少一门编程语言（C/C++/Java/go/py,.etc
+
 
 
 ```
@@ -3005,6 +3309,7 @@ Req:1. 扎实的算法和数据结构基础，优秀的问题理解能力和编�
 * Match:5:大数据,python,hive,sql,建模
 
 
+
 ```
 JD: 1. 独特的业务问题，涉及到商品/直播/短视频等多种体裁的混合推荐，多个场景/多种目标的联合建模；
 2. 超大规模的推荐模型优化，利用深度学习、迁移学习、多任务学习、表征学习、强化学习等多种方法提升信息匹配的效率；
@@ -3017,12 +3322,14 @@ Req:1. 扎实的算法和数据结构基础，优秀的问题理解能力和编�
 4. 熟悉至少一门编程语言（C/C++/Java/go/py,.etc
 
 
+
 ```
 
 
 ##### 上海-数据仓库专家-TikTok
 * URL: https://jobs.bytedance.com/referral/pc/position/7137984616916863245/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -3036,12 +3343,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 4、善于沟通，,.etc
 
 
+
 ```
 
 
 ##### 上海-数据仓库专家-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7031755417538955527/detail
 * Match:5:大数据,数据仓库,python,hive,建模
+
 
 
 ```
@@ -3056,12 +3365,14 @@ Req:1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase/Hive 等；
 ,.etc
 
 
+
 ```
 
 
 ##### 上海-数据仓库工程师-Flow方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7445200034708637970/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -3078,12 +3389,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 5、有数据安全隐私合规建设经验优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据仓库开发工程师-国际化业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7075542143296899358/detail
 * Match:5:数据仓库,python,hive,sql,建模
+
 
 
 ```
@@ -3099,12 +3412,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 5、较好的英文沟通能力是加分项。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师 - AI创新业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7280858115875244349/detail
 * Match:5:数据分析,监控,python,sql,数据科学
+
 
 
 ```
@@ -3118,12 +3433,14 @@ Req:1、本科及以上学历，3年以上数据分析经验；具备内容生�
 4、对AI创新业,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师（商城&交易链路）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7027817549753141541/detail
 * Match:5:数据分析,python,hive,sql,tableau
+
 
 
 ```
@@ -3135,12 +3452,14 @@ Req:1、精通至少一种数据库操作，如Hive/Mysql等；熟悉常用的�
 3、有过用户画像，商,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师（自助中心）-中国电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7446232736010914066/detail
 * Match:5:数据分析,监控,python,sql,建模
+
 
 
 ```
@@ -3155,12 +3474,14 @@ Req:1、数理功底扎实，有数学、统计学等数据相关专业优先；
 5、有电商平台/品牌/零售相关工作经验者优先，有商家招募、孵化成长相关经验优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据分析师（营销大促）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7342404956131297563/detail
 * Match:5:数据分析,监控,python,商业分析,sql
+
 
 
 ```
@@ -3173,12 +3494,14 @@ Req:1、数据分析工作经验相关经验5年及以上，具备有电商相�
 3、好奇心强，主动性强，能快速学习，能够,.etc
 
 
+
 ```
 
 
 ##### 上海-数据应用后端开发工程师-Data
 * URL: https://jobs.bytedance.com/referral/pc/position/7205179475129960759/detail
 * Match:5:大数据,数据分析,bi,建模,报表
+
 
 
 ```
@@ -3195,12 +3518,14 @@ Req:1、本科以及以上学历，计算机、通信、数学等相关专业，
 6、具备较强的数据分析、文档编写以及工,.etc
 
 
+
 ```
 
 
 ##### 上海-数据湖存储 Tech Lead/架构师-Hudi
 * URL: https://jobs.bytedance.com/referral/pc/position/7290498118142380325/detail
 * Match:5:大数据,presto,数据湖,hive,delta lake
+
 
 
 ```
@@ -3215,12 +3540,14 @@ Req:1、熟悉开源数据湖存储方案 Hudi，Iceberg，Delta Lake 其一的�
 4、具有较强的项目推动能力，能推动技术项目在业务侧的落地。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-国际化产品（ROI 模型应用）-上海
 * URL: https://jobs.bytedance.com/referral/pc/position/7229914872787601721/detail
 * Match:5:大数据,数据分析,python,hive,建模
+
 
 
 ```
@@ -3236,12 +3563,14 @@ Req:- 熟练掌握Python各类数据分析库(Pandas、Scikit-learn、Scipy、Py
 - 热爱数据分析，有用户行为建模经验优先,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-国际化架构组
 * URL: https://jobs.bytedance.com/referral/pc/position/7405431868475132211/detail
 * Match:5:数据仓库,数据分析,python,sql,数据科学
+
 
 
 ```
@@ -3255,12 +3584,14 @@ Req:1、本科及以上学历，统计学、数据科学、计算机、经济学
 4、有较强的学习能力和好奇心，,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-多媒体架构-TikTok
 * URL: https://jobs.bytedance.com/referral/pc/position/7358352606639311130/detail
 * Match:5:数据分析,监控,商业分析,sql,数据科学
+
 
 
 ```
@@ -3276,12 +3607,14 @@ Req:1、数学、统计学、计算机相关专业硕士毕业优先，1年以�
 6、对研发体系具备理解力优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家-抖音推荐
 * URL: https://jobs.bytedance.com/referral/pc/position/7249563957382351164/detail
 * Match:5:大数据,python,商业分析,sql,数据科学
+
 
 
 ```
@@ -3296,12 +3629,14 @@ Req:1、数学/统计学/运筹学/数据科学/计算机/经济学/商业分析
 4、严谨的逻辑思维能力，善于分析问题和解决问题，良好的沟通协作能力，对于挑,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家（推荐与价格） -抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7342726308416211238/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -3313,12 +3648,14 @@ Req:1、3年以上数据分析、挖掘、建模工作经验，具备电商搜�
 3、对特征工程、用户行为建模等有相对丰富的经验，能够基于实际的业务场景，抽象问题为具体的模型，最终提供数据驱动的产品和见解，并影响产品和,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家（搜索方向）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7395105851320092979/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -3332,12 +3669,14 @@ Req:1、有定量学科（例如，统计学、运筹学、经济学、计算机
 3、精通SQL、Python或R，并在以下三个领域中的至少一个领域具有专业知识：产品分析、高级测量（例如因果推断、AB测试或具有复杂权衡的系统）、建模（机器学习/深度学习）。,.etc
 
 
+
 ```
 
 
 ##### 上海-数据科学家（电商内容生态）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7447526914179172615/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -3350,12 +3689,14 @@ Req:1、3年以上数据分析工作经验，具备内容生态、搜索和推�
 3、具备构建数据指标体系知识框架，曾有过构建指标体系经验；掌握基本数据分析方法，对数据落地到业务有,.etc
 
 
+
 ```
 
 
 ##### 上海-数据策略分析师（上海/北京）
 * URL: https://jobs.bytedance.com/referral/pc/position/7147996529332193573/detail
 * Match:5:数据分析,监控,python,sql,报表
+
 
 
 ```
@@ -3370,12 +3711,14 @@ Req:1、本科及以上学历，统计/数学/计算机相关专业学历背景�
 4、具备较强的数据处理、分析能力与模型搭建能力，逻辑思维强，能够独立完成数据分析报告。,.etc
 
 
+
 ```
 
 
 ##### 上海-测试开发工程师（隐私质量）-TikTok
 * URL: https://jobs.bytedance.com/referral/pc/position/6857789504209258765/detail
 * Match:5:大数据,监控,python,数仓,调度
+
 
 
 ```
@@ -3389,12 +3732,14 @@ Req:1、拥有5年工作经验，计算机或相关专业本科以上学历，�
 4、熟悉大规,.etc
 
 
+
 ```
 
 
 ##### 上海-珠宝酒水潮奢行业经营分析-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7290386528692635964/detail
 * Match:5:项目管理,数据分析,监控,商业分析,报表
+
 
 
 ```
@@ -3409,12 +3754,14 @@ Req:1、本科及以上学历，3年及以上互联网商业分析、经营分�
 4、对内容电商有比较好的理解，有相关行业工作和项目经验优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-用户增长数据科学家-国际电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7226552484855417143/detail
 * Match:5:项目管理,数据分析,python,sql,数据科学
+
 
 
 ```
@@ -3428,12 +3775,14 @@ Req:1、本科及以上学历，3年以上数据分析经验，电商经验者�
 4、良好的项目管理能力、沟通能力、资源整合能力和一定抗压能力。,.etc
 
 
+
 ```
 
 
 ##### 上海-电商战略商业分析师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7096827808475367716/detail
 * Match:5:数据分析,可视化,商业分析,sql,建模
+
 
 
 ```
@@ -3448,12 +3797,14 @@ Req:1、认可战略与数据结合的价值，喜欢挖掘数据背后的商业
 4、熟练使用Excel，精通SQL，熟练使用一种数据可视化分析工具者优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-经营分析师（创意经营方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7385066560845433139/detail
 * Match:5:数据分析,bi,python,商业分析,sql
+
 
 
 ```
@@ -3468,12 +3819,14 @@ Req:1、本科及以上学历优先，3年及以上相关工作经验，优秀�
 4、沟通协调能力强，具备较好的资源整合能力，能够独立开展研究项目。,.etc
 
 
+
 ```
 
 
 ##### 上海-规模商家策略运营（经营分析）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7270376220985739578/detail
 * Match:5:数据分析,可视化,python,hive,sql
+
 
 
 ```
@@ -3488,12 +3841,14 @@ Req:1、5年以上消费行业商家策略与业务运营经验，熟悉电商/�
 4、熟练使用Excel，擅长数据分析和可视化，具备SQL、Hive、R和Python者优先。,.etc
 
 
+
 ```
 
 
 ##### 上海-财务BP-国内电商中台
 * URL: https://jobs.bytedance.com/referral/pc/position/7072980974983760164/detail
 * Match:5:数据分析,监控,hive,sql,报表
+
 
 
 ```
@@ -3510,12 +3865,14 @@ Req:1、本科以上学历，财务管理相关专业优先；
 5、有财务金融类证书优先，如CPA/CFA/ACCA/CMA等,.etc
 
 
+
 ```
 
 
 ##### 上海-质量效能数据分析师-TikTok
 * URL: https://jobs.bytedance.com/referral/pc/position/7287873330781178169/detail
 * Match:5:数据分析,bi,可视化,python,sql
+
 
 
 ```
@@ -3529,12 +3886,14 @@ Req:1、本科及以上学历，统计学、计算机、数学相关专业，2�
 4、具备优秀的组织和协作能力，工作自驱，有韧性；有海,.etc
 
 
+
 ```
 
 
 ##### 上海-贷后风控策略
 * URL: https://jobs.bytedance.com/referral/pc/position/6989892446516939044/detail
 * Match:5:数据分析,监控,python,sql,报表
+
 
 
 ```
@@ -3549,12 +3908,14 @@ Req:1、本科及以上学历，数学、计算机、统计学或金融等相关
 3、3年以上贷后分析相关工作经验，有互金、消费贷款、信用卡等催收策略相关工作经验优先。 ,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据产品-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7031012892057520421/detail
 * Match:5:大数据,数据仓库,项目管理,数据分析,bi
+
 
 
 ```
@@ -3567,6 +3928,7 @@ Req:1、具备较好的产品设计能力，有数据BI、数据分析或商家�
 2、具备较好的数据分析能力，能够沉淀数据分析方法论，通过产品化来固化一类数据分析思路，形成业务场景的数据解决方案，对业务有较好的指导意义；
 3、具有良好的逻辑思维能力，善于沟通，有较好的项目管理能力和推进能力；
 4、熟悉行业大数据应用场景，有数据仓库、BI、数据挖掘、用户画像等,.etc
+
 
 
 ```
@@ -3577,6 +3939,7 @@ Req:1、具备较好的产品设计能力，有数据BI、数据分析或商家�
 * Match:5:大数据,数据仓库,项目管理,数据分析,bi
 
 
+
 ```
 JD: 1、负责生活服务业务的业务数据平台产品的规划和设计，包括不限于数据参谋类产品、数据360、管理驾驶舱等系列产品；
 2、负责生活服务业务的数据体系规划、建设和运营；
@@ -3589,12 +3952,14 @@ Req:1、具备较好的产品设计能力，有数据BI、数据分析或商家�
 4、熟悉行业大数据应用场景，有数据仓库、BI、数据挖掘、用户画像等,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据仓库工程师-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7031755308222957855/detail
 * Match:5:大数据,数据仓库,hive,sql,建模
+
 
 
 ```
@@ -3610,12 +3975,14 @@ Req:1、熟悉数据仓库体系架构、数据建模方法、数据治理等知
 5、扎实的数据结构、数据库原理等基础知识，理工科本科以,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据分析师-AI创新业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7388065961116616969/detail
 * Match:5:数据分析,监控,python,sql,数据科学
+
 
 
 ```
@@ -3630,12 +3997,14 @@ Req:1、本科及以上学历，5年以上数据分析经验；具备内容生�
 4、积极主动，有主人翁意识，责任心强，具备良好的团队协作能力与承压能力。,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据分析师（用户增长方向）-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7316842590023272713/detail
 * Match:5:a/b,数据分析,python,商业分析,sql
+
 
 
 ```
@@ -3649,12 +4018,14 @@ Req:1、本科及以上学历，3年以上的数据分析经验，具有生活�
 4、精通SQL，具备使用R、Pyt,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据科学家-TikTok用户增长
 * URL: https://jobs.bytedance.com/referral/pc/position/7041046868130629902/detail
 * Match:5:a/b,数据分析,python,sql,数据科学
+
 
 
 ```
@@ -3669,12 +4040,14 @@ Req:1、计算机/统计学/数学/网络安全或其他相关专业；
 5、能够以结果为导向，在日常工作具备数据驱动的思维方式，有高度的自主性。,.etc
 
 
+
 ```
 
 
 ##### 上海-资深数据科学家（商家商品方向）-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7384734680623089971/detail
 * Match:5:a/b,数据分析,python,sql,建模
+
 
 
 ```
@@ -3687,12 +4060,14 @@ Req:1、本科及以上学历，3年以上的数据分析经验，具有生活�
 3、精通SQL，具备使用R、Python或其他编程语言的实践经验；具有运用机器学习技术（如回归、分类、聚类等）进行分析的能力，并且在将数据分析成果转化为业务策略,.etc
 
 
+
 ```
 
 
 ##### 上海-资深经营策略分析师-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7361466673372760357/detail
 * Match:5:项目管理,数据分析,数仓,商业分析,sql
+
 
 
 ```
@@ -3706,12 +4081,14 @@ Req:1、本科及以上学历，5年以上互联网商业分析、经营分析�
 4、对本地生活有比较好的理解，,.etc
 
 
+
 ```
 
 
 ##### 上海-达人增长算法工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7407371091147508005/detail
 * Match:5:大数据,数据分析,python,hive,建模
+
 
 
 ```
@@ -3724,12 +4101,14 @@ Req:1、硕士研究生及以上学历，熟悉机器学习/NLP/深度学习/因
 3、自信、主动、交流，能够主动深入了解业务，适应快速的业务变化，有良好的个人表达和组织沟通能力，能够推进,.etc
 
 
+
 ```
 
 
 ##### 上海-隐私安全数据运营专家-国际化短视频
 * URL: https://jobs.bytedance.com/referral/pc/position/7446987221952022791/detail
 * Match:5:大数据,数据分析,监控,hive,sql
+
 
 
 ```
@@ -3744,12 +4123,14 @@ Req:1、本科或以上学历，计算机、数学、统计、管理信息系统
 4、逻辑清晰、执行力强、具备良好的学习能力和自驱力，跨部门协作,.etc
 
 
+
 ```
 
 
 ##### 上海-餐饮策略运营-本地生活 Dine-in Category Strategic Operations-Local Services
 * URL: https://jobs.bytedance.com/referral/pc/position/7439229252770531602/detail
 * Match:5:项目管理,数据分析,bi,监控,商业分析
+
 
 
 ```
@@ -3765,12 +4146,14 @@ Req:1、拥有5年以上的电商平台、咨询公司或互联网战略、行�
 4、适应能力强，学习迅速，积极上进，多面手选手，并,.etc
 
 
+
 ```
 
 
 ##### 上海-高级大数据测试开发工程师-广告系统
 * URL: https://jobs.bytedance.com/referral/pc/position/6922677070901676301/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -3787,12 +4170,14 @@ Req:1、本科及以上学历，计算机相关专业毕业，2年以上工作�
 6、性格开朗， 善于沟通和事务推进，有团队管,.etc
 
 
+
 ```
 
 
 ##### 上海-高级数据分析师-国际化直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7119468252950186270/detail
 * Match:5:数据分析,可视化,监控,sql,报表
+
 
 
 ```
@@ -3807,6 +4192,7 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业优先
 5、具备抗压能力，优,.etc
 
 
+
 ```
 
 
@@ -3815,6 +4201,7 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业优先
 ##### 北京-数据分析师 - 职场服务 - 北京
 * URL: https://jobs.bytedance.com/referral/pc/position/7390313756310948147/detail
 * Match:11:数据分析,bi,可视化,监控,python,数仓,sql,tableau,powerbi,建模,报表
+
 
 
 ```
@@ -3830,12 +4217,14 @@ Req:1、本科及以上学历；五年以上数据分析相关经验；
 5、有良好的沟通表达,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据科学家-多媒体网络
 * URL: https://jobs.bytedance.com/referral/pc/position/7369813761383303461/detail
 * Match:10:大数据,a/b,数据分析,监控,python,hive,sql,调度,建模,数据科学
+
 
 
 ```
@@ -3849,12 +4238,14 @@ Req:1、计算机、统计、数据科学或者相关专业本科以上学历，
 3、独立负责过复杂课题的数据挖掘工作，包括指标的制定、校准、拆解、异常归因，及后面策略、,.etc
 
 
+
 ```
 
 
 ##### 北京-国际电商-战略分析师 (治理与体验战略) Strategy Analyst, E-Commerce Governance and Experience Strategy
 * URL: https://jobs.bytedance.com/referral/pc/position/7068642324147357989/detail
 * Match:9:团队负责人,数据分析,bi,可视化,监控,python,sql,tableau,建模
+
 
 
 ```
@@ -3867,12 +4258,14 @@ Req:1、本科及以上学历，数学、统计学、经济学、计算机科学
 3、具备一定的战略思维能力，能够快速理解业,.etc
 
 
+
 ```
 
 
 ##### 北京-多模态数据服务工程师-豆包大模型
 * URL: https://jobs.bytedance.com/referral/pc/position/7377590811393739059/detail
 * Match:9:大数据,数据仓库,数据分析,可视化,python,数据湖,hive,sql,建模
+
 
 
 ```
@@ -3885,12 +4278,14 @@ Req:1、3年以上数据服务相关开发经验，熟练掌握Python、Golang�
 4、具备出色的沟通和协作能力，,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-国际支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7444158313065203975/detail
 * Match:9:大数据,数据分析,报表,可视化,python,hive,sql,tableau,数据科学
+
 
 
 ```
@@ -3905,12 +4300,14 @@ Req:1、本科及以上学历，计算机、统计、数据分析、数据科学
 4、具备扎实的财务、金融基础知识，理解企业财务报表及财务比率分析，有财务金融,.etc
 
 
+
 ```
 
 
 ##### 北京-数据服务工程师-豆包大模型
 * URL: https://jobs.bytedance.com/referral/pc/position/7360621554085005594/detail
 * Match:9:大数据,数据仓库,数据分析,可视化,python,数据湖,hive,sql,建模
+
 
 
 ```
@@ -3926,12 +4323,14 @@ Req:1、3年以上数据服务相关开发经验，熟练掌握Python、Golang�
 4、了解Kafka、Rock,.etc
 
 
+
 ```
 
 
 ##### 北京-隐私安全及数据运营经理-信息系统
 * URL: https://jobs.bytedance.com/referral/pc/position/7424149040767715593/detail
 * Match:9:大数据,数据仓库,数据分析,bi,可视化,监控,hive,sql,tableau
+
 
 
 ```
@@ -3946,12 +4345,14 @@ Req:1、本科或以上学历，计算机、数学、统计、管理信息系统
 4、逻辑清晰、执行力强、具,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据分析师/数据科学家-开发者服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7330884831126456586/detail
 * Match:9:数据分析,bi,可视化,python,sql,tableau,powerbi,建模,数据科学
+
 
 
 ```
@@ -3966,12 +4367,14 @@ Req:1、5年及以上数据分析/数据科学行业经验；
 4、熟练使用SQL和其他数据分析/建模语言(Python, R等），掌握Tableau、PowerBI等数据可视化工具者,.etc
 
 
+
 ```
 
 
 ##### 北京-后端高级研发工程师-数据平台-抖音/抖音直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7024404033029114125/detail
 * Match:8:大数据,数据仓库,监控,python,数仓,hive,sql,建模
+
 
 
 ```
@@ -3988,12 +4391,14 @@ Req:1、熟练运用Python、Java、Scala、Go等至少一门语言，对数据�
 4、丰富的大数据技术经验，熟练掌控至少2种大数据技术，包括不限于Hadoo,.etc
 
 
+
 ```
 
 
 ##### 北京-基础架构数据运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7389999114635381042/detail
 * Match:8:数据仓库,数据分析,bi,可视化,python,sql,tableau,powerbi
+
 
 
 ```
@@ -4009,12 +4414,14 @@ Req:1、5年及以上互联网数据分析工作经验，有较强的数据统�
 5、熟悉Python，掌握Tableau、PowerBI等数据可视化工具者优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据开发工程师-内容生态与体验
 * URL: https://jobs.bytedance.com/referral/pc/position/6936096786180786462/detail
 * Match:8:大数据,数据仓库,数据分析,可视化,python,数仓,hive,建模
+
 
 
 ```
@@ -4029,12 +4436,14 @@ Req:1. 计算机相关专业，本科及以上学历，1-8年大数据开发相�
 4. 有ClickHous,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音原创策略分析
 * URL: https://jobs.bytedance.com/referral/pc/position/7415921894287034675/detail
 * Match:8:项目管理,数据分析,bi,python,sql,tableau,powerbi,建模
+
 
 
 ```
@@ -4047,12 +4456,14 @@ Req:1、本科及以上学历，计算机、数学、统计学相关专业，有
 3、熟悉互联网产品的运营模式和用户行为，有成熟的复杂问题拆解,.etc
 
 
+
 ```
 
 
 ##### 北京-数仓开发工程师-国际化短视频-北京
 * URL: https://jobs.bytedance.com/referral/pc/position/7366845342455073061/detail
 * Match:8:大数据,数据仓库,python,数据湖,数仓,hive,sql,建模
+
 
 
 ```
@@ -4068,12 +4479,14 @@ Req:1、本科及以上学历，计算机相关专业，3年以上数据相关�
 4、掌握大数据技术栈，对框架原理有基本的了解，包括Hadoop/Hive/Spark/OLAP引擎等,.etc
 
 
+
 ```
 
 
 ##### 北京-数据DPM
 * URL: https://jobs.bytedance.com/referral/pc/position/7091613732409395487/detail
 * Match:8:大数据,项目管理,数据分析,可视化,数仓,hive,sql,建模
+
 
 
 ```
@@ -4087,12 +4500,14 @@ Req:1、本科以上学历，2年以上互联网业务数据内容实践经验�
 4、具备良好的逻辑思维能力；有同理心，具备,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库工程师-数仓建设方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7125780942334003463/detail
 * Match:8:大数据,数据仓库,数据分析,python,数仓,hive,sql,建模
+
 
 
 ```
@@ -4108,12 +4523,14 @@ Req:1. 计算机或相关专业本科及以上学历，3年以上工作经验；
 4. 精通SQL，具备海量数据下的性能调优能力，熟练掌握J,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库开发工程师-抖音直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7426696497225713971/detail
 * Match:8:大数据,数据仓库,数据分析,python,数仓,hive,sql,建模
+
 
 
 ```
@@ -4127,12 +4544,14 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业优先
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-供应链
 * URL: https://jobs.bytedance.com/referral/pc/position/7054379978196568328/detail
 * Match:8:大数据,数据仓库,数据分析,可视化,数仓,sql,建模,报表
+
 
 
 ```
@@ -4146,12 +4565,14 @@ Req:1、本科以上学历，数学、统计学、运筹学、计算机科学与
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据平台开发工程师-智能创作
 * URL: https://jobs.bytedance.com/referral/pc/position/7296751427396208934/detail
 * Match:8:大数据,数据仓库,数据分析,可视化,python,hive,sql,建模
+
 
 
 ```
@@ -4167,12 +4588,14 @@ Req:1、熟练掌握Python、Golang等一种以上编程语言，有高并发和
 5、加分项：有Hadoop、,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师-用户中台
 * URL: https://jobs.bytedance.com/referral/pc/position/7369490661337712933/detail
 * Match:8:大数据,数据仓库,数据分析,python,数仓,hive,sql,建模
+
 
 
 ```
@@ -4186,12 +4609,14 @@ Req:1、本科及以上学历，计算机、通信等相关专业，3年以上�
 4、对数仓建设、数据建模、数,.etc
 
 
+
 ```
 
 
 ##### 北京-数据挖掘-抖音
 * URL: https://jobs.bytedance.com/referral/pc/position/6955398971293354247/detail
 * Match:8:大数据,a/b,数据分析,监控,python,hive,sql,数据科学
+
 
 
 ```
@@ -4204,12 +4629,14 @@ Req:1、具有优秀的逻辑思维、沟通表达和快速学习能力；有主
 4、,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7424733333345011977/detail
 * Match:8:数据仓库,项目管理,数据分析,可视化,监控,hive,sql,报表
+
 
 
 ```
@@ -4222,12 +4649,14 @@ Req:1、本科及以上学历，计算机、金融、数学、统计学等相关
 3、精通EXCEL、PPT、SQL，熟悉Hive、Spark等数据库工具，了解数据仓库、数据可视化，熟悉常用的统计和分析方法，有互联网数据分析经验者优先；,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据分析师-飞书
 * URL: https://jobs.bytedance.com/referral/pc/position/7387642544932505866/detail
 * Match:8:大数据,数据分析,监控,python,hive,商业分析,sql,数据科学
+
 
 
 ```
@@ -4243,12 +4672,14 @@ Req:1、本科及以上学历，理工科专业背景优先考虑；
 5、具备高度的责任心和自驱力，有能力从业务,.etc
 
 
+
 ```
 
 
 ##### 北京-高级商业分析师-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7338733342215735579/detail
 * Match:8:数据分析,bi,可视化,python,hive,sql,tableau,powerbi
+
 
 
 ```
@@ -4262,12 +4693,14 @@ Req:1、统计学/数学/物理/计算机/经济学等相关专业，本科及�
 3、熟练掌握SQL并且至少会使用R、Python、SAS、MATLAB中的一种，熟悉常用数据统计和分,.etc
 
 
+
 ```
 
 
 ##### 北京-高级经营分析师-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7338733041592109321/detail
 * Match:8:数据分析,bi,可视化,python,hive,sql,tableau,powerbi
+
 
 
 ```
@@ -4281,12 +4714,14 @@ Req:1、统计学/数学/物理/计算机/经济学等相关专业本科及以�
 3、熟练掌握SQL并且至少会使用R、Python、SAS、MATLAB中的一种，熟悉常用数据统计和分,.etc
 
 
+
 ```
 
 
 ##### 北京-业务分析专家-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7439580584676870418/detail
 * Match:7:数据仓库,项目管理,数据分析,python,hive,商业分析,sql
+
 
 
 ```
@@ -4299,12 +4734,14 @@ Req:1、统计学/数学/计算机/经济学等相关专业本科及以上学历
 3、强执行力、强项目管理和跨团队协调能力，能独立推动项目落地并达成预期结,.etc
 
 
+
 ```
 
 
 ##### 北京-国际化数据科学家-广告创意方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7368783103991187738/detail
 * Match:7:数据分析,python,数仓,商业分析,sql,建模,数据科学
+
 
 
 ```
@@ -4320,12 +4757,14 @@ Req:职位要求
 4、善于沟通，工作积极主动，有主人翁意识，责任心强，具备良好的团队协作能力与承压能,.etc
 
 
+
 ```
 
 
 ##### 北京-国际支付-风控策略 (Fraud Strategist)
 * URL: https://jobs.bytedance.com/referral/pc/position/7188064839720569144/detail
 * Match:7:数据分析,bi,可视化,监控,python,sql,tableau
+
 
 
 ```
@@ -4340,12 +4779,14 @@ Req:1、本科及以上学历；
 4、有好奇心，具备识别风险管理新方法的能力，并能创造性地思考问题。,.etc
 
 
+
 ```
 
 
 ##### 北京-国际支付-风控策略leader
 * URL: https://jobs.bytedance.com/referral/pc/position/7231826281687943482/detail
 * Match:7:数据分析,bi,可视化,监控,python,sql,tableau
+
 
 
 ```
@@ -4361,12 +4802,14 @@ Req:1、本科及以上学历；
 5、有团队管理经验。,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据开发工程师 - 电商方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6820281790835951885/detail
 * Match:7:大数据,数据仓库,python,数仓,hive,sql,报表
+
 
 
 ```
@@ -4382,12 +4825,14 @@ Req:1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase/Hive 等；
 5、有高性能分布式平,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据研发工程师 — 实验评估方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7287193720087628090/detail
 * Match:7:大数据,数据仓库,presto,python,hive,sql,建模
+
 
 
 ```
@@ -4403,12 +4848,14 @@ Req:1、熟悉Presto、Hive、Spark、Flink、Clickhouse、Hadoop等大数据框
 5、愿意尝试新技术、新框架，接受业界大数据处理的新思想。,.etc
 
 
+
 ```
 
 
 ##### 北京-平台开发工程师-智能创作（北/上/广/杭）
 * URL: https://jobs.bytedance.com/referral/pc/position/7363112225458145586/detail
 * Match:7:大数据,数据仓库,bi,python,hive,sql,建模
+
 
 
 ```
@@ -4425,12 +4872,14 @@ Req:1、熟练掌握Python、Golang等一种以上编程语言，有高并发和
 5、加分项：Hadoop、S,.etc
 
 
+
 ```
 
 
 ##### 北京-懂车帝交易战略分析
 * URL: https://jobs.bytedance.com/referral/pc/position/7407365681128704266/detail
 * Match:7:大数据,数据分析,python,商业分析,sql,建模,数据科学
+
 
 
 ```
@@ -4443,12 +4892,14 @@ Req:1、在复杂业务场景下能分解并抽象问题，具备框架性思维
 3、3年以上战略/商业分析/数据分析经验，有消费品/电商行业经验优先，有数据科学和算法模型能力加分,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音数据科学-生态&安全
 * URL: https://jobs.bytedance.com/referral/pc/position/7391832731518535945/detail
 * Match:7:大数据,数据分析,监控,python,hive,sql,tableau
+
 
 
 ```
@@ -4461,12 +4912,14 @@ Req:1、2年以上大数据工作经验，本科及以上学历，熟练掌握Hi
 3、熟练掌握数据挖掘技能，如数据预处理、特征工程、监督学习和无监督学习算法的应用和调,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音数据科学家
 * URL: https://jobs.bytedance.com/referral/pc/position/7405627803439630642/detail
 * Match:7:a/b,数据分析,bi,监控,python,sql,tableau
+
 
 
 ```
@@ -4482,12 +4935,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 6、对内容行业感兴趣，,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音高级数据分析师-中视频方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7301946352115763465/detail
 * Match:7:a/b,数据分析,bi,python,sql,tableau,数据科学
+
 
 
 ```
@@ -4501,12 +4956,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 6、对内容行业感兴趣，有内容、增长,.etc
 
 
+
 ```
 
 
 ##### 北京-数据产品经理 - BI方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6885615767963715848/detail
 * Match:7:大数据,数据分析,bi,可视化,sql,tableau,powerbi
+
 
 
 ```
@@ -4523,12 +4980,14 @@ Req:1、3年以上数据分析和产品设计经验，统计、数学、计算�
 6,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库高级开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7204301418261514551/detail
 * Match:7:数据仓库,presto,监控,数仓,hive,sql,建模
+
 
 
 ```
@@ -4543,12 +5002,14 @@ Req:1、本科及以上学历，计算机相关专业；
 4、对数据敏,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7395123804224325926/detail
 * Match:7:大数据,数据分析,监控,python,hive,sql,报表
+
 
 
 ```
@@ -4562,12 +5023,14 @@ Req:1、3年及以上相关工作经验；数学、统计学、计算机相关�
 4、熟悉常规数据分析及挖掘方法，包括特,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-云通信
 * URL: https://jobs.bytedance.com/referral/pc/position/7355057869492963610/detail
 * Match:7:a/b,数据仓库,数据分析,监控,sql,调度,建模
+
 
 
 ```
@@ -4581,12 +5044,14 @@ Req:1、本科及以上学历，3年以上数据分析工作经验，具备云�
 4、好奇心强，有钻研精神。具有良好服务意识，抗压力和沟通能力强。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-客服平台-北京
 * URL: https://jobs.bytedance.com/referral/pc/position/7275733757062285627/detail
 * Match:7:项目管理,数据分析,监控,python,hive,sql,报表
+
 
 
 ```
@@ -4602,12 +5067,14 @@ Req:1、数学、统计学、计算机相关专业，本科及以上学历优先
 5、熟练使用HiveSQL，掌握Python/R等数据分析工具。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师（治理体验方向）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6943533825588250893/detail
 * Match:7:a/b,数据分析,可视化,监控,python,hive,sql
+
 
 
 ```
@@ -4621,12 +5088,14 @@ Req:1、5年以上数据分析工作经验，具备电商或平台治理经验�
 3、熟练使用Excel、精通SQL、Hive，至少可以熟练使用一种数据可视化分析工具，擅长R和Python,.etc
 
 
+
 ```
 
 
 ##### 北京-数据挖掘工程师-今日头条
 * URL: https://jobs.bytedance.com/referral/pc/position/6967246432722471176/detail
 * Match:7:大数据,数据分析,python,hive,商业分析,sql,建模
+
 
 
 ```
@@ -4640,12 +5109,14 @@ Req:1、数学、统计学、数据挖掘、机器学习、计算机、经济学
 4、有IT大数据分析经验或互联网公司数据分析经验，其中具有全局分析视,.etc
 
 
+
 ```
 
 
 ##### 北京-数据测试开发工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7088968968974928158/detail
 * Match:7:大数据,项目管理,监控,python,hive,sql,建模
+
 
 
 ```
@@ -4660,12 +5131,14 @@ Req:1、本科及以上学历，计算机软件等相关专业，2年及以上�
 4、具备数据库系统理论知识，掌,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学-智能模型评估
 * URL: https://jobs.bytedance.com/referral/pc/position/7418195565639158026/detail
 * Match:7:大数据,bi,python,hive,sql,tableau,powerbi
+
 
 
 ```
@@ -4679,12 +5152,14 @@ Req:1、本科及以上学历，数理统计、计算机科学、大数据、人
 4、,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家 - 国际化广告产品
 * URL: https://jobs.bytedance.com/referral/pc/position/6953652730283952398/detail
 * Match:7:数据分析,python,hive,sql,tableau,建模,数据科学
+
 
 
 ```
@@ -4698,12 +5173,14 @@ Req:1、计算机、统计、数据科学或者相关专业本科以上学历，
 3、有用户增长相关成功项目经验优先，有互联网行业、移动互联网行,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家 - 国际化直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7385119311696447771/detail
 * Match:7:a/b,数据分析,可视化,监控,python,sql,数据科学
+
 
 
 ```
@@ -4718,12 +5195,14 @@ Req:1、本科及以上学历，统计学、数据科学、经济学等相关专
 4、优秀的思维逻辑，善于分析问题和解决问题，良好的沟通协作能力，对于挑战充满热情。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家-抖音中长视频
 * URL: https://jobs.bytedance.com/referral/pc/position/7292988914440407305/detail
 * Match:7:大数据,a/b,数据分析,python,hive,sql,数据科学
+
 
 
 ```
@@ -4737,12 +5216,14 @@ Req:1、两年以上数据分析和机器学习经验；具备扎实的统计学
 4、具备优秀的数据敏感,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7000559710471178509/detail
 * Match:7:大数据,数据分析,python,hive,商业分析,sql,建模
+
 
 
 ```
@@ -4756,12 +5237,14 @@ Req:1、数学、统计学、数据挖掘、机器学习、计算机、经济学
 4、有IT大数据分析经验或互联网公司数据分析经验，其中具有全局分析视角,.etc
 
 
+
 ```
 
 
 ##### 北京-用户增长数据分析师-国际化短视频
 * URL: https://jobs.bytedance.com/referral/pc/position/7356272885273987365/detail
 * Match:7:a/b,数据分析,可视化,python,hive,sql,建模
+
 
 
 ```
@@ -4774,12 +5257,14 @@ Req:1、本科及以上学历，数学、经济学、统计学、计算机等相
 5、有责任心和好奇心，具备良好的沟通能力和团,.etc
 
 
+
 ```
 
 
 ##### 北京-经营分析-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/6950578907033094407/detail
 * Match:7:大数据,数据分析,bi,python,sql,tableau,建模
+
 
 
 ```
@@ -4793,12 +5278,14 @@ Req:1、有云计算相关互联网公司数据分析或经营分析经验，包
 3、熟练使用SQL、EXCEL、Tableau或其他BI工具，能用Python进行复杂数据处理和建模。,.etc
 
 
+
 ```
 
 
 ##### 北京-经营分析管理
 * URL: https://jobs.bytedance.com/referral/pc/position/7433354936740907274/detail
 * Match:7:大数据,项目管理,数据分析,bi,可视化,监控,商业分析
+
 
 
 ```
@@ -4812,12 +5299,14 @@ Req:1、具备5年以上战略分析、BI、经营分析、商业分析、用户
 3、思维活跃，能够快速适应工作节奏。,.etc
 
 
+
 ```
 
 
 ##### 北京-经营分析高级经理
 * URL: https://jobs.bytedance.com/referral/pc/position/7424025037348751625/detail
 * Match:7:大数据,项目管理,数据分析,bi,可视化,监控,商业分析
+
 
 
 ```
@@ -4832,12 +5321,14 @@ Req:1、五年及以上运营经验，数学、统计学、金融工程等数据
 4、抗压能力强，思维活跃，能适应公司工作节奏。,.etc
 
 
+
 ```
 
 
 ##### 北京-营销数据科学
 * URL: https://jobs.bytedance.com/referral/pc/position/6987291181354240292/detail
 * Match:7:数据仓库,项目管理,数据分析,python,hive,sql,数据科学
+
 
 
 ```
@@ -4850,12 +5341,14 @@ Req:1、本科以上学历优先，统计学/数据科学方向硕士及以上�
 3、熟练掌握Hive SQL、Python或R,.etc
 
 
+
 ```
 
 
 ##### 北京-财务BP-中国商业化产品
 * URL: https://jobs.bytedance.com/referral/pc/position/7363261954620016906/detail
 * Match:7:数据分析,bi,hive,sql,tableau,powerbi,报表
+
 
 
 ```
@@ -4869,12 +5362,14 @@ Req:1、大学本科及以上，财务相关专业优先；
 4、有财务金融类证书优先，如CPA,.etc
 
 
+
 ```
 
 
 ##### 北京-财务BP-国际支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7320555546553387315/detail
 * Match:7:数据分析,bi,hive,sql,tableau,powerbi,报表
+
 
 
 ```
@@ -4889,12 +5384,14 @@ Req:1、大学本科及以上学历，经管、金融、会计相关专业优先
 6、熟练使用各,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据科学经理 - 国际化直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7382041206165915942/detail
 * Match:7:a/b,数据分析,可视化,监控,python,sql,数据科学
+
 
 
 ```
@@ -4909,12 +5406,14 @@ Req:1、本科及以上学历，统计学、数据科学、经济学等相关专
 4、优秀的思维逻辑，善于分析问题和解决问题，良好的沟通协作能力，对于挑战充满热情。,.etc
 
 
+
 ```
 
 
 ##### 北京-资深算法专家/Tech Lead-数据智能方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7411435676757608731/detail
 * Match:7:大数据,数据仓库,数据分析,可视化,python,数据湖,sql
+
 
 
 ```
@@ -4929,12 +5428,14 @@ Req:1、具备扎实的计算机科学基础，精通Python、SQL等编程语言
 4、有带团队经验优先，能够带领团队高效完成项目，勇于探索新技术，能够提,.etc
 
 
+
 ```
 
 
 ##### 北京-高级/资深数据开发工程师 - IDC基础设施（北京）
 * URL: https://jobs.bytedance.com/referral/pc/position/7273008342511159607/detail
 * Match:7:大数据,数据仓库,bi,监控,python,hive,sql
+
 
 
 ```
@@ -4949,12 +5450,14 @@ Req:1、具备实际的大数据业务开发经验，熟练使用Hadoop、Hive�
 4、具备数据库系统理论知识，掌握主流,.etc
 
 
+
 ```
 
 
 ##### 北京-高级B端产品经理-BI方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7257803711903533369/detail
 * Match:7:大数据,数据分析,bi,可视化,sql,tableau,powerbi
+
 
 
 ```
@@ -4971,12 +5474,14 @@ Req:1、3年以上数据分析和产品设计经验，统计、数学、计算�
 6、对数据,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据产品经理 - BI
 * URL: https://jobs.bytedance.com/referral/pc/position/7138717653216364830/detail
 * Match:7:大数据,数据仓库,bi,可视化,sql,tableau,powerbi
+
 
 
 ```
@@ -4992,12 +5497,14 @@ Req:1、3年以上数据产品设计经验，统计、数学、计算机相关�
 5、熟练使用SQL及其他分,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据产品经理（UABI）-游戏技术
 * URL: https://jobs.bytedance.com/referral/pc/position/7395525642982902026/detail
 * Match:7:大数据,数据仓库,bi,可视化,sql,tableau,powerbi
+
 
 
 ```
@@ -5013,12 +5520,14 @@ Req:1、5年以上数据产品设计经验，统计、数学、计算机相关�
 5、熟练使用SQL及其他分,.etc
 
 
+
 ```
 
 
 ##### 北京-AI数据平台架构师-智能创作（北/深/上/杭）
 * URL: https://jobs.bytedance.com/referral/pc/position/7368376133837080841/detail
 * Match:6:大数据,数据分析,python,数据湖,hive,建模
+
 
 
 ```
@@ -5031,12 +5540,14 @@ Req:1、硕士及以上学历，计算机、人工智能等专业优先；
 3、精通Python、Java等至少一种编程语言，具备良好的编码能力和代码质量意识，熟悉常用的数据处理、文本处理和图像处理库，能够高效地实现数据清洗和处,.etc
 
 
+
 ```
 
 
 ##### 北京-SRE 资源成本运营专家（云原生方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7241084347720943927/detail
 * Match:6:大数据,数据分析,可视化,监控,python,sql
+
 
 
 ```
@@ -5051,12 +5562,14 @@ Req:1、本科以上学历，计算机相关专业或同等实践经验，并具
 5、良好的沟通,.etc
 
 
+
 ```
 
 
 ##### 北京-【剪映CapCut】大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7389184361750726962/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5071,12 +5584,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-【抖音】大数据工程师-数据治理
 * URL: https://jobs.bytedance.com/referral/pc/position/7205942366216833335/detail
 * Match:6:大数据,数据分析,python,hive,sql,建模
+
 
 
 ```
@@ -5090,12 +5605,14 @@ Req:1、熟练使用SQL、Python、Java等工具进行大型数据分析及建�
 4、对数据治理有一定的实践经验，有良好业务sense，对数据业务场景敏感，能够横向协同、跨团队整合资源，形成完整的方案解决,.etc
 
 
+
 ```
 
 
 ##### 北京-商业化数据分析师-飞书
 * URL: https://jobs.bytedance.com/referral/pc/position/7429540453692950825/detail
 * Match:6:大数据,数据分析,监控,python,hive,sql
+
 
 
 ```
@@ -5109,12 +5626,14 @@ Req:1、本科及以上学历，计算机科学、数理统计、数学、经济
 4、熟练掌握数理,.etc
 
 
+
 ```
 
 
 ##### 北京-国际化增长策略分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/6891127173244504327/detail
 * Match:6:数据分析,python,商业分析,sql,tableau,报表
+
 
 
 ```
@@ -5130,12 +5649,14 @@ Req:1. 本科或者硕士专业： 计算机科学，数学，物理，工程，
 4. 良好的沟通能力，跨文化及跨,.etc
 
 
+
 ```
 
 
 ##### 北京-国际化数据科学家/数据分析师 - 广告策略方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7250026637142690104/detail
 * Match:6:数据分析,python,数仓,sql,建模,数据科学
+
 
 
 ```
@@ -5149,12 +5670,14 @@ Req:1、计算机、统计、数据科学或者相关专业本科以上学历，
 4、善于沟通，工作积极主动，有主人翁意识，责任,.etc
 
 
+
 ```
 
 
 ##### 北京-国际电商-商业分析师（美洲）
 * URL: https://jobs.bytedance.com/referral/pc/position/7429228175333509414/detail
 * Match:6:数据分析,监控,python,hive,商业分析,sql
+
 
 
 ```
@@ -5167,12 +5690,14 @@ Req:1、三年及以上战略咨询或互联网商业分析经验（电商相关
 3、英语听说读写流利能作为工作语言，会西班牙语或者葡萄牙,.etc
 
 
+
 ```
 
 
 ##### 北京-国际电商-数据分析师/数据科学家（产品方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7265261786386467131/detail
 * Match:6:bi,python,sql,tableau,powerbi,数据科学
+
 
 
 ```
@@ -5187,12 +5712,14 @@ Req:1、计算机、统计学、数据科学或相关专业本科以上学历，
 5、娴熟的图文展示能力，专业分析报告撰写能力，有Tableau/PowerBI经验者,.etc
 
 
+
 ```
 
 
 ##### 北京-增长数据分析师-飞书
 * URL: https://jobs.bytedance.com/referral/pc/position/7428488089154390298/detail
 * Match:6:大数据,数据分析,监控,python,hive,sql
+
 
 
 ```
@@ -5206,12 +5733,14 @@ Req:1、本科及以上学历，计算机科学、数理统计、数学、经济
 4、熟练掌握数理统计方,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据工程师-即时零售
 * URL: https://jobs.bytedance.com/referral/pc/position/7309455131899857203/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5227,12 +5756,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据工程师-国际化电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7138670530517616909/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5248,12 +5779,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据工程师-抖音直播方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7074810916328720654/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5269,12 +5802,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据工程师-数仓方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7112362347797596446/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5291,12 +5826,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据工程师-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7262290474215409975/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5312,12 +5849,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据平台开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7204298948311664952/detail
 * Match:6:大数据,数据仓库,数据分析,python,sql,建模
+
 
 
 ```
@@ -5329,12 +5868,14 @@ Req:1、本科及以上学历，计算机/数学/物理等相关专业；
 3、熟悉SpringMVC、SpringBoot、MySQL、Redis、Kafka、Spark、Flink、Map、Re,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据平台研发工程师/专家-BABI
 * URL: https://jobs.bytedance.com/referral/pc/position/7444009433338104071/detail
 * Match:6:大数据,bi,可视化,python,hive,调度
+
 
 
 ```
@@ -5347,12 +5888,14 @@ Req:1、本科及以上学历，计算机相关专业，具备扎实的编程能
 3、对公有云/私有云/混合云相关的大数据产品有一定了解和使用,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据平台高级工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7103962829908969764/detail
 * Match:6:大数据,数据仓库,可视化,hive,调度,建模
+
 
 
 ```
@@ -5366,12 +5909,14 @@ Req:1、熟悉多项大数据处理/分析相关的工具/框架，e.g.  Hadoop,
 3、优秀的理解沟通能力，能快速理解,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据开发工程师-TikTok
 * URL: https://jobs.bytedance.com/referral/pc/position/7315209949540976922/detail
 * Match:6:大数据,数据仓库,数据分析,python,数仓,hive
+
 
 
 ```
@@ -5385,12 +5930,14 @@ Req:1、熟悉多项大数据处理/分析相关的工具/框架，例如Hadoop�
 4、具备扎实的数据,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据开发工程师-开放平台
 * URL: https://jobs.bytedance.com/referral/pc/position/7071116476028455198/detail
 * Match:6:大数据,数据仓库,项目管理,python,hive,sql
+
 
 
 ```
@@ -5407,12 +5954,14 @@ Req:1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase/Hive 等；
 5、三年以上大数据开,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据开发工程师-数据湖方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6704450123709024523/detail
 * Match:6:大数据,数据湖,数仓,hive,deltalake,建模
+
 
 
 ```
@@ -5426,12 +5975,14 @@ Req:1、对常见大数据计算系统Spark/Flink有框架源码级别了解，�
 4、有其他大数据系统/框架经验加分，Hive,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据研发专家-中台业务
 * URL: https://jobs.bytedance.com/referral/pc/position/6937209921864648968/detail
 * Match:6:大数据,数据仓库,python,hive,sql,建模
+
 
 
 ```
@@ -5447,12 +5998,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 5、有较好的,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7073312840237549831/detail
 * Match:6:大数据,数据仓库,python,hive,sql,建模
+
 
 
 ```
@@ -5468,12 +6021,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 5、有较好的,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7103964072388233485/detail
 * Match:6:大数据,数据仓库,python,hive,sql,建模
+
 
 
 ```
@@ -5489,12 +6044,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 5、有较好的业务和数,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据研发工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6987295845944035614/detail
 * Match:6:大数据,数据分析,bi,可视化,python,hive
+
 
 
 ```
@@ -5508,12 +6065,14 @@ Req:1、计算机相关专业，本科及以上学历，1-8年大数据开发相
 3、有ClickHouse/Druid/Kylin/Superse,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据研发工程师-营销数据产品
 * URL: https://jobs.bytedance.com/referral/pc/position/7323142345045821734/detail
 * Match:6:大数据,数据仓库,数据分析,python,hive,sql
+
 
 
 ```
@@ -5528,12 +6087,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 4、良好的逻辑思维能力和团队合作精神，优秀的数据敏感度，定位,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7118952348072315166/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5549,12 +6110,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6826214670497843463/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5570,12 +6133,14 @@ Req:1、 仓库实施方法论、深入了解数据仓库体系，并支撑过�
 3、 善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音数据分析师-文娱方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7278678420069599525/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -5592,12 +6157,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 7、对娱乐或音乐,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音数据分析师-生态方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7413258149170366758/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -5614,12 +6181,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 6、对内容行业感兴趣，有内容、增长、,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音数据科学家-模型算法方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6989813115446151431/detail
 * Match:6:大数据,a/b,数据分析,python,hive,建模
+
 
 
 ```
@@ -5637,12 +6206,14 @@ Req:1、本科或以上学历，数学、统计学、经济学、计算机专业
 6,.etc
 
 
+
 ```
 
 
 ##### 北京-数据产品经理-数据资产管理方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7210674773684619575/detail
 * Match:6:大数据,项目管理,数据分析,数仓,hive,sql
+
 
 
 ```
@@ -5657,12 +6228,14 @@ Req:1、3年以上数据开发或产品经验，计算机相关专业或从事�
 5、用户意,.etc
 
 
+
 ```
 
 
 ##### 北京-数据产品经理-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7430779510914992423/detail
 * Match:6:大数据,数据仓库,项目管理,数据分析,数仓,报表
+
 
 
 ```
@@ -5678,12 +6251,14 @@ Req:1、4年以上数据产品工作经验，熟悉数据产品在业务上的�
 6、良好的团队协作能力，对使用大数据,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库基建leader - 抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7113844229784865037/detail
 * Match:6:大数据,数据仓库,python,数仓,hive,sql
+
 
 
 ```
@@ -5700,12 +6275,14 @@ Req:1、熟练使用Hadoop、Hive、spark，flink等大数据框架，熟悉SQL�
 4、 3年以上大型复杂业务（互联网相关）数据基建的落地,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6950108478715857183/detail
 * Match:6:大数据,数据仓库,python,hive,sql,建模
+
 
 
 ```
@@ -5719,12 +6296,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 4、善于沟通，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库工程师-抖音直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7101489576102856997/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5740,12 +6319,14 @@ Req:1. 仓库实施方法论、深入了解数据仓库体系，并支撑过实�
 3. 善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库开发工程师-头条西瓜方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6969502505571387679/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5761,12 +6342,14 @@ Req:1、 仓库实施方法论、深入了解数据仓库体系，并支撑过�
 3、 善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库开发工程师-短剧
 * URL: https://jobs.bytedance.com/referral/pc/position/7167234995982846215/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -5782,12 +6365,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库开发工程师-飞书业务应用
 * URL: https://jobs.bytedance.com/referral/pc/position/7300779929201133875/detail
 * Match:6:大数据,数据仓库,数据分析,hive,sql,建模
+
 
 
 ```
@@ -5802,12 +6387,14 @@ Req:1、计算机、数学相关专业本科及以上学历，三年以上大数
 4、有产品意识，主动思,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库开发（高级）工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6704455109419469059/detail
 * Match:6:大数据,数据仓库,python,hive,sql,建模
+
 
 
 ```
@@ -5821,12 +6408,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 4、善于沟通，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-TikTok
 * URL: https://jobs.bytedance.com/referral/pc/position/7218773209617238328/detail
 * Match:6:数据分析,监控,数仓,sql,建模,数据科学
+
 
 
 ```
@@ -5841,12 +6430,14 @@ Req:1、计算机、统计、数学相关专业优先，精通SQL以及至少一
 5、加分项：可英文办公。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-剪映
 * URL: https://jobs.bytedance.com/referral/pc/position/7399581267228068134/detail
 * Match:6:a/b,数据分析,可视化,python,hive,sql
+
 
 
 ```
@@ -5861,12 +6452,14 @@ Req:1、研究生学历，数学、经济学、统计学、计算机相关专业
 4、熟练使用Hive，精通SQL/Excel/Python/R等工具。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-客服平台-国际化-北京
 * URL: https://jobs.bytedance.com/referral/pc/position/6887824490052667655/detail
 * Match:6:数据分析,监控,python,hive,sql,报表
+
 
 
 ```
@@ -5882,12 +6475,14 @@ Req:1、数学、统计学、计算机相关专业，本科及以上学历优先
 5、熟练使用Hive，精通SQL/Excel/Python/R等工具，有做中间层数据表的,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-游戏方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7212840913470114107/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -5903,12 +6498,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师（商城&交易链路）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6919493891059271950/detail
 * Match:6:数据分析,报表,python,sql,建模,数据科学
+
 
 
 ```
@@ -5921,12 +6518,14 @@ Req:1、2年以上数据分析工作经验，具备电商搜索，推荐，广�
 3、对特征工程、用户行为建模等有相对丰富的经验，能够基于实际的业务场景，抽象问题为具体的模型,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师（商家与达人）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7374616263723895078/detail
 * Match:6:数据分析,可视化,监控,python,hive,sql
+
 
 
 ```
@@ -5940,12 +6539,14 @@ Req:1、3年以上数据分析工作经验，具备电商B端产品分析经验�
 4、沟,.etc
 
 
+
 ```
 
 
 ##### 北京-数据湖 高级工程师/技术专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7132712227329231117/detail
 * Match:6:大数据,lakehouse,presto,数据湖,hive,delta lake
+
 
 
 ```
@@ -5959,12 +6560,14 @@ Req:1、具备良好的 Java / Scala 编程基础和良好的计算机技术基�
 4、熟悉 KUDU，HBase，Cassandra 等分布式存储系统，或,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学-业务解决方案
 * URL: https://jobs.bytedance.com/referral/pc/position/7225905859737602362/detail
 * Match:6:数据分析,监控,python,hive,sql,tableau
+
 
 
 ```
@@ -5977,12 +6580,14 @@ Req:1、本科及以上学历，熟练掌握Hive，SQL，Excel，PPT，Python或
 3、熟练掌握数据挖掘技能，如数据预处理、特征工程、监督学习和无监督学习算法的应用和调优，熟练使用聚类、回归、,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家 - 国际化闭环电商广告
 * URL: https://jobs.bytedance.com/referral/pc/position/7327914411077978395/detail
 * Match:6:数据分析,可视化,python,hive,sql,数据科学
+
 
 
 ```
@@ -6000,12 +6605,14 @@ Req:1、3年以上工作经验，计算机、统计、数据科学或者相关�
 1、拥有良好的英语沟通能力，,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家-剪映
 * URL: https://jobs.bytedance.com/referral/pc/position/7367396297143421235/detail
 * Match:6:a/b,可视化,python,hive,sql,数据科学
+
 
 
 ```
@@ -6020,12 +6627,14 @@ Req:1、硕士及以上学历，数学、经济学、统计学、计算机相关
 4、熟练使用Hive，精通SQL/Excel/Python/R等工具。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家-广告实验
 * URL: https://jobs.bytedance.com/referral/pc/position/7317153224754514202/detail
 * Match:6:数据分析,python,hive,sql,建模,数据科学
+
 
 
 ```
@@ -6041,12 +6650,14 @@ Req:1、计算机、统计、数据科学或者相关专业本科以上学历，
 5、良好的沟通能力、团队合作精神、工作规,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7083310337667664158/detail
 * Match:6:a/b,数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -6061,12 +6672,14 @@ Req:1、统计学、计算机、经济学等数据科学、量化分析相关专
 3、具备优秀的数据敏感度与逻辑思维能力，能够在较大不确定性的问题中构建分析框架，将数据转化为有效的信息进行定量洞察，有互联网及直播/短视频相,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家——抖音直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7037301778396104996/detail
 * Match:6:a/b,数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -6079,12 +6692,14 @@ Req:1、统计学、计算机、经济学等数据科学、量化分析相关专
 3、具备优秀的数据敏感度与逻辑思维能力，能够在较大不确定性的问题中构建框架，将数据转化为有效的信息定量洞察，有互联网及直播/短视频相关行业经,.etc
 
 
+
 ```
 
 
 ##### 北京-服务渠道运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7363481886969170185/detail
 * Match:6:项目管理,数据分析,监控,python,sql,tableau
+
 
 
 ```
@@ -6098,12 +6713,14 @@ Req:1、本科或以上学历，3年以上服务领域数据分析、体验运�
 4、具备良好沟通能力和洞察力，可深入业务，挖掘业务痛点。,.etc
 
 
+
 ```
 
 
 ##### 北京-服务端开发工程师（BI方向）-游戏技术
 * URL: https://jobs.bytedance.com/referral/pc/position/7395525292640684338/detail
 * Match:6:bi,python,sql,tableau,powerbi,建模
+
 
 
 ```
@@ -6118,12 +6735,14 @@ Req:1、计算机相关专业，本科及以上学历，5年以上服务端开�
 5、熟练主流数据库MySQL/NoSQL如Redis、MongoDB，具备优秀的数据建模能力和数据库分库分表设计能力；有PowerB,.etc
 
 
+
 ```
 
 
 ##### 北京-测试开发工程师-集团信息系统-大数据方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7307168189837527306/detail
 * Match:6:大数据,数据仓库,监控,python,sql,建模
+
 
 
 ```
@@ -6137,12 +6756,14 @@ Req:1、数据或数据产品相关的开发或测试4年以上经验，对数�
 3、熟悉数据仓库模型设计、ETL开发，维度建模设计方法，具备海量数据处理经验者优先；具备数据研发平台、数据服务等数据,.etc
 
 
+
 ```
 
 
 ##### 北京-海外游戏数据分析师-ONE Studio
 * URL: https://jobs.bytedance.com/referral/pc/position/7444523008704137480/detail
 * Match:6:数据分析,bi,python,hive,sql,tableau
+
 
 
 ```
@@ -6156,12 +6777,14 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业优先
 4、熟练掌握数据分析必备的技能与工具(如:SQL/Hive/R/Python/Excel/Tableau/MATLA,.etc
 
 
+
 ```
 
 
 ##### 北京-特征平台技术专家-Flink/Spark/Hudi
 * URL: https://jobs.bytedance.com/referral/pc/position/7287081630002121018/detail
 * Match:6:大数据,数据湖,数仓,hive,deltalake,建模
+
 
 
 ```
@@ -6176,12 +6799,14 @@ Req:1、对常见大数据计算系统Spark/Flink有框架源码级别了解，�
 4、有其他大数据系统/框架经验加分，Hive,.etc
 
 
+
 ```
 
 
 ##### 北京-用户增长产品专家（TPM）-国际电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7368695122651498789/detail
 * Match:6:大数据,项目管理,数据分析,可视化,监控,sql
+
 
 
 ```
@@ -6196,12 +6821,14 @@ Req:1、本科及以上学历，计算机、数学、统计学等专业优先，
 4、熟练掌握SQL语言，能够通过数据,.etc
 
 
+
 ```
 
 
 ##### 北京-番茄增长数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7151972598737357093/detail
 * Match:6:a/b,可视化,python,hive,sql,数据科学
+
 
 
 ```
@@ -6216,12 +6843,14 @@ Req:1、本科及以上学历，数学、经济学、统计学、计算机相关
 4、熟练使用Hive，精通SQL/Excel/Python/R等工具。,.etc
 
 
+
 ```
 
 
 ##### 北京-番茄小说数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/6986148141972818212/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -6237,12 +6866,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 7、热爱阅读，,.etc
 
 
+
 ```
 
 
 ##### 北京-直播国际化-商业治理策略专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7396936590218414345/detail
 * Match:6:数据分析,可视化,商业分析,sql,tableau,数据科学
+
 
 
 ```
@@ -6259,12 +6890,14 @@ Req:1、本科及以上学历，拥有3-5年经验或硕士研究生学历，具
 1、具备独立开展研究所需的完,.etc
 
 
+
 ```
 
 
 ##### 北京-直播国际化活动平台策略运营
 * URL: https://jobs.bytedance.com/referral/pc/position/6967243090999724324/detail
 * Match:6:项目管理,数据分析,监控,python,商业分析,sql
+
 
 
 ```
@@ -6281,12 +6914,14 @@ Req:1、本科及以上学历，4年以上互联网活动策划/策略运营及�
 3、【策略分析方向】优秀的数据分析能力，对数据敏感度高，能洞察数据背后的原因，分析总结活动背后数据变化的原,.etc
 
 
+
 ```
 
 
 ##### 北京-直播国际化高级策略运营经理 - 活动平台
 * URL: https://jobs.bytedance.com/referral/pc/position/7239683223814588729/detail
 * Match:6:项目管理,数据分析,监控,python,商业分析,sql
+
 
 
 ```
@@ -6299,12 +6934,14 @@ Req:1、本科及以上学历，5年以上互联网活动策划/策略运营及�
 3、优秀的数据分析能力，对数据敏感度高，能洞察数据背后的原因，分析总结活动背后数据变化的原因，独立思考与归纳总结。,.etc
 
 
+
 ```
 
 
 ##### 北京-直播数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/6976539251614124296/detail
 * Match:6:a/b,数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -6317,12 +6954,14 @@ Req:1、统计学、计算机、经济学等数据科学、量化分析相关专
 3、具备优秀的数据敏感度与逻辑思维能力，能够在较大不确定性的问题中构建框架，熟悉A/B Testing实验理,.etc
 
 
+
 ```
 
 
 ##### 北京-策略产品经理-客服平台-LLM算法模型
 * URL: https://jobs.bytedance.com/referral/pc/position/7343504558616103205/detail
 * Match:6:a/b,数据分析,可视化,python,sql,数据科学
+
 
 
 ```
@@ -6336,12 +6975,14 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业优先
 3、熟悉机器学习/数据挖掘等领域的基础理论和前沿应用，理解算法和策略思想，熟悉A/B Testin,.etc
 
 
+
 ```
 
 
 ##### 北京-策略产品经理-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7281209470755342648/detail
 * Match:6:a/b,数据分析,可视化,python,sql,数据科学
+
 
 
 ```
@@ -6354,12 +6995,14 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业优先
 3、对业务和数据敏锐，逻辑严谨、结构化，善于分析和解决问题、系统思考，能够将复杂业务问题进行量化拆解,.etc
 
 
+
 ```
 
 
 ##### 北京-策略测试专家-抖音增长
 * URL: https://jobs.bytedance.com/referral/pc/position/7397347953017571635/detail
 * Match:6:大数据,数据分析,监控,python,hive,sql
+
 
 
 ```
@@ -6376,12 +7019,14 @@ Req:1、计算机相关专业，5年以上的测试开发工作经验；
 6、具备数据处理和分析的能力，熟,.etc
 
 
+
 ```
 
 
 ##### 北京-经营分析师-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7374360613018143002/detail
 * Match:6:bi,python,商业分析,sql,tableau,报表
+
 
 
 ```
@@ -6396,12 +7041,14 @@ Req:1、本科及以上学历，统计、数学、经济学、管理学、计算
 4、精通Excel、PPT和Tableau（或其他敏捷BI软件），熟练使用SQL、Python等编程语言。,.etc
 
 
+
 ```
 
 
 ##### 北京-经营分析师（北京/上海）
 * URL: https://jobs.bytedance.com/referral/pc/position/7313853709284444442/detail
 * Match:6:bi,python,sql,tableau,powerbi,建模
+
 
 
 ```
@@ -6415,12 +7062,14 @@ Req:1、本科及以上学历，3-5年以上规模化的资源管理、用户运
 4、具备优秀的沟通能力及团队合作精神，,.etc
 
 
+
 ```
 
 
 ##### 北京-资深大数据研发工程师-数据BP
 * URL: https://jobs.bytedance.com/referral/pc/position/6704573243702905096/detail
 * Match:6:大数据,数据仓库,presto,python,hive,建模
+
 
 
 ```
@@ -6436,12 +7085,14 @@ Req:1、本科以上学历，2年以上互联网业务数据仓库模型设计�
 5、沟通能力强，业务sense好，良好的团队协作，以,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7433361360682060051/detail
 * Match:6:数据分析,可视化,监控,python,hive,sql
+
 
 
 ```
@@ -6455,12 +7106,14 @@ Req:1、本科及以上学历，5年以上数据分析、内容安全业务分�
 3、熟练使用Excel、精通SQL、Hive，至少可以熟练使用一种数据可视化分析工具，擅长R和Py,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据分析师-游戏
 * URL: https://jobs.bytedance.com/referral/pc/position/7242150737537911095/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -6475,12 +7128,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 7、,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据分析师-直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7242150706089494845/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -6498,12 +7153,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 6、爱看直播，对直播行业感兴趣，有深入,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据分析师-音乐
 * URL: https://jobs.bytedance.com/referral/pc/position/7242150871184935205/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -6518,12 +7175,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 7、有团队管理,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据科学家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7120141082855508231/detail
 * Match:6:数据分析,python,hive,sql,建模,数据科学
+
 
 
 ```
@@ -6537,12 +7196,14 @@ Req:1、至少5年国内外公司或行业的数据科学经验，电商相关�
 4、优秀的逻辑思维能力、业务解读能力和,.etc
 
 
+
 ```
 
 
 ##### 北京-资深测试开发工程师-数据方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7215213416565901628/detail
 * Match:6:大数据,监控,python,数仓,hive,建模
+
 
 
 ```
@@ -6558,12 +7219,14 @@ Req:1、计算机或其相关专业，精通python/java/go等至少一门编程�
 5,.etc
 
 
+
 ```
 
 
 ##### 北京-资深游戏数据分析
 * URL: https://jobs.bytedance.com/referral/pc/position/7423303791853799718/detail
 * Match:6:数据分析,监控,python,hive,sql,建模
+
 
 
 ```
@@ -6578,12 +7241,14 @@ Req:1、热爱游戏，对棋牌，MMO，动作游戏的核心玩法、数值设
 4、对数据敏感，了解数据建模基本原理与算法者,.etc
 
 
+
 ```
 
 
 ##### 北京-资深番茄小说战略分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7101244086699739428/detail
 * Match:6:数据分析,监控,python,商业分析,sql,建模
+
 
 
 ```
@@ -6596,12 +7261,14 @@ Req:1、本科及以上学历，有3年以上管理咨询、投资、互联网�
 3、有良好的数据分析、商业建模能力，掌握SQL、R、Python、SPSS等数据工具。,.etc
 
 
+
 ```
 
 
 ##### 北京-金融风控算法工程师 
 * URL: https://jobs.bytedance.com/referral/pc/position/7199946292180650301/detail
 * Match:6:大数据,数据分析,监控,hive,sql,建模
+
 
 
 ```
@@ -6616,12 +7283,14 @@ Req:1、计算机相关专业本科及以上， 优秀的编码能力，具备2�
 4、有风控行业相关建模经验和互联网用户画像等大数据挖掘,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据产品经理-开发套件方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6704489096628144397/detail
 * Match:6:大数据,项目管理,监控,数仓,hive,sql
+
 
 
 ```
@@ -6635,12 +7304,14 @@ Req:1、3年以上数据开发或产品经验，计算机相关专业或从事�
 4、良好的语言沟通与表达能力，自我驱动，善于系统性思考，,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据仓库工程师-中台业务
 * URL: https://jobs.bytedance.com/referral/pc/position/6969086883587016996/detail
 * Match:6:大数据,数据仓库,python,hive,sql,建模
+
 
 
 ```
@@ -6654,12 +7325,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 4、善于沟通，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/6704451818430138638/detail
 * Match:6:a/b,数据分析,bi,python,数仓,sql
+
 
 
 ```
@@ -6671,12 +7344,14 @@ Req:1、专业技能：熟练掌握SQL，会使用R/python/sas等常用分析工
 2、基本素质：对数据分析有强烈兴趣，有用客观数据分析判断的量化思维和逻辑思维，有良好的产品感，商业嗅觉灵敏，善于发掘业务问题和痛点，好奇心强，求知欲强，有钻研探索精神,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据分析师-直播业务（营收方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7242149109405829437/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -6691,12 +7366,14 @@ Req:1、数学、统计学、计算机相关专业优先；对通过数据分析
 5、精通SQL，熟练使用R/Python进行数据分析、挖掘；掌握Tableau等BI工具尤佳,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据分析师—直播方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6795822933416610056/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -6713,12 +7390,14 @@ Req:1、数学、统计学、计算机相关专业优先；对通过数据分析
 6、掌握 Tab,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据分析师（营销方向）-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7319792523768596746/detail
 * Match:6:a/b,数据分析,监控,python,商业分析,sql
+
 
 
 ```
@@ -6732,12 +7411,14 @@ Req:1、本科及以上学历，3年以上的数据分析经验，数学、统�
 4、能快速理解商业逻辑，通过数据量化拆解业务问题的成因及影响，具备解决复杂问题的能力，有良好的沟通,.etc
 
 
+
 ```
 
 
 ##### 北京-高级风控算法工程师-国际支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7175012724673005879/detail
 * Match:6:监控,python,hive,sql,建模,数据科学
+
 
 
 ```
@@ -6749,12 +7430,14 @@ Req:1、数学或计算机专业本科及以上学历，扎实的计算机算法
 4、3年以上互联网公司的数据挖掘或机器学,.etc
 
 
+
 ```
 
 
 ##### 北京-AML机器学习系统工程师-大数据方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7267030166021900581/detail
 * Match:5:大数据,python,hive,调度,建模
+
 
 
 ```
@@ -6768,12 +7451,14 @@ Req:1、熟练掌握 Python、Java、Scala 等编程语言，具备扎实的计�
 3、熟悉 Yarn、K8s、HDFS、Hive、Iceberg/ Hudi、HBase、ClickH,.etc
 
 
+
 ```
 
 
 ##### 北京-Devops/运维开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7380190561422428453/detail
 * Match:5:aws,监控,python,sql,调度
+
 
 
 ```
@@ -6783,6 +7468,7 @@ JD: 团队介绍：AML-Engine（Applied Machine Learning）机器学习引擎团
 Req:1、掌握 Python/Shell/Golang中至少一种语言，并具备一定的编码能力，可以完成一些监控/运维工具的编写，和简单的SQL语句查询；熟悉业界主流监控框架，如Open-Falcon、Grafana、Metric等；
 2、熟悉 Linux 操作系统，具备一定的问题排查能力，对大规模分布式系统的设计、分析和排障有强烈兴趣；
 3、有强烈的工作责任心，较好,.etc
+
 
 
 ```
@@ -6793,6 +7479,7 @@ Req:1、掌握 Python/Shell/Golang中至少一种语言，并具备一定的编�
 * Match:5:aws,监控,python,sql,调度
 
 
+
 ```
 JD: 团队介绍：AML-Engine（Applied Machine Learning）机器学习引擎团队 为字节内部众多业务方向提供统一、高性能、高可靠、大规模的机器学习系统架构 和 支持内部大量算法工程师的机器学习平台。为字节旗下 头条/抖音/Tiktok/等各业务 的推荐/广告/搜索 在全球提供高质量的在线服务，和大规模机器学习训练环境
 稳定性方向/运维系统，,.etc
@@ -6802,12 +7489,14 @@ Req:1、掌握 Python/Shell/Golang中至少一种语言，并具备一定的编�
 3、有强烈的工作责任心，较好,.etc
 
 
+
 ```
 
 
 ##### 北京-Devops/运维开发工程师-北京
 * URL: https://jobs.bytedance.com/referral/pc/position/7330159914767354163/detail
 * Match:5:aws,监控,python,sql,调度
+
 
 
 ```
@@ -6820,12 +7509,14 @@ Req:1、掌握 Python/Shell/Golang中至少一种语言，并具备一定的编�
 3、有强烈的工作责任心，较好,.etc
 
 
+
 ```
 
 
 ##### 北京-LakeHouse 公有云技术专家 - 火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7132701113493342478/detail
 * Match:5:大数据,lakehouse,presto,数据湖,deltalake
+
 
 
 ```
@@ -6840,12 +7531,14 @@ Req:1、有大数据 toB 产品研发经验；有公有云大数据产品研发�
 4、熟悉业界大数据云产品，如 MaxCompute、EMR、MRS、DLF、Databricks、DLI、DLC,.etc
 
 
+
 ```
 
 
 ##### 北京-OLAP 引擎研发专家- Presto
 * URL: https://jobs.bytedance.com/referral/pc/position/7132719781539465503/detail
 * Match:5:大数据,数据仓库,presto,hive,sql
+
 
 
 ```
@@ -6861,12 +7554,14 @@ Req:1、熟悉 Spark、Presto、Druid、Kylin、Hive 等主流大数据系统原
 5、具有较强的项目推动能力，能推动技术项目,.etc
 
 
+
 ```
 
 
 ##### 北京-PMO-信息系统-北京
 * URL: https://jobs.bytedance.com/referral/pc/position/7377014199618275594/detail
 * Match:5:pmo,项目管理,数据分析,监控,pmp
+
 
 
 ```
@@ -6879,12 +7574,14 @@ Req:1、本科或以上学历，4年或以上项目管理经验；熟悉产品�
 3、,.etc
 
 
+
 ```
 
 
 ##### 北京-Spark SQL 引擎研发工程师/专家
 * URL: https://jobs.bytedance.com/referral/pc/position/6826619309478021389/detail
 * Match:5:大数据,数据仓库,presto,hive,sql
+
 
 
 ```
@@ -6898,12 +7595,14 @@ Req:1、熟悉 Spark、Presto、Druid、Kylin、Hive、Impala、Flink 等主流�
 4、具有较强的项目推动能力，能推动,.etc
 
 
+
 ```
 
 
 ##### 北京-【国际化直播】数仓研发工程师（实时/离线）
 * URL: https://jobs.bytedance.com/referral/pc/position/7122659398769641735/detail
 * Match:5:数据仓库,python,hive,sql,报表
+
 
 
 ```
@@ -6917,12 +7616,14 @@ Req:1. 仓库实施方法论、深入了解数据仓库体系，并支撑过实�
 3. 善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-业务中台数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/6901598574787660039/detail
 * Match:5:数据分析,监控,python,hive,sql
+
 
 
 ```
@@ -6940,12 +7641,14 @@ Req:1. 本科及以上学历，统计学、数学、计算机等相关专业；
 6. 具备较强,.etc
 
 
+
 ```
 
 
 ##### 北京-业财管理-懂车帝北京
 * URL: https://jobs.bytedance.com/referral/pc/position/7199880730871105850/detail
 * Match:5:数据分析,监控,商业分析,sql,报表
+
 
 
 ```
@@ -6959,12 +7662,14 @@ Req:1、本科以上学历，3~5年有经营管理、商业分析、财务、管
 3、优秀的数据应用能力，能独立处置基础的数据需求，掌握SQL和常见的数据分析工具者优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-互联网金融风控算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6852576865438583048/detail
 * Match:5:监控,python,hive,sql,建模
+
 
 
 ```
@@ -6981,12 +7686,14 @@ Req:1、数学或计算机专业本科及以上学历，扎实的计算机算法
 4、2年以上互联网公司的数据挖掘或机器学习的工作经历；,.etc
 
 
+
 ```
 
 
 ##### 北京-后端开发工程师-实时通信
 * URL: https://jobs.bytedance.com/referral/pc/position/6924884672595249422/detail
 * Match:5:bi,监控,python,sql,调度
+
 
 
 ```
@@ -7001,12 +7708,14 @@ Req:1、本科及以上学历，至少熟练使用一门编程语言(C/C++/Java/
 4、了解zipkin等链路跟踪工具，常用RPC框架如Springcloud、dubb,.etc
 
 
+
 ```
 
 
 ##### 北京-后端开发工程师-数据服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7435985365216938247/detail
 * Match:5:大数据,数据仓库,可视化,python,sql
+
 
 
 ```
@@ -7021,12 +7730,14 @@ Req:1、本科及以上学历，计算机相关专业，3年以上研发工作�
 5、有复杂业务系统的抽象设计能力，能够独立,.etc
 
 
+
 ```
 
 
 ##### 北京-后端技术专家-数据智能方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7295640845573900570/detail
 * Match:5:大数据,数据分析,bi,python,商业智能
+
 
 
 ```
@@ -7039,12 +7750,14 @@ Req:1、具有扎实的基础编程能力，熟练掌握至少一种主流编程
 3、熟悉分布式、缓存、消息等机制，熟悉 FaaS ,.etc
 
 
+
 ```
 
 
 ##### 北京-后端技术专家-数据智能方向【北京】
 * URL: https://jobs.bytedance.com/referral/pc/position/7250358331545487671/detail
 * Match:5:大数据,数据分析,bi,python,商业智能
+
 
 
 ```
@@ -7059,12 +7772,14 @@ Req:1、具有扎实的基础编程能力，熟练掌握至少一种主流编程
 3、熟悉分布式、缓,.etc
 
 
+
 ```
 
 
 ##### 北京-后端研发专家/高级工程师-大数据查询服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7238920574096853307/detail
 * Match:5:大数据,presto,hive,sql,调度
+
 
 
 ```
@@ -7080,12 +7795,14 @@ Req:1、精通Java/Scala语言，包括JVM、类装载、线程、并发、IO资
 5、具备较强的项目推,.etc
 
 
+
 ```
 
 
 ##### 北京-后端研发负责人-电商平台方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7433621094386649407/detail
 * Match:5:大数据,python,hive,数仓,sql
+
 
 
 ```
@@ -7100,12 +7817,14 @@ Req:1、5年以上研发工作经验，本科及以上学历，计算机、自�
 5、熟悉大数据开发流程，掌握,.etc
 
 
+
 ```
 
 
 ##### 北京-后端高级工程师-OLAP分析型数据库
 * URL: https://jobs.bytedance.com/referral/pc/position/7080037468612348173/detail
 * Match:5:大数据,数据分析,python,数仓,hive
+
 
 
 ```
@@ -7124,12 +7843,14 @@ Req:1、计算机相关专业，本科及以上学历；
 5、熟悉大数据生态环境，了解Hadoop，Hive，Kafka，Spark，Druid等大数据技术栈；分析型数据库（,.etc
 
 
+
 ```
 
 
 ##### 北京-向量化计算引擎技术专家/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7260395163700595005/detail
 * Match:5:大数据,数据仓库,presto,hive,sql
+
 
 
 ```
@@ -7143,12 +7864,14 @@ Req:1、良好的 C++ 编程基础；
 3、对数据仓库或者大数据领域有深刻的理解，熟悉至少一款主流大数据系统原理及源码，比如Spark、ClickHouse、Impala、Doris、TiDB、Presto、Druid、Kylin、Hive、MySQL、,.etc
 
 
+
 ```
 
 
 ##### 北京-商业化数据科学家-穿山甲
 * URL: https://jobs.bytedance.com/referral/pc/position/6963168533753497870/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -7161,12 +7884,14 @@ Req:1、统计学、计算机、经济学等数据科学、量化分析相关专
 3、具备优秀的商业敏感度与逻辑思维能力，能够在较大不确定性的问题中构建框架，将数据转化为有效的商业洞察，有互联网及计算广告相关行业经验优先；,.etc
 
 
+
 ```
 
 
 ##### 北京-国际化生活服务 - 治理体验策略分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7399898953975646491/detail
 * Match:5:项目管理,数据分析,python,sql,数据科学
+
 
 
 ```
@@ -7180,12 +7905,14 @@ Req:1、3年以上在O2O、本地服务、电子商务、战略咨询、运营�
 4、有较强的独立进行深入研,.etc
 
 
+
 ```
 
 
 ##### 北京-国际支付-风控数据科学家（新加坡）
 * URL: https://jobs.bytedance.com/referral/pc/position/7176636315445430584/detail
 * Match:5:数据分析,python,hive,sql,建模
+
 
 
 ```
@@ -7204,12 +7931,14 @@ Req:1、计算机/统计学/数学等相关专业统招本科及以上学历；
 6、擅长沟通，理解能力强。,.etc
 
 
+
 ```
 
 
 ##### 北京-国际电商 - 数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7017069971508660488/detail
 * Match:5:数据分析,可视化,监控,hive,sql
+
 
 
 ```
@@ -7226,12 +7955,14 @@ Req:1、本科及以上学历，3年以上电商平台数据分析经验，有�
 6、沟通能力强，英语工,.etc
 
 
+
 ```
 
 
 ##### 北京-国际电商-用户增长数据科学家
 * URL: https://jobs.bytedance.com/referral/pc/position/7367663335338674483/detail
 * Match:5:项目管理,数据分析,python,sql,数据科学
+
 
 
 ```
@@ -7244,12 +7975,14 @@ Req:1、本科及以上学历，3年以上数据分析经验，电商经验者�
 4、良好的项目管理能力、沟通能力、资源整合能力和抗压能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-基础设施-资深数据分析师（北京）
 * URL: https://jobs.bytedance.com/referral/pc/position/7362773756455405850/detail
 * Match:5:数据分析,可视化,python,hive,sql
+
 
 
 ```
@@ -7263,12 +7996,14 @@ Req:1、本科及以上学历，3年以上数据分析工作经验，具备云�
 4、沟通表达能力优、抗压能力强、协调推动能力强。,.etc
 
 
+
 ```
 
 
 ##### 北京-增长算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7434099196057438503/detail
 * Match:5:大数据,数据分析,python,hive,建模
+
 
 
 ```
@@ -7280,12 +8015,14 @@ Req:1、掌握扎实的计算机科学基础知识 (数据结构/算法/网络�
 3、具有敏锐的数据分析和洞察能力，熟悉常见的大数据开发工具(,.etc
 
 
+
 ```
 
 
 ##### 北京-增长算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7260130008563484965/detail
 * Match:5:大数据,数据分析,python,hive,建模
+
 
 
 ```
@@ -7296,12 +8033,14 @@ Req:1、掌握扎实的计算机科学基础知识 (数据结构/算法/网络�
 3、具有敏锐的数据分析和洞察能力，熟悉常见的大数据开发工具,.etc
 
 
+
 ```
 
 
 ##### 北京-增长算法工程师-电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7244753756498364729/detail
 * Match:5:大数据,数据分析,python,sql,建模
+
 
 
 ```
@@ -7314,12 +8053,14 @@ Req:1、硕士研究生及以上学历，具备扎实的机器学习技术基础
 3、具备较好的商业理解能力，能够根据业务需求合理抽象算法问题，有良好的沟通和总结能力，,.etc
 
 
+
 ```
 
 
 ##### 北京-增长算法高级工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7293356760508270886/detail
 * Match:5:大数据,数据分析,python,hive,建模
+
 
 
 ```
@@ -7331,12 +8072,14 @@ Req:1、掌握扎实的计算机科学基础知识 (数据结构/算法/网络�
 3、具有敏锐的数据分析和洞察能力，熟悉常见的大数据开发工具,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据SRE运维专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7350885126312331546/detail
 * Match:5:大数据,aws,presto,python,hive
+
 
 
 ```
@@ -7350,12 +8093,14 @@ Req:1、计算机相关专业，本科及以上学历；
 4、熟悉一个或多个业内大数据平台产品，如Ambari、CDH、AWS EMR、,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据工程师（电商行业）
 * URL: https://jobs.bytedance.com/referral/pc/position/6704452081865984263/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -7370,12 +8115,14 @@ Req:1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase 等；
 6、两年以上大数据开发经,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据开发工程师-流式计算方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7329415109808867621/detail
 * Match:5:大数据,python,数据湖,sql,deltalake
+
 
 
 ```
@@ -7386,6 +8133,7 @@ JD: 字节跳动推荐架构团队实时计算方向，负责字节跳动旗下�
 Req:1、对流式计算系统有深入的了解，在生产环境有TB级别Flink实时计算系统开发经验，深入掌握Flink DataStream、FlinkSQL、Flink Checkpoint、Flink State等模块，有Flink源码阅读经验优先；
 2、熟悉常见消息队列原理和应用调优，有Kafka、Plusar、RocketMQ等项目源码阅读经验优先；
 3、熟悉Jav,.etc
+
 
 
 ```
@@ -7396,6 +8144,7 @@ Req:1、对流式计算系统有深入的了解，在生产环境有TB级别Flin
 * Match:5:大数据,python,数据湖,sql,deltalake
 
 
+
 ```
 JD: 字节跳动推荐架构团队实时计算方向，负责字节跳动旗下超10亿用户产品推荐系统架构实时计算系统的设计和开发，保障系统稳定和高可用；抽象通用实时计算系统、构建统一的推荐特征中台，实现灵活可扩展的高性能存储系统和计算模型，为推荐业务实现先进的消重、计数、特征服务等实时数据系统；
 1、为大规模推荐系统设计和实现合理的实时（流式计算）数据系统；
@@ -7406,12 +8155,14 @@ Req:1、对流式计算系统有深入的了解，在生产环境有TB级别Flin
 3、熟悉Jav,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据开发工程师/专家-视频云
 * URL: https://jobs.bytedance.com/referral/pc/position/6815794199120578830/detail
 * Match:5:大数据,数据分析,监控,python,数仓
+
 
 
 ```
@@ -7427,12 +8178,14 @@ Req:1、具备扎实的数据结构和算法基础，熟悉至少一门编程语
 5、有多媒体领,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7104153995140204837/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -7447,12 +8200,14 @@ Req:1. 熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 4. 6年以上数据仓库或大数据开发，丰富的实时或者离线数据体系建设经验。,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据架构师-国际化电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7138669630645782791/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -7467,12 +8222,14 @@ Req:1、熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 4、6年以上数据仓库或大数据开发，丰富的实时或者离线数据体系建设经验。,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6829124465302145293/detail
 * Match:5:大数据,数据仓库,presto,hive,调度
+
 
 
 ```
@@ -7484,12 +8241,14 @@ Req:1、熟悉多项大数据领域的开源框架，e.g. Hadoop, Hive, Presto, 
 3、乐于挑战没有明显答案的问题，对新技术有强烈的学习热情。,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7291952962192476453/detail
 * Match:5:大数据,数据分析,python,hive,sql
+
 
 
 ```
@@ -7504,12 +8263,14 @@ Req:1、计算机相关专业本科以上学历，熟悉大数据计算架构和
 4、熟练使用Mysql，熟练使用ElasticSearch、Cli,.etc
 
 
+
 ```
 
 
 ##### 北京-大数据高级研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7264414543534197048/detail
 * Match:5:大数据,python,数据湖,sql,deltalake
+
 
 
 ```
@@ -7524,12 +8285,14 @@ Req:1、对大数据系统有深入的了解，在生产环境有TB级别Flink�
 3、熟悉Java,.etc
 
 
+
 ```
 
 
 ##### 北京-大模型数据工程师-豆包大模型
 * URL: https://jobs.bytedance.com/referral/pc/position/7273049598015408442/detail
 * Match:5:大数据,presto,python,数据湖,hive
+
 
 
 ```
@@ -7542,12 +8305,14 @@ Req:1、本科及以上学历，计算机相关专业，具有良好的沟通和
 4、熟悉多项大数据处理/分析相关的工具/框架，例如Hadoop、HDFS、Hive、Map,.etc
 
 
+
 ```
 
 
 ##### 北京-头条产品运营经理-图文变现方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7356553794866284810/detail
 * Match:5:项目管理,数据分析,python,商业分析,sql
+
 
 
 ```
@@ -7561,12 +8326,14 @@ Req:1、本科及以上学历，3年以上工作经验优先，有互联网内�
 3、具备良好的协作与沟通能力、策略能力，以及项目管理能力优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-头条战略分析师-AI方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7206185182244145464/detail
 * Match:5:项目管理,数据分析,python,商业分析,sql
+
 
 
 ```
@@ -7580,12 +8347,14 @@ Req:1、本科及以上学历，有2年及以上咨询、投资、互联网战�
 4、出色的跨部门沟通和协作能力，具备较强的项目管理能力，能够在业,.etc
 
 
+
 ```
 
 
 ##### 北京-头条数据科学家
 * URL: https://jobs.bytedance.com/referral/pc/position/7273743795254757669/detail
 * Match:5:数据分析,可视化,监控,hive,sql
+
 
 
 ```
@@ -7602,12 +8371,14 @@ Req:1、本科及以上学历，2年以上电商平台数据分析经验优先�
 6、沟通能力强，工作,.etc
 
 
+
 ```
 
 
 ##### 北京-实时数据开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7008424034498349342/detail
 * Match:5:大数据,数据仓库,python,sql,建模
+
 
 
 ```
@@ -7621,12 +8392,14 @@ Req:1、具备扎实的计算机科学功底、编程基础和数据结构算法
 4、掌,.etc
 
 
+
 ```
 
 
 ##### 北京-家装商家策略运营经理-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7432249143240575286/detail
 * Match:5:项目管理,数据分析,监控,商业分析,sql
+
 
 
 ```
@@ -7640,12 +8413,14 @@ Req:1、本科及以上学历，5年及以上商业分析、战略、商家/商�
 4、有韧性，有责任感与目标感，能抓住重点解决复杂问题，长期主义。,.etc
 
 
+
 ```
 
 
 ##### 北京-平台产品经理-国际化内容安全（用工管理）
 * URL: https://jobs.bytedance.com/referral/pc/position/7252714153772452157/detail
 * Match:5:项目管理,数据分析,监控,sql,调度
+
 
 
 ```
@@ -7661,12 +8436,14 @@ Req:1、本科及以上学历，3 年以上中后台产品或平台产品工作�
 5、加分项：2年以上的用工管理产品经验；具备双语（中文和英语,.etc
 
 
+
 ```
 
 
 ##### 北京-平台型高效SRE专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7444513792823822600/detail
 * Match:5:大数据,aws,presto,python,hive
+
 
 
 ```
@@ -7680,12 +8457,14 @@ Req:1、计算机相关专业，本科及以上学历；
 4,.etc
 
 
+
 ```
 
 
 ##### 北京-懂车帝-数分策略运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7402100557606144293/detail
 * Match:5:项目管理,数据分析,监控,python,sql
+
 
 
 ```
@@ -7698,12 +8477,14 @@ Req:1、本科及以上学历，有内容策略、内容运营相关经验优先
 3、高度自驱，结果导向，关注本质；有跨部门沟通协调、项目管理和推动能力；有抗压能力，时刻保持激情活力。,.etc
 
 
+
 ```
 
 
 ##### 北京-战略商业分析师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7322412594382670131/detail
 * Match:5:数据分析,可视化,商业分析,sql,建模
+
 
 
 ```
@@ -7717,12 +8498,14 @@ Req:1、认可战略研究+经营分析+数据分析结合的价值，喜欢挖�
 3、熟练进行商业建模，精通SQL、熟练使用一种数据可视化分析工具者优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音大数据架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/6826623269861443854/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -7737,12 +8520,14 @@ Req:1. 熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 4. 6年以上数据仓库或大数据开发，丰富的实时或者离线数据体系建设经验；,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音搜索数据科学家-业务模型方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7344988420139403530/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -7757,12 +8542,14 @@ Req:1、本科及以上学历，欢迎有多学科背景且能将跨学科知识
 5、有,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音搜索数据科学家-实验评估方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7344993771292477706/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -7778,12 +8565,14 @@ Req:1、本科及以上学历，统计学、数据科学、计算机、计量经
 6、有搜索经验为加分,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音数据分析师-创作者经营方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7291188349015738685/detail
 * Match:5:数据分析,可视化,监控,hive,sql
+
 
 
 ```
@@ -7798,12 +8587,14 @@ Req:1、本科及以上学历，2年以上互联网产品数据分析经验者�
 5、沟通能力强，工作能力优秀。,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音数据分析师-用户增长方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7298680816338209034/detail
 * Match:5:a/b,数据分析,python,hive,sql
+
 
 
 ```
@@ -7818,12 +8609,14 @@ Req:1、本科及以上学历，数学、经济学、统计学、计算机相关
 4、熟练使用Hive，精通SQL/Excel/Python/R等工具。,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音数据分析师-社交与创作方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7291187078225889591/detail
 * Match:5:数据分析,可视化,监控,hive,sql
+
 
 
 ```
@@ -7838,12 +8631,14 @@ Req:1、本科及以上学历，2年以上C端用户产品数据分析经验优�
 5、沟通能力强，工作能力优秀。,.etc
 
 
+
 ```
 
 
 ##### 北京-抖音策略运营经理-作者经营
 * URL: https://jobs.bytedance.com/referral/pc/position/7299779699461556489/detail
 * Match:5:项目管理,数据分析,监控,python,sql
+
 
 
 ```
@@ -7857,12 +8652,14 @@ Req:1、本科及以上学历，有一定的经营分析/数据运营/咨询/达
 4、出色的跨部门沟通和协作能力，具备较强的项目管理能力，能够在业务,.etc
 
 
+
 ```
 
 
 ##### 北京-推荐算法专家-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7103720355571730719/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -7875,6 +8672,7 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 2、机器学习基础理论扎实，熟悉常用的算法模型（如CF、FM、Word2vec、LR、GBDT、DNN），对模型调优有一定实践经验；
 3、对推荐系统召回/排序/多样性/冷启动中一个或多个方向有过深入的实践，了解业界经典的模型和方法；
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
+
 
 
 ```
@@ -7885,6 +8683,7 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 * Match:5:大数据,python,hive,sql,建模
 
 
+
 ```
 JD: 1、独特的业务问题，涉及到商品/直播/短视频等多种体裁的混合推荐，多个场景/多种目标的联合建模；
 2、超大规模的推荐模型优化，利用深度学习、迁移学习、多任务学习、表征学习、强化学习等多种方法提升信息匹配的效率；
@@ -7897,12 +8696,14 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
 
+
 ```
 
 
 ##### 北京-推荐算法工程师-抖音电商即时零售
 * URL: https://jobs.bytedance.com/referral/pc/position/7280750297538414905/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -7916,12 +8717,14 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
 
+
 ```
 
 
 ##### 北京-推荐算法工程师-电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7088260320913115405/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -7936,12 +8739,14 @@ Req:1. 扎实的算法和数据结构基础，优秀的问题理解能力和编�
 4. 熟悉至少一门编程语言（C/C++/Java/go/py,.etc
 
 
+
 ```
 
 
 ##### 北京-支付风控策略-商户方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7342712243349473546/detail
 * Match:5:数据分析,监控,python,hive,sql
+
 
 
 ```
@@ -7958,12 +8763,14 @@ Req:1、本科及以上学历，计算机、数学、统计学相关专业；
 5、责任心强，抗压能力强，乐于沟通，具有,.etc
 
 
+
 ```
 
 
 ##### 北京-支付风险算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6982063965891217678/detail
 * Match:5:监控,python,hive,sql,建模
+
 
 
 ```
@@ -7979,12 +8786,14 @@ Req:1、数学或计算机专业本科及以上学历，扎实的计算机算法
 4、2年以上互联网公司的数据挖掘或机器学,.etc
 
 
+
 ```
 
 
 ##### 北京-数据产品经理-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7123153535126931743/detail
 * Match:5:大数据,数据仓库,项目管理,数据分析,bi
+
 
 
 ```
@@ -7999,12 +8808,14 @@ Req:1、具备较好的产品设计能力，有数据BI、数据分析或商家�
 4、熟悉行业大数据应用场景，有数据仓库、BI、数据挖掘、用户画像等,.etc
 
 
+
 ```
 
 
 ##### 北京-数据产品经理-抖音直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7104158009420925197/detail
 * Match:5:大数据,数据仓库,bi,hive,sql
+
 
 
 ```
@@ -8018,12 +8829,14 @@ Req:1、本科及以上学历，能够熟练使用SQL/Hive；
 4、熟悉各行业大数据应用场景，有数据仓库、BI、数据挖掘、用户画像等方面的工作经验者优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据产品经理-数据科学方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7166181870665042184/detail
 * Match:5:数据分析,python,hive,sql,数据科学
+
 
 
 ```
@@ -8037,12 +8850,14 @@ Req:1、本科以上学历，计算机、统计学、数学、经济学等相关
 4、敏锐的商业数据洞察能力和良好的商业敏感度，面对复,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库专家-TikTok
 * URL: https://jobs.bytedance.com/referral/pc/position/7137983082241509668/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -8056,12 +8871,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 4、善于沟通，,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库专家-国际化业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7311646464173672714/detail
 * Match:5:数据仓库,python,hive,sql,建模
+
 
 
 ```
@@ -8077,12 +8894,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 5、较好的英文沟通能力是加分项。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库产品经理-中台业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7037021241576294693/detail
 * Match:5:大数据,数据仓库,bi,hive,sql
+
 
 
 ```
@@ -8096,12 +8915,14 @@ Req:1、本科及以上学历，能够熟练使用SQL/Hive；
 4、熟悉中台业务大数据应用场景，有数据仓库、BI、数据挖掘、用户画像等方面的工作经验者优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库工程师-Flow方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7299026641736616218/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -8118,12 +8939,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 5、有数据安全隐私合规建设经验优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库工程师-抖音房产业务平台
 * URL: https://jobs.bytedance.com/referral/pc/position/6956225367637100836/detail
 * Match:5:大数据,数据仓库,hive,sql,建模
+
 
 
 ```
@@ -8139,12 +8962,14 @@ Req:1、熟悉数据仓库体系架构、数据建模方法、数据治理等知
 5、扎实的数据结构、数据库原理等基础知识，理工科本科以,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库工程师-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7195064976460958009/detail
 * Match:5:大数据,数据仓库,hive,sql,建模
+
 
 
 ```
@@ -8160,12 +8985,14 @@ Req:1、熟悉数据仓库体系架构、数据建模方法、数据治理等知
 5、扎实的数据结构、数据库原理等基础知识，理工科本科以,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库工程师-搜索
 * URL: https://jobs.bytedance.com/referral/pc/position/6960688212147521799/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -8180,12 +9007,14 @@ Req:1、精通数据仓库实施方法论、深入了解数据仓库体系，并
 4、善于沟通，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库工程师/专家-BABI
 * URL: https://jobs.bytedance.com/referral/pc/position/7444485364843137298/detail
 * Match:5:大数据,数据仓库,数据分析,bi,hive
+
 
 
 ```
@@ -8201,12 +9030,14 @@ Req:1、本科以上学历，熟悉数据仓库实施方法论，深入了解数
 5、有复杂业,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6900801885184821518/detail
 * Match:5:数据仓库,python,数仓,sql,建模
+
 
 
 ```
@@ -8221,12 +9052,14 @@ Req:1、计算机相关专业本科及以上学历；
 5、熟悉Hadoop生态相关技术,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库开发工程师-APM
 * URL: https://jobs.bytedance.com/referral/pc/position/7345730712383817993/detail
 * Match:5:数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -8241,12 +9074,14 @@ Req:1、熟悉仓库实施方法论、深入了解数据仓库体系，并支撑
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据仓库开发工程师-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/6992527701346437383/detail
 * Match:5:大数据,数据仓库,hive,数仓,建模
+
 
 
 ```
@@ -8260,12 +9095,14 @@ Req:1、本科及以上学历，计算机等相关专业毕业；
 4、具备良好的沟通能力，对业务敏感，能够快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析工程师（数据挖掘/归因）
 * URL: https://jobs.bytedance.com/referral/pc/position/7137508571990329608/detail
 * Match:5:大数据,数据分析,监控,python,sql
+
 
 
 ```
@@ -8279,12 +9116,14 @@ Req:1、本科及以上学历，计算机或数学相关专业，3年及以上�
 4、具备良好的沟通表达、逻辑思维能力，有敏锐的数据洞察力，严谨细致，自驱，有韧性，富有挑,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-AI创新业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7362106957308610826/detail
 * Match:5:数据分析,监控,python,sql,数据科学
+
 
 
 ```
@@ -8298,12 +9137,14 @@ Req:1、本科及以上学历，3年以上数据分析经验;具备内容生态�
 4、对AI创新业,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-抖音直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7408467143249152294/detail
 * Match:5:大数据,数据分析,python,hive,sql
+
 
 
 ```
@@ -8319,12 +9160,14 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业优先
 4、能快速理解业务，发掘业务细节和数据之间的联系，能通过数据的手段更,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7294194381974931750/detail
 * Match:5:a/b,数据分析,python,sql,建模
+
 
 
 ```
@@ -8340,12 +9183,14 @@ Req:1、本科及以上学历，统计学、计算机、数学等相关专业；
 5、擅长团队沟通协作，可以主动思考，有创新意识，能推动多业务、多角色的项目顺利推进。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师-视频云
 * URL: https://jobs.bytedance.com/referral/pc/position/7291935591452264742/detail
 * Match:5:a/b,数据分析,可视化,python,sql
+
 
 
 ```
@@ -8362,12 +9207,14 @@ Req:1、热衷于处理复杂的数据集，以在快速增长的新领域中阐
 5、有使用机器学习技术（如回归、分类、聚类等）进,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师（即时零售方向）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7027809649572743455/detail
 * Match:5:数据分析,python,hive,sql,tableau
+
 
 
 ```
@@ -8379,12 +9226,14 @@ Req:1、精通至少一种数据库操作，如Hive/Mysql等；熟悉常用的�
 3、有过用户画像，商,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师（物流&供应链分析）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6874839929413110024/detail
 * Match:5:数据分析,监控,python,sql,建模
+
 
 
 ```
@@ -8398,12 +9247,14 @@ Req:1、数据、统计学、计算机、供应链与物流等相关专业优先
 4、较强的学习能力和执行力，逻辑清晰，善于表达自己观点并推动落地。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师（自助中心）-中国电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7446234070738356487/detail
 * Match:5:数据分析,监控,python,sql,建模
+
 
 
 ```
@@ -8418,12 +9269,14 @@ Req:1、数理功底扎实，有数学、统计学等数据相关专业优先；
 5、有电商平台/品牌/零售相关工作经验者优先，有商家招募、孵化成长相关经验优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师（营销大促）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7355342458685966642/detail
 * Match:5:数据分析,监控,python,商业分析,sql
+
 
 
 ```
@@ -8436,12 +9289,14 @@ Req:1、5年及以上数据分析相关经验，具备有电商相关行业战�
 3、好奇心强，主动性强，能快速学习，能够独立思考,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析师（营销导购）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7444834754564786439/detail
 * Match:5:数据分析,监控,python,商业分析,sql
+
 
 
 ```
@@ -8454,12 +9309,14 @@ Req:1、5年及以上数据分析工作经验，具备有电商相关行业战�
 3、好奇心强，主动性强，能快速学习，能够独立思考,.etc
 
 
+
 ```
 
 
 ##### 北京-数据分析负责人-客服平台（北京）
 * URL: https://jobs.bytedance.com/referral/pc/position/7081548238386940167/detail
 * Match:5:项目管理,数据分析,python,hive,sql
+
 
 
 ```
@@ -8474,12 +9331,14 @@ Req:1、数学、统计学、计算机相关专业，本科及以上学历优先
 5、熟练使用Hive、SQL，掌握Python/R等数据分析工具。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据平台技术负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7418109560323541299/detail
 * Match:5:大数据,项目管理,presto,python,数仓
+
 
 
 ```
@@ -8492,12 +9351,14 @@ Req:1、计算机相关专业本科及以上学历，5年以上数据平台/实�
 3、有大数据量、高并发处理经验，有大模型,.etc
 
 
+
 ```
 
 
 ##### 北京-数据开发工程师（数据应用方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7257495653571479863/detail
 * Match:5:大数据,数据仓库,hive,建模,数据科学
+
 
 
 ```
@@ -8512,12 +9373,14 @@ Req:1、本科以上学历，计算机、软件信息相关专业，5年及以�
 4、有中大型金融行业、消费金融,.etc
 
 
+
 ```
 
 
 ##### 北京-数据挖掘算法工程师—电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7056612512217549070/detail
 * Match:5:大数据,数据分析,python,sql,建模
+
 
 
 ```
@@ -8530,12 +9393,14 @@ Req:1、硕士研究生及以上学历，具备扎实的机器学习技术基础
 3、具备较好的商业理解能力，能够根据业务需求合理抽象算法问题，有良好的沟通和总结能力，,.etc
 
 
+
 ```
 
 
 ##### 北京-数据湖存储 Tech Lead/架构师-Hudi
 * URL: https://jobs.bytedance.com/referral/pc/position/7306035890751932699/detail
 * Match:5:大数据,presto,数据湖,hive,delta lake
+
 
 
 ```
@@ -8550,12 +9415,14 @@ Req:1、熟悉开源数据湖存储方案 Hudi，Iceberg，Delta Lake 其一的�
 4、具有较强的项目推动能力，能推动技术项目在业务侧的落地。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家
 * URL: https://jobs.bytedance.com/referral/pc/position/6802758047040014599/detail
 * Match:5:监控,python,hive,sql,数据科学
+
 
 
 ```
@@ -8567,12 +9434,14 @@ Req:1、计算机、统计学、数学、经济学等相关专业，具有统计
 2、主动思考能力强，逻辑性强，具备敏锐的商业数据洞察能力和良好的商业敏感度，面对复杂的业务问题，能够快速学习，梳理业务逻辑沉淀体系化的数据解决方案，,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家 - 商业安全与平台
 * URL: https://jobs.bytedance.com/referral/pc/position/7278244075328866620/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -8584,12 +9453,14 @@ Req:1、统计学、计算机、经济学等数据科学、量化分析相关专
 2、具备优秀的商业敏感度与逻辑思维能力，能够在较大不确定性的问题中构建框架，将数据转化为有效的商业洞察，有广告投放、审核风控、营销科学等相关从业背,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家-Pangle
 * URL: https://jobs.bytedance.com/referral/pc/position/7275265700448356665/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -8602,12 +9473,14 @@ Req:1、本科以上学历，统计学、计算机、经济学等数据科学、
 4、能够主,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家-国际化短视频-北京
 * URL: https://jobs.bytedance.com/referral/pc/position/7327864329285732659/detail
 * Match:5:a/b,数据分析,python,sql,数据科学
+
 
 
 ```
@@ -8621,12 +9494,14 @@ Req:1、本科及以上学历，统计学、数据科学、经济学等相关专
 4、了解机器学习、推荐算法原理，有互联网公司分析经验优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家-抖音推荐
 * URL: https://jobs.bytedance.com/referral/pc/position/7405507378186324262/detail
 * Match:5:大数据,python,商业分析,sql,数据科学
+
 
 
 ```
@@ -8641,12 +9516,14 @@ Req:1、数学/统计学/运筹学/数据科学/计算机/经济学/商业分析
 4、严谨的逻辑思维能力，善于分析问题和解决问题，良好的沟通协作能力，对于,.etc
 
 
+
 ```
 
 
 ##### 北京-数据科学家（电商内容生态）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7447527066230851847/detail
 * Match:5:数据分析,python,sql,建模,数据科学
+
 
 
 ```
@@ -8659,12 +9536,14 @@ Req:1、3年以上数据分析工作经验，具备内容生态、搜索和推�
 3、具备构建数据指标体系知识框架，曾有过构建指标体系经验；掌握基本数据分析方法，对数据落地到业务有,.etc
 
 
+
 ```
 
 
 ##### 北京-服务器系统集成测试工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6704508796233845005/detail
 * Match:5:大数据,数据分析,bi,python,sql
+
 
 
 ```
@@ -8678,12 +9557,14 @@ Req:1、计算机或相近专业本科及以上学历；3年以上服务器测�
 ,.etc
 
 
+
 ```
 
 
 ##### 北京-测试开发专家（数据平台）-TikTok直播（北京/上海）
 * URL: https://jobs.bytedance.com/referral/pc/position/7120158200473979173/detail
 * Match:5:大数据,数据分析,python,数仓,hive
+
 
 
 ```
@@ -8698,12 +9579,14 @@ Req:1、本科及以上学历，计算机相关专业，3年以上大数据或�
 5、责任心和自驱力,.etc
 
 
+
 ```
 
 
 ##### 北京-测试开发工程师-营销科学
 * URL: https://jobs.bytedance.com/referral/pc/position/7359167259149682953/detail
 * Match:5:大数据,监控,python,hive,sql
+
 
 
 ```
@@ -8720,12 +9603,14 @@ Req:1、本科及以上学历，计算机相关专业毕业，4年以上工作�
 6,.etc
 
 
+
 ```
 
 
 ##### 北京-测试开发工程师（广告投放）-TikTok用户增长
 * URL: https://jobs.bytedance.com/referral/pc/position/7251218724693674301/detail
 * Match:5:大数据,监控,python,hive,sql
+
 
 
 ```
@@ -8737,12 +9622,14 @@ Req:1、本科及以上学历，计算机、通信等相关专业，3年及以�
 2、熟悉后端基础技术，精通至少一门主流编程语言Golang/Python/C++/Java 等，有独立实现开发框架能力的优先；了解前端技术Typesc,.etc
 
 
+
 ```
 
 
 ##### 北京-测试开发工程师（数据平台）-国际化广告
 * URL: https://jobs.bytedance.com/referral/pc/position/6981715524565354783/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -8758,12 +9645,14 @@ Req:1、本科及以上学历，计算机相关专业，2年以上工作经验�
 5、有广告数据开发、数据仓库,.etc
 
 
+
 ```
 
 
 ##### 北京-直播营收产品运营-付费用户增长
 * URL: https://jobs.bytedance.com/referral/pc/position/7424759482045679923/detail
 * Match:5:项目管理,数据分析,python,商业分析,sql
+
 
 
 ```
@@ -8778,12 +9667,14 @@ Req:1、本科及以上学历，3年以上移动互联网营收产品/游戏数�
 4、有推荐策略、搜索策略、补贴策略、供需策略、交易策略、策略投放平台等相关经验优先,.etc
 
 
+
 ```
 
 
 ##### 北京-研发PMO/TPM专家-抖音安全与效能
 * URL: https://jobs.bytedance.com/referral/pc/position/7274876226665007419/detail
 * Match:5:大数据,pmo,项目管理,监控,pmp
+
 
 
 ```
@@ -8798,12 +9689,14 @@ Req:1、本科及以上学历，有互联网相关行业的项目管理相关技
 4、对互联网开发在线和离线数据有深,.etc
 
 
+
 ```
 
 
 ##### 北京-离线架构工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7386507951295777075/detail
 * Match:5:大数据,数据分析,python,hive,sql
+
 
 
 ```
@@ -8818,12 +9711,14 @@ Req:1、熟悉 Flink、Spark Streaming、Storm 等主流大数据计算系统原
 4、有优秀的设计和编码思维，对解决具有挑战性问题充满激情。,.etc
 
 
+
 ```
 
 
 ##### 北京-策略运营专家（即时零售）-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7276297682049599805/detail
 * Match:5:项目管理,数据分析,监控,商业分析,sql
+
 
 
 ```
@@ -8838,12 +9733,14 @@ Req:1、本科及以上学历，5年以上工作经验，互联网商业分析�
 4、具备一定项目管理经验，沟通协调能力优秀。,.etc
 
 
+
 ```
 
 
 ##### 北京-经营分析-巨懂车
 * URL: https://jobs.bytedance.com/referral/pc/position/7348713337133287707/detail
 * Match:5:pmo,数据分析,bi,商业分析,tableau
+
 
 
 ```
@@ -8856,12 +9753,14 @@ Req:1、本科及以上学历，3年左右工作经验，有媒体广告行业/B
 3、具备良好的商业分析思维与多部门协同推进能力，对于陌生领域有快速的自驱学习能力，能适应快节奏工作环境，有较好的抗压能力,.etc
 
 
+
 ```
 
 
 ##### 北京-经营平台数据方向负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7382405906409703717/detail
 * Match:5:大数据,数据仓库,bi,python,hive
+
 
 
 ```
@@ -8877,12 +9776,14 @@ Req:1、本科及以上学历，计算机相关专业，熟悉大数据相关技
 4、有IDC经营分析、电商或广告等业务数据工作经验加分。,.etc
 
 
+
 ```
 
 
 ##### 北京-财务BP-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7436228637181200658/detail
 * Match:5:数据分析,python,商业分析,sql,报表
+
 
 
 ```
@@ -8894,12 +9795,14 @@ Req:1、大学本科及以上，有5年及以上财务相关工作经验：有�
 3、具有良好的沟通能,.etc
 
 
+
 ```
 
 
 ##### 北京-资深内容策略运营专家-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7438452310987786504/detail
 * Match:5:数据分析,bi,数仓,sql,建模
+
 
 
 ```
@@ -8912,12 +9815,14 @@ Req:1、5年及以上互联网产品运营、策略运营相关工作经验，3�
 3、对内容策略有强烈兴趣，有用客观数据分析判断的量化思维和逻辑思维，有良好的产品感，商业嗅觉灵敏，善于发掘业务问题和痛点，好奇心强，求知欲强，有钻研探,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据仓库工程师-集团信息系统
 * URL: https://jobs.bytedance.com/referral/pc/position/7384784341802961179/detail
 * Match:5:大数据,数据仓库,hive,sql,建模
+
 
 
 ```
@@ -8934,12 +9839,14 @@ Req:1、熟悉数据仓库体系架构、数据建模方法、数据治理等知
 5、扎实的数据结构、数据库原,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7037051537357506830/detail
 * Match:5:数据分析,bi,python,数仓,sql
+
 
 
 ```
@@ -8952,12 +9859,14 @@ Req:1、专业技能：熟练掌握SQL，会使用R/python/sas等常用分析工
 2、基本素质：对数据分析有强烈兴趣，有用客观数据分析判断的量化思维和逻辑思维；有良好的产品感，商业嗅觉灵敏，善于发掘业务问题和痛点；好奇心强，求知欲强，有钻研探索精神,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据分析师-国际化直播-北京
 * URL: https://jobs.bytedance.com/referral/pc/position/7221447207755450679/detail
 * Match:5:数据分析,可视化,监控,sql,报表
+
 
 
 ```
@@ -8972,12 +9881,14 @@ Req:1. 本科及以上学历，数学、统计学、计算机相关专业优先�
 5. 具备抗压能力，优秀的沟通及对外协作能力，良,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据分析师（用户增长方向）-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7316843699722488101/detail
 * Match:5:a/b,数据分析,python,商业分析,sql
+
 
 
 ```
@@ -8991,12 +9902,14 @@ Req:1、本科及以上学历，3年以上的数据分析经验，具有生活�
 4、精通SQL，具备使用R、Pyt,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据分析师（营销增长）-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7316843664175679794/detail
 * Match:5:a/b,数据分析,python,sql,建模
+
 
 
 ```
@@ -9009,12 +9922,14 @@ Req:1、拥有本科及以上学位，5年以上的数据分析经验，具有�
 3、精通SQL，具备使用R、Python或其他编程语言的实践经验。具有运用机器学习技术（如回归、分类、聚类等）进行分析的能力，并,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据科学家-TikTok直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7414392877230426378/detail
 * Match:5:数据分析,监控,商业分析,sql,数据科学
+
 
 
 ```
@@ -9030,12 +9945,14 @@ Req:1、数学、统计学、计算机相关专业硕士毕业优先，3年以�
 6、在音视频技术、直播架构、网络技术、客户,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据科学家-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7324528614916704522/detail
 * Match:5:a/b,数据分析,python,sql,建模
+
 
 
 ```
@@ -9049,12 +9966,14 @@ Req:1、本科及以上学历，3年以上的数据分析和团队管理经验�
 4、,.etc
 
 
+
 ```
 
 
 ##### 北京-资深数据科学家（商家商品方向）-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7304552921491114278/detail
 * Match:5:a/b,数据分析,python,sql,建模
+
 
 
 ```
@@ -9067,12 +9986,14 @@ Req:1、本科及以上学历，3年以上数据分析经验，具有生活服�
 3、精通SQL，具备使用R、Python或其他编程语言的实践经验；具有运用机器学习技术（如回归、分类、聚类等）进行分析的能力，并且在将数据分析成果转化为业务策略方面有丰富经验,.etc
 
 
+
 ```
 
 
 ##### 北京-资深经营策略分析师-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7361466425968462117/detail
 * Match:5:项目管理,数据分析,数仓,商业分析,sql
+
 
 
 ```
@@ -9086,12 +10007,14 @@ Req:1、本科及以上学历，5年以上互联网商业分析、经营分析�
 4、对本地生活有比较好的理解，,.etc
 
 
+
 ```
 
 
 ##### 北京-资金专员-外汇与理财方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7447821710324336914/detail
 * Match:5:数据分析,监控,python,建模,报表
+
 
 
 ```
@@ -9109,12 +10032,14 @@ Req:1、3年左右金融机构或企业资金管理经验，熟悉银行与企�
 4、有数据建模经验或能使用Python进行数据分析的优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-软硬一体化高级研发专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7273039266451114277/detail
 * Match:5:大数据,bi,presto,hive,sql
+
 
 
 ```
@@ -9127,12 +10052,14 @@ Req:1、计算机、通信、电子及相关专业本科以上学历，至少精
 3、深入理解Linux内核，熟练使用内核调试工具（Perf、SystemTap、 eBPF、Crash等），,.etc
 
 
+
 ```
 
 
 ##### 北京-达人增长算法工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7407371465971173659/detail
 * Match:5:大数据,数据分析,python,hive,建模
+
 
 
 ```
@@ -9145,12 +10072,14 @@ Req:1、硕士研究生及以上学历，熟悉机器学习/NLP/深度学习/因
 3、自信、主动、交流，能够主动深入了解业务，适应快速的业务变化，有良好的个人表达和组织沟通能力，能够推进,.etc
 
 
+
 ```
 
 
 ##### 北京-金融风控策略
 * URL: https://jobs.bytedance.com/referral/pc/position/7237388438990752055/detail
 * Match:5:监控,python,hive,sql,建模
+
 
 
 ```
@@ -9166,12 +10095,14 @@ Req:1、3年及以上互联网金融或银行信用卡等消费金融业务风�
 5、熟练基本的计算机,.etc
 
 
+
 ```
 
 
 ##### 北京-销售支持运营经理-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7402589825821575451/detail
 * Match:5:数据分析,可视化,python,商业分析,sql
+
 
 
 ```
@@ -9185,12 +10116,14 @@ Req:1、本科及以上学历，3年及以上相关经验，有房产、本地�
 3、有较强的推动力、自驱力，积极主动，善于思考,.etc
 
 
+
 ```
 
 
 ##### 北京-风险运营专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7425942064100559154/detail
 * Match:5:项目管理,数据分析,监控,hive,sql
+
 
 
 ```
@@ -9206,12 +10139,14 @@ Req:1、本科及以上学历；
 5、有风险策略/集团风险专项/风控经验优先。,.etc
 
 
+
 ```
 
 
 ##### 北京-高级大数据开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7398151684125673755/detail
 * Match:5:大数据,数据仓库,hive,sql,建模
+
 
 
 ```
@@ -9228,12 +10163,14 @@ Req:1、熟悉数据仓库体系架构、数据建模方法、数据治理等知
 6、具备平,.etc
 
 
+
 ```
 
 
 ##### 北京-高级大数据测试开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7168737646314621191/detail
 * Match:5:大数据,python,hive,数仓,sql
+
 
 
 ```
@@ -9250,12 +10187,14 @@ Req:1、本科及以上学历，计算机相关专业毕业，4年以上工作�
 6、有过数据测试工具建设且在业务落地,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据分析师（策略与经营方向）-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7398431932785445158/detail
 * Match:5:数据分析,可视化,商业分析,sql,tableau
+
 
 
 ```
@@ -9271,12 +10210,14 @@ Req:1、本科及以上学历，统计学、数学、计算机等相关专业优
 4、具备一定的抗压力，以及较好,.etc
 
 
+
 ```
 
 
 ##### 北京-高级数据开发工程师-客户增长
 * URL: https://jobs.bytedance.com/referral/pc/position/6894163973413275911/detail
 * Match:5:大数据,bi,python,hive,sql
+
 
 
 ```
@@ -9291,12 +10232,14 @@ Req:1、本科及以上学历，精通至少一门编程语言，如Java、Pytho
 5、踏实，好学,.etc
 
 
+
 ```
 
 
 ##### 北京-高级用户研究经理-抖音图文方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7316466789436131621/detail
 * Match:5:大数据,数据分析,python,商业分析,sql
+
 
 
 ```
@@ -9309,12 +10252,14 @@ Req:1、本科及以上学历，社会学、心理学、统计学、市场营销
 4,.etc
 
 
+
 ```
 
 
 ##### 北京-高级经营分析师/经营分析专家—商业化治理方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7355702994883627314/detail
 * Match:5:数据分析,python,商业分析,sql,建模
+
 
 
 ```
@@ -9329,6 +10274,7 @@ Req:1、统计学/数学/物理/计算机/经济学/金融学/管理学等相关
 4、对工,.etc
 
 
+
 ```
 
 
@@ -9339,6 +10285,7 @@ Req:1、统计学/数学/物理/计算机/经济学/金融学/管理学等相关
 * Match:6:大数据,数据仓库,可视化,hive,调度,建模
 
 
+
 ```
 JD: 1、负责数据平台和分析型产品，服务于字节跳动的相关产品线；
 2、面向PB级超大规模数据问题，每天处理千亿增量的数据信息；
@@ -9348,6 +10295,7 @@ JD: 1、负责数据平台和分析型产品，服务于字节跳动的相关产
 Req:1、熟悉多项大数据处理/分析相关的工具/框架，例如：Hadoop，Mapreduce，Hive，Storm，Spark，Kylin，Scribe，Kafka，Hbase等；
 2、优秀的编码能力，生产环境快速Troubleshooting能力，对新技术有强烈的学习热情；
 3、优秀的理解沟通能力，能快速理解业务背景，对数据敏感，崇尚数据说话，深信数据在驱动业务、,.etc
+
 
 
 ```
@@ -9358,6 +10306,7 @@ Req:1、熟悉多项大数据处理/分析相关的工具/框架，例如：Hado
 * Match:6:大数据,数据仓库,可视化,hive,调度,建模
 
 
+
 ```
 JD: 1、负责数据平台和分析型产品，服务于字节跳动的相关产品线；
 2、面向PB级超大规模数据问题，每天处理千亿增量的数据信息；
@@ -9367,6 +10316,7 @@ JD: 1、负责数据平台和分析型产品，服务于字节跳动的相关产
 Req:1、熟悉多项大数据处理/分析相关的工具/框架，例如：Hadoop，Mapreduce，Hive，Storm，Spark，Kylin，Scribe，Kafka，Hbase等；
 2、优秀的编码能力，生产环境快速Troubleshooting能力，对新技术有强烈的学习热情；
 3、优秀的理解沟通能力，能快速理解业务背景，对数据敏感，崇尚数据说话，深信数据在驱动业务、,.etc
+
 
 
 ```
@@ -9379,12 +10329,14 @@ Req:1、熟悉多项大数据处理/分析相关的工具/框架，例如：Hado
 * Match:6:aws,bi,python,hive,sql,data warehouse
 
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req:Minimum Qualifications:
 - Bachelor and above with majors in computer science, computer engineering, statistics, applied mathematics, data science or other related disciplines;
 - So,.etc
+
 
 
 ```
@@ -9395,12 +10347,14 @@ Req:Minimum Qualifications:
 * Match:5:aws,bi,presto,hive,sql
 
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Si,.etc
 
 Req:Minimum Requirements:
 • BS or MS degree in Computer Science or related technical field or equivalent practical experience;
 • Experience in the Big Data technologies(Hadoop, M/R, Hi,.etc
+
 
 
 ```
@@ -9411,11 +10365,13 @@ Req:Minimum Requirements:
 * Match:5:a/b,bi,presto,hive,sql
 
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req:• BS or MS degree in Computer Science or related technical field or equivalent practical experience
 • Experience in the Big Data technologies(Hadoop, M/R, Hive, Spark, Metastore, P,.etc
+
 
 
 ```
@@ -9426,12 +10382,14 @@ Req:• BS or MS degree in Computer Science or related technical field or equiva
 * Match:5:a/b,aws,bi,python,sql
 
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Si,.etc
 
 Req:
 Minimum Qualifications:
 - Sustained track record of driving business value and improving product with data insights, especially in advertising, growth, marketing or relevant domai,.etc
+
 
 
 ```
@@ -9442,12 +10400,14 @@ Minimum Qualifications:
 * Match:5:a/b,aws,bi,python,sql
 
 
+
 ```
 JD: About Us
 TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New Yor,.etc
 
 Req:5+ years experience doing quantitative analysis.
 - BA/BS in Math, Statistics, Economics, Computer Science, or other quantitative fields. Advanced degrees are preferred but not requ,.etc
+
 
 
 ```
@@ -9458,11 +10418,13 @@ Req:5+ years experience doing quantitative analysis.
 * Match:5:aws,bi,python,hive,sql
 
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req:Minimum Qualifications
 - Master's degree (Ph.D. is a plus) in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practica,.etc
+
 
 
 ```
@@ -9473,12 +10435,14 @@ Req:Minimum Qualifications
 * Match:5:aws,bi,python,hive,sql
 
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req:Minimum Qualifications:
 1. Bachelor's degree or above in Computer Science/Statistics/Mathematics or other related majors
 2. Proficient in Python, Java, or Scala and big data tools ,.etc
+
 
 
 ```
@@ -9489,12 +10453,14 @@ Req:Minimum Qualifications:
 * Match:5:aws,bi,python,hive,sql
 
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req:Minimum Qualifications
 • Bachelors Degree in Computer Science, Computing Engineering, or related fields.
 • 2+ years experience in programming languages such as Go, Python, Java, C/,.etc
+
 
 
 ```
@@ -9507,11 +10473,13 @@ Req:Minimum Qualifications
 * Match:5:aws,bi,python,hive,sql
 
 
+
 ```
 JD: ByteDance is a global incubator of platforms at the cutting edge of commerce, content, entertainment, and enterprise services - over 2.5 billion people interact with ByteDance prod,.etc
 
 Req:Minimum Qualifications
 1. Strong experience in applicable experience designing, deploying and managing a range of IT infrastructure, including; Cloud architecture, application stac,.etc
+
 
 
 ```
@@ -9522,6 +10490,7 @@ Req:Minimum Qualifications
 ##### 广州-IT 在线服务中心-数据分析
 * URL: https://jobs.bytedance.com/referral/pc/position/7384031368328890661/detail
 * Match:10:数据分析,bi,可视化,监控,python,sql,tableau,powerbi,建模,报表
+
 
 
 ```
@@ -9537,12 +10506,14 @@ Req:1、本科或以上学历，计算机、统计学及相关领域专业背景
 5、主动性强，具备良好的沟通和协作能力，能够推动跨,.etc
 
 
+
 ```
 
 
 ##### 广州-国际电商 - 数据科学家/数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7185457606134417721/detail
 * Match:7:数据分析,监控,python,hive,sql,tableau,数据科学
+
 
 
 ```
@@ -9555,12 +10526,14 @@ Req:1、精通至少一种数据库操作，如Hive/Mysql等。熟悉常用的�
 3、能够帮助业务，通过标签进行场景策略的创建以及落地。同时形成效,.etc
 
 
+
 ```
 
 
 ##### 广州-Global Selling- 供应链PMO（业务数据分析）
 * URL: https://jobs.bytedance.com/referral/pc/position/7306428483495545126/detail
 * Match:5:数据分析,监控,python,hive,sql
+
 
 
 ```
@@ -9577,12 +10550,14 @@ Req:1、数学、统计学、计算机相关专业，本科及以上学历；
 6、性格严谨细致，认真负责。,.etc
 
 
+
 ```
 
 
 ##### 广州-Global Selling-供应链计划和管理
 * URL: https://jobs.bytedance.com/referral/pc/position/7252582668608915772/detail
 * Match:5:项目管理,数据分析,可视化,监控,商业分析
+
 
 
 ```
@@ -9596,12 +10571,14 @@ Req:1、本科及以上学历，具备3年以上供应链管理经验，具备�
 3、具备优秀的项目管理经验和能力和优秀的沟通协调能力。,.etc
 
 
+
 ```
 
 
 ##### 广州-国际电商-数据产品经理
 * URL: https://jobs.bytedance.com/referral/pc/position/7250102089332902201/detail
 * Match:5:大数据,项目管理,数据分析,sql,数据科学
+
 
 
 ```
@@ -9617,12 +10594,14 @@ Req:1、本科以上学历，计算机、数学、统计学相关专业；
 5、熟练使用Axure,xmind等设计工具，熟悉产品流程图绘制以及产品需求文档（PRD,.etc
 
 
+
 ```
 
 
 ##### 广州-国际电商-数据科学家/数据分析师（供应链方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7261974275132901689/detail
 * Match:5:项目管理,数据分析,监控,建模,报表
+
 
 
 ```
@@ -9638,12 +10617,14 @@ Req:1、本科以上学历，供应链及国际物流相关专业优先；
 5、出色的语言、沟通、组织协调能力，有良好的逻辑性和结构性思维,.etc
 
 
+
 ```
 
 
 ##### 广州-数据平台技术负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7418109897545763081/detail
 * Match:5:大数据,项目管理,presto,python,数仓
+
 
 
 ```
@@ -9656,6 +10637,7 @@ Req:1、计算机相关专业本科及以上学历，5年以上数据平台/实�
 3、有大数据量、高并发处理经验，有大模型全,.etc
 
 
+
 ```
 
 
@@ -9664,6 +10646,7 @@ Req:1、计算机相关专业本科及以上学历，5年以上数据平台/实�
 ##### 成都-资深数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7431083359029315849/detail
 * Match:8:数据仓库,项目管理,数据分析,可视化,监控,hive,sql,报表
+
 
 
 ```
@@ -9677,12 +10660,14 @@ Req:1、本科及以上学历，计算机、金融、数学、统计学等相关
 4、抗,.etc
 
 
+
 ```
 
 
 ##### 成都-数据仓库开发工程师——飞书业务应用
 * URL: https://jobs.bytedance.com/referral/pc/position/7324898713242896666/detail
 * Match:6:大数据,数据仓库,数据分析,hive,sql,建模
+
 
 
 ```
@@ -9697,12 +10682,14 @@ Req:1、计算机、数学相关专业本科及以上学历，三年及以上大
 4、有产品思维，主动思,.etc
 
 
+
 ```
 
 
 ##### 成都-基础设施-资深数据分析师（成都）
 * URL: https://jobs.bytedance.com/referral/pc/position/7363255503016888613/detail
 * Match:5:数据分析,可视化,python,hive,sql
+
 
 
 ```
@@ -9716,12 +10703,14 @@ Req:1、本科及以上学历，3年以上数据分析工作经验，具备云�
 4、沟通表达能力优、抗压能力强、协调推动能力强。,.etc
 
 
+
 ```
 
 
 ##### 成都-数据库产品运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7283087818234415415/detail
 * Match:5:大数据,数据分析,bi,sql,报表
+
 
 
 ```
@@ -9737,12 +10726,14 @@ Req:1、本科及以上学历，有3年以上互联网云计算领域产品运�
 5、对服务器成本构成，资源调配改装，供应链流程熟悉者优先。,.etc
 
 
+
 ```
 
 
 ##### 成都-财务BP-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7439637053648455944/detail
 * Match:5:数据分析,python,商业分析,sql,报表
+
 
 
 ```
@@ -9754,6 +10745,7 @@ Req:1、大学本科及以上，有5年及以上财务相关工作经验：有�
 3、具有良好的沟通能,.etc
 
 
+
 ```
 
 
@@ -9762,6 +10754,7 @@ Req:1、大学本科及以上，有5年及以上财务相关工作经验：有�
 ##### 新加坡-直播国际化 - 经营分析
 * URL: https://jobs.bytedance.com/referral/pc/position/7371647775257774386/detail
 * Match:6:数据分析,bi,python,hive,商业分析,sql
+
 
 
 ```
@@ -9776,12 +10769,14 @@ Req:1、5年互联网公司商业分析（有目标制定/管理、经营分析�
 5、优秀的沟通能力，善于跨团队合作，有高度的责任心，独立,.etc
 
 
+
 ```
 
 
 ##### 新加坡-Data Engineer - Global Payment - Singapore
 * URL: https://jobs.bytedance.com/referral/pc/position/7055587743610685726/detail
 * Match:5:bi,python,hive,sql,data warehouse
+
 
 
 ```
@@ -9795,6 +10790,7 @@ Req:Minimum Qualifications:
 2. Proficient in at least one programming language such ,.etc
 
 
+
 ```
 
 
@@ -9803,10 +10799,12 @@ Req:Minimum Qualifications:
 * Match:5:a/b,bi,python,hive,sql
 
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req:• Bachelor degree or above, major in mathematics, statistics, computer science is preferred; or major in science or engineering or engaged in data statistics, analysis, modeling re,.etc
+
 
 
 ```
@@ -9817,10 +10815,12 @@ Req:• Bachelor degree or above, major in mathematics, statistics, computer sci
 * Match:5:a/b,bi,python,sql,tableau
 
 
+
 ```
 JD: The e-commerce industry has seen tremendous growth in recent years and has become a hotly contested space amongst leading Internet companies, and its future growth cannot be undere,.etc
 
 Req:1. Bachelor degree or above, major in mathematics, statistics, computers is preferred; or major in science or engineering or engaged in data statistics, analysis, modeling related ,.etc
+
 
 
 ```
@@ -9831,6 +10831,7 @@ Req:1. Bachelor degree or above, major in mathematics, statistics, computers is 
 ##### 杭州-国际电商 - 数据分析师（治理分析）
 * URL: https://jobs.bytedance.com/referral/pc/position/7057453420487444767/detail
 * Match:9:a/b,数据分析,报表,可视化,监控,python,hive,sql,数据科学
+
 
 
 ```
@@ -9844,12 +10845,14 @@ Req:1、本科及以上学历，5年以上数据科学/数据分析工作经验�
 3、熟练使用Excel、精通SQL、hive，至少可以熟练使用一种数据可视化分析工具，擅,.etc
 
 
+
 ```
 
 
 ##### 杭州-隐私安全及数据运营经理-信息系统
 * URL: https://jobs.bytedance.com/referral/pc/position/7424821267054545178/detail
 * Match:9:大数据,数据仓库,数据分析,bi,可视化,监控,hive,sql,tableau
+
 
 
 ```
@@ -9864,12 +10867,14 @@ Req:1、本科或以上学历，计算机、数学、统计、管理信息系统
 4、逻辑清晰、执行力强、具,.etc
 
 
+
 ```
 
 
 ##### 杭州-高级数据分析师/数据科学家-开发者服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7330884592851274010/detail
 * Match:9:数据分析,bi,可视化,python,sql,tableau,powerbi,建模,数据科学
+
 
 
 ```
@@ -9884,12 +10889,14 @@ Req:1、5年及以上数据分析/数据科学行业经验；
 4、熟练使用SQL和其他数据分析/建模语言(Python, R等），掌握Tableau、PowerBI等数据可视化工具者,.etc
 
 
+
 ```
 
 
 ##### 杭州-基础架构数据运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7390004612907043110/detail
 * Match:8:数据仓库,数据分析,bi,可视化,python,sql,tableau,powerbi
+
 
 
 ```
@@ -9906,12 +10913,14 @@ Req:1、5年及以上互联网数据分析工作经验，有较强的数据统�
 6、英语水平较好，,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据仓库工程师-数仓建设方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7125777890046855461/detail
 * Match:8:大数据,数据仓库,数据分析,python,数仓,hive,sql,建模
+
 
 
 ```
@@ -9927,12 +10936,14 @@ Req:1. 计算机或相关专业本科及以上学历，3年以上工作经验；
 4. 精通SQL，具备海量数据下的性能调优能力，熟练掌握J,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据分析师-供应链
 * URL: https://jobs.bytedance.com/referral/pc/position/7368814242320222502/detail
 * Match:8:大数据,数据仓库,数据分析,可视化,数仓,sql,建模,报表
+
 
 
 ```
@@ -9946,12 +10957,14 @@ Req:1、本科以上学历，数学、统计学、运筹学、计算机科学与
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-领域建模专家（数仓方向）-集团信息系统部
 * URL: https://jobs.bytedance.com/referral/pc/position/7379919459261139251/detail
 * Match:8:大数据,数据仓库,数据分析,可视化,数仓,sql,建模,报表
+
 
 
 ```
@@ -9967,12 +10980,14 @@ Req:1、本科以上学历，数学、统计学、运筹学、计算机科学与
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-大数据开发工程师-抖音
 * URL: https://jobs.bytedance.com/referral/pc/position/7025578980955572493/detail
 * Match:7:大数据,数据仓库,python,数仓,hive,sql,报表
+
 
 
 ```
@@ -9988,12 +11003,14 @@ Req:1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase/Hive 等；
 5、有高性能分布式平台,.etc
 
 
+
 ```
 
 
 ##### 杭州-大数据开发工程师-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6950239054588070174/detail
 * Match:7:大数据,数据仓库,python,数仓,hive,sql,报表
+
 
 
 ```
@@ -10009,12 +11026,14 @@ Req:1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase/Hive 等；
 5、有高性能分布式平台,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据测试开发工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7086748921616615711/detail
 * Match:7:大数据,项目管理,监控,python,hive,sql,建模
+
 
 
 ```
@@ -10029,12 +11048,14 @@ Req:1、本科及以上学历，计算机软件等相关专业，2年及以上�
 4、具备数据库系统理论知识，掌,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据科学家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7121706569926854919/detail
 * Match:7:大数据,数据分析,python,hive,sql,建模,数据科学
+
 
 
 ```
@@ -10049,12 +11070,14 @@ Req:1、计算机/统计学/数学等相关专业本科及以上学历，有3年
 4、良好的问题分析解,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据科学家-电商供应链与物流
 * URL: https://jobs.bytedance.com/referral/pc/position/7392217489470966067/detail
 * Match:7:大数据,数据分析,python,hive,sql,建模,数据科学
+
 
 
 ```
@@ -10068,12 +11091,14 @@ Req:1、计算机、统计学、数学等相关专业，有3年以上数据挖�
 3、熟悉常见的数据分析及挖掘方法，以及常用的机器学习算法，了解深度学习原理和框架，具备优秀的理论研究和实际落地能力；,.etc
 
 
+
 ```
 
 
 ##### 杭州-高级/资深数据开发工程师 - IDC基础设施（杭州）
 * URL: https://jobs.bytedance.com/referral/pc/position/7273009010248141093/detail
 * Match:7:大数据,数据仓库,bi,监控,python,hive,sql
+
 
 
 ```
@@ -10088,12 +11113,14 @@ Req:1、具备实际的大数据业务开发经验，熟练使用Hadoop、Hive�
 4、具备数据库系统理论知识，掌握主流,.etc
 
 
+
 ```
 
 
 ##### 杭州-业务支持--子行业BP
 * URL: https://jobs.bytedance.com/referral/pc/position/7300915752121551131/detail
 * Match:6:数据分析,bi,可视化,python,商业分析,tableau
+
 
 
 ```
@@ -10107,12 +11134,14 @@ Req:1、本科及以上学历，3年及以上工作经验；
 4、具备良好的商业分析思维与,.etc
 
 
+
 ```
 
 
 ##### 杭州-大数据工程师-即时零售
 * URL: https://jobs.bytedance.com/referral/pc/position/7309458927354743077/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -10128,12 +11157,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 杭州-大数据研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7326899595064412426/detail
 * Match:6:大数据,数据仓库,数据分析,python,hive,sql
+
 
 
 ```
@@ -10149,12 +11180,14 @@ Req:1、计算机相关专业本科以上学历，熟悉大数据计算架构和
 4、熟练使用Mysql，熟练使用ElasticSearch、Cli,.etc
 
 
+
 ```
 
 
 ##### 杭州-大数据研发工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6987687182837795109/detail
 * Match:6:大数据,数据分析,bi,可视化,python,hive
+
 
 
 ```
@@ -10168,12 +11201,14 @@ Req:1、计算机相关专业，本科及以上学历，1-8年大数据开发相
 3、有ClickHouse/Druid/Kylin/Superse,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据产品经理-开发套件方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7374773940491077898/detail
 * Match:6:大数据,项目管理,监控,数仓,hive,sql
+
 
 
 ```
@@ -10187,12 +11222,14 @@ Req:1、3年以上数据开发或产品经验，计算机相关专业或从事�
 4、良好的语言沟通与表达能力，自我驱动，善于系统性思考，,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据仓库开发工程师-飞书业务应用
 * URL: https://jobs.bytedance.com/referral/pc/position/7314183662218840358/detail
 * Match:6:大数据,数据仓库,数据分析,hive,sql,建模
+
 
 
 ```
@@ -10207,12 +11244,14 @@ Req:1、计算机、数学相关专业本科及以上学历，三年及以上大
 4、有产品意识，主动思,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据湖存储专家-Hudi
 * URL: https://jobs.bytedance.com/referral/pc/position/7207433289186462007/detail
 * Match:6:大数据,lakehouse,presto,数据湖,hive,delta lake
+
 
 
 ```
@@ -10226,12 +11265,14 @@ Req:1、具备良好的 Java / Scala 编程基础和良好的计算机技术基�
 3、精通任一个 Parquet，ORC，Arrow 列存格式，或者 Avr,.etc
 
 
+
 ```
 
 
 ##### 杭州-流式计算-实时数仓系统架构 专家/工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6960955753159837989/detail
 * Match:6:大数据,presto,数据湖,数仓,delta lake,sql
+
 
 
 ```
@@ -10246,12 +11287,14 @@ Req:1、熟悉 Flink、Spark Streaming、Storm 等主流大数据计算系统原
 5、有大型实时数仓架构落地经验者优先。,.etc
 
 
+
 ```
 
 
 ##### 杭州-测试开发工程师-集团信息系统-大数据方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7288992405368621373/detail
 * Match:6:大数据,数据仓库,监控,python,sql,建模
+
 
 
 ```
@@ -10265,12 +11308,14 @@ Req:1、数据或数据产品相关的开发或测试4年以上经验，对数�
 3、熟悉数据仓库模型设计、ETL开发，维度建模设计方法，具备海量数据处理经验者优先；具备数据研发平台、数据服务等数据,.etc
 
 
+
 ```
 
 
 ##### 杭州-Devops/运维开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7380191321216141594/detail
 * Match:5:aws,监控,python,sql,调度
+
 
 
 ```
@@ -10282,12 +11327,14 @@ Req:1、掌握 Python/Shell/Golang中至少一种语言，并具备一定的编�
 3、有强烈的工作责任心，较好,.etc
 
 
+
 ```
 
 
 ##### 杭州-Devops/运维开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7321931333453891867/detail
 * Match:5:aws,监控,python,sql,调度
+
 
 
 ```
@@ -10301,12 +11348,14 @@ Req:1、掌握 Python/Shell/Golang中至少一种语言，并具备一定的编�
 3、有强烈的工作责任心，较好,.etc
 
 
+
 ```
 
 
 ##### 杭州-LakeHouse 公有云技术专家 - 火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7132702863922301220/detail
 * Match:5:大数据,lakehouse,presto,数据湖,deltalake
+
 
 
 ```
@@ -10321,12 +11370,14 @@ Req:1、有大数据 toB 产品研发经验；有公有云大数据产品研发�
 4、熟悉业界大数据云产品，如 MaxCompute、EMR、MRS、DLF、Databricks、DLI、DLC,.etc
 
 
+
 ```
 
 
 ##### 杭州-PMO-信息系统-杭州
 * URL: https://jobs.bytedance.com/referral/pc/position/7377583627829299466/detail
 * Match:5:pmo,项目管理,数据分析,监控,pmp
+
 
 
 ```
@@ -10339,12 +11390,14 @@ Req:1、本科或以上学历，4年或以上项目管理经验；熟悉产品�
 3、,.etc
 
 
+
 ```
 
 
 ##### 杭州-前端开发专家-IDE方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6995797129684617480/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -10358,12 +11411,14 @@ Req:1、三年以上前端相关开发经验，热爱 IDE 方向，关注业界�
 4、熟悉 VS Code 的 Language Server Protocol 和 Debug Adapter Pro,.etc
 
 
+
 ```
 
 
 ##### 杭州-后端技术专家-数据智能方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7295646292264749363/detail
 * Match:5:大数据,数据分析,bi,python,商业智能
+
 
 
 ```
@@ -10376,12 +11431,14 @@ Req:1、具有扎实的基础编程能力，熟练掌握至少一种主流编程
 3、熟悉分布式、缓存、消息等机制，熟悉 FaaS ,.etc
 
 
+
 ```
 
 
 ##### 杭州-后端高级工程师-OLAP分析型数据库
 * URL: https://jobs.bytedance.com/referral/pc/position/7268206235488078139/detail
 * Match:5:大数据,数据分析,python,数仓,hive
+
 
 
 ```
@@ -10399,12 +11456,14 @@ Req:1、计算机相关专业，本科及以上学历；
 5、熟悉大数据生态环境，了解Hadoop，Hive，Kafka，Spark，Druid等大数据技术栈；分析型数据库（,.etc
 
 
+
 ```
 
 
 ##### 杭州-国际电商 - 数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7017350212818962701/detail
 * Match:5:数据分析,可视化,监控,hive,sql
+
 
 
 ```
@@ -10421,12 +11480,14 @@ Req:1、本科及以上学历，3年以上电商平台数据分析经验，有�
 6、沟通能力强，英语工,.etc
 
 
+
 ```
 
 
 ##### 杭州-增长算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7288219287986014501/detail
 * Match:5:大数据,数据分析,python,hive,建模
+
 
 
 ```
@@ -10438,12 +11499,14 @@ Req:1、掌握扎实的计算机科学基础知识 (数据结构/算法/网络�
 3、具有敏锐的数据分析和洞察能力，熟悉常见的大数据开发工具,.etc
 
 
+
 ```
 
 
 ##### 杭州-增长算法工程师-电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7244752951365093690/detail
 * Match:5:大数据,数据分析,python,sql,建模
+
 
 
 ```
@@ -10456,12 +11519,14 @@ Req:1、硕士研究生及以上学历，具备扎实的机器学习技术基础
 3、具备较好的商业理解能力，能够根据业务需求合理抽象算法问题，有良好的沟通和总结能力，,.etc
 
 
+
 ```
 
 
 ##### 杭州-大数据架构师-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6900933796675193101/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -10477,12 +11542,14 @@ Req:1、 熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 4、 6年以上数据仓库或大数据开发，丰富的实时或者离线数据体系建设经验。,.etc
 
 
+
 ```
 
 
 ##### 杭州-抖音电商-推荐算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7156447306006776072/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -10495,6 +11562,7 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 2、机器学习基础理论扎实，熟悉常用的算法模型（如CF、FM、Word2vec、LR、GBDT、DNN），对模型调优有一定实践经验；
 3、对推荐系统召回/排序/多样性/冷启动中一个或多个方向有过深入的实践，了解业界经典的模型和方法；
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
+
 
 
 ```
@@ -10505,6 +11573,7 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 * Match:5:大数据,python,hive,sql,建模
 
 
+
 ```
 JD: 1、独特的业务问题，涉及到商品/直播/短视频等多种体裁的混合推荐，多个场景/多种目标的联合建模；
 2、超大规模的推荐模型优化，利用深度学习、迁移学习、多任务学习、表征学习、强化学习等多种方法提升信息匹配的效率；
@@ -10517,12 +11586,14 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
 
+
 ```
 
 
 ##### 杭州-推荐算法工程师-抖音电商即时零售
 * URL: https://jobs.bytedance.com/referral/pc/position/7280751390922066213/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -10536,12 +11607,14 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据仓库专家-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7374328440013801737/detail
 * Match:5:大数据,数据仓库,python,hive,建模
+
 
 
 ```
@@ -10556,12 +11629,14 @@ Req:1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase/Hive 等；
 ,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据仓库工程师-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7374328417346537779/detail
 * Match:5:大数据,数据仓库,hive,sql,建模
+
 
 
 ```
@@ -10577,12 +11652,14 @@ Req:1、熟悉数据仓库体系架构、数据建模方法、数据治理等知
 5、扎实的数据结构、数据库原理等基础知识，理工科本科以,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据仓库开发工程师-APM
 * URL: https://jobs.bytedance.com/referral/pc/position/7345730963203524914/detail
 * Match:5:数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -10597,12 +11674,14 @@ Req:1、熟悉仓库实施方法论、深入了解数据仓库体系，并支撑
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据库产品运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7283087813507254585/detail
 * Match:5:大数据,数据分析,bi,sql,报表
+
 
 
 ```
@@ -10618,12 +11697,14 @@ Req:1、本科及以上学历，有3年以上互联网云计算领域产品运�
 5、对服务器成本构成，资源调配改装，供应链流程熟悉者优先。,.etc
 
 
+
 ```
 
 
 ##### 杭州-数据湖存储 Tech Lead/架构师-Hudi
 * URL: https://jobs.bytedance.com/referral/pc/position/7290498338754595129/detail
 * Match:5:大数据,presto,数据湖,hive,delta lake
+
 
 
 ```
@@ -10638,12 +11719,14 @@ Req:1、熟悉开源数据湖存储方案 Hudi，Iceberg，Delta Lake 其一的�
 4、具有较强的项目推动能力，能推动技术项目在业务侧的落地。,.etc
 
 
+
 ```
 
 
 ##### 杭州-游戏商业分析师-游戏业务管理办公室
 * URL: https://jobs.bytedance.com/referral/pc/position/7429608290349238538/detail
 * Match:5:数据分析,可视化,python,商业分析,sql
+
 
 
 ```
@@ -10659,12 +11742,14 @@ Req:1、本科及以上学历，统计学、数学、计算机、经济学、管
 4、熟悉游戏数据分析方法，参与过多个游戏项目的商业分析工作,.etc
 
 
+
 ```
 
 
 ##### 杭州-资深数据开发工程师-集团信息系统
 * URL: https://jobs.bytedance.com/referral/pc/position/7249650077828286757/detail
 * Match:5:大数据,数据仓库,hive,sql,建模
+
 
 
 ```
@@ -10682,6 +11767,7 @@ Req:1、熟悉SQL/HQL/PLSQL之一，有SQL性能调优经验者优先；
 6、具备优秀的逻辑思维能力，对解决挑战性问题充满热情，善于解决问题和,.etc
 
 
+
 ```
 
 
@@ -10690,6 +11776,7 @@ Req:1、熟悉SQL/HQL/PLSQL之一，有SQL性能调优经验者优先；
 ##### 深圳-IT 在线服务中心 - 数据分析
 * URL: https://jobs.bytedance.com/referral/pc/position/7263368926025156921/detail
 * Match:10:数据分析,bi,可视化,监控,python,sql,tableau,powerbi,建模,报表
+
 
 
 ```
@@ -10705,12 +11792,14 @@ Req:1、本科及以上学历，计算机、统计学及相关领域专业背景
 5、主动性强，具备良好的沟通和协作能力，能够推动跨,.etc
 
 
+
 ```
 
 
 ##### 深圳-基础架构数据运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7390004942000916787/detail
 * Match:8:数据仓库,数据分析,bi,可视化,python,sql,tableau,powerbi
+
 
 
 ```
@@ -10727,12 +11816,14 @@ Req:1、5年及以上互联网数据分析工作经验，有较强的数据统�
 6、英语水平较好，,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据开发工程师-用户中台
 * URL: https://jobs.bytedance.com/referral/pc/position/7120053811905300766/detail
 * Match:8:大数据,数据仓库,数据分析,python,数仓,hive,sql,建模
+
 
 
 ```
@@ -10746,12 +11837,14 @@ Req:1、本科及以上学历，计算机、通信等相关专业，3年以上�
 4、对数仓建设、数据建模、数,.etc
 
 
+
 ```
 
 
 ##### 深圳-资深大数据研发工程师-数据治理方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7010620363667802375/detail
 * Match:8:大数据,数据分析,python,数仓,hive,sql,建模,数据科学
+
 
 
 ```
@@ -10765,12 +11858,14 @@ Req:1、熟练使用SQL、Python、Java等工具进行大型数据分析及建�
 4、对数据治理有一定的实践经验，有良好业务sense，对数据业务场景敏感，能够横向协同、跨团队整合资源，形成完整的方案解决,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据产品经理（GameBI）-游戏技术
 * URL: https://jobs.bytedance.com/referral/pc/position/7425925521954343206/detail
 * Match:7:大数据,数据仓库,bi,可视化,sql,tableau,powerbi
+
 
 
 ```
@@ -10785,12 +11880,14 @@ Req:1、5年以上数据产品设计经验，统计、数学、计算机相关�
 4、熟练使用SQL及其他分析工具，,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据科学家 - 国际化直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7385118352640182566/detail
 * Match:7:a/b,数据分析,可视化,监控,python,sql,数据科学
+
 
 
 ```
@@ -10805,12 +11902,14 @@ Req:1、本科及以上学历，统计学、数据科学、经济学等相关专
 4、优秀的思维逻辑，善于分析问题和解决问题，良好的沟通协作能力，对于挑战充满热情。,.etc
 
 
+
 ```
 
 
 ##### 深圳-【剪映CapCut】大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7196980737177307450/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -10825,12 +11924,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 深圳-【国际化业务】大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7103954525178300702/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -10846,12 +11947,14 @@ Req:1、仓库实施方法论、深入了解数据仓库体系，并支撑过实
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 深圳-【抖音国际化直播】大数据工程师-数仓方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7166818310809078046/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -10867,12 +11970,14 @@ Req:1、数据仓库实施方法论、深入了解数据仓库体系，并支撑
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 深圳-【抖音直播】大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7196980005183392057/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -10888,12 +11993,14 @@ Req:1、熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 深圳-【抖音直播】大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7103954457273043230/detail
 * Match:6:大数据,数据仓库,监控,python,hive,sql
+
 
 
 ```
@@ -10909,12 +12016,14 @@ Req:1. 熟悉数据仓库实施方法论、深入了解数据仓库体系，并�
 3. 善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 深圳-业务风控算法工程师—火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7312358795378936091/detail
 * Match:6:大数据,数据分析,监控,hive,sql,建模
+
 
 
 ```
@@ -10929,12 +12038,14 @@ Req:1、计算机相关专业本科及以上学历，优秀的编码能力，具
 4、有风控行业相关建模经验和互联网用户画像等大数据挖,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据分析师-剪映
 * URL: https://jobs.bytedance.com/referral/pc/position/7399580807029541130/detail
 * Match:6:a/b,数据分析,可视化,python,hive,sql
+
 
 
 ```
@@ -10949,12 +12060,14 @@ Req:1、研究生学历，数学、经济学、统计学、计算机相关专业
 4、熟练使用Hive，精通SQL/Excel/Python/R等工具。,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据分析师-游戏方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7213271499620649277/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -10970,12 +12083,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据科学家-剪映
 * URL: https://jobs.bytedance.com/referral/pc/position/7379881641777465610/detail
 * Match:6:a/b,可视化,python,hive,sql,数据科学
+
 
 
 ```
@@ -10990,12 +12105,14 @@ Req:1、硕士及以上学历，数学、经济学、统计学、计算机相关
 4、熟练使用Hive，精通SQL/Excel/Python/R等工具。,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据策略高级工程师/专家-智能服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7408442930656463155/detail
 * Match:6:大数据,bi,python,hive,建模,数据科学
+
 
 
 ```
@@ -11008,12 +12125,14 @@ Req:1、本科及以上学历，计算机、大数据、人工智能或者相关
 4、在数据,.etc
 
 
+
 ```
 
 
 ##### 深圳-番茄小说数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/6986147275359045896/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -11029,12 +12148,14 @@ Req:1、数学、统计学、计算机相关专业优先；
 7、热爱阅读，,.etc
 
 
+
 ```
 
 
 ##### 深圳-金融风控算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7254776378033391932/detail
 * Match:6:大数据,数据分析,监控,hive,sql,建模
+
 
 
 ```
@@ -11049,12 +12170,14 @@ Req:1、计算机相关专业本科及以上学历，优秀的编码能力，具
 4、有风控行业相关建模经验和互联网用户画像等大数据挖,.etc
 
 
+
 ```
 
 
 ##### 深圳-高级数据分析师-直播业务（营收方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7242148933685643578/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -11069,12 +12192,14 @@ Req:1、数学、统计学、计算机相关专业优先；对通过数据分析
 5、精通SQL，熟练使用R/Python进行数据分析、挖掘；掌握Tableau等BI工具尤佳,.etc
 
 
+
 ```
 
 
 ##### 深圳-高级数据分析师-直播方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6986164691538086181/detail
 * Match:6:a/b,数据分析,bi,python,sql,tableau
+
 
 
 ```
@@ -11089,12 +12214,14 @@ Req:1、数学、统计学、计算机相关专业优先；对通过数据分析
 6、掌握 Tab,.etc
 
 
+
 ```
 
 
 ##### 深圳-高级风控算法工程师-国际支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7174976837331683640/detail
 * Match:6:监控,python,hive,sql,建模,数据科学
+
 
 
 ```
@@ -11106,12 +12233,14 @@ Req:1、数学或计算机专业本科及以上学历，扎实的计算机算法
 4、3年以上互联网公司的数据挖掘或机器学,.etc
 
 
+
 ```
 
 
 ##### 深圳-【国际化直播】数仓研发工程师（实时/离线）
 * URL: https://jobs.bytedance.com/referral/pc/position/7122659441274767630/detail
 * Match:5:数据仓库,python,hive,sql,报表
+
 
 
 ```
@@ -11125,12 +12254,14 @@ Req:1. 仓库实施方法论、深入了解数据仓库体系，并支撑过实�
 3. 善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
 
+
 ```
 
 
 ##### 深圳-增长算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7260130008562665765/detail
 * Match:5:大数据,数据分析,python,hive,建模
+
 
 
 ```
@@ -11142,12 +12273,14 @@ Req:1、掌握扎实的计算机科学基础知识 (数据结构/算法/网络�
 3、具有敏锐的数据分析和洞察能力，熟悉常见的大数据开发工具,.etc
 
 
+
 ```
 
 
 ##### 深圳-大数据研发工程师-风控方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7007262611175983367/detail
 * Match:5:大数据,数据仓库,数据分析,python,建模
+
 
 
 ```
@@ -11162,12 +12295,14 @@ Req:1、3年以上大数据研发经历，计算机相关专业本科及以上�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-大数据研发高级工程师/专家-智能服务
 * URL: https://jobs.bytedance.com/referral/pc/position/6993206150566480141/detail
 * Match:5:大数据,数据仓库,python,hive,数据科学
+
 
 
 ```
@@ -11180,12 +12315,14 @@ Req:1、计算机、大数据或者相关专业，本科及以上学历，两年
 4、有高并发、高,.etc
 
 
+
 ```
 
 
 ##### 深圳-抖音大数据架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/6862612705489291534/detail
 * Match:5:大数据,数据仓库,python,hive,sql
+
 
 
 ```
@@ -11200,12 +12337,14 @@ Req:1、 熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 4、 6年以上数据仓库或大数据开发，丰富的实时或者离线数据体系建设经验。,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据分析工程师-国际支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7099748802333247781/detail
 * Match:5:大数据,数据分析,python,sql,建模
+
 
 
 ```
@@ -11222,12 +12361,14 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业优先
 6、英语能,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据分析师 - AI创新业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7394380066811463946/detail
 * Match:5:数据分析,监控,python,sql,数据科学
+
 
 
 ```
@@ -11241,12 +12382,14 @@ Req:1、本科及以上学历，3年以上数据分析经验；具备内容生�
 4、对AI创新业,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据分析师-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7294195247410661683/detail
 * Match:5:a/b,数据分析,python,sql,建模
+
 
 
 ```
@@ -11262,12 +12405,14 @@ Req:1、本科及以上学历，统计学、计算机、数学等相关专业；
 5、擅长团队沟通协作，可以主动思考，有创新意识，能推动多业务、多角色的项目顺利推进。,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据平台技术负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7418109665625524489/detail
 * Match:5:大数据,项目管理,presto,python,数仓
+
 
 
 ```
@@ -11280,12 +12425,14 @@ Req:1、计算机相关专业本科及以上学历，5年以上数据平台/实�
 3、有大数据量、高并发处理经验，有大模型全,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据平台技术负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7071905484848597278/detail
 * Match:5:大数据,项目管理,presto,python,数仓
+
 
 
 ```
@@ -11298,12 +12445,14 @@ Req:1、计算机相关专业本科及以上学历，5年以上数据平台/实�
 3、有大数据量、高并发处理经验，有处理上亿用户数据的,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据挖掘工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7441152815068072210/detail
 * Match:5:大数据,监控,python,hive,建模
+
 
 
 ```
@@ -11316,12 +12465,14 @@ Req:1、计算机相关专业本科及以上学历，优秀的编码能力，具
 3、精通并灵活使用Xgboost、LightGBM、LR等机器学习算法；在搜索广告和,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据科学owner-直播
 * URL: https://jobs.bytedance.com/referral/pc/position/6986572825310759205/detail
 * Match:5:大数据,数据分析,python,sql,数据科学
+
 
 
 ```
@@ -11337,12 +12488,14 @@ Req:1、数学、统计学、计算机相关专业优先，对数据分析和数
 6、创新能力强，面对业务上各种新问题，能创,.etc
 
 
+
 ```
 
 
 ##### 深圳-数据科学家-国际直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7241772387291957561/detail
 * Match:5:大数据,数据分析,python,sql,数据科学
+
 
 
 ```
@@ -11357,12 +12510,14 @@ Req:1、数学、统计学、计算机相关专业优先，对数据分析和数
 5、创新能力强，面对业务上各种新问题，能创造性的,.etc
 
 
+
 ```
 
 
 ##### 深圳-服务器系统集成测试工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6959492374829582623/detail
 * Match:5:大数据,数据分析,bi,python,sql
+
 
 
 ```
@@ -11376,12 +12531,14 @@ Req:1、计算机或相近专业本科及以上学历；3年以上服务器测�
 ,.etc
 
 
+
 ```
 
 
 ##### 深圳-高级数据分析师-国际化直播-深圳
 * URL: https://jobs.bytedance.com/referral/pc/position/7278269173037615418/detail
 * Match:5:数据分析,可视化,监控,sql,报表
+
 
 
 ```
@@ -11396,6 +12553,7 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业优先
 5、具备抗压能力，优秀的沟,.etc
 
 
+
 ```
 
 
@@ -11404,6 +12562,7 @@ Req:1、本科及以上学历，数学、统计学、计算机相关专业优先
 ##### 珠海-国际电商-商业分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7357954137033738505/detail
 * Match:6:数据分析,监控,python,hive,商业分析,sql
+
 
 
 ```
@@ -11416,12 +12575,14 @@ Req:1、四年及以上战略咨询或互联网商业分析经验（电商相关
 3、有较强的沟通能力，能够跨部门，多团队协作，同时有解决,.etc
 
 
+
 ```
 
 
 ##### 珠海-Global Selling-达人策略运营（POP）（上海/珠海）
 * URL: https://jobs.bytedance.com/referral/pc/position/7424431507621595401/detail
 * Match:5:项目管理,数据分析,python,商业分析,sql
+
 
 
 ```
@@ -11436,12 +12597,14 @@ Req:1、本科及以上学历，具备泛交易型业态平台的商业分析/�
 4、抗压能力强，沟通能力强，有目标感，具备良好的推动力和团队合作精神。,.etc
 
 
+
 ```
 
 
 ##### 珠海-国际电商-推荐算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7274800096528140604/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -11456,12 +12619,14 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
 
+
 ```
 
 
 ##### 珠海-增长算法工程师-电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7273796786429921573/detail
 * Match:5:大数据,数据分析,python,sql,建模
+
 
 
 ```
@@ -11474,12 +12639,14 @@ Req:1、硕士研究生及以上学历，具备扎实的机器学习技术基础
 3、具备较好的商业理解能力，能够根据业务需求合理抽象算法问题，有良好的沟通和总结能力，,.etc
 
 
+
 ```
 
 
 ##### 珠海-推荐算法工程师-国际电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7329422353618766107/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -11494,12 +12661,14 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
 
+
 ```
 
 
 ##### 珠海-推荐算法工程师-国际电商（商城）
 * URL: https://jobs.bytedance.com/referral/pc/position/7330538225108338954/detail
 * Match:5:大数据,python,hive,sql,建模
+
 
 
 ```
@@ -11514,12 +12683,14 @@ Req:1、扎实的算法和数据结构基础，优秀的问题理解能力和编
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
 
+
 ```
 
 
 ##### 珠海-达人增长算法工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7407372140104632603/detail
 * Match:5:大数据,数据分析,python,hive,建模
+
 
 
 ```
@@ -11532,6 +12703,7 @@ Req:1、硕士研究生及以上学历，熟悉机器学习/NLP/深度学习/因
 3、自信、主动、交流，能够主动深入了解业务，适应快速的业务变化，有良好的个人表达和组织沟通能力，能够推进,.etc
 
 
+
 ```
 
 
@@ -11540,6 +12712,7 @@ Req:1、硕士研究生及以上学历，熟悉机器学习/NLP/深度学习/因
 ##### 西安-经营分析管理
 * URL: https://jobs.bytedance.com/referral/pc/position/7434427833726978367/detail
 * Match:7:大数据,项目管理,数据分析,bi,可视化,监控,商业分析
+
 
 
 ```
@@ -11554,6 +12727,7 @@ Req:1、5年及以上经营运营工作经验，数学、统计学、金融工�
 4、抗压能力强，思维活跃，能适应公司工作节奏。,.etc
 
 
+
 ```
 
 
@@ -11564,11 +12738,13 @@ Req:1、5年及以上经营运营工作经验，数学、统计学、金融工�
 * Match:5:aws,bi,python,hive,sql
 
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req:Minimum Qualifications:
 1. Master’s degree or higher in Computer Science, Statistics, Mathematics, or a closely related field, with a strong focus on data research methodologies an,.etc
+
 
 
 ```
@@ -11579,11 +12755,13 @@ Req:Minimum Qualifications:
 * Match:5:aws,bi,python,hive,sql
 
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req:Minimum Qualifications:
 1. Bachelor’s degree or higher in Computer Science, Statistics, Mathematics, or relevant fields, with 3 years of experience in data mining, machine learning,.etc
+
 
 
 ```
@@ -11592,6 +12770,7 @@ Req:Minimum Qualifications:
 ##### 西雅图-Senior Finance Manager, E-Commerce
 * URL: https://jobs.bytedance.com/referral/pc/position/7408190246422169866/detail
 * Match:5:aws,bi,sql,tableau,powerbi
+
 
 
 ```
@@ -11603,6 +12782,7 @@ Req:Minimum Qualifications:
 2. Proficiency in,.etc
 
 
+
 ```
 
 
@@ -11611,12 +12791,14 @@ Req:Minimum Qualifications:
 * Match:5:a/b,aws,pmo,bi,pmp
 
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req:Minimum Qualifications:
 1. BA/BS degree or above with 5+ years of project delivery or process optimization experiences
 2. An understanding of Project frameworks with data-driven mi,.etc
+
 
 
 ```
@@ -11629,6 +12811,7 @@ Req:Minimum Qualifications:
 * Match:6:bi,python,sql,data warehouse,tableau,powerbi
 
 
+
 ```
 JD: About ByteDance
 Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, as well as platforms sp,.etc
@@ -11636,6 +12819,7 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req:Minimum Qualifications
 1. Bachelor's degree or above; minimum of three years of relevant experience in data analysis;
 2. Proficient in SQL and Tableau/PowerBI or similar visualizat,.etc
+
 
 
 ```
