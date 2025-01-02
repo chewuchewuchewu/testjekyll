@@ -1,119 +1,132 @@
-[![Build Status](https://gitlab.com/pages/jekyll/badges/master/pipeline.svg)](https://gitlab.com/pages/jekyll/-/pipelines?ref=master)
-![Jekyll Version](https://img.shields.io/gem/v/jekyll.svg)
+希望以此结果，能大家在各个大厂内尽快筛选到尽可能匹配的岗位。
 
----
+### 各厂入口
 
-Example [Jekyll] website using GitLab Pages.  View it live at https://pages.gitlab.io/jekyll
+#### 字节
+* 已上传，不定期更新 * [官网入口](https://jobs.bytedance.com/experienced/position)
+* [byteDance-data-analyst.md](./src/byteDance-data-analyst.md)
+* [byteDance-data-engineer_part1.md](./src/byteDance-data-engineer_part1.md)
+* [byteDance-data-engineer_part2.md](./src/byteDance-data-engineer_part2.md)
 
-[Learn more about GitLab Pages](https://pages.gitlab.io) or read the the [official GitLab Pages documentation](https://docs.gitlab.com/ce/user/project/pages/).
+#### 腾讯
+* 已上传，不定期更新 * [官网入口](https://careers.tencent.com/zh-cn/search.html)
+* [tencent-data-analyst.md](./src/tencent-data-analyst.md)
+* [tencent-data-engineer.md](./src/tencent-data-engineer.md)
 
----
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+#### 哔哩哔哩
+* 已上传，不定期更新 * [官网入口](https://jobs.bilibili.com/social/positions?location=%E4%B8%8A%E6%B5%B7&type=3)
+* [bilibili-data-analyst.md](./src/bilibili-data-analyst.md)
+* [bilibili-data-engineer.md](./src/bilibili-data-engineer.md)
 
-- [Getting Started](#getting-started)
-  - [Start by forking this repository](#start-by-forking-this-repository)
-  - [Start from a local Jekyll project](#start-from-a-local-jekyll-project)
-- [GitLab CI](#gitlab-ci)
-- [Using Jekyll locally](#using-jekyll-locally)
-- [GitLab User or Group Pages](#gitlab-user-or-group-pages)
-- [Did you fork this project?](#did-you-fork-this-project)
-- [Other examples](#other-examples)
-- [Troubleshooting](#troubleshooting)
+#### 京东
+* 已上传，不定期更新 * [官网入口](https://zhaopin.jd.com/web/job/job_info_list/3)
+* [jd-data-analyst.md](./src/jd-data-analyst.md)
+* [jd-data-engineer.md](./src/jd-data-engineer.md)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Getting Started
+#### 顺丰
+* 已上传，不定期更新 * [官网入口](https://hr.sf-express.com/jobMainHandler/main/9999)
+* [sf_Express-data-analyst.md](./src/sf_Express-data-analyst.md)
+* [sf_Express-data-engineer.md](./src/sf_Express-data-engineer.md)
 
-You can get started with GitLab Pages using Jekyll easily by either forking this repository or by uploading a new/existing Jekyll project.
 
-Remember you need to wait for your site to build before you will be able to see your changes.  You can track the build on the **Pipelines** tab.
+#### 蚂蚁
+* 已上传，不定期更新 * [官网入口](https://talent.antgroup.com/off-campus)
+* [antGroup-data-analyst.md](./src/antGroup-data-analyst.md)
+* [antGroup-data-engineer.md](./src/antGroup-data-engineer.md)
 
-### Start by forking this repository
 
-1. Fork this repository.
-1. **IMPORTANT:** Remove the fork relationship.
-Go to **Settings (⚙)** > **Edit Project** and click the **"Remove fork relationship"** button.
-1. Enable Shared Runners.
-Go to **Settings (⚙)** > **Pipelines** and click the **"Enable shared Runners"** button.
-1. Rename the repository to match the name you want for your site.
-1. Edit your website through GitLab or clone the repository and push your changes.
+#### 携程
+* 已上传，不定期更新 * [官网入口](https://job.ctrip.com/index.html#/jobList)
+* [ctrip-data-analyst.md](./src/ctrip-data-analyst.md)
+* [ctrip-data-engineer.md](./src/ctrip-data-engineer.md)
 
-### Start from a local Jekyll project
+#### 希尔顿
+* 已上传，不定期更新
+* [Hilton.md](./src/Hilton.md)
 
-1. [Install][] Jekyll.
-1. Use `jekyll new` to create a new Jekyll Project.
-1. Add [this `.gitlab-ci.yml`](.gitlab-ci.yml) to the root of your project.
-1. Push your repository and changes to GitLab.
 
-## GitLab CI
+#### 叠纸游戏
+* 已上传，不定期更新
+* [叠纸游戏.md](./src/叠纸游戏.md)
 
-This project's static Pages are built by [GitLab CI][ci], following the steps
-defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
+
+#### 盒马
+* 已上传，不定期更新
+* [盒马Freshippo.md](./src/盒马Freshippo.md)
+
+
+#### 更多公司
+* 已上传，不定期更新
+* [more-data-related-jobs.md](./src/more-data-related-jobs.md)
+
+#### 进度条
+|厂名|进度|入口|
+|-----|-----|------|
+|网易|TODO|[入口](https://hr.163.com/)|
+|百度|TODO|[入口](https://talent.baidu.com/jobs/social-list)|
+|Vivo|TODO|[入口](https://hr.vivo.com/jobs?_p=2&_irjl=%E4%B8%8A%E6%B5%B7)|
+|美团|TODO|[入口](https://zhaopin.meituan.com/web/social)|
+|拼多多|TODO|[入口](https://careers.pddglobalhr.net/jobs)|
+|米哈游|TODO|[入口](https://jobs.mihoyo.com/)|
+|华为|TODO|[入口](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html)|
+|海尔|TODO|[入口](http://vta.maker.haier.net/client/mobile/sociallist.html)|
+|苏宁|TODO|[入口](http://careers.suning.cn/rps-web/position/show_position_new.htm?type=1)|
+|阿里|TODO|[入口](https://talent.alibaba.com/off-campus/position-list?lang=zh)|
+|沃尔玛|TODO|[入口](https://walmartchina.avature.cn/zh_CN/storecareers/SearchJobsInSams/?6039=953&6039_format=3360&6040=920&6040_format=3361&listFilterMode=1&jobRecordsPerPage=6&jobOffset=0)]
+|海信|TODO|[入口](http://hisense.zhiye.com/sz)|
+
+
+
+### 使用提示
+*  通过匹配列表，筛选更适合的职位，无论是和HR，内推，还是和猎头沟通，都能更有针对性。
+*  除了通过猎头推荐，直接向官网投递简历也是一种方式。
+*  对心仪的岗位，不定期重复投递简历，有时能起到意想不到的效果。
+
+#### 伸缩文件列表以更改页面布局
+![to use the catalog](./src/Navigator.jpeg)
+
+#### 点击边栏的职位信息跳转，在Web端打开能看到完整页面
+```
+以地区和相关匹配度依次排序
+点击职位描述页面以获取完整信息
+```
+![to enlarge the page](./src/catalogLayout.jpeg)
+
+
+#### 处理思路
+```
+1. 在各厂求职页面，依次搜索各 * * 职位* *  关键字，并合并搜索结果
+2. 按照data engineer 和 analyst/PM 这两个大类， * * 组织技能匹配关键字* *  
+3. 对于合并后列表内的每个职位，依次搜索技能匹配关键字，并统计命中数
+*  对于统计后的结果做相关度筛选，按照1）地区 2）匹配命中数做排序展示
+```
+
+```mermaid
+flowchart TD
+jobKeywords("职位关键字列表
+             数据仓库，数据分析，产品经理，leader，etc.")
+searchPage("各厂开放职位列表")
+
+jobKeywords-->|依次搜索各职位关键字|合并职位列表
+searchPage-->|依次搜索各职位关键字|合并职位列表("合并各关键字搜索结果
+                                           得到开放职位列表")
+
+skillKeywords("技能关键字列表
+                engineer相关 : python, data warehouse, sql, Hadoop, etc.
+                analyst相关 : 建模，可视化，PMP，PMO, etc.")
+-->|依次匹配各个关键字|职位相关度打分("提取各职位JD和技能需求等描述
+                                  统计匹配关键字个数
+                                  近似估计相关度")
+
+合并职位列表
+-->职位相关度打分
+
+职位相关度打分
+-->重写engineer列表("按照地区/相关度排序<br>上传潜在data engineer 岗位列表")
+职位相关度打分
+-->重写analyst-PM列表("按照地区/相关度排序<br>上传潜在data analyst/PM/manager 岗位列表")
+
 
 ```
-image: ruby:latest
-
-variables:
-  JEKYLL_ENV: production
-
-pages:
-  script:
-  - bundle install
-  - bundle exec jekyll build -d public
-  artifacts:
-    paths:
-    - public
-  only:
-  - master
-```
-
-## Using Jekyll locally
-
-To work locally with this project, you'll have to follow the steps below:
-
-1. Fork, clone or download this project
-1. [Install][] Jekyll
-1. Download dependencies: `bundle`
-1. Build and preview: `bundle exec jekyll serve`
-1. Add content
-
-The above commands should be executed from the root directory of this project.
-
-Read more at Jekyll's [documentation][].
-
-## GitLab User or Group Pages
-
-To use this project as your user/group website, you will need one additional
-step: just rename your project to `namespace.gitlab.io`, where `namespace` is
-your `username` or `groupname`. This can be done by navigating to your
-project's **Settings**.
-
-Read more about [user/group Pages][userpages] and [project Pages][projpages].
-
-## Did you fork this project?
-
-If you forked this project for your own use, please go to your project's
-**Settings** and remove the forking relationship, which won't be necessary
-unless you want to contribute back to the upstream project.
-
-## Other examples
-
-* [jekyll-branched](https://gitlab.com/pages/jekyll-branched) demonstrates how you can keep your GitLab Pages site in one branch and your project's source code in another.
-* The [jekyll-themes](https://gitlab.com/jekyll-themes) group contains a collection of example projects you can fork (like this one) having different visual styles.
-
-## Troubleshooting
-
-1. CSS is missing! That means two things:
-    * Either that you have wrongly set up the CSS URL in your templates, or
-    * your static generator has a configuration option that needs to be explicitly
-    set in order to serve static assets under a relative URL.
-
-[ci]: https://about.gitlab.com/gitlab-ci/
-[Jekyll]: http://jekyllrb.com/
-[install]: https://jekyllrb.com/docs/installation/
-[documentation]: https://jekyllrb.com/docs/home/
-[userpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#user-or-group-pages
-[projpages]: https://docs.gitlab.com/ce/user/project/pages/introduction.html#project-pages
