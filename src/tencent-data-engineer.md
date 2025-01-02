@@ -2,9 +2,11 @@
 ### 腾讯 Tencent data-engineer or leader
 * URL: https://careers.tencent.com/zh-cn/jobopportunity.html
 * with filters
+
 ```
 - 搜索关键字 ['数据', '数仓', 'BI', 'DevOps', '商业分析', '产品经理']
 - 匹配关键字 ['SQL', 'Python', 'Hive', 'Spark', 'Java', 'Go', 'bash', 'airflow', '数仓', '数据仓库', '数据湖', '治理', '离线', '分布式计算', '实时', 'lakehouse', 'datalake', 'data warehouse', '可视化', 'OLAP', 'ETL', '调度', '监控', '大数据', 'delta lake', 'deltalake', 'Tableau', 'Flink', 'Linux', 'yarn', 'Hadoop', 'Kafka', 'MySQL', 'ClickHouse', 'HBase', 'DeltaLake', 'databricks', 'presto', 'AWS', 'devops', '容器', 'docker', 'kubernetes', 'k8s', '团队负责人', '报表', '元数据', 'metadata']
+
 ```
 
 
@@ -13,6 +15,7 @@
 ##### 上海-游戏服务端主程
 * URL: http://careers.tencent.com/jobdesc.html?postId=1844575424856748032
 * Match:5:aws,容器,kubernetes,docker,linux
+
 
 ```
 JD: 1.设计和实现高性能、可扩展和稳定的服务器架构，以满足业务需求和性能目标；
@@ -34,12 +37,14 @@ Req: 1.计算机相关专业，本科及以上学历；
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 上海-腾讯云-大数据产品架构师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864567300812726272
 * Match:5:大数据,sql,数据仓库,hadoop,数据湖
+
 
 ```
 JD: 1.负责大数据平台、数据仓库/数据湖、数据中台的产品解决方案设计、技术咨询、项目产品售前支持等工作；
@@ -58,12 +63,14 @@ Req: 1.对大数据、数据仓库、数据湖、数据中台、数据工具相�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 上海-腾讯云-大数据产品架构师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1839493317763559424
 * Match:5:大数据,sql,数据仓库,hadoop,数据湖
+
 
 ```
 JD: 1.负责大数据平台、数据仓库/数据湖、数据中台的产品解决方案设计、技术咨询、项目产品售前支持等工作；
@@ -83,12 +90,14 @@ Req: 1.对大数据、数据仓库、数据湖、数据中台、数据工具相�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 上海-腾讯云大数据-高级产品经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1823634032324276224
 * Match:5:大数据,presto,spark,数据湖,delta lake
+
 
 ```
 JD: 1.负责大数据数据湖产品规划，结合业务战略制定产品方案，并推进产品落地以及商业化；
@@ -106,12 +115,14 @@ Req: 1.本科以上学历，具有大型企业数据分析、大数据平台类�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 上海-腾讯云数据库专家 (上海/北京/深圳/成都)-H
 * URL: http://careers.tencent.com/jobdesc.html?postId=1821466918402416640
 * Match:5:java,sql,mysql,python,go
+
 
 ```
 JD: 1.负责腾讯云数据库的交付工作，根据数据库产品特性并结合客户需求设计合适的架构和解决方案，并保障项目的顺利交付；
@@ -129,12 +140,14 @@ Req: 1.本科以上学历，8年以上数据库相关经验；
 * RequireWorkYearsName: 八年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 上海-腾讯广告-数据科学家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1849266474938556416
 * Match:5:大数据,spark,sql,hadoop,python
+
 
 ```
 JD: 1.研究和设计广告业务A/B testing的统计模型和算法 ；
@@ -149,12 +162,14 @@ Req: 1.计算机、统计学、经济学等相关的专业硕士研究生及以�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 上海-腾讯云-数据湖存储后台开发工程师-元数据加速方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1827971901499142144
 * Match:4:大数据,java,hadoop,元数据
+
 
 ```
 JD: 1.负责腾讯云对象存储分布式缓存类产品研发工作；
@@ -174,12 +189,14 @@ Req: 1.本科及以上学历，5年以上相关工作经验；
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 上海-腾讯云-泛互联网解决方案架构专家-ToB行业
 * URL: http://careers.tencent.com/jobdesc.html?postId=1744193560921513984
 * Match:4:k8s,sql,mysql,go
+
 
 ```
 JD: 1.对接腾讯云泛互ToB行业KA客户，为客户提供技术咨询服务，维系客户及支持客户的持续高速发展；
@@ -196,6 +213,7 @@ Req: 1.本科以上学历，10年以上运维或开发、架构设计工作经�
 * RequireWorkYearsName: 八年以上工作经验 
 ,.etc
 
+
 ```
 
 
@@ -204,6 +222,7 @@ Req: 1.本科以上学历，10年以上运维或开发、架构设计工作经�
 ##### 北京-云原生调度工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1846811625114333184
 * Match:11:大数据,容器,离线,yarn,java,kubernetes,docker,linux,k8s,go,调度
+
 
 ```
 JD: 1.负责云原生大数据、云原生 AI 产品的架构设计、核心功能的研发及技术优化，打造腾讯内部统一的云原生计算平台；
@@ -222,12 +241,14 @@ Req: 1.本科及以上学历，计算机相关专业优先；
 4.有在离线混部、多目标调度优化、跨集群智能调度等经验优先；
 5.有机器学习相关经验，熟悉时序数据分类分,.etc
 
+
 ```
 
 
 ##### 北京-腾讯地图-POI数据挖掘算法工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1863411851438616576
 * Match:8:大数据,分布式计算,离线,java,spark,hadoop,python,go
+
 
 ```
 JD: 1.基于多来源、海量的地图及生态数据, 设计算法, 检测低质量或异常的地图poi数据, 对其进行拦截或者打标, 保障数据质量；
@@ -247,12 +268,14 @@ Req: 1.计算机相关专业，本科或以上学历，2年以上大数据分析
 2.精通Java、Go或Python中的两种或以上编程语言；
 3.熟悉并实践过分布式计算框架，如Hadoop、Sp,.etc
 
+
 ```
 
 
 ##### 北京-大数据迁移工具-高级开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1839493412592574464
 * Match:7:大数据,java,spark,flink,hadoop,hive,go
+
 
 ```
 JD: 1.根据客户大数据迁移上云的具体场景，提炼并明确迁移工具产品需求，主导迁移工具产品功能的孵化与落地实施；
@@ -271,12 +294,14 @@ Req: 1.本科及以上学历，计算机相关专业背景，拥有五年以上�
 2.在开源社区有积极贡献，如提交过相关代码或文档，能够与社区成员共同交流学习;
 3.在同等条件下，通,.etc
 
+
 ```
 
 
 ##### 北京-海外网络研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1779433417734103040
 * Match:7:可视化,java,sql,python,go,调度,监控
+
 
 ```
 JD: 1.负责全球CDN、边缘计算网络基础设施相关系统平台架构设计和开发；
@@ -292,12 +317,14 @@ Req: 1.本科学历及以上，计算机、网络相关专业背景，英语可�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-腾讯云大数据售前PoC技术专家-高级工程师-DBA方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864567308387639296
 * Match:7:大数据,java,spark,olap,linux,python,clickhouse
+
 
 ```
 JD: 1.负责腾讯云大数据售前技术支持，设计满足客户需求、有竞争力的测试方案技术；
@@ -315,12 +342,14 @@ Req: 1.本科以上学历，计算机相关专业，三年以上MPP数据库方�
 4.提供具有竞争力的薪酬福利和完善的职业发展体系。 
 * ImportantItem: 1.深度参与Starrocks、Doris、Spark、Impala等,.etc
 
+
 ```
 
 
 ##### 北京-QQ短视频-推荐算法工程师-深圳/北京
 * URL: http://careers.tencent.com/jobdesc.html?postId=1716395077850374144
 * Match:6:大数据,hive,spark,linux,hadoop,python
+
 
 ```
 JD: 1.负责qq-短视频Feed流推荐和红点推送以及商业化算法的研发，通过在召回、排序和混排上对样本、特征、模型、画像以及相关策略的不断优化，持续提升业务在不同场景的效率和用户体验；
@@ -335,12 +364,14 @@ Req: 1.研究生及以上学历，3年以上推荐、广告、搜索等策略算
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-广告大数据开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1735976959462088704
 * Match:6:大数据,java,实时,spark,flink,hbase
+
 
 ```
 JD: 1.负责腾讯广告的大数据研发与维护工作，为模型/调价/运营分析等场景提供稳定高效的数据基础；
@@ -354,12 +385,14 @@ Req: 1.计算机或相关专业本科及以上学历，3年以上互联网工作
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-网关控制器高级开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810211328556539904
 * Match:6:kafka,sql,mysql,linux,k8s,go
+
 
 ```
 JD: 1.负责腾讯自研及腾讯云流量接入平台控制器的软件设计、研发、运维；
@@ -378,12 +411,14 @@ Req: 1.熟悉Linux操作系统，熟悉C++/golang中的一种语言，掌握至�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-腾讯云-售后技术支持专家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1784584510814298112
 * Match:6:大数据,容器,java,治理,python,go
+
 
 ```
 JD: 1.负责腾讯云公有云客户云上售后SRE专家支持工作，为客户提供容灾高可用，业务部署优化，架构优化，成本优化，容量管理，业务连续性治理等方面的专家服务；
@@ -402,12 +437,14 @@ Req: 1.计算机科学或者相关专业，5年以上后台开发或者SRE的相
 2.具有腾讯云TCP资格证书、红帽系统管理员认证、思科或者H3C的网络管理员认证优先;
 3.在,.etc
 
+
 ```
 
 
 ##### 北京-腾讯云-稳定性测试专家(深圳)(成都)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1792508129129275392
 * Match:6:aws,容器,kubernetes,docker,linux,python
+
 
 ```
 JD: 1.负责腾讯云的稳定性集成测试工作，包括但不限于可靠性、可用性、E2E场景、混沌、长稳测试、故障模拟演练等；
@@ -429,12 +466,14 @@ Req: 1.计算机本科以上学历，3年以上IAAS/PAAS产品稳定性相关工
 * ImportantItem: 1.有大型互联网服务稳定性测试经验者优先；
 2.熟悉云计算服务，如AWS、Az,.etc
 
+
 ```
 
 
 ##### 北京-腾讯地图-数据挖掘算法工程师 
 * URL: http://careers.tencent.com/jobdesc.html?postId=1859790738452144128
 * Match:6:大数据,hive,实时,spark,hadoop,python
+
 
 ```
 JD: 1.负责地图车线匹配、实时公交eta、公交线路排序等相关算法研究及优化；
@@ -451,12 +490,14 @@ Req: 1.本科及以上学历，3年以上工作经验；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-腾讯广告-算法工程师（机制方向）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1847086346296909824
 * Match:6:大数据,分布式计算,java,spark,flink,python
+
 
 ```
 JD: 1.参与竞价广告全链路基础策略框架建设和排序计费机制的设计，打造健康长期可持续的商业生态；
@@ -471,12 +512,14 @@ Req: 1.本科及以上学历，优先：有专业背景的硕士和博士；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-SDN控制器开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1853699307249627136
 * Match:5:java,sql,mysql,python,go
+
 
 ```
 JD: 1.基于SDN控制器平台opendaylight，开发java应用；
@@ -494,12 +537,14 @@ Req: 1.大学本科或以上学历，计算机相关专业；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-存储业务后台研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1811226147589988352
 * Match:5:大数据,java,linux,go,调度
+
 
 ```
 JD: 1.参与对象存储业务后台组件的研发工作，包括：负载均衡调度，高并发接入模块研发，访问高可用设计，计费系统等；
@@ -513,12 +558,14 @@ Req: 1.熟悉 Linux 开发环境，熟练掌握一门编程语言（C++/Java/Gol
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-腾讯云-数据库专家（上海/北京/深圳/成都）-H
 * URL: http://careers.tencent.com/jobdesc.html?postId=1806180171313586176
 * Match:5:java,sql,mysql,python,go
+
 
 ```
 JD: 1.负责腾讯云数据库的交付工作，根据数据库产品特性并结合客户需求设计合适的架构和解决方案，并保障项目的顺利交付；
@@ -536,12 +583,14 @@ Req: 1.本科以上学历，8年以上数据库相关经验；
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-腾讯大数据-#算法工程师#（深圳/北京）-数据挖掘
 * URL: http://careers.tencent.com/jobdesc.html?postId=1767106970604544000
 * Match:5:大数据,java,spark,hadoop,python
+
 
 ```
 JD: 1.基于海量的业务数据，挖掘数据价值，并在PCG各个业务场景取得落地收益，包括但不限于：；
@@ -558,12 +607,14 @@ Req: 1.熟悉常用的数据挖掘算法，对机器学习、深度学习、强�
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-腾讯广告-算法工程师（模型方向）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1858761159583232000
 * Match:5:大数据,java,spark,hadoop,python
+
 
 ```
 JD: 1.负责基于海量用户广告行为数据，个性化推荐在广告推荐领域的应用和研究，提高深度目标的推荐效果；
@@ -578,12 +629,14 @@ Req: 1.计算机或相关专业研究生及以上学历，三年以上的互联�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-读书产品部算法研究员
 * URL: http://careers.tencent.com/jobdesc.html?postId=1734532438811484160
 * Match:5:大数据,java,spark,hadoop,python
+
 
 ```
 JD: 1.支持微信读书相关业务，包括搜索推荐、(长)内容理解、AI问书等算法研发及持续优化，提升微信读书整体用户体验；
@@ -597,12 +650,14 @@ Req: 1.计算机、电子工程、数学或机器学习相关专业方向硕士�
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-微信输入法-高级后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1699632287001354240
 * Match:4:python,go,调度,监控
+
 
 ```
 JD: 1.参与微信输入法核心功能设计、开发及维护，包括但不限于服务性能调优、技术难点攻坚、指标自动化监控、异构大模型调度等；
@@ -617,12 +672,14 @@ Req: 1.本科及以上学历，计算机相关专业；
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-机器学习高级后台研发工程师-推理平台方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1861233174433001472
 * Match:4:java,python,go,linux
+
 
 ```
 JD: 1.负责广告场景推理平台功能研发与性能优化，支撑广告业务持续升级；
@@ -636,12 +693,14 @@ Req: 1.熟悉Linux开发环境，良好的系统编程、数据结构、算法�
 
 * DepartmentIntroduction: 机器学习平台部负责腾讯“太极”机器学习平台的建设，构建面向搜索、广告、推荐的稀疏大模型、大语言模型及稠密大模型和通用机器学习的平台能力，为腾讯广告，微信搜索、社交、游戏、金融、云等多个业务提供易用、高效的一站式机器学习平台服务。我们的技术包括但不限于预训练大模型框架、高性能参数服务器、CPU/GPU 训练和推理加速、图神经网络、NLP自然语言处理,.etc
 
+
 ```
 
 
 ##### 北京-腾讯云-中间件高级研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1759864232171544576
 * Match:4:k8s,java,go,linux
+
 
 ```
 JD: 1.负责腾讯云微服务产品（包括不限于微服务平台、注册配置中心、微服务框架、服务网格、云原生网关等）的研发工作，提升产品竞争力；
@@ -658,12 +717,14 @@ Req: 1.本科以上学历，5年以上后台开发经验；
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 北京-腾讯云-大数据公有云高级产品架构师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1815605276028461056
 * Match:4:大数据,spark,flink,hadoop
+
 
 ```
 JD: 1.能够深入理解客户对于大数据产品和方案的需求和痛点，针对客户业务场景和产品技术需求，设计整体大数据产品解决方案；
@@ -682,12 +743,14 @@ Req: 1.计算机、通信等相关专业，本科及以上学历，5年以上大
 * ImportantItem: 1.有云厂商公有云大数据的To B解决方案的实践经验，有实际大数据业务领域实践经验，过往中有承担协调多方推动大数据项目的在实际应用场景中落地；
 2.五年以上大数据相关,.etc
 
+
 ```
 
 
 ##### 北京-腾讯广告-算法工程师（流量优化）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1789208771860373504
 * Match:4:大数据,python,spark,hadoop
+
 
 ```
 JD: 1.基于机器学习、深度学习、图算法等技术优化广告算法排序效果，提高产品体验与流量效率；
@@ -704,6 +767,7 @@ Req: 1.具有3年以上互联网算法策略优化经验；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
@@ -712,6 +776,7 @@ Req: 1.具有3年以上互联网算法策略优化经验；
 ##### 广州-微信小店-数据研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1833091812475039744
 * Match:12:大数据,hive,离线,java,实时,spark,etl,治理,olap,flink,python,clickhouse
+
 
 ```
 JD: 1.负责业务数据研发相关工作，对数据进行整合、清洗、存储形成数据资产满足业务实时离线各种场景的业务需求；
@@ -732,12 +797,14 @@ Req: 1.计算机科学或相关领域本科及以上学历，具备扎实的数�
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 广州-腾讯云-泛互联网行业解决方案架构师-数据服务方向-深/广/上/杭
 * URL: http://careers.tencent.com/jobdesc.html?postId=1795376224747397120
 * Match:9:大数据,数仓,实时,数据湖,治理,sql,mysql,hadoop,go
+
 
 ```
 JD: 1.对接腾讯云泛互行业客户，为客户提供技术咨询服务，维系客户及支持客户的持续高速发展；
@@ -754,12 +821,14 @@ Req: 1.本科以上学历，5年以上数据库、大数据开发或架构设计
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 广州-微信小店-应用研究工程师-交易治理方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1836335098966859776
 * Match:7:大数据,spark,治理,sql,flink,hadoop,python
+
 
 ```
 JD: 1.设计、开发和优化机器学习模型，应用于微信小店及微信交易的内容审核、风险控制、商家行为监管和用户安全等治理场景；
@@ -776,12 +845,14 @@ Req: 1.数学、统计、计算机、机器学习等相关专业研究生及以�
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 广州-微信小店-高级应用研究工程师-交易治理方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1845014956211204096
 * Match:7:大数据,spark,治理,sql,flink,hadoop,python
+
 
 ```
 JD: 1.设计、开发和优化机器学习模型，应用于微信小店及微信交易的内容审核、风险控制、商家行为监管和用户安全等治理场景；
@@ -800,12 +871,14 @@ Req: 1.数学、统计、计算机、机器学习等相关专业研究生及以�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 广州-微信小店-数据科学
 * URL: http://careers.tencent.com/jobdesc.html?postId=1833091818481283072
 * Match:6:大数据,hive,spark,sql,hadoop,python
+
 
 ```
 JD: 1.负责商业交易数据的收集、整理与分析，开展产品、运营、推荐等业务策略洞察分析，为业务提供决策支持；
@@ -828,12 +901,14 @@ Req: 1.1年以上数据科学相关岗位的工作经验；
 2.有大数据处理经验，熟悉Hadoop、Spark等大数据框架者优先；
 3.对机器学习、人工,.etc
 
+
 ```
 
 
 ##### 广州-微信视频号-安全策略高级工程师-商业交易
 * URL: http://careers.tencent.com/jobdesc.html?postId=1861335830992281600
 * Match:6:大数据,spark,治理,sql,hadoop,python
+
 
 ```
 JD: 1.负责搭建并持续优化微信电商商业交易安全系统；
@@ -850,12 +925,14 @@ Req: 1.数学、统计、计算机等相关专业本科及以上学历， 3年�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 广州-微信视频号-内容安全算法工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1811063050866794496
 * Match:5:大数据,spark,sql,hadoop,python
+
 
 ```
 JD: 1.负责持续优化视频号内容安全系统；
@@ -872,12 +949,14 @@ Req: 1.数学、统计、计算机等相关专业本科及以上学历；
 * RequireWorkYearsName: 不限 
 ,.etc
 
+
 ```
 
 
 ##### 广州-微信视频号-内容安全算法高级工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1846431350073090048
 * Match:5:大数据,spark,sql,hadoop,python
+
 
 ```
 JD: 1.负责持续优化视频号内容安全系统；
@@ -893,12 +972,14 @@ Req: 1.数学、统计、计算机等相关专业本科及以上学历，3年以
 * RequireWorkYearsName: 不限 
 ,.etc
 
+
 ```
 
 
 ##### 广州-视频号-后台策略安全
 * URL: http://careers.tencent.com/jobdesc.html?postId=1845014660965756928
 * Match:5:大数据,spark,sql,hadoop,python
+
 
 ```
 JD: 1.负责搭建并持续优化视频号内容安全系统；
@@ -915,12 +996,14 @@ Req: 1.数学、统计、计算机等相关专业本科及以上学历；
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 广州-微信-数据分析师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810940442745778176
 * Match:4:大数据,python,spark,hive
+
 
 ```
 JD: 1.负责微信及视频号各模块的内容推荐优化和用户增长相关数据科学工作，通过ab实验、因果推断等方法，构建科学严谨的评估体系，对业务收益进行评估，并提出优化建议，推动策略优化带来业务增长；
@@ -937,6 +1020,7 @@ Req: 1.1-3年以上数据科学相关岗位的工作经验，有内容行业相�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
@@ -945,6 +1029,7 @@ Req: 1.1-3年以上数据科学相关岗位的工作经验，有内容行业相�
 ##### 成都-腾讯云原生数仓-研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1752267358262534144
 * Match:17:大数据,databricks,分布式计算,离线,容器,spark,数据湖,etl,sql,mysql,数据仓库,flink,docker,kubernetes,go,调度,元数据
+
 
 ```
 JD: 1.TCHouse是腾讯云商业级云原生数据湖仓，为腾讯云客户和腾讯内部业务提供全场景、一体化的数据智能分析服务；开放的生态兼容，智能化计算引擎，超大规模可靠存储，以及云原生架构，赋能客户完美挖掘数据价值；
@@ -962,12 +1047,14 @@ Req: 1.熟练掌握C/C++或者Go语言、数据结构和操作系统等基础知
 4.有超大规模数据分析、数据库平台产品的0-1成功构建经验;
 5.在同等条件下，通,.etc
 
+
 ```
 
 
 ##### 成都-腾讯云-大数据系统测试工程师（成都/深圳/北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1767021926825336832
 * Match:11:大数据,hive,java,spark,flink,linux,hadoop,devops,python,数据湖,clickhouse
+
 
 ```
 JD: 1.负责大数据hadoop，spark，ES, hive，flink，clickhouse以及数据湖等相关产品的测试工作；
@@ -986,12 +1073,14 @@ Req: 1.5年以上大数据相关的开发/测试经验或对大数据有浓厚�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 成都-腾讯云-数据库高级工程（深圳/北京/成都）-DBA
 * URL: http://careers.tencent.com/jobdesc.html?postId=1839493394741620736
 * Match:7:大数据,java,sql,mysql,linux,python,go
+
 
 ```
 JD: 1.参与腾讯云云产品数据库的架构设计、交付及服务；
@@ -1008,12 +1097,14 @@ Req: 1.精通MySQL/PostgreSQL/Redis中的一种及以上数据库的运行机制
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 成都-腾讯云大数据数据湖产品-大数据内核开发高级工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1856875497783324672
 * Match:4:大数据,presto,spark,flink
+
 
 ```
 JD: 1.负责腾讯云大数据产品的内核开发等工作，包括DLC/EMR等产品；
@@ -1031,6 +1122,7 @@ Req: 1.计算机、通信等相关专业，本科及以上学历，3年以上大
 * ImportantItem: 1.在社区有较强影响力，特别是担任社区关键岗位如Committer/PMC等优先；
 ,.etc
 
+
 ```
 
 
@@ -1039,6 +1131,7 @@ Req: 1.计算机、通信等相关专业，本科及以上学历，3年以上大
 ##### 新加坡-Senior Site Reliability Engineer
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Senior-Cloud-Engineer_R102889-1
 * Match:7:bash,kubernetes,docker,linux,devops,python,go
+
 
 ```
 JD: Ensure site reliability by managing the deploy, scaling, and maintanence of new and existing online services that connect over a billion users around the world
@@ -1049,12 +1142,14 @@ Prior work experience in Cloud Engineering, Site Reliability Engineering (SRE), 
 
 ,.etc
 
+
 ```
 
 
 ##### 新加坡-Tencent Cloud - Senior Cloud Architect (R&D & Solution Design)
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Tencent-Cloud---Senior-Cloud-Architect--R-D---Solution-Design-_R104502-1
 * Match:4:aws,kubernetes,docker,devops
+
 
 ```
 JD: Position Overview:
@@ -1065,6 +1160,7 @@ Req: Bachelor's or Master's degree in Computer Science, Engineering, or a relate
 
 ,.etc
 
+
 ```
 
 
@@ -1073,6 +1169,7 @@ Req: Bachelor's or Master's degree in Computer Science, Engineering, or a relate
 ##### 武汉-大数据系统测试工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1772448596122148864
 * Match:11:大数据,hive,java,spark,flink,linux,hadoop,devops,python,数据湖,clickhouse
+
 
 ```
 JD: 1.负责大数据hadoop，spark，ES, hive，flink，clickhouse以及数据湖等相关产品的测试工作；
@@ -1092,12 +1189,14 @@ Req: 1.本科以上学历，3年以上大数据相关的开发/测试经验或�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 武汉-腾讯地图-数据编译开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1831621488847908864
 * Match:5:大数据,java,spark,flink,hive
+
 
 ```
 JD: 1.负责腾讯地图数据编译转换开发，参与设计行业领先的地图应用数据规格；
@@ -1114,12 +1213,14 @@ Req: 1.全日制统招本科及以上学历，计算机、软件或地理信息�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 武汉-后端开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1826463580719964160
 * Match:4:sql,mysql,go,linux
+
 
 ```
 JD: 1.负责产品支持系统后台相关设计与研发；
@@ -1138,12 +1239,14 @@ Req: 1.计算机及计算机相关专业本科以上学历；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 武汉-导航后台开发
 * URL: http://careers.tencent.com/jobdesc.html?postId=1826142274220748800
 * Match:4:python,spark,linux,hadoop
+
 
 ```
 JD: 1.负责路线规划、路况、ETA等服务的架构设计及研发；
@@ -1163,12 +1266,14 @@ Req: 1.计算机相关专业，本科及以上学历，3年以上的工作经验
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 武汉-腾讯云-PaaS产品测试开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1826506477616001024
 * Match:4:大数据,java,python,go
+
 
 ```
 JD: 1.负责腾讯云PaaS/SaaS/平台业务的功能测试、性能测试、接口测试、安全性测试、自动化测试工作；
@@ -1186,12 +1291,14 @@ Req: 1.计算机相关专业, 本科及以上学历，3年以上测试开发或�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 武汉-腾讯云-云原生售前架构师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1846477695127416832
 * Match:4:大数据,sql,mysql,go
+
 
 ```
 JD: 1.为区域的泛互联网客户提供技术咨询服务； 2.深入理解互联网业务对云计算的需求，分析其快速发展过程中，所遇到的挑战和未来的方向； 3.针对客户业务场景，为客户规划基于腾讯云的云架构方案，为客户提供云原生开发运维的最佳实践。帮忙客户顺利使用腾讯云产品服务，实现公司与客户的双赢； 4.在具体工作中总结提炼行业、技术方案以及成功案例等材料，更新维护及相关的布道工作，打造腾讯云行业影响力。,.etc
@@ -1202,12 +1309,14 @@ Req: 1.本科以上学历，5年以上互联网产品开发、运维、架构设
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 武汉-腾讯云国际站-后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1831965804556480512
 * Match:4:sql,mysql,go,linux
+
 
 ```
 JD: 1.负责腾讯云国际站官网后台服务的研发；
@@ -1226,12 +1335,14 @@ Req: 1.本科以上学历，3年以上互联网行业相关开发经验，熟练
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 武汉-腾讯地图-java后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1836722047410008064
 * Match:4:sql,mysql,linux,java
+
 
 ```
 JD: 1.负责腾讯地图POI相关业务的架构设计和开发工工作；
@@ -1250,12 +1361,14 @@ Req: 1.本科及以上学历，计算机相关专业，3年以上后台开发经
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 武汉-腾讯地图地理平台-地图后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1846357463629066240
 * Match:4:大数据,java,python,监控
+
 
 ```
 JD: 1.负责腾讯地图地理平台的后台开发工作，包括但不限于数据处理、系统架构设计和优化；
@@ -1276,6 +1389,7 @@ Req: 1.计算机相关专业本科及以上学历，具备扎实的编程基础�
 3.参与过开源项目或有技术博客分享经验者优先;
 4.在同等条件下，通过腾讯云认证或取得同等资格认证的候选,.etc
 
+
 ```
 
 
@@ -1284,6 +1398,7 @@ Req: 1.计算机相关专业本科及以上学历，具备扎实的编程基础�
 ##### 深圳-大数据高级开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1793831848799903744
 * Match:17:大数据,hive,离线,数仓,java,实时,spark,presto,etl,治理,olap,flink,linux,hadoop,python,数据湖,clickhouse
+
 
 ```
 JD: 1.负责大数据平台离线和实时数仓基础架构设计和开发，沉淀通用方案和平台产品化工具，提升研发效率和体验；
@@ -1299,12 +1414,14 @@ Req: 1.3年及以上大数据项目架构/开发/调优经验，具有数据平�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云原生数仓-研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1752267353149677568
 * Match:17:大数据,databricks,分布式计算,离线,容器,spark,数据湖,etl,sql,mysql,数据仓库,flink,docker,kubernetes,go,调度,元数据
+
 
 ```
 JD: 1.TCHouse是腾讯云商业级云原生数据湖仓，为腾讯云客户和腾讯内部业务提供全场景、一体化的数据智能分析服务；开放的生态兼容，智能化计算引擎，超大规模可靠存储，以及云原生架构，赋能客户完美挖掘数据价值；
@@ -1322,12 +1439,14 @@ Req: 1.熟练掌握C/C++或者Go语言、数据结构和操作系统等基础知
 4.有超大规模数据分析、数据库平台产品的0-1成功构建经验;
 5.在同等条件下，通,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云BI-后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1823634065643827200
 * Match:14:大数据,容器,java,spark,olap,flink,docker,linux,hadoop,k8s,hive,go,调度,clickhouse
+
 
 ```
 JD: 1.负责腾讯云商业智能分析平台BI的设计与研发；
@@ -1344,12 +1463,14 @@ Req: 1.基础知识扎实、充满学习热情，熟练掌握java/golang等至�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯会议-大数据高级开发工程师（数仓方向）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1816693709656322048
 * Match:14:大数据,hive,离线,数仓,java,实时,spark,etl,治理,olap,flink,hadoop,python,clickhouse
+
 
 ```
 JD: 1.负责腾讯会议离线和实时数仓的规划和建设，结合数据和技术与应用等多方特性，构建高可用和易扩展的数仓体系，高效满足业务用数诉求；
@@ -1365,12 +1486,14 @@ Req: 1.本科以上学历，具有 3 年以上大数据研发经验，包括实�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯会议-大数据高级开发工程师-大数据平台方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1825383658735824896
 * Match:13:大数据,hive,离线,数仓,java,实时,spark,presto,sql,linux,hadoop,python,clickhouse
+
 
 ```
 JD: 1.负责大数据平台的离线和实时数仓基础架构设计、开发与维护，确保系统的高效性、可靠性和可扩展性；
@@ -1387,12 +1510,14 @@ Req: 1.计算机科学或相关专业本科及以上学历，3年以上大数据
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-后端开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810556421616443392
 * Match:12:大数据,tableau,java,spark,治理,kafka,sql,mysql,hbase,linux,hadoop,hive
+
 
 ```
 JD: 1.参与HR系统的研发与设计工作，为公司员工提供赋能及关键系统研发能力支撑；
@@ -1410,12 +1535,14 @@ Req: 1.计算机相关专业本科及以上学历，五年以上互联网开发�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-企微广告服务商合作数据开发工程师(北京)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864195927456112640
 * Match:12:大数据,hive,java,实时,spark,etl,sql,mysql,数据仓库,hbase,hadoop,python
+
 
 ```
 JD: 1.业务方向：负责挖掘腾讯广告下投放企微广告的优化合作工作；
@@ -1434,12 +1561,14 @@ Req: 1.编程语言：熟练掌握Java、Scala、Python等大数据处理相关�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-应用开发工程师(深圳/上海)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1861224160198418432
 * Match:12:大数据,hive,java,spark,治理,sql,mysql,flink,hbase,python,go,clickhouse
+
 
 ```
 JD: 1.参与腾讯广告数据产品的建设，负责应用端后端开发，并对线上问题进行排查定位和快速解决；
@@ -1454,12 +1583,14 @@ Req: 1.有后端开发相关经验，熟练掌握Java/Golang/Scala/Python等开�
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-高级开发工程师（Java）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1701136543831302144
 * Match:12:大数据,tableau,java,spark,治理,kafka,sql,mysql,hbase,linux,hadoop,hive
+
 
 ```
 JD: 1.参与HR系统的研发与设计工作，为公司员工提供赋能及关键系统研发能力支撑；
@@ -1477,12 +1608,14 @@ Req: 1.计算机相关专业本科及以上学历，五年以上互联网开发�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-#SRE工程师#
 * URL: http://careers.tencent.com/jobdesc.html?postId=1800537725539983360
 * Match:10:容器,java,治理,kubernetes,docker,linux,k8s,python,go,监控
+
 
 ```
 JD: 1.负责PCG容器平台的SRE工作，包括但不限于运营规划，资源管理、运营变更和质量保障工作；
@@ -1503,12 +1636,14 @@ Req: 1.计算机相关专业本科及以上学历，2年以上Kubernetes相关�
 2.在云原生领域有深入研究和实践经验；
 3.对混沌工程或SRE实,.etc
 
+
 ```
 
 
 ##### 深圳-CICD服务-#Devops开发工程师#-持续部署
 * URL: http://careers.tencent.com/jobdesc.html?postId=1838496286035173376
 * Match:10:容器,java,k8s,治理,sql,mysql,linux,devops,python,go
+
 
 ```
 JD: 1.参与规划和构建PCG DevOps平台和工具链，以提升整体研发效能；
@@ -1530,12 +1665,14 @@ Req: 1.计算机或相关专业本科及以上学历；
 * ImportantItem: 1.具备丰富的DevOps实践经验和成功案例；
 2.熟悉敏捷开发和持续交付的最佳实践；,.etc
 
+
 ```
 
 
 ##### 深圳-混元AIGC后台开发工程师（北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1803698159717720064
 * Match:10:大数据,java,kafka,sql,mysql,flink,linux,hadoop,python,go
+
 
 ```
 JD: 1.AIGC应用的研发：深入理解业界AIGC应用场景，搭建LLM模型的在线推理服务，研发AIGC的C端产品，实现AIGC的商业化落地；
@@ -1550,12 +1687,14 @@ Req: 1.计算机或相关专业本科及以上学历 ；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-产品稳定性SRE-后台开发
 * URL: http://careers.tencent.com/jobdesc.html?postId=1805913923845627904
 * Match:10:大数据,java,kafka,sql,mysql,flink,hadoop,python,go,监控
+
 
 ```
 JD: 1.负责云产品业务连续性相关系统的方案设计和研发工作， 保障云产品业务稳定性；
@@ -1573,12 +1712,14 @@ Req: 1.本科及以上学历，3年及以上后台研发工作经验；
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-大数据高级工程师-数据工程
 * URL: http://careers.tencent.com/jobdesc.html?postId=1807691190032670720
 * Match:10:大数据,hive,java,spark,etl,数据仓库,flink,hadoop,hbase,python
+
 
 ```
 JD: 1.构建和维护腾讯云经营管理的数据仓库，确保平台稳定、可靠、可扩展和及时；
@@ -1599,12 +1740,14 @@ Req: 1.本科及以上学历，数学、统计、运筹学、计算机等相关�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-数据开发工程师-深圳
 * URL: http://careers.tencent.com/jobdesc.html?postId=1849708726638899200
 * Match:10:大数据,hive,java,实时,spark,kafka,flink,linux,python,clickhouse
+
 
 ```
 JD: 1.负责品牌发现、增长联盟以及广告互选的大数据开发与维护工作，协助构建数据模型和业务指标体系，形成对业务经营健康度的全方面度量，实现业务的数据产品化；
@@ -1618,12 +1761,14 @@ Req: 1.计算机或相关专业本科及以上学历，2年及以上数据开发
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-大数据平台架构技术负责人（深圳/北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1788455266086297600
 * Match:9:大数据,数仓,spark,治理,hbase,hadoop,hive,调度,元数据
+
 
 ```
 JD: 1.负责大数据基础平台的一体化架构设计、技术规划与选型、方案设计，使大数据架构具有良好的性能、安全性、可靠性、可扩展性；
@@ -1642,12 +1787,14 @@ Req: 1.了解数据治理的方法论体系，有大数据、数仓或BI项目�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-大数据运维工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1832038045981892608
 * Match:9:大数据,java,olap,flink,linux,hadoop,devops,python,go
+
 
 ```
 JD: 1.负责腾讯大数据平台运维工作，通过设计、开发运维平台，解决运营过程中质量和效率问题；
@@ -1662,12 +1809,14 @@ Req: 1.熟悉hadoop、Flink、Olap等大数据生态技术，有过集群搭建�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-微信广告-数据开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1794902794294009856
 * Match:9:java,presto,spark,olap,sql,flink,hadoop,python,clickhouse
+
 
 ```
 JD: 1.负责微信广告分析和增长平台数据指标体系建设；
@@ -1681,12 +1830,14 @@ Req: 1.计算机、数据科学、统计或相关专业本科及以上学历；
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-结算平台高级开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1747406139303141376
 * Match:9:大数据,java,sql,mysql,数据仓库,linux,python,go,调度
+
 
 ```
 JD: 1.负责腾讯海外业务的结算平台设计、开发和维护工作，包括： 负责腾讯计费海外业务的海量数据模型设计、数据开发等工作；
@@ -1700,12 +1851,14 @@ Req: 1.精通linux操作系统，三年以上java或golang/python/c++等后台�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-搜索广告数据开发工程师-深圳
 * URL: http://careers.tencent.com/jobdesc.html?postId=1856007712089858048
 * Match:9:大数据,hive,java,spark,sql,flink,报表,python,clickhouse
+
 
 ```
 JD: 1.负责搜一搜与QQ浏览器搜索广告的数据流架构，基础数据维护、指标体系、诊断体系建设的相关工作；
@@ -1720,12 +1873,14 @@ Req: 1.大学本科以上学历，1年以上开发经验；
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-TCE平台研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1859139619199676416
 * Match:8:java,治理,sql,mysql,linux,k8s,python,go
+
 
 ```
 JD: 1.负责基于专有云平台上设计和开发有竞争力的云平台产品，包括cmdb、流程引擎、发布部署、agent管理相关运维平台以及商业化应用运维产品的研发；
@@ -1742,12 +1897,14 @@ Req: 1.本科及以上学历，三年以上研发经验，熟悉shell 与linux�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-大数据产品售前leader-深圳/上海
 * URL: http://careers.tencent.com/jobdesc.html?postId=1726440390040494080
 * Match:8:大数据,容器,sql,kubernetes,数据仓库,hadoop,devops,数据湖
+
 
 ```
 JD: 1.负责大数据平台、数据仓库/数据湖、数据中台的解决方案设计、技术咨询、项目售前支持等工作；
@@ -1765,12 +1922,14 @@ Req: 1.对云计算、大数据、数据中台相关技术有深刻的理解，�
 * RequireWorkYearsName: 八年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-大数据平台研发工程师-应用架构专家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1727144270969708544
 * Match:8:大数据,容器,java,presto,spark,kubernetes,flink,hive
+
 
 ```
 JD: 1.负责大数据工具链平台的系统设计和研发工作，负责基础服务框架能力建设；
@@ -1785,12 +1944,14 @@ Req: 1.计算机或相关本科及以上学历，在大数据相关领域有5年
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-大数据计算平台olap工程师（北京/上海/深圳）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1797900695035191296
 * Match:8:大数据,数仓,java,presto,spark,olap,hbase,clickhouse
+
 
 ```
 JD: 1.负责腾讯大数据OLAP系统内核研发及相关生态建设，直接参与建设腾讯多个核心产品线的OLAP平台体系；
@@ -1804,12 +1965,14 @@ Req: 1.熟练掌握Java/c++编程，有扎实的操作系统知识、系统性�
 * RequireWorkYearsName: 八年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-数据科学平台研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1832038027019444224
 * Match:8:databricks,java,spark,治理,sql,flink,k8s,python
+
 
 ```
 JD: 1.负责数据科学平台工具链(notebook、特征管理、工作流等)的设计和开发工作；
@@ -1823,12 +1986,14 @@ Req: 1.硕士及以上学历，计算机科学、数据科学、统计学、应�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-混元大模型数据研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1817943705315733504
 * Match:8:可视化,大数据,hive,java,spark,治理,python,监控
+
 
 ```
 JD: 1.负责大模型海量数据的管理与挖掘工作，包括数据理解、质量监控、数据治理体系建设，为模型训练提供稳定、可靠的高质量数据；
@@ -1844,12 +2009,14 @@ Req: 1.了解LLM大模型，熟悉大模型的数据建设原理，有一定的�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯游戏流量海外数据产品经理（大数据方向）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1802633260941975552
 * Match:8:大数据,spark,治理,sql,mysql,flink,hadoop,hive
+
 
 ```
 JD: 1.负责海外广告投放系统的数据产品工作，制定并实施数据方案，包括数据指标定义、数据链路方案制定、数据治理等方案规划；
@@ -1865,12 +2032,14 @@ Req: 1.本科及以上学历，计算机、统计、数学等相关专业优先�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-分布式计算研发工程师-Ray（深圳/北京/上海）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810497161331220480
 * Match:7:大数据,分布式计算,离线,java,k8s,python,调度
+
 
 ```
 JD: 1.基于开源项目 Ray，打造业内领先的通用分布式计算引擎，包括但不限于以下方向：引擎内核（分布式Task调度与执行）、分布式数据处理框架、分布式在线服务编排框架等；
@@ -1885,12 +2054,14 @@ Req: 1.计算机相关专业，本科及以上学历，3年及以上工作经验
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-大数据后台高级开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1788470687111847936
 * Match:7:大数据,java,spark,治理,flink,hadoop,python
+
 
 ```
 JD: 1.负责大数据治理开发平台的系统研发工作；
@@ -1907,12 +2078,14 @@ Req: 1.计算机相关专业本科及以上学历，3年以上大数据开发经
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-大数据计算引擎研发工程师（北京/深圳/上海）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810497164908961792
 * Match:7:大数据,分布式计算,数仓,presto,spark,flink,k8s
+
 
 ```
 JD: 1.负责大数据相关计算引擎核心研发，为腾讯的智能湖仓打造领先业界的计算内核， 推进大数据业务的高效发展；
@@ -1925,12 +2098,14 @@ Req: 1.计算机相关专业硕士及以上学历为佳，具有扎实的数据�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-架构设计技术专家-数据库产品方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1798944519488544768
 * Match:7:大数据,治理,sql,mysql,docker,k8s,监控
+
 
 ```
 JD: 1.负责腾讯云基础IAAS产品后台支撑数据库的架构设计和研发工作；
@@ -1949,12 +2124,14 @@ Req: 1.五年及以上数据库相关领域的设计和开发经验；
 * ImportantItem: 1.在数据库领域有深入研究，发表过高质量的技术文章或参与过知名开源项目；
 2.具备大型互联网公司的数据库架构,.etc
 
+
 ```
 
 
 ##### 深圳-海外网络研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1779433420015804416
 * Match:7:可视化,java,sql,python,go,调度,监控
+
 
 ```
 JD: 1.负责全球CDN、边缘计算网络基础设施相关系统平台架构设计和开发；
@@ -1970,12 +2147,14 @@ Req: 1.本科学历及以上，计算机、网络相关专业背景，英语可�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-混元机器学习平台GPU调度研发工程师(深圳/北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1831615028743139328
 * Match:7:离线,java,kubernetes,docker,python,go,调度
+
 
 ```
 JD: 1.参与腾讯太极统一GPU调度平台开发，负责万卡GPU集群配额管理、任务排队、弹性任务、跨集群等功能和性能优化；
@@ -1991,12 +2170,14 @@ Req: 1.有大规模GPU集群资源/任务调度研发经验，了解不同规格
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-混元高级SRE运维工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1776588555284389888
 * Match:7:k8s,sql,mysql,docker,devops,python,go
+
 
 ```
 JD: 1.负责混元AIGC产品运维，保障服务的稳定、可靠、高效运行；
@@ -2015,12 +2196,14 @@ Req: 1.本科及以上学历，有5年以上中大型互联网C端产品业务�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-网关运营开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1779433483735670784
 * Match:7:sql,mysql,linux,报表,devops,python,go
+
 
 ```
 JD: 1.负责腾讯超大规模四七层网关运营平台的设计与运营，包括服务器自动化维修、变更、报表统计、资源管理、容量评估、自动化止损等；
@@ -2035,12 +2218,14 @@ Req: 1.计算机及相关专业，本科及以上学历，3年以上互联网开
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-开发者技术服务工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1849273408936763392
 * Match:7:大数据,容器,java,sql,mysql,linux,python
+
 
 ```
 JD: 1.承担公有云多个技术栈的技术专家角色；
@@ -2057,12 +2242,14 @@ Req: 1.本科及以上学历，有计算机专业相关教育背景，云计算�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-数仓开发/运维工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1856875483619160064
 * Match:7:大数据,数仓,sql,数据仓库,linux,k8s,python
+
 
 ```
 JD: 1.负责腾讯云大数据团队MPP数据仓库集群的资源评估，安装部署、配置调整、调优建议、巡检脚本持续更新优化、故障分析处理、安全管理与日常维护；
@@ -2079,12 +2266,14 @@ Req: 1.踏实勤奋, 5年以上数据库运维或者设计工作经验，有2年
 2.有腾讯云从业资格证书优选;
 3.在同等条件下，通过腾讯云认证或取得同等资格认证的候选人，我们会,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-企微广告服务商合作后台开发工程师(北京)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864195924276834304
 * Match:7:容器,java,spark,sql,mysql,python,go
+
 
 ```
 JD: 1.业务方向：负责挖掘腾讯广告下投放企微广告的优化合作工作；
@@ -2101,12 +2290,14 @@ Req: 1.编程语言：熟练掌握至少一种或多种编程语言，如Java、
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-大数据研发专家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1859399950132080640
 * Match:7:大数据,java,实时,spark,数据仓库,flink,hbase
+
 
 ```
 JD: 1.负责腾讯广告大数据资产平台的研发，构建统一的数据资产和数据流体系，为广告投放/模型机制/运营分析等场景提供稳定高效的数据基础；
@@ -2120,12 +2311,14 @@ Req: 1.计算机或相关专业本科及以上学历，8年以上互联网或云
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-金融信贷-大数据风控专家   
 * URL: http://careers.tencent.com/jobdesc.html?postId=1846024638732201984
 * Match:7:大数据,java,spark,sql,hadoop,python,监控
+
 
 ```
 JD: 1.基于支付海量的用户、商户、交易信息和行为等数据，牵头构建金融场景全生命周期的风控体系；
@@ -2141,12 +2334,14 @@ Req: 1.计算机、数学、统计、机器学习、金融等相关专业硕士�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-金融科技-研效后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1666748377456451584
 * Match:7:java,k8s,治理,devops,python,go,调度
+
 
 ```
 JD: 1.负责腾讯金融科技效能后台设计和研发工作，围绕云开发能力、大规模构建、多环境的底层组网与调度、测试服务等纬度，建设统一一站式效能服务平台；
@@ -2162,12 +2357,14 @@ Req: 1.本科及以上学历，具有大型分布式高并发系统的开发经�
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-AI Agent后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1827263688835358720
 * Match:6:sql,mysql,linux,python,go,调度
+
 
 ```
 JD: 1.负责基于LLM的智能体工程架构设计、研发和演进，持续优化AI智能体的优化与落地；
@@ -2184,12 +2381,14 @@ Req: 1.本科以上学历，Python/Go 3年以上开发经验，有向量数据�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-《异人之下》后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1811057552545292288
 * Match:6:容器,k8s,sql,mysql,devops,go
+
 
 ```
 JD: 1.负责动作游戏产品后台社交、活动、商业化等各种系统的设计开发、测试和部署等相关工作；
@@ -2205,12 +2404,14 @@ Req: 1.计算机相关专业，2年以上后台开发经验；
 * DepartmentIntroduction: 魔方工作室群（Morefun Studios）成立于2010年 ，腾讯IEG（互动娱乐事业群）四大工作室群之一。
 知名产品包括《火影忍者》《暗区突围》《洛克王国》《一人之下》《王牌战士》等。魔方以“创造一个时代的游戏记忆”为愿景，将“风骚、狂热、极致、专精”融入每一位魔方人心中，在动作、射击、开放世界RPG等多个游戏品类赛道持续探索开拓，致力于完,.etc
 
+
 ```
 
 
 ##### 深圳-《穿越火线手游》机器学习应用研究员 
 * URL: http://careers.tencent.com/jobdesc.html?postId=1812681510919086080
 * Match:6:hive,spark,sql,flink,python,监控
+
 
 ```
 JD: 1.基于游戏用户数据，协助构建游戏用户画像和数据分析体系，为精细化运营提供策略支持；
@@ -2225,12 +2426,14 @@ Req: 1.数学或计算机专业本科及以上学历，扎实的计算机算法�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-微信支付-金融信贷风控专家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1826454813831884800
 * Match:6:大数据,java,spark,sql,hadoop,python
+
 
 ```
 JD: 1.基于微信支付及相关的海量数据，构建金融信贷业务全生命周期的贷前、贷中、贷后风控模型和策略，为金融业务提供可靠的风控技术服务；
@@ -2245,12 +2448,14 @@ Req: 1.工作5年以上，数学、统计、计算机等相关专业硕士及以
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-搜索引擎算法研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1790597246450933760
 * Match:6:分布式计算,hive,spark,flink,linux,python
+
 
 ```
 JD: 1.负责spider系统策略核心技术的研究和开发工作，以及维护和升级；
@@ -2266,12 +2471,14 @@ Req: 1.出色的分析问题，解决问题能力，能从纷繁复杂的数据�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-数据库测试开发工程师(北京/深圳)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1825470747741548544
 * Match:6:sql,mysql,linux,devops,python,go
+
 
 ```
 JD: 1.负责数据库产品质量保障工作，从产品架构和客户需求场景设计全面的场景覆盖，保障项目高质量 交付；
@@ -2286,12 +2493,14 @@ Req: 1.计算机相关专业本科及以上学历，具备扎实的计算机和�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-数据开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1830863999114174464
 * Match:6:大数据,java,实时,spark,治理,flink
+
 
 ```
 JD: 1.负责游戏人生数据中台湖仓一体建设，包括数据接入、治理和计算等数据开发工作；
@@ -2307,12 +2516,14 @@ Req: 1.本科及以上学历，具有2年及以上大数据开发工作经验；
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-混元数据科学分析师（北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1846705948127682560
 * Match:6:hive,数仓,spark,etl,sql,python
+
 
 ```
 JD: 1.负责AB实验设计、数据流构建、波动分析、因果推断等，服务产品功能及策略优化；
@@ -2329,12 +2540,14 @@ Req: 1.计算机科学、数据科学、机器学习、统计学、应用数学�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-游戏数据科学家
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Senior-Data-Scientist_R104375-2
 * Match:6:大数据,tableau,sql,报表,python,go
+
 
 ```
 JD: Level Infinite 是腾讯旗下国际游戏业务品牌，致力为全球玩家带来充满乐趣、原汁原味的游戏体验，让玩家随时随地进入游戏世界；并通过打造包容、互通、便捷的玩家社区，促进分享交流。
@@ -2353,12 +2566,14 @@ Req: 岗位要求
 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-游戏运营（数据分析方向）-PUBGM 中欧区域
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Live-Ops-Specialist--Data-Analysis---In-game-Activities_R103753-2
 * Match:6:hive,sql,linux,hadoop,python,监控
+
 
 ```
 JD: - 对欧洲区发行游戏的数据相关工作负责，通过数据分析和数据挖掘，为运营内容提供数据支持和调优建议方向。具体工作包括但不限于：
@@ -2375,12 +2590,14 @@ Req: - 2年以上数据分析岗位工作经验，有FPS、MOBA、BR品类有相
 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-稳定性架构工程师-微服务&消息队列中间件方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1798944517299118080
 * Match:6:java,治理,kafka,linux,k8s,go
+
 
 ```
 JD: 1.负责腾讯云基础IAAS产品后台微服务治理平台的架构设计和研发工作，包括但不限于微服务平台、注册配置中心、微服务框架、服务网格、云原生网关等；
@@ -2400,12 +2617,14 @@ Req: 1.本科以上学历，5年以上后台开发经验；
 2.有参与开源项目贡献者优先；
 3.在国内外知名会议或期刊上发表,.etc
 
+
 ```
 
 
 ##### 深圳-算法工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1833407825661943808
 * Match:6:大数据,java,spark,flink,hadoop,python
+
 
 ```
 JD: 1.结合HR领域业务场景和需求，实现公司内部智能问询、搜索、推荐等算法相关功能的落地；
@@ -2419,12 +2638,14 @@ Req: 1.计算机相关专业本科及以上学历，5年以上工作经验；
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-网关控制器高级开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810211329928077312
 * Match:6:kafka,sql,mysql,linux,k8s,go
+
 
 ```
 JD: 1.负责腾讯自研及腾讯云流量接入平台控制器的软件设计、研发、运维；
@@ -2443,12 +2664,14 @@ Req: 1.熟悉Linux操作系统，熟悉C++/golang中的一种语言，掌握至�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-基础平台技术专家-系统架构方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1742795263900131328
 * Match:6:容器,治理,linux,k8s,go,监控
+
 
 ```
 JD: 1.参与腾讯云官网基础平台产品技术方案设计与交付；
@@ -2464,12 +2687,14 @@ Req: 1. 8年以上公有云产品相关工作经验，对数据库、网络、�
 * RequireWorkYearsName: 八年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云BI-大模型算法工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864567323050930176
 * Match:6:大数据,java,spark,sql,hadoop,python
+
 
 ```
 JD: 1.通过自然语言大模型的研究优化，提升LLM在领域场景的应用效果，并最终有效改善用户体验和产品效果；
@@ -2486,12 +2711,14 @@ Req: 1.计算机、人工智能、数学等相关专业的全日制本科、研�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云大数据-后台开发工程师-Elasticsearch方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1856875491407982592
 * Match:6:大数据,java,presto,hadoop,go,clickhouse
+
 
 ```
 JD: 1.负责腾讯云Elasticsearch产品相关管控平台及内核系统的研发、运营和日常维护工作；
@@ -2508,12 +2735,14 @@ Req: 1.本科及以上学历，计算机相关专业，3年以上相关工作经
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-算法工程师（机制方向）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1849078104874577920
 * Match:6:大数据,分布式计算,java,spark,flink,python
+
 
 ```
 JD: 1.参与竞价广告全链路基础策略框架建设和排序计费机制的设计，打造健康长期可持续的商业生态；
@@ -2528,12 +2757,14 @@ Req: 1.本科及以上学历，优先：有专业背景的硕士和博士；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯游戏-高级工程师-数据库
 * URL: http://careers.tencent.com/jobdesc.html?postId=1840214258315456512
 * Match:6:kafka,sql,mysql,linux,go,监控
+
 
 ```
 JD: 1.为业务提供相应的DB技术服务支持；
@@ -2551,12 +2782,14 @@ Req: 1.本科以上学历；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-边缘安全加速测试高级工程师（成都）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1833387106173480960
 * Match:6:大数据,java,linux,python,go,调度
+
 
 ```
 JD: 1.负责腾讯边缘安全加速云产品的测试工作，分析系统相关需求、设计、架构等，设计测试方法和测试用例；
@@ -2574,12 +2807,14 @@ Req: 1.本科以上学历，3年以上开发或测试经验；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-金融科技-基础支付提现后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1828337239638171648
 * Match:6:容器,sql,mysql,docker,linux,k8s
+
 
 ```
 JD: 1.负责微信支付、QQ钱包支付后台系统架构的设计与开发工作，解决支付金融交易场景下的高并发、高可用、一致性、资金安全等问题，持续提升清算平台的可用性、安全性和性能；
@@ -2594,12 +2829,14 @@ Req: 1.计算机、通信相关专业本科以上学历；
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-金融科技-风险模型专家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1863161266785247232
 * Match:6:大数据,数仓,spark,sql,hadoop,python
+
 
 ```
 JD: 1.作为技术带头人负责跨团队大型项目的技术方案设计和研发；
@@ -2616,12 +2853,14 @@ Req: 1.硕士以上学历，8年以上工作经验，有数据工程、数据挖
 * RequireWorkYearsName: 八年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-QQ浏览器-#数据科学#
 * URL: http://careers.tencent.com/jobdesc.html?postId=1862701217327636480
 * Match:5:tableau,实时,sql,python,监控
+
 
 ```
 JD: 1.负责QQ浏览器商业广告数据科学工作；
@@ -2642,12 +2881,14 @@ Req: 1.具备1～3年的数据分析工作经验，其中至少1年广告商业�
 * ImportantItem: 1.熟悉广告行业生态，理解互联网广告产品逻辑，具备增长经验、商业广告产品或运营相关经验者优先。 
 * Req,.etc
 
+
 ```
 
 
 ##### 深圳-SDN控制器开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1853699304280059904
 * Match:5:java,sql,mysql,python,go
+
 
 ```
 JD: 1.基于SDN控制器平台opendaylight，开发java应用；
@@ -2665,12 +2906,14 @@ Req: 1.大学本科或以上学历，计算机相关专业；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-Supercell产品服务器开发-游戏研发方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1839103346707816448
 * Match:5:java,sql,mysql,python,go
+
 
 ```
 JD: 1.负责游戏服务端逻辑层功能设计、开发以及调优工作；
@@ -2687,12 +2930,14 @@ Req: 1.三年以上手机游戏服务端开发经验；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-《王者荣耀》服务器高级开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1807965004108931072
 * Match:5:sql,mysql,linux,go,监控
+
 
 ```
 JD: 1.负责服务器业务系统和运营需求的设计和开发；
@@ -2708,12 +2953,14 @@ Req: 1.精通C/C++开发，3年以上linux系统下的工作经验；有go语言
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-《逆战：未来》服务器开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1765020270038360064
 * Match:5:容器,linux,k8s,go,监控
+
 
 ```
 JD: 1.负责大规模在线服务的架构设计、开发和维护；
@@ -2730,12 +2977,14 @@ Req: 1.熟练使用C/C++/Golang，常用数据结构和计算机基础扎实；
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-产品运维工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1836435408976637952
 * Match:5:治理,sql,数据仓库,linux,监控
+
 
 ```
 JD: 1.负责业务系统的运营、部署、工程发布工作，设计和实施监控系统问题，及时发现和解决问题，保障业务系统的稳定可靠；
@@ -2752,12 +3001,14 @@ Req: 1.有丰富的系统变更、容灾、例行检查、故障处理等系统�
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-分布式数据库TDSQL管控调度引擎研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1656203065721626624
 * Match:5:sql,linux,go,调度,元数据
+
 
 ```
 JD: 1.负责腾讯分布式数据库TDSQL的元数据调度与资源管控体系的相关研发工作；
@@ -2770,12 +3021,14 @@ Req: 1.本科或以上学历，计算机或相关专业，熟练掌握 Go/C/C++
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-创新大世界SOC项目-UE服务器高级开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1836279056505528320
 * Match:5:aws,容器,kubernetes,docker,linux
+
 
 ```
 JD: 1.负责使用Unreal Engine和其他相关技术，开发和维护服务器端组件，以支持在线游戏应用等；
@@ -2796,12 +3049,14 @@ Req: 1.至少2年的Unreal Engine服务器开发经验，熟悉UE4网络和多�
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-反洗钱风险分析师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1580102497685479424
 * Match:5:大数据,spark,sql,hadoop,python
+
 
 ```
 JD: 1.参与微信支付国际业务洗钱风险分析；通过数据和技术的运用，挖掘微信支付内潜在的洗钱风险，建立一套智能洗钱风险监测系统。,.etc
@@ -2815,12 +3070,14 @@ Req: 1.熟悉SQL，有Python编程经验，熟悉常见的机器学习算法；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1843970560049045504
 * Match:5:sql,python,go,调度,监控
+
 
 ```
 JD: 1.支持量子计算云平台以及面向科学仿真和工业仿真的云端服务系统功能开发，包括任务调度，芯片控制管理等功能；
@@ -2837,12 +3094,14 @@ Req: 1.精通C/C++ 和 Python，了解go编程语言，熟悉常用机器学习�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-基础IaaS&PaaS总体架构设计专家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1742804737918509056
 * Match:5:kafka,sql,mysql,linux,k8s
+
 
 ```
 JD: 1.负责腾讯云IAAS基础产品稳定性架构设计工作，提升产品稳定性；
@@ -2858,12 +3117,14 @@ Req: 1.熟悉K8S和OpenStack，有相关项目研发经验，熟悉相关高可�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-大数据产品解决方案架构师-上海/北京
 * URL: http://careers.tencent.com/jobdesc.html?postId=1815605288846258176
 * Match:5:大数据,sql,数据仓库,hadoop,数据湖
+
 
 ```
 JD: 1.负责大数据平台、数据仓库/数据湖、数据中台的产品解决方案设计、技术咨询、项目产品售前支持等工作；
@@ -2881,12 +3142,14 @@ Req: 1.对大数据、数据仓库、数据湖、数据中台、数据工具相�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-大数据后台开发工程师（北京/深圳/上海）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810497162732118016
 * Match:5:aws,大数据,java,linux,python
+
 
 ```
 JD: 1.负责面向大数据的下一代分布式存缓加速系统的架构设计与研发，发现目前系统的问题，并持续优化；
@@ -2902,12 +3165,14 @@ Req: 1.具有Linux/Unix平台上的面向对象编程经验，熟悉C++/Java/Pyt
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-微信-生态 AI 训练与部署系统高级工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1852251727147855872
 * Match:5:大数据,分布式计算,linux,python,调度
+
 
 ```
 JD: 1.负责微信计算机视觉、语音、推荐、语言、多模态模型等 AI 算法业务的分布式训练系统支持与优化，以及在微信小程序、视频号、企业微信、微信读书、输入法等场景中的多平台落地与性能优化；
@@ -2924,12 +3189,14 @@ Req: 1.本科以上学历，计算机相关专业；
 3.熟悉常见深度学习训练、推理框架、深度学习编译器源码或者愿意投入精力学习研究的；
 4.熟悉分布式系统原理，熟悉常见的分布式计,.etc
 
+
 ```
 
 
 ##### 深圳-混元数据科学研究员（数据飞轮）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1796418246207873024
 * Match:5:大数据,java,spark,hadoop,python
+
 
 ```
 JD: 1.负责通用AI大模型相关的评测与应用的规划与落地，包括但不限于；
@@ -2943,12 +3210,14 @@ Req: 1.计算机或者相关专业硕士或者以上学历，2年以上推荐/�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-游戏运营（数据分析方向）-PUBG Mobile 拉美区域
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/---PUBG-Mobile-_R104296-2
 * Match:5:可视化,tableau,sql,python,监控
+
 
 ```
 JD: 工作职责
@@ -2967,12 +3236,14 @@ Req: 任职要求
 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-稳定性SRE工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1798944523821260800
 * Match:5:治理,linux,python,go,监控
+
 
 ```
 JD: 1.负责云产品稳定性治理，保障业务高度稳定性；
@@ -2994,12 +3265,14 @@ Req: 1.5年以上公有云产品相关工作经验，对计算、网络、数据
 2.具备优秀的团队协作能力和项目管理经验；
 3.熟悉混沌工程理论和实,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-产品稳定性SRE
 * URL: http://careers.tencent.com/jobdesc.html?postId=1733027846768566272
 * Match:5:治理,linux,python,go,监控
+
 
 ```
 JD: 1.负责云产品稳定性治理，保障业务高度稳定性；
@@ -3017,12 +3290,14 @@ Req: 1.5年以上公有云产品相关工作经验，对计算、网络、数据
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-大数据后台工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1866055239384195072
 * Match:5:大数据,java,spark,治理,hadoop
+
 
 ```
 JD: 1.负责wedata数据治理、数据建模等模块后台开发、维护、运维工作；
@@ -3038,12 +3313,14 @@ Req: 1.计算机、通信等相关专业，本科及以上学历，3年以上大
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-研发效能技术架构师-北京/深圳
 * URL: http://careers.tencent.com/jobdesc.html?postId=1781209289566724096
 * Match:5:大数据,治理,kubernetes,docker,devops
+
 
 ```
 JD: 1.负责腾讯云效能提升专项的制定和推进工作，能站在全局视野的高度，对DevOps一体化研发体系、公共研发平台以及一体化运营平台进行整体规划和设计，提升整体研发效率和交付质量；包括但不限于研发支撑、工具开发、流程和方法的优化与改进，提升研发和工程生产力和效率；
@@ -3056,12 +3333,14 @@ Req: 1.全日制大学本科及以上学历，有研发背景，从事研发效�
 * ImportantItem: 1.在同等条件下，通过腾讯云认证或取得同等资格认证的候选人，我们会优先考虑。 
 * DepartmentIntroduction: 腾讯云，腾讯倾力打造的云服务品牌，为客户提供先进的云产品与云服务。依托各地的数据中心，我们将云计算、大数据、人工智能、物联网、安全等先进技术与智慧产业业务场景相结合，同时面向金融、教育、医疗、零售、制造与消费电子、交通、能源与资源、广,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-运营开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1858436642583371776
 * Match:5:java,sql,mysql,linux,监控
+
 
 ```
 JD: 1.负责腾讯海量服务器运营系统建设，保障腾讯云服务器的稳定运行；
@@ -3079,12 +3358,14 @@ Req: 1.本科及以上学历，扎实的计算机专业基本功，编程基础�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云大数据研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1546717112624488448
 * Match:5:大数据,java,spark,hbase,hadoop
+
 
 ```
 JD: 1.负责腾讯云Elasticsearch产品相关管控平台及内核系统的研发、运营和日常维护工作；
@@ -3099,12 +3380,14 @@ Req: 1.计算机、通信等相关专业，本科及以上学历，3年以上大
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云开发-后台高级研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1693507946668892160
 * Match:5:容器,kafka,sql,mysql,go
+
 
 ```
 JD: 1.负责腾讯云云开发后台服务的架构设计与优化，确保系统的高可用性和扩展性；
@@ -3127,12 +3410,14 @@ Req: 1.本科及以上学历，计算机及相关专业，3年以上后台开发
 2.具备腾讯云云开发使用经验者优先；
 3.具备微信小程序相关开发,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云成本数据分析经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1863479261923401728
 * Match:5:大数据,sql,报表,python,监控
+
 
 ```
 JD: 1.负责成本核算体系的建设及优化，和上下游对接，推进核算规则的落地与执行；
@@ -3147,12 +3432,14 @@ Req: 1.全日制本科或以上学历，数学、统计、计算机、财务管�
 * ImportantItem: 1.在同等条件下，通过腾讯云认证或取得同等资格认证的候选人，我们会优先考虑。 
 * DepartmentIntroduction: 腾讯云，腾讯倾力打造的云服务品牌，为客户提供先进的云产品与云服务。依托各地的数据中心，我们将云计算、大数据、人工智能、物联网、安全等先进技术与智慧产业业务场景相结合，同时面向金融、教育、医疗、零售、制造与消费电子、交通、能源与资源、广,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云技术规划架构师(存储方向)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810555457924767744
 * Match:5:大数据,sql,mysql,hadoop,clickhouse
+
 
 ```
 JD: 1.负责腾讯云存储、数据库、大数据等产品的技术架构分析与对比，深入剖析技术细节，挖掘成本优化空间；
@@ -3171,12 +3458,14 @@ Req: 1.计算机相关专业硕士及以上学历，5年以上大型互联网公
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-数据科学家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1849266471813804032
 * Match:5:大数据,spark,sql,hadoop,python
+
 
 ```
 JD: 1.研究和设计广告业务A/B testing的统计模型和算法 ；
@@ -3191,12 +3480,14 @@ Req: 1.计算机、统计学、经济学等相关的专业硕士研究生及以�
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-算法工程师（模型方向）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1847827649712386048
 * Match:5:大数据,java,spark,hadoop,python
+
 
 ```
 JD: 1.负责基于海量用户广告行为数据，个性化推荐在广告推荐领域的应用和研究，提高深度目标的推荐效果；
@@ -3211,12 +3502,14 @@ Req: 1.计算机或相关专业研究生及以上学历，三年以上的互联�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯游戏数据科学家-UA方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1623155951987073024
 * Match:5:大数据,spark,sql,hadoop,python
+
 
 ```
 JD: 1.负责在腾讯游戏全球用户获取过程中的数据科学与分析工作，提升流量使用效率，提升用户获取效果；
@@ -3232,12 +3525,14 @@ Req: 1.数学、统计学、计算机等相关领域，本科及以上学历，2
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯灯塔-#大数据后台开发工程师#-大数据方向（北京/深圳）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810947269185249280
 * Match:5:大数据,可视化,java,presto,sql
+
 
 ```
 JD: 1.主要负责腾讯灯塔的查询服务开发，包括SQL解析、缓存、安全、策略、配置、SQL执行、各类底层引擎对接、生态建设等；
@@ -3254,12 +3549,14 @@ Req: 1.本科及以上学历，1年以上大型分布式系统设计和开发经
 * ImportantItem: 1.具有calcite、presto、starrocks经验优先；
 2.具有头部大数据平台领域方向的工作背景优先,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯灯塔-#数据产品经理#（深圳/北京）-分析工具产品经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1843911679801323520
 * Match:5:大数据,可视化,tableau,数仓,go
+
 
 ```
 JD: 1.开发和优化自助分析工具，帮助用户通过简单界面进行复杂的数据分析；
@@ -3277,12 +3574,14 @@ Req: 1.具备至少1年数据类产品相关经验；
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-视频号-大数据开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1854707589464485888
 * Match:5:大数据,实时,spark,flink,clickhouse
+
 
 ```
 JD: 1.负责微信视频号推荐核心数据的处理和应用，包括实时业务指标和样本处理，为团队提供数据支撑；
@@ -3301,12 +3600,14 @@ Req: 1.本科及以上学历，计算机相关专业，具备2年及以上大数
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-财付通资金账务研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1797551910631251968
 * Match:5:java,sql,mysql,linux,go
+
 
 ```
 JD: 1.建设财付通资金账务核算平台系统能力；
@@ -3323,12 +3624,14 @@ Req: 1.熟练掌握Java/GoLang/C++至少一种语言，有大型分布式、高�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-金融科技-后台开发工程师-java
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810950342372765696
 * Match:5:java,sql,mysql,linux,go
+
 
 ```
 JD: 1.负责支付金融体系中银行、信托相关链路的开发维护；
@@ -3343,12 +3646,14 @@ Req: 1.本科及以上学历，计算机软件或相关专业，1-2年后台开�
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-金融科技-资金中台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1855140952369295360
 * Match:5:实时,sql,mysql,linux,go
+
 
 ```
 JD: 1.建设金融科技业务的资金领域通用系统能力；
@@ -3364,12 +3669,14 @@ Req: 1.熟练掌握GoLang/C++至少一种语言，有大型分布式、高并发
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-高级后台开发工程师
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Senior-Staff-Software-Engineer_R103842-2
 * Match:5:容器,sql,mysql,linux,go
+
 
 ```
 JD: Level Infinite 是腾讯旗下国际游戏业务品牌，致力为全球玩家带来充满乐趣、原汁原味的游戏体验，让玩家随时随地进入游戏世界；并通过打造包容、互通、便捷的玩家社区，促进分享交流。
@@ -3388,12 +3695,14 @@ Req: 岗位要求
 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-AI数据工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1859128587488096256
 * Match:4:大数据,python,go,linux
+
 
 ```
 JD: 1.负责AI模型相关的大数据处理，包括数据爬取、数据清洗、数据处理、数据合成等工作；
@@ -3408,12 +3717,14 @@ Req: 1.本科及以上学历，计算机相关专业，本科毕业后有3年以
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-Game Operation Manager
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Game-Operation-Manager_R104043-1
 * Match:4:sql,python,go,可视化
+
 
 ```
 JD: 【About Level Infinite】
@@ -3432,12 +3743,14 @@ Req: 1. 统计学、数学、计算机科学或相关领域的学士学位，海
 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-IDC资源优化经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1831883330006573056
 * Match:4:sql,python,容器,mysql
+
 
 ```
 JD: 1.负责IDC数据中心基础设施资源（机架、机位、电力、服务器等）建设及裁撤等项目推进、运营操作、数据分析、业务协调等；
@@ -3455,12 +3768,14 @@ Req: 1.本科及以上学历，计算机、电气自动化、通信电子、数�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-PCG大数据平台部-#数据产品经理#（深圳/北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1803082493612531712
 * Match:4:大数据,sql,数据仓库,治理
+
 
 ```
 JD: 1.负责数据生产、开发、治理平台的产品规划，制定产品战略、规划路线图并执行，推动数据智能化产品在不同应用场景落地；
@@ -3481,12 +3796,14 @@ Req: 1.本科及以上学历，计算机科学、数据科学或相关专业优�
 2.熟悉人工智能、机器学习等先进技术者优先；
 3.,.etc
 
+
 ```
 
 
 ##### 深圳-ima copilot智能工作台-#后台开发工程师#
 * URL: http://careers.tencent.com/jobdesc.html?postId=1854779329825763328
 * Match:4:java,python,go,linux
+
 
 ```
 JD: 1.负责ima copilot智能工作台后台系统开发、运营与维护；
@@ -3503,12 +3820,14 @@ Req: 1.本科及以上学历，计算机相关专业；
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-云数据库内核开发工程师（深圳/北京/上海）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1714900408209514496
 * Match:4:sql,mysql,调度,linux
+
 
 ```
 JD: 1.负责数据库内核模块设计和特性开发；
@@ -3525,12 +3844,14 @@ Req: 1.掌握C/C++编程语言，3年及以上开发经验，有良好的算法�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-前端开发高级工程师-代码插件方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1797772748697640960
 * Match:4:devops,java,python,go
+
 
 ```
 JD: 1.负责腾讯各类研发管理平台前端系统设计和开发工作；
@@ -3545,12 +3866,14 @@ Req: 1.计算机或相关专业本科以上学历，三年以上 Web 前端开�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-后端高级研发工程师
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/_R104179-2
 * Match:4:sql,go,linux,olap
+
 
 ```
 JD: 关于Level Infinite
@@ -3571,12 +3894,14 @@ Req: 岗位要求
 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-微信支付-信贷后台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1834904124064292864
 * Match:4:sql,python,linux,mysql
+
 
 ```
 JD: 1.基于微信生态，负责 微信分付 等 信贷项目 后台相关的系统方案设计、性能优化、系统可用性建设等研发工作；
@@ -3592,12 +3917,14 @@ Req: 1.熟悉linux下网络编程及多线程/进程开发模式，良好的算�
 * RequireWorkYearsName: 不限 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-微信视频号-后台高级开发工程师-推荐方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1859161350584950784
 * Match:4:大数据,实时,python,linux
+
 
 ```
 JD: 1.负责微信视频号推荐后台开发的需求实现，包括模型和策略的接入，重点关注视频号入口的直播推荐；
@@ -3617,12 +3944,14 @@ Req: 1.计算机相关专业本科及以上学历，具备2年及以上后台开
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-数据科学Data Scientist-代码智能
 * URL: http://careers.tencent.com/jobdesc.html?postId=1808385238447955968
 * Match:4:sql,python,spark,hadoop
+
 
 ```
 JD: 1.负责腾讯 AI 大模型应用产品、模型数据分析；
@@ -3637,12 +3966,14 @@ Req: 1.本科及以上学历，计算机科学、数据科学、统计学、应�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-混元高级测试开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1832038043788275712
 * Match:4:大数据,java,python,linux
+
 
 ```
 JD: 1.参与大数据、广告、AIGC相关产品的后台测试工作，根据具体业务场景和测试形态定制总体测试方案及策略，并落地；
@@ -3660,12 +3991,14 @@ Req: 1.数学、计算机相关专业，至少3年以上后台测试工作经验
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-研发副总监
 * URL: http://careers.tencent.com/jobdesc.html?postId=1831153853882458112
 * Match:4:大数据,java,python,go
+
 
 ```
 JD: 1.根据部门战略，负责关键研发项目技术选型，能冲在一线，带领团队进行技术攻坚，确保不将组织发展需求压制在技术团队舒适区内；
@@ -3679,12 +4012,14 @@ Req: 1.本科及以上学历，具备扎实的计算机基础（操作系统、�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-稳定性DEVOPS工程师-研发效能方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1798944526061019136
 * Match:4:devops,kubernetes,docker,治理
+
 
 ```
 JD: 1.负责腾讯云基础IAAS产品效能提升专项的制定和推进工作，对DevOps一体化研发体系、公共研发平台以及一体化运营平台进行整体规划和设计，提升整体研发效率和交付质量；
@@ -3699,12 +4034,14 @@ Req: 1.全日制大学本科及以上学历，有研发背景，从事研发效�
 2.赋能产研团队，帮助业务识别和分析研发过程中的瓶颈和问题，并提出解决方案，设计、构建并推进各产品的需求、代码、测试、运维、发布等自动化和智能化落地；
 3.与不同团队成员合作，推动项目的顺利进行，提升腾讯云在业界的技术影响力。 ,.etc
 
+
 ```
 
 
 ##### 深圳-网关高级运维工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1805200085890375680
 * Match:4:python,go,linux,监控
+
 
 ```
 JD: 1.负责弹性IP和负载均衡网关平台运营维护，规划设备管理、容量管理、网络管理、成本优化；版本上线变更/业务联调/现网监控/故障处理等日常运维工作，保障现网安全运营质量；
@@ -3720,12 +4057,14 @@ Req: 1.计算机或相关技术专业本科及以上学历，计算机及相关�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-COS存储高级后台研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1853286465765662720
 * Match:4:java,python,go,linux
+
 
 ```
 JD: 1.负责腾讯云对象存储服务COS产品内部组件的研发和优化；
@@ -3742,12 +4081,14 @@ Req: 1.本科及以上学历，计算机相关专业； 5年以上Unix、Linux�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-大数据公有云高级产品架构师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1815605271729299456
 * Match:4:大数据,spark,flink,hadoop
+
 
 ```
 JD: 1.能够深入理解客户对于大数据产品和方案的需求和痛点，针对客户业务场景和产品技术需求，设计整体大数据产品解决方案；
@@ -3766,12 +4107,14 @@ Req: 1.计算机、通信等相关专业，本科及以上学历，5年以上大
 * ImportantItem: 1.有云厂商公有云大数据的To B解决方案的实践经验，有实际大数据业务领域实践经验，过往中有承担协调多方推动大数据项目的在实际应用场景中落地；
 2.五年以上大数据相关,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-机器学习算法专家
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864567315606040576
 * Match:4:大数据,java,python,go
+
 
 ```
 JD: 1.负责大数据+AI一体化框架和运行平台的设计、开发与技术演进，支撑公有云上的Data+AI一体化场景；
@@ -3787,12 +4130,14 @@ Req: 1.具有扎实的基础知识、系统功底和编程能力，熟练掌握�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-泛互联网行业解决方案架构师-北/上/深/广
 * URL: http://careers.tencent.com/jobdesc.html?postId=1744193558727892992
 * Match:4:大数据,sql,mysql,go
+
 
 ```
 JD: 1.为泛互联网行业客户提供技术咨询服务，开拓和服务泛互联网客户群体，为客户提供技术咨询/PoC验证等技术支持服务，维系客户及支持客户的持续高速发展，协同商务团队数字目标达成；
@@ -3809,12 +4154,14 @@ Req: 1.本科以上学历，5年以上互联网产品开发、运维、架构设
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-数据科学
 * URL: http://careers.tencent.com/jobdesc.html?postId=1840754523103064064
 * Match:4:sql,python,spark,hive
+
 
 ```
 JD: 1.负责腾讯广告相关业务的数据科学及分析工作，利用先进的数据分析技术和工具，挖掘潜在商业价值，支持业务决策；
@@ -3830,12 +4177,14 @@ Req: 1.本科以上学历，具有 3 年以上数据分析挖掘经验，有数�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-研发效能架构师（北京）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1857030458118795264
 * Match:4:devops,python,go,监控
+
 
 ```
 JD: 1.对腾讯广告的DevOps一体化研发体系、公共研发工具以及一体化运营平台进行整体规划和设计，提升整体的研发及运营效率；
@@ -3851,12 +4200,14 @@ Req: 1.本科及以上学历，计算机相关专业；
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-算法工程师-特征方向
 * URL: http://careers.tencent.com/jobdesc.html?postId=1838028152413118464
 * Match:4:大数据,sql,python,监控
+
 
 ```
 JD: 1.负责广告业务相关的特征、理解对象的质量自动化评测，包括评测对象的数据分析、模型的设计、开发与优化；
@@ -3873,12 +4224,14 @@ Req: 1.本科及以上学历，人工智能、计算机、统计、数学等相�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯广告-算法工程师（流量优化）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1810478437261910016
 * Match:4:大数据,python,spark,flink
+
 
 ```
 JD: 1.基于机器学习、深度学习、图算法等技术优化广告模型算法，提高广告变现效率；
@@ -3894,12 +4247,14 @@ Req: 1.具有3年以上互联网模型算法或策略算法的优化经验；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-金融科技-支付平台开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1823188491920498688
 * Match:4:sql,mysql,go,linux
+
 
 ```
 JD: 1.负责财付通基础支付平台高可用容灾架构的设计与开发，解决高并发资金处理场景下的数据一致性、资金安全等问题，持续提升支付平台的可用性、安全性和性能；
@@ -3916,12 +4271,14 @@ Req: 1.计算机、通信相关专业本科以上学历；
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-高级运维工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1805200083352821760
 * Match:4:devops,python,go,linux
+
 
 ```
 JD: 1.负责键值KV/时序等存储类产品的发布变更、故障处理、容量管理等日常运维工作，保障系统7*24小时稳定运行；
@@ -3936,6 +4293,7 @@ Req: 1.本科及以上学历，计算机或相关专业，3年以上Linux运维�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
@@ -3944,6 +4302,7 @@ Req: 1.本科及以上学历，计算机或相关专业，3年以上Linux运维�
 ##### 西安-大数据系统测试工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1843460940566130688
 * Match:11:大数据,hive,java,spark,flink,linux,hadoop,devops,python,数据湖,clickhouse
+
 
 ```
 JD: 1.负责大数据hadoop，spark，ES, hive，flink，clickhouse以及数据湖等相关产品的测试工作；
@@ -3963,12 +4322,14 @@ Req: 1.本科以上学历，3年以上大数据相关的开发/测试经验或�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 西安-Devops工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1852293195317141504
 * Match:7:容器,k8s,kubernetes,docker,devops,python,go
+
 
 ```
 JD: 1.负责公司内部产品的Devops流程建设和优化，解决研发痛点问题；
@@ -3987,12 +4348,14 @@ Req: 1.熟悉研发效能或DevOps相关工作经验，熟悉K8s等常用云原�
 * ImportantItem: 1.有CI/CD工具（如Jenkins、GitLab CI/CD等）的实际使用经验；
 2.熟悉容器编,.etc
 
+
 ```
 
 
 ##### 西安-腾讯云-稳定性测试工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1851561412007059456
 * Match:6:aws,容器,kubernetes,docker,linux,python
+
 
 ```
 JD: 1.负责腾讯云的稳定性集成测试工作，包括但不限于测试环境构建和维护、故障注入测试等稳定性测试工作；
@@ -4015,12 +4378,14 @@ Req: 1.计算机本科以上学历，3年以上IAAS/PAAS产品相关测试或运
 * ImportantItem: 1.有大型互联网服务稳定性测试经验者优先；
 2.熟悉云计算服务，如AWS、Az,.etc
 
+
 ```
 
 
 ##### 西安-云数据系统测试工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1638005576476663808
 * Match:4:sql,python,linux,mysql
+
 
 ```
 JD: 1.负责腾讯云包括Mysql,Redis,云原生DB等数据库产品的测试工作；
@@ -4040,6 +4405,7 @@ Req: 1.本科以上学历，2年以上数据库或存储测试相关工作经验
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
@@ -4048,6 +4414,7 @@ Req: 1.本科以上学历，2年以上数据库或存储测试相关工作经验
 ##### 长沙-腾讯云网关控制器研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1790182643405430784
 * Match:8:分布式计算,实时,kafka,sql,mysql,docker,linux,go
+
 
 ```
 JD: 1.负责腾讯云网关SDN网络控制器分布式平台架构设计，设计并实现大规模分布式计算算法，实时处理海量路由；
@@ -4063,6 +4430,7 @@ Req: 1.大学本科或以上学历，计算机相关专业，2年以上Linux服�
 * RequireWorkYearsName: 两年以上工作经验 
 ,.etc
 
+
 ```
 
 
@@ -4072,6 +4440,7 @@ Req: 1.大学本科或以上学历，计算机相关专业，2年以上Linux服�
 * URL: https:////tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Indonesia-Jakarta/Tencent-Cloud-IaaS-Product-Solution-Architect---Indonesia_R103288-1
 * Match:4:aws,kubernetes,docker,devops
 
+
 ```
 JD: Position Overview:
 As a Senior Cloud Architect at Tencent Cloud, you will be responsible for designing and implementing advanced cloud architectures, collaborating with internal product and R&D teams,,.etc
@@ -4080,6 +4449,7 @@ Req: Bachelor's or Master's degree in Computer Science, Engineering, or a relate
 5+ years of experience in cloud architecture design, with hands-on experience in cloud infrastructure, cloud-native ,.etc
 
 ,.etc
+
 
 ```
 

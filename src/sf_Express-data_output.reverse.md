@@ -5,6 +5,7 @@
 * URL: https://hr.sf-express.com/JobSearchById/58800,3
 * Match:4:建模,调度,java,python
 
+
 ```
 JD
 : 1、利用运筹优化、数据挖掘与机器学习相关算法，对物流、供应链相关环节涉及的实际业务需求进行建模设计、开发、部署落地；
@@ -22,6 +23,7 @@ extra
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
@@ -30,6 +32,7 @@ extra
 ##### 深圳市-EDI实施工程师
 * URL: https://hr.sf-express.com/JobSearchById/58822,3
 * Match:4:mysql,sql,java,bi
+
 
 ```
 JD
@@ -46,6 +49,7 @@ extra
 : *publishTime: 2024-11-05 17:39:17
 *workYearTxt: 3-5年
 *educationReqTxt: 大学本科
+
 
 
 ```

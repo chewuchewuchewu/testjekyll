@@ -5,6 +5,7 @@
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24112002470646
 * Match:4:bi,go,python,sql
 
+
 ```
 JD:Ant Group is looking for a Senior Enterprise Risk Manager to join the team in transforming Ant global risk management and establishing effective risk management framework and methodology. We are looking to hire a self-motivated, detail-oriented, team-spirited and adaptable Risk professional who will cover a diverse range of risk areas. This role will work closely with senior stakeholders across Bu,.etc
 
@@ -19,6 +20,7 @@ Req:Basic Requirement:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -27,6 +29,7 @@ Req:Basic Requirement:
 ##### 吉隆坡-Ant International-AML Data Analyst-Malaysia
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24111902438905
 * Match:4:bi,go,python,sql
+
 
 ```
 JD:-Provide quantitative analytics support to the AML QDAI & strategy team to enhance risk assessment of ongoing current and emerging AML centric risks in core areas; business, client, operations & system controls within the international business entities.
@@ -44,12 +47,14 @@ Req:-Proficient in data handling coding (e.g., SQL) and at least one professiona
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 吉隆坡-Ant International-Risk Data Analyst (Acquiring)-Malaysia
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1933530
 * Match:4:bi,go,python,sql
+
 
 ```
 JD:About us
@@ -68,6 +73,7 @@ Req:- Bachelor’s degree in mathematics, statistics, finance, management, compu
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -76,6 +82,7 @@ Req:- Bachelor’s degree in mathematics, statistics, finance, management, compu
 ##### 杭州-蚂蚁集团-Java后端高级工程师-杭州【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24062700763332
 * Match:4:java,数据分析,报表,olap
+
 
 ```
 JD:负责数据分析平台工程技术（智能分析助理中报表Copilot、自助分析Copilot等智能化产品）、引擎技术（数据分析DSL、OLAP查询性能优化等）的研发，运维、用户答疑。核心目标：通过智能化技术升级产品体系，降低数据分析门槛，从而提升报表制作&分析的效率和效果。,.etc
@@ -93,12 +100,14 @@ Req:1. 熟练掌握 Java 基础知识、设计模式；熟悉常用开源框架S
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-唤端流量产品专家/高级产品专家-APP-端产品部
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24071600947606
 * Match:4:商业分析,报表,治理,数据分析
+
 
 ```
 JD:1、负责支付宝平台唤端和流量置换、采买及下载业务的数据产品建设。可以制定有效的产品规划，包含面向用户及合作方的动线链路设计、平台产品建设，数据采集加工、治理、报表分析等产品能力建设；
@@ -117,12 +126,14 @@ Req:1、具有5年以上互联网产品从业经验，有广告、流量管理�
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据产品经理-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24101502019711
 * Match:4:大数据,数据分析,治理,建模
+
 
 ```
 JD:1、负责蚂蚁集团数据建设平台产品的规划、设计、落地及运营推广，主要服务于蚂蚁集团大数据相关业务场景，产品涵盖领域包括大数据建设、管理及应用。
@@ -140,12 +151,14 @@ Req:1、具有良好的产品规划、设计能力：5年以上产品设计经�
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据生成技术高级专家-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24111502391765
 * Match:4:大数据,数据分析,spark,python
+
 
 ```
 JD:1. 在金融领域，为大模型应用和智能化业务提供高质量数据集，通过数据合成、AIGC生成等技术手段不断提高多模态数据规模；
@@ -170,12 +183,14 @@ Req:1. 硕士学历及以上，8年及以上工作经验，人工智能、机器
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-隐私风险运营高级专员/专家-数据治理
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24091001658159
 * Match:4:大数据,数据分析,治理,sql
+
 
 ```
 JD:蚂蚁集团数据治理和发展部风险运营专家，该职位肩负着守住数据风险与放大数据价值的双重职责。您将与业务法务及公司数据安全团队密切合作，共同防控风险，并为业务团队解决数据使用中的各种阻碍，促进数据要素流通。
@@ -195,6 +210,7 @@ Req:1.网络安全/信息安全或者计算机相关专业；
 * department: 蚂蚁集团 
 * degree: bachelor 
 ,.etc
+
 
 ```
 

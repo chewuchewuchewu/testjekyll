@@ -1,16 +1,19 @@
 ### Hilton Technology
 * URL: https://jobs.hilton.com/us/en/search-results
 * Recommender - Ye Wei
+
 ```
 * with filters
 - country- China
 - SubCategory - technology 
+
 ```
 
 
 ##### Title: Lead Data Operation – Great China and Mongolia ( Contractor)
 * ID: APA014JQ
 * Detail URL: https://hilton.taleo.net/careersection/hil_corp_ext/jobapply.ftl?job=APA014JQ&lang=en&csNo=17120&portal=82140165241
+
 ```
 
 Description: As the Lead Data Operation – Great China and Mongolia, your role is important and below are some of the fundamental job
@@ -23,12 +26,14 @@ code', 'aws certified solutions architect', 'shell scripting', 'aws cloudformati
 'kubernetes', 'terraform', 'clickhouse']
 
 Created-Date:2024-11-21T08:20:55.913+0000
+
 ```
 
 
 ##### Title: Lead Data Engineer – Great China and Mongolia ( Contractor)
 * ID: APA014JR
 * Detail URL: https://hilton.taleo.net/careersection/hil_corp_ext/jobapply.ftl?job=APA014JR&lang=en&csNo=17120&portal=82140165241
+
 ```
 
 Description: As the Lead Data Engineer – Great China and Mongolia, your role is important and below are some of the fundamental job
@@ -40,12 +45,14 @@ kafka', 'data pipelines', 'unstructured data', 'mapreduce', 'spark', 'python', '
 'design specifications', 'trainings', 'pipelines', 'collaborative teamwork']
 
 Created-Date:2024-11-20T08:21:01.516+0000
+
 ```
 
 
 ##### Title: IT Manager
 * ID: HOT0B2H0
 * Detail URL: https://hilton.taleo.net/careersection/us_hotel_ext/jobapply.ftl?job=HOT0B2H0&lang=en&csNo=16840&portal=78140165241
+
 ```
 
 Description: As the IT Manager, you will be responsible for performing the following tasks to the highest standards. Maximize and
@@ -59,12 +66,14 @@ management', 'supplier negotiation', 'budget management', 'quotation collection'
 'risk management', 'it expense management', 'supplier selection']
 
 Created-Date:2024-10-21T10:17:13.685+0000
+
 ```
 
 
 ##### Title: Lead Cloud Engineer, Greater China & Mongolia - Contractor
 * ID: APA014IH
 * Detail URL: https://hilton.taleo.net/careersection/hil_corp_ext/jobapply.ftl?job=APA014IH&lang=en&csNo=17120&portal=82140165241
+
 ```
 
 Description: Design, architect, and implement next generation Cloud architecture and automation solutions in public cloud (Aliyun and
@@ -76,6 +85,7 @@ Requirement:['devops', 'aws', 'automation', 'iaas', 'cloud infrastructure', 'clo
 documentation', 'scripting language', 'technology design patterns']
 
 Created-Date:2024-09-27T08:17:14.053+0000
+
 ```
 
 
@@ -83,15 +93,18 @@ Created-Date:2024-09-27T08:17:14.053+0000
 * URL: https://jobs.hilton.com/us/en/search-results
 * Recommender : Ye Wei
 * with filters
+
 ```
 - Countries - China
 - 搜索关键字 - analyst 
+
 ```
 
 
 ##### Title: Analyst Planning & Forecasting APAC
 * ID: APA014GP
 * Detail URL: https://hilton.taleo.net/careersection/hil_corp_ext/jobapply.ftl?job=APA014GP&lang=en&csNo=17120&portal=82140165241
+
 ```
 
 Description: Lead insights and analytics across APAC (Greater China & Magnolia, Japan, Korea, Australia, South-East Asia, etc. ) by
@@ -106,12 +119,14 @@ operations management', 'data visualization', 'customer experience optimization'
 'contact centers']
 
 Created-Date:2024-08-20T08:21:27.092+0000
+
 ```
 
 
 ##### Title: Senior Analyst, Business Intelligence - Asia Pacific
 * ID: APA014IU
 * Detail URL: https://hilton.taleo.net/careersection/hil_corp_ext/jobapply.ftl?job=APA014IU&lang=en&csNo=17120&portal=82140165241
+
 ```
 
 Description: Hilton will hold its Team Members accountable to the following key areas: profit, quality, customers, and people. Ensure

@@ -2,9 +2,11 @@
 ### 顺丰 SF-express  data engineer or leader
 * URL: https://hr.sf-express.com/jobMainHandlerT/main?jobType=9999&outName=data
 * with filters
+
 ```
 - 搜索关键字: none
 - 匹配关键字: ['SQL', 'Python', 'Hive', 'Spark', 'Java', 'Go', 'bash', 'airflow', '数仓', '数据仓库', '数据湖', '治理', '离线', '分布式计算', '实时', 'lakehouse', 'datalake', 'data warehouse', '可视化', 'OLAP', 'ETL', '调度', '监控', '大数据', 'delta lake', 'deltalake', 'Tableau', 'Flink', 'Linux', 'yarn', 'Hadoop', 'Kafka', 'MySQL', 'ClickHouse', 'HBase', 'DeltaLake', 'databricks', 'presto', 'AWS', 'devops', '容器', 'docker', 'kubernetes', 'k8s', '团队负责人', '报表', '元数据', 'metadata']
+
 ```
 
 
@@ -13,6 +15,7 @@
 ##### 北京市-IE流程管理工程师（数据建模）
 * URL: https://hr.sf-express.com/JobSearchById/53543,3
 * Match:4:sql,java,大数据,python
+
 
 ```
 JD:
@@ -33,12 +36,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 北京市-后端开发工程师
 * URL: https://hr.sf-express.com/JobSearchById/57848,3
 * Match:4:sql,linux,k8s,java
+
 
 ```
 JD:
@@ -59,6 +64,7 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
@@ -67,6 +73,7 @@ extra:
 ##### 广东省-DJK-数据开发高级工程师
 * URL: https://hr.sf-express.com/JobSearchById/57553,3
 * Match:9:sql,flink,kafka,治理,实时,数据仓库,数仓,大数据,java
+
 
 ```
 JD:
@@ -85,12 +92,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 广东省-后端开发工程师
 * URL: https://hr.sf-express.com/JobSearchById/58422,3
 * Match:4:sql,go,java,python
+
 
 ```
 JD:
@@ -119,6 +128,7 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
@@ -127,6 +137,7 @@ extra:
 ##### 武汉市-SC-数据仓库开发（武汉）
 * URL: https://hr.sf-express.com/JobSearchById/58934,3
 * Match:14:sql,hive,presto,flink,hadoop,报表,离线,hbase,实时,spark,数据仓库,数仓,大数据,clickhouse
+
 
 ```
 JD:
@@ -145,12 +156,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 武汉市-LY-大数据挖掘与分析工程师
 * URL: https://hr.sf-express.com/JobSearchById/56039,3
 * Match:10:sql,hive,flink,hadoop,hbase,数据仓库,spark,etl,大数据,python
+
 
 ```
 JD:
@@ -167,12 +180,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 武汉市-后端开发工程师
 * URL: https://hr.sf-express.com/JobSearchById/57760,3
 * Match:5:hive,hadoop,spark,大数据,java
+
 
 ```
 JD:
@@ -195,6 +210,7 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
@@ -203,6 +219,7 @@ extra:
 ##### 深圳市-YWS-大数据仓库开发工程师
 * URL: https://hr.sf-express.com/JobSearchById/58397,3
 * Match:14:sql,hive,监控,linux,kafka,mysql,hadoop,治理,元数据,hbase,数据仓库,spark,大数据,python
+
 
 ```
 JD:
@@ -221,12 +238,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-SJZ-机器学习高级工程师
 * URL: https://hr.sf-express.com/JobSearchById/58420,3
 * Match:8:hive,flink,kafka,hadoop,spark,python,大数据,java
+
 
 ```
 JD:
@@ -245,12 +264,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-机器学习工程师
 * URL: https://hr.sf-express.com/JobSearchById/58669,3
 * Match:8:hive,flink,kafka,hadoop,spark,python,大数据,java
+
 
 ```
 JD:
@@ -269,12 +290,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-SC-测试组负责人（武汉）
 * URL: https://hr.sf-express.com/JobSearchById/55677,3
 * Match:7:sql,mysql,linux,kafka,go,python,java
+
 
 ```
 JD:
@@ -293,12 +316,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-SJP-大数据平台研发工程师
 * URL: https://hr.sf-express.com/JobSearchById/57992,3
 * Match:7:hive,flink,hadoop,hbase,spark,大数据,java
+
 
 ```
 JD:
@@ -315,12 +340,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-SJP-大数据运维工程师
 * URL: https://hr.sf-express.com/JobSearchById/57288,3
 * Match:7:linux,flink,hadoop,go,hbase,大数据,python
+
 
 ```
 JD:
@@ -339,12 +366,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-YWS-物流数据分析工程师
 * URL: https://hr.sf-express.com/JobSearchById/56621,3
 * Match:6:sql,hive,监控,离线,实时,大数据
+
 
 ```
 JD:
@@ -363,12 +392,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-大数据挖掘与分析工程师实习生
 * URL: https://hr.sf-express.com/JobSearchById/55660,3
 * Match:6:sql,hive,hadoop,spark,大数据,python
+
 
 ```
 JD:
@@ -385,12 +416,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-测试
 * URL: https://hr.sf-express.com/JobSearchById/53333,3
 * Match:5:sql,mysql,kafka,治理,java
+
 
 ```
 JD:
@@ -413,12 +446,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-DevOps工具平台负责人
 * URL: https://hr.sf-express.com/JobSearchById/59078,3
 * Match:4:docker,监控,kubernetes,devops
+
 
 ```
 JD:
@@ -443,12 +478,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-SJZ-运筹优化算法高级工程师
 * URL: https://hr.sf-express.com/JobSearchById/57446,3
 * Match:4:java,分布式计算,调度,python
+
 
 ```
 JD:
@@ -465,12 +502,14 @@ extra:
 *educationReqTxt: 硕士研究生
 
 
+
 ```
 
 
 ##### 深圳市-大数据挖掘与分析工程师
 * URL: https://hr.sf-express.com/JobSearchById/58835,3
 * Match:4:监控,spark,大数据,python
+
 
 ```
 JD:
@@ -489,12 +528,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 深圳市-高级数据分析师
 * URL: https://hr.sf-express.com/JobSearchById/37717,3
 * Match:4:sql,监控,大数据,python
+
 
 ```
 JD:
@@ -515,6 +556,7 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
@@ -523,6 +565,7 @@ extra:
 ##### 湖北省-IT应用运维工程师
 * URL: https://hr.sf-express.com/JobSearchById/50379,3
 * Match:9:sql,mysql,监控,linux,kafka,容器,docker,k8s,python
+
 
 ```
 JD:
@@ -547,12 +590,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 湖北省-后端开发工程师
 * URL: https://hr.sf-express.com/JobSearchById/58690,3
 * Match:5:sql,mysql,linux,kafka,java
+
 
 ```
 JD:
@@ -571,12 +616,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 湖北省-测试工程师
 * URL: https://hr.sf-express.com/JobSearchById/58751,3
 * Match:5:sql,mysql,devops,python,java
+
 
 ```
 JD:
@@ -599,12 +646,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 湖北省-后端开发工程师
 * URL: https://hr.sf-express.com/JobSearchById/58587,3
 * Match:4:sql,go,java,python
+
 
 ```
 JD:
@@ -633,6 +682,7 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
@@ -641,6 +691,7 @@ extra:
 ##### 西安市-测试工程师
 * URL: https://hr.sf-express.com/JobSearchById/57739,3
 * Match:7:sql,mysql,容器,linux,go,python,java
+
 
 ```
 JD:
@@ -655,12 +706,14 @@ extra:
 *educationReqTxt: 大学本科
 
 
+
 ```
 
 
 ##### 西安市-算法工程师
 * URL: https://hr.sf-express.com/JobSearchById/56364,3
 * Match:6:hive,调度,spark,python,大数据,java
+
 
 ```
 JD:
@@ -673,6 +726,7 @@ extra:
  *publishTime: 2024-06-25 11:13:30
 *workYearTxt: 3-5年
 *educationReqTxt: 大学本科
+
 
 
 ```

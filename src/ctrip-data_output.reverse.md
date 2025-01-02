@@ -5,6 +5,7 @@
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021086
 * Match:4:data analysis,bi,monitor,go
 
+
 ```
 JD:Responsibilities:
 1. Partnership Management
@@ -20,12 +21,14 @@ Req:,.etc
 * publishDate: 2024-10-21 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Connectivity Operation Manager(MJ015666)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ015666
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:Responsibilities:
@@ -46,12 +49,14 @@ Req:,.etc
 * publishDate: 2024-08-07 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Financial Analyst(MJ023543)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023543
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:	Responsibilities:
@@ -72,12 +77,14 @@ Req:,.etc
 * publishDate: 2024-10-22 
 ,.etc
 
+
 ```
 
 
 ##### 上海-HTL - Procedure Supervisor(MJ018823)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ018823
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:Core Responsibilities：
@@ -98,12 +105,14 @@ Req:,.etc
 * publishDate: 2024-02-07 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Java开发工程师(MJ019902)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ019902
 * Match:4:java,sql,mysql,建模
+
 
 ```
 JD:职位描述
@@ -126,12 +135,14 @@ Req:,.etc
 * publishDate: 2024-04-02 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Java开发工程师（订后服务组）(MJ023905)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023905
 * Match:4:java,sql,mysql,建模
+
 
 ```
 JD:职位描述
@@ -154,12 +165,14 @@ Req:,.etc
 * publishDate: 2024-10-22 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Product Content Designer(MJ021477)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021477
 * Match:4:项目管理,bi,scheduling,go
+
 
 ```
 JD:职位描述
@@ -178,12 +191,14 @@ Req:,.etc
 * publishDate: 2024-06-25 
 ,.etc
 
+
 ```
 
 
 ##### 上海-QA  HTL_EN_SHACC(MJ024122)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024122
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:职位描述
@@ -207,12 +222,14 @@ Req:,.etc
 * publishDate: 2024-11-05 
 ,.etc
 
+
 ```
 
 
 ##### 上海-QA (AI Orientation)(MJ023199)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023199
 * Match:4:bi,schedule,monitor,go
+
 
 ```
 JD:Key Roles and Responsibilities
@@ -230,12 +247,14 @@ Req:,.etc
 * publishDate: 2024-09-06 
 ,.etc
 
+
 ```
 
 
 ##### 上海-QA EN SHACC ALL(MJ024123)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024123
 * Match:4:bi,schedule,monitor,go
+
 
 ```
 JD:职位描述
@@ -254,12 +273,14 @@ Req:,.etc
 * publishDate: 2024-11-05 
 ,.etc
 
+
 ```
 
 
 ##### 上海-SEM Specialist(MJ024180)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024180
 * Match:4:数据分析,bi,sql,go
+
 
 ```
 JD:职位描述
@@ -283,12 +304,14 @@ Req:,.etc
 * publishDate: 2024-11-07 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Senior Market Manager, Supplier(MJ021154)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021154
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:职位描述
@@ -303,12 +326,14 @@ Req:,.etc
 * publishDate: 2024-06-05 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Team Leader EN IB SHACC FLT(MJ024715)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024715
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:职位描述
@@ -334,12 +359,14 @@ Req:,.etc
 * publishDate: 2024-12-10 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Team Leader EN IB SHACC FLT(MJ024749)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024749
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:职位描述
@@ -364,12 +391,14 @@ Req:,.etc
 * publishDate: 2024-12-12 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Team Leader EN IB SHACC NPL(MJ024094)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024094
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:职位描述
@@ -395,12 +424,14 @@ Req:,.etc
 * publishDate: 2024-11-04 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Team Leader EN OB SHACC HTL(MJ024546)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024546
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:职位描述
@@ -426,12 +457,14 @@ Req:,.etc
 * publishDate: 2024-11-28 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Team Leader JP IB SHACC FLT(MJ023775)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023775
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:职位描述
@@ -458,12 +491,14 @@ Req:,.etc
 * publishDate: 2024-10-15 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Team Leader SHACC JP FLT OB(MJ024199)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ024199
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:职位描述
@@ -489,12 +524,14 @@ Req:,.etc
 * publishDate: 2024-11-08 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Team leader FLT CS SHACC EN(MJ021632)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021632
 * Match:4:data analysis,bi,monitor,go
+
 
 ```
 JD:职位描述
@@ -520,12 +557,14 @@ Req:,.etc
 * publishDate: 2024-07-03 
 ,.etc
 
+
 ```
 
 
 ##### 上海-业务经理（定制游）(MJ015728)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ015728
 * Match:4:数据分析,bi,data analysis,go
+
 
 ```
 JD:岗位描述
@@ -553,12 +592,14 @@ Req:,.etc
 * publishDate: 2023-01-06 
 ,.etc
 
+
 ```
 
 
 ##### 上海-产品文案设计师（多语种）(MJ021468)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021468
 * Match:4:项目管理,bi,scheduling,go
+
 
 ```
 JD:职位描述
@@ -577,12 +618,14 @@ Req:,.etc
 * publishDate: 2024-06-25 
 ,.etc
 
+
 ```
 
 
 ##### 上海-后端开发工程师（风控方向）(MJ023220)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ023220
 * Match:4:java,sql,mysql,建模
+
 
 ```
 JD:职位描述
@@ -605,12 +648,14 @@ Req:,.etc
 * publishDate: 2024-12-04 
 ,.etc
 
+
 ```
 
 
 ##### 上海-资深后端开发工程师（订单交易）(MJ018782)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ018782
 * Match:4:java,sql,mysql,建模
+
 
 ```
 JD:工作职责：
@@ -635,12 +680,14 @@ Req:,.etc
 * publishDate: 2024-01-03 
 ,.etc
 
+
 ```
 
 
 ##### 上海-资深推荐/广告算法工程师(MJ015556)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ015556
 * Match:4:java,linux,python,建模
+
 
 ```
 JD:工作职责：
@@ -662,12 +709,14 @@ Req:,.etc
 * publishDate: 2024-03-25 
 ,.etc
 
+
 ```
 
 
 ##### 上海-资深推荐算法工程师(MJ022348)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ022348
 * Match:4:java,linux,python,建模
+
 
 ```
 JD:职位描述
@@ -689,12 +738,14 @@ Req:,.etc
 * publishDate: 2024-08-08 
 ,.etc
 
+
 ```
 
 
 ##### 上海-高级/资深Java开发工程师(MJ018776)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ018776
 * Match:4:java,sql,mysql,建模
+
 
 ```
 JD:工作职责：
@@ -719,12 +770,14 @@ Req:,.etc
 * publishDate: 2024-07-31 
 ,.etc
 
+
 ```
 
 
 ##### 上海-高级/资深算法工程师(MJ021758)
 * URL: https://job.ctrip.com/index.html#/job-detail/MJ021758
 * Match:4:java,数据分析,python,建模
+
 
 ```
 JD:职位描述
@@ -744,6 +797,7 @@ Req:,.etc
 * buName: 住宿业务 
 * publishDate: 2024-10-08 
 ,.etc
+
 
 ```
 

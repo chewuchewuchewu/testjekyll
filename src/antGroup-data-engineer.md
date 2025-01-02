@@ -2,9 +2,11 @@
 ### 蚂蚁 antGroup data-engineer or leader
 * URL: https://talent.antgroup.com/off-campus
 * with filters
+
 ```
 - 搜索关键字 ['数据', '数仓', 'BI', 'DevOps', '商业分析', '产品经理', 'data', 'data warehouse', 'analyst', 'analytics', 'product manager']
 - 匹配关键字 ['SQL', 'Python', 'Hive', 'Spark', 'Java', 'Go', 'bash', 'airflow', '数仓', '数据仓库', '数据湖', '治理', '离线', '分布式计算', '实时', 'lakehouse', 'datalake', 'data warehouse', '可视化', 'OLAP', 'ETL', '调度', '监控', '大数据', 'delta lake', 'deltalake', 'Tableau', 'Flink', 'Linux', 'yarn', 'Hadoop', 'Kafka', 'MySQL', 'ClickHouse', 'HBase', 'DeltaLake', 'databricks', 'presto', 'AWS', 'devops', '容器', 'docker', 'kubernetes', 'k8s', '团队负责人', '报表', '元数据', 'metadata']
+
 ```
 
 
@@ -13,6 +15,7 @@
 ##### 上海-蚂蚁国际-数据算法质量工程师-全球技术
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24092901901781
 * Match:10:java,etl,大数据,go,python,sql,mysql,治理,数仓,监控
+
 
 ```
 JD:
@@ -39,12 +42,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Ant International-B+ BI Specialist-Shanghai-International BG
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1956115
 * Match:5:etl,hive,tableau,python,sql
+
 
 ```
 JD:
@@ -63,12 +68,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海-Ant International-AML Quantitative Data Analytics and Strategy Senior Manager/Analyst-International BG
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1951401
 * Match:4:大数据,python,治理,sql
+
 
 ```
 JD:
@@ -92,12 +99,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海-蚂蚁国际-WF CN 风控策略分析师-国际事业群
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1947704
 * Match:4:离线,实时,python,sql
+
 
 ```
 JD:
@@ -123,6 +132,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -131,6 +141,7 @@ Req:
 ##### 上海,北京,杭州-蚂蚁数字科技-数科技术部-数据平台研发工程师
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1956211
 * Match:5:java,spark,flink,治理,hadoop
+
 
 ```
 JD:
@@ -149,12 +160,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,北京,杭州-蚂蚁集团-湖仓计算引擎研发专家/高级专家-杭州/北京/上海
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24101402012345
 * Match:5:java,spark,分布式计算,clickhouse,hadoop
+
 
 ```
 JD:
@@ -174,12 +187,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,北京,杭州-蚂蚁集团-Java服务框架开发工程师/专家-中间件-杭州/上海/北京
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1938922
 * Match:4:java,go,linux,k8s
+
 
 ```
 JD:
@@ -200,6 +215,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -208,6 +224,7 @@ Req:
 ##### 上海,成都,杭州-蚂蚁集团-JAVA研发工程师-杭州/成都/上海
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24092001788481
 * Match:5:java,spark,大数据,flink,治理
+
 
 ```
 JD:
@@ -232,6 +249,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -240,6 +258,7 @@ Req:
 ##### 上海,杭州-蚂蚁集团-数据开发专家-杭州/上海
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24073101119028
 * Match:12:实时,java,spark,etl,hive,大数据,python,flink,治理,数据仓库,yarn,hadoop
+
 
 ```
 JD:
@@ -262,12 +281,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁国际-数据开发工程师/专家-全球技术
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24120202594554
 * Match:11:实时,spark,hive,大数据,flink,离线,olap,治理,clickhouse,presto,hadoop
+
 
 ```
 JD:
@@ -287,12 +308,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-效能平台高级开发工程师/专家-杭州/上海【CIO】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1935509
 * Match:10:java,kubernetes,go,python,sql,调度,docker,k8s,mysql,devops
+
 
 ```
 JD:
@@ -317,12 +340,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-智能可观测研发工程师-杭州/上海【平台工程】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1935820
 * Match:9:实时,java,spark,hive,hbase,go,flink,devops,hadoop
+
 
 ```
 JD:
@@ -342,12 +367,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁国际-商业决策分析专家-流量/营销-战略部
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1951710
 * Match:8:etl,hive,tableau,python,sql,可视化,数仓,监控
+
 
 ```
 JD:
@@ -375,12 +402,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-数据研发专家-生活管家
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24081501314063
 * Match:8:实时,etl,hive,大数据,报表,离线,数据仓库,hadoop
+
 
 ```
 JD:
@@ -403,12 +432,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-数据库/存储SRE-杭州/上海【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1947013
 * Match:7:java,go,python,sql,容器,mysql,linux
+
 
 ```
 JD:
@@ -430,12 +461,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-数据研发工程师 (杭州/上海)-国际事业群
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1959830
 * Match:6:java,spark,大数据,flink,python,hadoop
+
 
 ```
 JD:
@@ -454,12 +487,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁数字科技-数科技术部-Java开发工程师（安全科技）
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24111902428409
 * Match:5:实时,java,spark,大数据,flink
+
 
 ```
 JD:
@@ -484,12 +519,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-大模型应用数据分析与挖掘-出行/高质量内容生成方向-生活管家
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24092501832600
 * Match:5:大数据,python,sql,数据仓库,监控
+
 
 ```
 JD:
@@ -511,12 +548,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-测试研发工程师/测试专家-大模型数据质量&工程平台-上海/杭州【智能引擎】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1940109
 * Match:4:大数据,java,python,sql
+
 
 ```
 JD:
@@ -535,12 +574,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 上海,杭州-蚂蚁集团-特征计算研发专家-杭州/上海【智能引擎】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24082701489946
 * Match:4:java,spark,分布式计算,flink
+
 
 ```
 JD:
@@ -559,6 +600,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -567,6 +609,7 @@ Req:
 ##### 东京-OceanBase-Database Solution Architect-Japan-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24120302627880
 * Match:6:java,go,python,sql,mysql,aws
+
 
 ```
 JD:
@@ -585,6 +628,7 @@ Req:
 * department: OceanBase 
 * degree: bachelor 
 ,.etc
+
 
 ```
 
@@ -595,6 +639,7 @@ Req:
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24112802561924
 * Match:6:java,go,python,sql,mysql,aws
 
+
 ```
 JD:
 •	Be a subject matter expert on databases, particularly on Relational Databases, able to discuss with customer on database modelling, migration, performance testing and day to day operations
@@ -613,6 +658,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -621,6 +667,7 @@ Req:
 ##### 北京-蚂蚁集团-DRE-数据技术专家-北京【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24070200807629
 * Match:12:实时,java,spark,etl,hive,大数据,python,flink,治理,数据仓库,yarn,hadoop
+
 
 ```
 JD:
@@ -643,6 +690,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -651,6 +699,7 @@ Req:
 ##### 北京,杭州-蚂蚁集团-云原生容器平台研发专家/高级专家-杭州/北京
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1951730
 * Match:8:kubernetes,go,python,调度,docker,容器,linux,devops
+
 
 ```
 JD:
@@ -674,12 +723,14 @@ Req:
 * degree: master 
 ,.etc
 
+
 ```
 
 
 ##### 北京,杭州-蚂蚁集团-公有云数据库工程师/专家-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1951902
 * Match:7:java,python,sql,k8s,mysql,linux,aws
+
 
 ```
 JD:
@@ -707,12 +758,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 北京,杭州-蚂蚁集团-数据库内核产品经理-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1945504
 * Match:7:实时,databricks,大数据,离线,olap,数据仓库,数仓
+
 
 ```
 JD:
@@ -737,6 +790,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -745,6 +799,7 @@ Req:
 ##### 吉隆坡-Ant International-Data Engineer-Malaysia
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1947407
 * Match:6:spark,etl,hive,go,flink,data warehouse
+
 
 ```
 JD:
@@ -765,6 +820,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -773,6 +829,7 @@ Req:
 ##### 成都,杭州-蚂蚁集团-数据研发工程师-杭州/成都
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1936205
 * Match:9:spark,etl,hive,大数据,flink,sql,治理,数据仓库,hadoop
+
 
 ```
 JD:
@@ -793,12 +850,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 成都,杭州-蚂蚁集团-数据研发工程师-平台技术线-杭州/成都【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24071800980582
 * Match:4:java,治理,etl,数据仓库
+
 
 ```
 JD:
@@ -819,6 +878,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -827,6 +887,7 @@ Req:
 ##### 新加坡-OceanBase-Database Solution Architect-Singapore-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24090301538088
 * Match:6:java,go,python,sql,mysql,aws
+
 
 ```
 JD:
@@ -845,6 +906,7 @@ Req:
 * department: OceanBase 
 * degree: bachelor 
 ,.etc
+
 
 ```
 
@@ -855,6 +917,7 @@ Req:
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1947019
 * Match:6:java,go,python,sql,mysql,aws
 
+
 ```
 JD:
 •	Be a subject matter expert on databases, particularly on Relational Databases, able to discuss with customer on database modelling, migration, performance testing and day to day operations
@@ -873,6 +936,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -881,6 +945,7 @@ Req:
 ##### 杭州-蚂蚁集团-数据研发工程师 (数仓/大数据/ETL开发)-征信方向
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24120902690029
 * Match:15:实时,java,spark,etl,hive,大数据,hadoop,hbase,python,flink,离线,治理,数据仓库,数仓,监控
+
 
 ```
 JD:
@@ -901,12 +966,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-高级数据工程师/数据技术专家-客权（智能中台）
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1922906
 * Match:13:实时,java,spark,etl,hive,大数据,python,flink,sql,mysql,治理,数据仓库,hadoop
+
 
 ```
 JD:
@@ -929,12 +996,14 @@ Req:
 * degree: master 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-前端数据研发专家-支付宝技术
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24090301578389
 * Match:12:实时,spark,hive,大数据,flink,离线,olap,治理,clickhouse,presto,hadoop,监控
+
 
 ```
 JD:
@@ -952,12 +1021,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-OceanBase-公有云SRE工程师-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24082201433057
 * Match:10:kubernetes,go,python,docker,容器,k8s,linux,治理,aws,监控
+
 
 ```
 JD:
@@ -985,12 +1056,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-内容数据质量专家-成本治理-杭州【智能引擎】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121602778107
 * Match:10:实时,java,spark,python,flink,sql,离线,治理,clickhouse,监控
+
 
 ```
 JD:
@@ -1011,12 +1084,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据技术专家（用户流量）-支付宝技术
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121302752322
 * Match:10:实时,java,etl,python,sql,离线,元数据,治理,数据仓库,数仓
+
 
 ```
 JD:
@@ -1048,12 +1123,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-java研发高级工程师/专家-杭州【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24103002201008
 * Match:8:java,spark,大数据,flink,调度,元数据,数据仓库,hadoop
+
 
 ```
 JD:
@@ -1080,12 +1157,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据库内核研发-杭州【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24102502149518
 * Match:8:java,spark,hbase,大数据,go,python,sql,hadoop
+
 
 ```
 JD:
@@ -1113,12 +1192,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-SRE工程师-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121302753504
 * Match:7:java,go,docker,k8s,linux,治理,监控
+
 
 ```
 JD:
@@ -1143,12 +1224,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-大数据平台-实时数据平台研发-实时数据研发
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1959323
 * Match:7:实时,java,spark,大数据,flink,hadoop,数仓
+
 
 ```
 JD:
@@ -1168,12 +1251,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据分析专家（用工管理方向）-资源线
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24090301561970
 * Match:7:etl,hive,tableau,python,sql,可视化,监控
+
 
 ```
 JD:
@@ -1196,12 +1281,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁数字科技-数字科技线-数智化运营专家
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24073001110045
 * Match:6:spark,hive,大数据,python,flink,sql
+
 
 ```
 JD:
@@ -1221,12 +1308,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-征信数据研发工程师-征信方向
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121002702499
 * Match:6:java,etl,大数据,python,治理,数据仓库
+
 
 ```
 JD:
@@ -1248,12 +1337,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-数据库与存储PaaS研发-杭州【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1958001
 * Match:6:java,go,python,sql,mysql,linux
+
 
 ```
 JD:
@@ -1274,12 +1365,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-网商银行-金融预测-风控方向
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24082201418488
 * Match:5:大数据,报表,python,sql,数仓
+
 
 ```
 JD:
@@ -1300,12 +1393,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-商业数据分析高级专家-N+
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24100901956975
 * Match:5:etl,hive,tableau,python,可视化
+
 
 ```
 JD:
@@ -1328,12 +1423,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-大数据平台技术开发-杭州【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1938410
 * Match:5:spark,大数据,flink,调度,hadoop
+
 
 ```
 JD:
@@ -1353,12 +1450,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-媒体处理引擎研发-杭州【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1958208
 * Match:5:java,spark,flink,python,调度
+
 
 ```
 JD:
@@ -1381,12 +1480,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-金融数据分析专家-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121602765979
 * Match:5:大数据,报表,python,sql,数仓
+
 
 ```
 JD:
@@ -1407,12 +1508,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-网商银行-金融预测和分析岗-杭州
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24081201267877
 * Match:4:大数据,数仓,python,sql
+
 
 ```
 JD:
@@ -1435,12 +1538,14 @@ Req:
 * degree: master 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁数字科技-数科技术部-Java开发专家（数据架构&资产）
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24082301448296
 * Match:4:大数据,java,linux,sql
+
 
 ```
 JD:
@@ -1461,12 +1566,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁数字科技-数科技术部-测试开发专家
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24091301724155
 * Match:4:大数据,java,mysql,sql
+
 
 ```
 JD:
@@ -1494,12 +1601,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-信贷风控平台产品专家-消费信贷
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24112102468959
 * Match:4:大数据,可视化,python,sql
+
 
 ```
 JD:
@@ -1521,12 +1630,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-内容数据质量专家-杭州【智能引擎】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24121202739037
 * Match:4:java,python,治理,sql
+
 
 ```
 JD:
@@ -1548,12 +1659,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-大模型数据平台研发专家-医疗健康
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24071000889589
 * Match:4:大数据,分布式计算,java,python
+
 
 ```
 JD:
@@ -1576,12 +1689,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-安全技术专家/高级工程师-杭州【数据平台】
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1945136
 * Match:4:go,java,python,sql
+
 
 ```
 JD:
@@ -1602,12 +1717,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 杭州-蚂蚁集团-移动安全攻防分析工程师-移动安全
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24111802425186
 * Match:4:大数据,java,python,sql
+
 
 ```
 JD:
@@ -1629,6 +1746,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -1637,6 +1755,7 @@ Req:
 ##### 杭州,重庆-蚂蚁星河-数据技术工程师/专家-杭州/重庆
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24110602282003
 * Match:12:实时,java,spark,etl,hive,大数据,python,flink,治理,数据仓库,yarn,hadoop
+
 
 ```
 JD:
@@ -1660,6 +1779,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -1668,6 +1788,7 @@ Req:
 ##### 深圳-蚂蚁国际-BI数据分析高级专员-战略部
 * URL: https://talent.antgroup.com/off-campus-position?positionId=24112202487805
 * Match:6:etl,hive,报表,sql,可视化,监控
+
 
 ```
 JD:
@@ -1690,6 +1811,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -1698,6 +1820,7 @@ Req:
 ##### 西安-OceanBase-OceanBase数据传输研发工程师-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1959610
 * Match:16:数据湖,实时,java,spark,kafka,databricks,hbase,大数据,go,flink,sql,mysql,clickhouse,hadoop,presto,数仓
+
 
 ```
 JD:
@@ -1718,12 +1841,14 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
 ##### 西安-蚂蚁集团-生态产品研发工程师-OceanBase
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1924710
 * Match:14:实时,java,spark,databricks,hbase,大数据,go,flink,sql,mysql,clickhouse,kafka,presto,hadoop
+
 
 ```
 JD:
@@ -1743,6 +1868,7 @@ Req:
 * degree: bachelor 
 ,.etc
 
+
 ```
 
 
@@ -1751,6 +1877,7 @@ Req:
 ##### 重庆-蚂蚁消金-数据研发工程师/专家-重庆
 * URL: https://talent.antgroup.com/off-campus-position?positionId=1947213
 * Match:5:java,etl,大数据,python,数据仓库
+
 
 ```
 JD:
@@ -1772,6 +1899,7 @@ Req:
 * department: 蚂蚁消金 
 * degree: bachelor 
 ,.etc
+
 
 ```
 

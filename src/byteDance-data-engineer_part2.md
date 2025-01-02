@@ -2,9 +2,11 @@
 ### 字节 ByteDance data-engineer or leader
 * URL: https://jobs.bytedance.com/referral/pc/position
 * with filters
+
 ```
 - 搜索关键字 ['数据', '数仓', 'BI', 'DevOps', '商业分析', '产品经理']
 - 匹配关键字 ['SQL', 'Python', 'Hive', 'Spark', 'Java', 'Go', 'bash', 'airflow', '数仓', '数据仓库', '数据湖', '治理', '离线', '分布式计算', '实时', 'lakehouse', 'datalake', 'data warehouse', '可视化', 'OLAP', 'ETL', '调度', '监控', '大数据', 'delta lake', 'deltalake', 'Tableau', 'Flink', 'Linux', 'yarn', 'Hadoop', 'Kafka', 'MySQL', 'ClickHouse', 'HBase', 'DeltaLake', 'databricks', 'presto', 'AWS', 'devops', '容器', 'docker', 'kubernetes', 'k8s', '团队负责人', '报表', '元数据', 'metadata']
+
 ```
 
 
@@ -14,6 +16,7 @@
 * URL: https://jobs.bytedance.com/referral/pc/position/6704548948436060428/detail
 * Match:9:大数据,数据仓库,spark,可视化,hadoop,hive,kafka,调度,hbase
 
+
 ```
 JD: 1、负责数据平台和分析型产品，服务于字节跳动的相关产品线；
 2、面向PB级超大规模数据问题，每天处理千亿增量的数据信息；
@@ -23,6 +26,7 @@ JD: 1、负责数据平台和分析型产品，服务于字节跳动的相关产
 Req: 1、熟悉多项大数据处理/分析相关的工具/框架，例如：Hadoop，Mapreduce，Hive，Storm，Spark，Kylin，Scribe，Kafka，Hbase等；
 2、优秀的编码能力，生产环境快速Troubleshooting能力，对新技术有强烈的学习热情；
 3、优秀的理解沟通能力，能快速理解业务背景，对数据敏感，崇尚数据说话，深信数据在驱动业务、,.etc
+
 
 ```
 
@@ -31,6 +35,7 @@ Req: 1、熟悉多项大数据处理/分析相关的工具/框架，例如：Had
 * URL: https://jobs.bytedance.com/referral/pc/position/6704578725343660301/detail
 * Match:9:大数据,数据仓库,spark,可视化,hadoop,hive,kafka,调度,hbase
 
+
 ```
 JD: 1、负责数据平台和分析型产品，服务于字节跳动的相关产品线；
 2、面向PB级超大规模数据问题，每天处理千亿增量的数据信息；
@@ -41,12 +46,14 @@ Req: 1、熟悉多项大数据处理/分析相关的工具/框架，例如：Had
 2、优秀的编码能力，生产环境快速Troubleshooting能力，对新技术有强烈的学习热情；
 3、优秀的理解沟通能力，能快速理解业务背景，对数据敏感，崇尚数据说话，深信数据在驱动业务、,.etc
 
+
 ```
 
 
 ##### 南京-前端开发高级工程师 — 大数据
 * URL: https://jobs.bytedance.com/referral/pc/position/6704579078596331780/detail
 * Match:7:大数据,spark,可视化,hadoop,python,java,hive
+
 
 ```
 JD: 1、参与字节跳动大数据基础设施以及相关可视化产品的建设，为今日头条、抖音、火山、西瓜等旗下产品提供稳定高质量的数据服务；
@@ -58,12 +65,14 @@ Req: 1、对技术充满好奇心，乐于学习，愿意分享，具备良好�
 2、有扎实的前端技术和计算机基础，包括但不限于 HTML / CSS / JavaScript / DOM / Http / 数据结构等；
 3、精通至少一门 MVVM 框架，如 AngularJS/Vue/React，使用 React 开发过大型,.etc
 
+
 ```
 
 
 ##### 南京-后端开发工程师 - 用户画像方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6933147041150273799/detail
 * Match:7:大数据,clickhouse,go,spark,hadoop,flink,java
+
 
 ```
 JD: 1、参与用户画像体系的设计与研发；
@@ -76,12 +85,14 @@ Req: 1、精通java/scala/golang语言中至少一种；
 4、熟悉大数据常用开源框架，例如hadoop/flink/spark/clickhouse等；
 5、有用户画像、数据应用开发经验者优先。,.etc
 
+
 ```
 
 
 ##### 南京-服务端开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6707188671507859724/detail
 * Match:7:大数据,go,python,java,sql,kafka,mysql
+
 
 ```
 JD: 1、参与大数据方向服务端的设计，研发以及文档编写，独立完成需求分析，测试，上线工作；
@@ -92,12 +103,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业者优先；�
 2、精通Java/Spring Cloud，Python/Django，Go等至少一种，全部精通加分；
 3、熟悉常用的Rpc框架（Thrift，Protobuf）；熟悉常用存储技术，熟悉Mysql、Redis、Emcache、Jedis、Druid,.etc
 
+
 ```
 
 
 ##### 南京-测试开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6704542930138302734/detail
 * Match:7:go,docker,python,java,sql,linux,mysql
+
 
 ```
 JD: 1、主要负责公司数据平台部门自动化测试体系建设及推广；
@@ -110,12 +123,14 @@ Req: 1、本科及以上学历；
 3、熟练掌握Java,python或go，熟悉Mysql，Mongodb等主流数据库；熟悉服务器端开发工具链；熟练使用Linux或Unix操作系统，了解docker技术优先；
 4、有主流自动化框架和工具使用经验，包括但不限于RobotFramework、,.etc
 
+
 ```
 
 
 ##### 南京-用户画像方向专家
 * URL: https://jobs.bytedance.com/referral/pc/position/6933147861630814472/detail
 * Match:7:大数据,clickhouse,go,spark,hadoop,flink,java
+
 
 ```
 JD: 1、基于字节跳动海量数据，建设用户画像体系；
@@ -128,6 +143,7 @@ Req: 1、精通Java/Scala/Golang语言中至少一种，具备扎实的编码能
 4、熟悉大数据常用开源框架，例如Hadoop/Flink/Spark/Clickhouse等；
 5、有用户画像、数据应用开发经验者优先。,.etc
 
+
 ```
 
 
@@ -137,12 +153,14 @@ Req: 1、精通Java/Scala/Golang语言中至少一种，具备扎实的编码能
 * URL: https://jobs.bytedance.com/referral/pc/position/7413608399193704730/detail
 * Match:16:k8s,clickhouse,aws,kubernetes,go,spark,hadoop,docker,etl,python,java,hive,flink,sql,kafka,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications
 • Bachelors Degree in Computer Science, Computing Engineering, or related fields.
 • 2+ years experience in programming languages such as Go, Python, Java, C/,.etc
+
 
 ```
 
@@ -151,12 +169,14 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7117084434700110094/detail
 * Match:11:clickhouse,aws,go,spark,hadoop,presto,etl,flink,hive,sql,kafka
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Si,.etc
 
 Req: Minimum Requirements:
 • BS or MS degree in Computer Science or related technical field or equivalent practical experience;
 • Experience in the Big Data technologies(Hadoop, M/R, Hi,.etc
+
 
 ```
 
@@ -165,11 +185,13 @@ Req: Minimum Requirements:
 * URL: https://jobs.bytedance.com/referral/pc/position/7164187479976085773/detail
 * Match:10:clickhouse,go,spark,hadoop,presto,etl,flink,hive,sql,kafka
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: • BS or MS degree in Computer Science or related technical field or equivalent practical experience
 • Experience in the Big Data technologies(Hadoop, M/R, Hive, Spark, Metastore, P,.etc
+
 
 ```
 
@@ -178,11 +200,13 @@ Req: • BS or MS degree in Computer Science or related technical field or equiv
 * URL: https://jobs.bytedance.com/referral/pc/position/7036227748994304263/detail
 * Match:10:k8s,aws,kubernetes,yarn,go,spark,hadoop,flink,python,linux
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req: - Experience contributing to an open sourced machine learning framework (TensorFlow/PyTorch).
 - Experience in big data frameworks (e.g., Spark/Hadoop/Flink), experience in resource,.etc
+
 
 ```
 
@@ -191,11 +215,13 @@ Req: - Experience contributing to an open sourced machine learning framework (Te
 * URL: https://jobs.bytedance.com/referral/pc/position/7205741765281024317/detail
 * Match:10:clickhouse,go,spark,hadoop,presto,flink,sql,kafka,data warehouse,olap
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: • BS or MS degree in Computer Science or related technical field or equivalent practical experience
 • Familiar with commonly used algorithms, data structures, network programming a,.etc
+
 
 ```
 
@@ -204,12 +230,14 @@ Req: • BS or MS degree in Computer Science or related technical field or equiv
 * URL: https://jobs.bytedance.com/referral/pc/position/7398359785978300710/detail
 * Match:9:aws,go,spark,flink,python,java,hive,sql,data warehouse
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req: Minimum Qualifications:
 - Bachelor and above with majors in computer science, computer engineering, statistics, applied mathematics, data science or other related disciplines;
 - So,.etc
+
 
 ```
 
@@ -218,12 +246,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7377903477202536755/detail
 * Match:9:aws,kubernetes,go,docker,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications
 - Bachelors Degree in Computer Science, Computing Engineering, or related fields.
 - 2+ years experience in programming languages (such as Go, Python, Java, C,.etc
+
 
 ```
 
@@ -232,11 +262,13 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7416581787582941466/detail
 * Match:8:aws,kubernetes,go,python,java,sql,linux,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications
 1. Bachelor's degree in Computer Science or related fields, with minimum 5+ years of relevant experience in developing and maintaining large-scale distribute,.etc
+
 
 ```
 
@@ -245,11 +277,13 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7050935854794492197/detail
 * Match:8:aws,go,spark,hadoop,flink,java,hive,kafka
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: • BS or MS degree in Computer Science or related technical field with 5+ relevant working experience
 • Experience in Big Data technologies(Flink, Hadoop, Hive, Spark, Metastore, Ka,.etc
+
 
 ```
 
@@ -258,12 +292,14 @@ Req: • BS or MS degree in Computer Science or related technical field with 5+ 
 * URL: https://jobs.bytedance.com/referral/pc/position/7193198104458397989/detail
 * Match:8:k8s,aws,yarn,go,python,java,hive,kafka
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualification: 
 - Bachelor degree in computer science or a related technical discipline with 5+ years' industry experience and 3+ year performance optimization experience;
 ,.etc
+
 
 ```
 
@@ -272,11 +308,13 @@ Req: Minimum Qualification:
 * URL: https://jobs.bytedance.com/referral/pc/position/7407898747860060425/detail
 * Match:8:aws,kubernetes,go,python,java,sql,linux,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications
 1. Bachelor's degree in Computer Science or related fields, with minimum 5+ years of relevant experience in developing and maintaining large-scale distribute,.etc
+
 
 ```
 
@@ -284,6 +322,7 @@ Req: Minimum Qualifications
 ##### 圣何塞-Software Engineer - Data Transmission- San Jose
 * URL: https://jobs.bytedance.com/referral/pc/position/7283920112313846074/detail
 * Match:8:clickhouse,aws,go,etl,python,hbase,sql,mysql
+
 
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
@@ -293,12 +332,14 @@ Req: Minimum Qualifications
 2. Minimum of 4 years of working experience in Software development field. 
 3. Proficiency in one or mo,.etc
 
+
 ```
 
 
 ##### 圣何塞-Software Engineer, Backend and Infrastructure
 * URL: https://jobs.bytedance.com/referral/pc/position/6964059491882076430/detail
 * Match:8:k8s,aws,yarn,go,python,java,hive,kafka
+
 
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
@@ -309,12 +350,14 @@ Req: Minimum Qualifications:
 
 Preferred Quali,.etc
 
+
 ```
 
 
 ##### 圣何塞-Backend Software Engineer - Global E-Commerce Logistics
 * URL: https://jobs.bytedance.com/referral/pc/position/7194538000012544293/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
+
 
 ```
 JD: About the company:
@@ -324,6 +367,7 @@ Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline
 - 2 to 5 years experience developing highly scalable backend services and s,.etc
 
+
 ```
 
 
@@ -331,12 +375,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7166044848017033479/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline.
 - 2 to 5 years experience developing highly scalable backend services and ,.etc
+
 
 ```
 
@@ -345,12 +391,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7390158315312253193/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline.
 - 2 to 5 years experience developing highly scalable backend services and ,.etc
+
 
 ```
 
@@ -359,12 +407,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7390155159613770034/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline.
 - 2 to 5 years experience developing highly scalable backend services and ,.etc
+
 
 ```
 
@@ -373,12 +423,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7390159291052886298/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline.
 - 2 to 5 years experience developing highly scalable backend services and ,.etc
+
 
 ```
 
@@ -387,11 +439,13 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7161173034237413663/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video.  Our mission is to inspire creativity and bring joy.  TikTok has global offices, including Mountain View, Los Angeles,.etc
 
 Req: - Bachelor's or above degree in Computer Science or related fields from accredited and reputable institutions.
 - 5+ years of experience developing highly scalable backend services ,.etc
+
 
 ```
 
@@ -400,6 +454,7 @@ Req: - Bachelor's or above degree in Computer Science or related fields from acc
 * URL: https://jobs.bytedance.com/referral/pc/position/7174818487466477885/detail
 * Match:7:aws,go,spark,python,java,hive,sql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
@@ -407,12 +462,14 @@ Req: Minimum Qualifications:
 1. Bachelor's degree or above in Computer Science/Statistics/Mathematics or other related majors
 2. Proficient in Python, Java, or Scala and big data tools ,.etc
 
+
 ```
 
 
 ##### 圣何塞-Senior Site Reliability Engineer, AI Applications
 * URL: https://jobs.bytedance.com/referral/pc/position/7390532261429545266/detail
 * Match:7:aws,kubernetes,go,docker,python,java,devops
+
 
 ```
 JD: About ByteDance
@@ -422,12 +479,14 @@ Req: Minimum Qualifications:
 - Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
 - 3+ years of experience in site reliability engineering, DevOps, or a,.etc
 
+
 ```
 
 
 ##### 圣何塞-Senior Software Development Engineer - NoSQL-HBase- San Jose
 * URL: https://jobs.bytedance.com/referral/pc/position/7329646298872826149/detail
 * Match:7:clickhouse,aws,go,java,sql,linux,hbase
+
 
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
@@ -436,12 +495,14 @@ Req: Minimum Qualifications:
 -Proficiency in C++/Java programming (at least one), with a focus on high-quality code and engineering standards.
 -Solid knowledge of Linux systems, with ex,.etc
 
+
 ```
 
 
 ##### 圣何塞-Backend Software Engineer - CapCut - San Jose
 * URL: https://jobs.bytedance.com/referral/pc/position/7340764274447042854/detail
 * Match:6:aws,go,java,kafka,sql,mysql
+
 
 ```
 JD: About ByteDance
@@ -451,6 +512,7 @@ Req: Minimum Qualifications
 1. Bachelors or higher degree in Computer Science or related technical discipline.
 2. 3+ years experience developing highly scalable backend services and sys,.etc
 
+
 ```
 
 
@@ -458,11 +520,13 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7257312971285350711/detail
 * Match:6:aws,go,python,java,hive,hbase
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req:   - Bachelor or higher degree in Computer Science or related technical discipline
   - 2 to 5 years experience developing highly scalable backend services and systems using at least,.etc
+
 
 ```
 
@@ -471,11 +535,13 @@ Req:   - Bachelor or higher degree in Computer Science or related technical disc
 * URL: https://jobs.bytedance.com/referral/pc/position/7083343567582873864/detail
 * Match:6:aws,go,spark,hadoop,hive,linux
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Qualifications:
 - Bachelor or degrees above in computer science, computer engineering, electrical engineering, statistics or other relevant majors (e.g. finance if applying for app,.etc
+
 
 ```
 
@@ -484,11 +550,13 @@ Req: Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7384941790732978483/detail
 * Match:6:aws,go,spark,python,hive,sql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications
 - Master's degree (Ph.D. is a plus) in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practica,.etc
+
 
 ```
 
@@ -497,12 +565,14 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7221698218378823991/detail
 * Match:6:aws,go,spark,hadoop,python,sql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science or related engineering fields with 5+ years of software development experience.
 • Strong coding skills, especially in Pyt,.etc
+
 
 ```
 
@@ -511,12 +581,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/6911444411773012232/detail
 * Match:6:aws,kubernetes,go,hadoop,python,java
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications
 • Bachelor's degree with 2+ years of experience in Computer Engineering, Computer Science, or related fields.
 • 2+ years working experience in the field of C,.etc
+
 
 ```
 
@@ -525,12 +597,14 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7328957271697869093/detail
 * Match:6:aws,go,mysql,sql,linux,hbase
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications:
 - Bachelor's degree or above in computer science, communication, or related fields.
 - Proficient in at least one or multiple languages from C++/Rust/Go in t,.etc
+
 
 ```
 
@@ -539,12 +613,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7221696719837792570/detail
 * Match:6:aws,go,spark,hadoop,python,sql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science or related engineering fields with 3+ years of software development experience.
 • Strong coding skills, especially in Pyt,.etc
+
 
 ```
 
@@ -553,12 +629,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7261806022493227323/detail
 * Match:6:aws,kubernetes,go,docker,python,linux
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 1. Be proficient in 1 to 2 programming languages such as Go/Python/Shell in Linux environment
 2. Be familiar with Kubernetes architecture and container tech,.etc
+
 
 ```
 
@@ -567,11 +645,13 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7255042539300325693/detail
 * Match:5:aws,go,sql,linux,mysql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Mountain View, Los Angeles, N,.etc
 
 Req: - Proficient in at least one programming language, with a good foundation in data structures and algorithms.
 - Deep understanding of computer principles, familiar with Linux, MySQL,.etc
+
 
 ```
 
@@ -580,11 +660,13 @@ Req: - Proficient in at least one programming language, with a good foundation i
 * URL: https://jobs.bytedance.com/referral/pc/position/7320736797980641587/detail
 * Match:5:aws,go,spark,hadoop,flink
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req: - Experience contributing to an open sourced machine learning framework (tensorflow / jax / pytorch / torchscript / mxnet / tensorrt).
 - Experience in big data frameworks (e.g., Sp,.etc
+
 
 ```
 
@@ -593,12 +675,14 @@ Req: - Experience contributing to an open sourced machine learning framework (te
 * URL: https://jobs.bytedance.com/referral/pc/position/7418754195182684442/detail
 * Match:5:aws,kubernetes,go,docker,linux
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications:
 • 3+ years experience in developing network systems in Rust, C, C++, and/or Go, strong developing skills in Linux environment.
 • Master’s degree (or Bachelo,.etc
+
 
 ```
 
@@ -607,12 +691,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7320399450437421349/detail
 * Match:5:aws,go,java,sql,mysql
 
+
 ```
 JD: About Us
 Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as pl,.etc
 
 Req: - A bachelor's degree in Computer Science, Engineering, Information Systems, or a related field.
 - More than 2 years of experience in developing end-to-end features for both fronte,.etc
+
 
 ```
 
@@ -621,11 +707,13 @@ Req: - A bachelor's degree in Computer Science, Engineering, Information Systems
 * URL: https://jobs.bytedance.com/referral/pc/position/7112677773550045447/detail
 * Match:5:aws,go,spark,hive,sql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: - Master's or PhD degree in Computer Science, Engineering, Operations Research or related fields.
 - Strong in data structures and algorithms, with excellent problem-solving ability,.etc
+
 
 ```
 
@@ -634,11 +722,13 @@ Req: - Master's or PhD degree in Computer Science, Engineering, Operations Resea
 * URL: https://jobs.bytedance.com/referral/pc/position/7207322348461721893/detail
 * Match:5:aws,go,spark,hadoop,python
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science, Statistics, Operation Research, Applied Mathematics, Physics or similar quantitative fields, with 3+ years of related ex,.etc
+
 
 ```
 
@@ -647,12 +737,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7069635097700698398/detail
 * Match:5:go,spark,hadoop,hive,linux
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Qualifications:
 - Master or above degree in computer science, statistics, or other relevant, machine-learning-heavy majors.
 - At least 3 years relevant experience with solid engine,.etc
+
 
 ```
 
@@ -661,12 +753,14 @@ Req: Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7249891331191212349/detail
 * Match:5:aws,go,spark,python,linux
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science, Computer Engineering, or other relevant majors, with 1+ years of related work experience.
 • Solid programming skills, in,.etc
+
 
 ```
 
@@ -675,12 +769,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7207324897483442469/detail
 * Match:5:aws,go,spark,hadoop,python
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science, Statistics, Operation Research, Applied Mathematics, Physics or similar quantitative fields, with related experience. 
 •,.etc
+
 
 ```
 
@@ -689,12 +785,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7329639432700971290/detail
 * Match:5:aws,go,python,linux,hbase
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req: Qualifications:
 -Solid knowledge of Linux systems, and proficiency in one of the programming languages: C, C++, Python, Golang, or Rust.
 -Familiarity with the Linux kernel, experti,.etc
+
 
 ```
 
@@ -703,12 +801,14 @@ Req: Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7329644194082081033/detail
 * Match:5:aws,go,python,sql,linux
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req: Qualifications:
 - Bachelor's degree or above in computer science, communication, or related fields.
 - Proficient in at least one or multiple languages from C/C++/Go/Python in the L,.etc
+
 
 ```
 
@@ -717,12 +817,14 @@ Req: Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7050944775453264136/detail
 * Match:5:clickhouse,aws,go,hadoop,flink
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: • Bachelor's degree in Computer Science or equivalent practical experience
 • 4 years of experience in software development, and with data structures/algorithms
 • 2 years of experie,.etc
+
 
 ```
 
@@ -731,12 +833,14 @@ Req: • Bachelor's degree in Computer Science or equivalent practical experienc
 * URL: https://jobs.bytedance.com/referral/pc/position/7308773499043531046/detail
 * Match:5:aws,kubernetes,go,docker,python
 
+
 ```
 JD: Founded in 2023, ByteDance Doubao Team is dedicated to crafting the industry's most advanced LLMs. We aim to lead global research and foster both technological and social progress.,.etc
 
 Req: Minimum Qualifications:
 - Master's or PhD in Computer Science, Artificial Intelligence, Machine Learning, or related fields, with strong expertise in large-scale ML systems.
 - Over,.etc
+
 
 ```
 
@@ -745,12 +849,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7193191445272381751/detail
 * Match:5:aws,go,python,linux,devops
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications:
 - Bachelor's degree in Computer Science, Electrical Engineering, or related technical field, or equivalent practical experience.
 - Experience with one or mo,.etc
+
 
 ```
 
@@ -759,12 +865,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7422008986834438438/detail
 * Match:5:aws,kubernetes,go,docker,linux
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications:
 • 3+ years experience in developing network systems in Rust, C, C++, and/or Go, strong developing skills in Linux environment.
 • Master’s degree (or Bachelo,.etc
+
 
 ```
 
@@ -773,6 +881,7 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7429843311425128743/detail
 * Match:5:aws,go,python,sql,mysql
 
+
 ```
 JD: About ByteDance
 Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, as well as platforms sp,.etc
@@ -780,12 +889,14 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: Minimum Qualifications
 - Experience: 5+ years of relevant experience in Technology and Operational Audit, Risk Management, Cyber Security Compliance or Security Engineering prefera,.etc
 
+
 ```
 
 
 ##### 圣何塞-Senior/Tech Lead Software Development Engineer,  Network Monitoring & Alerts - San Jose
 * URL: https://jobs.bytedance.com/referral/pc/position/7370166149621598514/detail
 * Match:5:aws,go,metadata,python,java
+
 
 ```
 JD: About ByteDance
@@ -796,12 +907,14 @@ Qualifications
 Minimum Qualifications
   - Bachelor degree or above in Computer Science , Electrical Engineering is preferred; Master's or Ph.D with networking research experien,.etc
 
+
 ```
 
 
 ##### 圣何塞-Site Reliability Engineer, Traffic Platform
 * URL: https://jobs.bytedance.com/referral/pc/position/7418752859531675913/detail
 * Match:5:aws,kubernetes,go,python,java
+
 
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
@@ -810,6 +923,7 @@ Req: Minimum Qualifications
  • Bachelor’s degree in any of these faculties: Computer Science, Information Technology, Programming & Systems Analysis, Science (Computer Studies)
 • Experi,.etc
 
+
 ```
 
 
@@ -817,11 +931,13 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7283560236370987322/detail
 * Match:5:aws,kubernetes,go,docker,python
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req: Minimum Qualifications
 - Ph.D./Master in Computer Science/Computer Engineering, Artificial Intelligence, or a related field. (Undergraduate with exceptional experiences can be cons,.etc
+
 
 ```
 
@@ -830,12 +946,14 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7029102862329153805/detail
 * Match:5:aws,go,python,linux,devops
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications:
 - Bachelor's degree in Computer Science, Electrical Engineering, or related technical field, or equivalent practical experience;
 - Experience with one or mo,.etc
+
 
 ```
 
@@ -844,11 +962,13 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7207326045316991292/detail
 * Match:5:aws,go,spark,hadoop,python
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science, Statistics, Operation Research, Applied Mathematics, Physics or similar quantitative fields, with 7+ years of related ex,.etc
+
 
 ```
 
@@ -859,11 +979,13 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7374889711212759346/detail
 * Match:8:aws,kubernetes,go,python,java,hive,sql,mysql
 
+
 ```
 JD: ByteDance is a global incubator of platforms at the cutting edge of commerce, content, entertainment, and enterprise services - over 2.5 billion people interact with ByteDance prod,.etc
 
 Req: Minimum Qualifications
 1. Strong experience in applicable experience designing, deploying and managing a range of IT infrastructure, including; Cloud architecture, application stac,.etc
+
 
 ```
 
@@ -874,10 +996,12 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7050946730754279716/detail
 * Match:5:go,hadoop,flink,java,etl
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: • Master's degree in Computer Science, Computer Software, Computer Engineering, Applied Sciences, Mathematics, Physics, or related field with 1+ years working experience in the job,.etc
+
 
 ```
 
@@ -888,6 +1012,7 @@ Req: • Master's degree in Computer Science, Computer Software, Computer Engine
 * URL: https://jobs.bytedance.com/referral/pc/position/7418109897545763081/detail
 * Match:15:大数据,clickhouse,go,spark,实时,hadoop,presto,flink,python,java,数仓,治理,kafka,olap,hbase
 
+
 ```
 JD: 1、负责字节跳动内部数据平台产品的建设，包括实时数仓、数据引擎、数据治理、数据自动标注等，面向研发效能和质量大模型提供特征工程和数据闭环能力，支撑大模型应用的训练和调优；
 2、负责大数据技术体系&大数据平台的规划，支撑分析处理海量交付过程、业务代码、质量缺陷数据，构建大规模OLAP引擎；
@@ -897,12 +1022,14 @@ Req: 1、计算机相关专业本科及以上学历，5年以上数据平台/实
 2、熟悉大数据生态组件，包括Flink/Clickhouse/ES/Hadoop/Spark/Kafka/Druid/Hbase/Presto等，熟悉Golang/Python/Scala/Java等至少两种开发语言；
 3、有大数据量、高并发处理经验，有大模型全,.etc
 
+
 ```
 
 
 ##### 广州-后台研发工程师-国际直播（营收方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7361417311678990630/detail
 * Match:7:go,实时,python,java,sql,kafka,mysql
+
 
 ```
 JD: 国际化短视频是短视频领域的佼佼者。我们的愿景是"激发创造，丰富生活"。
@@ -916,12 +1043,14 @@ Req: 1、3年以上工作经验，有大型分布式系统相关经验；
 4、能够与不同的利益相关者密切合作，并具有良好的沟通技巧；
 5、自我驱动，积极向上，具有合作精神，并随时保持学习的热情。,.etc
 
+
 ```
 
 
 ##### 广州-后端技术负责人-飞书People
 * URL: https://jobs.bytedance.com/referral/pc/position/7293444756826704178/detail
 * Match:7:go,元数据,python,java,治理,sql,mysql
+
 
 ```
 JD: 1、负责公司业务系统后端团队的搭建和管理；
@@ -936,6 +1065,7 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 4、熟悉Mysql 、Memcache、Redis、消息队列等常用服务组件，有定制化改进经验者优先；
 5、有较强软件架构设计能力，较强的代码优化能力；
 6、熟悉互联网架构体系，,.etc
+
 
 ```
 
@@ -944,6 +1074,7 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 * URL: https://jobs.bytedance.com/referral/pc/position/7329714594242742554/detail
 * Match:7:go,元数据,python,java,治理,sql,mysql
 
+
 ```
 JD: 1、负责公司业务系统后端团队的搭建和管理；
 2、负责对标业内优秀 PaaS 和  SaaS 平台的需求研究、技术研究和实现，包括但不限于底层元数据管理、高度灵活的权限管理系统、可扩展的数据存储方案、分布式搜索引擎技术；
@@ -958,12 +1089,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 5、有较强软件架构设计能力，较强的代码优化能力；
 6、熟悉互联网架构体系，,.etc
 
+
 ```
 
 
 ##### 广州-测试开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7353190901311047946/detail
 * Match:7:go,docker,python,java,sql,linux,mysql
+
 
 ```
 JD: 1、主要负责公司数据平台部门自动化测试体系建设及推广；
@@ -976,12 +1109,14 @@ Req: 1、本科及以上学历；
 3、熟练掌握Java，Python或go，熟悉Mysql，Mongodb等主流数据库；熟悉服务器端开发工具链；熟练使用Linux或Unix操作系统，了解docker技术优先；
 4、有主流自动化框架和工具使用经验，包括但不限于RobotFramewor,.etc
 
+
 ```
 
 
 ##### 广州-IT 在线服务中心-数据分析
 * URL: https://jobs.bytedance.com/referral/pc/position/7384031368328890661/detail
 * Match:6:可视化,监控,python,sql,tableau,报表
+
 
 ```
 JD: 1、负责IT在线服务台数据分析及建设工作，包括数据建模、数据挖掘与提取、数据看板制作等，实现运营数据全链路指标监控，为业务决策提供支持；
@@ -995,12 +1130,14 @@ Req: 1、本科或以上学历，计算机、统计学及相关领域专业背�
 4、较强的逻辑思维能力和优秀的学习能力，对技术更新迭代和行业趋势保持敏感；
 5、主动性强，具备良好的沟通和协作能力，能够推动跨,.etc
 
+
 ```
 
 
 ##### 广州-后端/资深后端研发工程师-跨境电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7358799824277539098/detail
 * Match:6:go,java,治理,sql,调度,mysql
+
 
 ```
 JD: 团队介绍：跨境电商业务是字节跳动国际电商业务的重点发展板块，我们持续探索着更有效的商业模式和更有针对性的电商解决方案，致力于为跨境商家和合作伙伴提供更大的生意机会和发展平台，为全球用户提供优质商品和购物体验。目前国际电商业务为跨境商家提供“商家自运营”和“全托管”等经营模式，让不同类型商家发挥其优势，共拓新蓝海。
@@ -1013,12 +1150,14 @@ Req: 1、熟练掌握至少一种服务端的主流编程语言、框架及相�
 3、熟悉Memcached/Redis、MongoDB、Elasticsearch等主流NoSQL技术和应用，有系统设计和开发经验者优先；
 4、理解常规,.etc
 
+
 ```
 
 
 ##### 广州-后端开发工程师- ASM
 * URL: https://jobs.bytedance.com/referral/pc/position/7408032978586454309/detail
 * Match:6:go,python,java,kafka,sql,mysql
+
 
 ```
 JD: 1、参与推动负责IT部门企业级资产和服务管理平台和系统的研发工作；
@@ -1032,12 +1171,14 @@ Req: 1、本科及以上学历，计算机、通信及相关专业， 5年及以
 3、主导过ToB项目的开发和落地，熟练掌握 Golang/Python/Java中至少一门编程语言，精通Golang者优先；
 4、熟悉关系型数据库（MySQL或PostgreSQL）、,.etc
 
+
 ```
 
 
 ##### 广州-国际电商 - 数据科学家/数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7185457606134417721/detail
 * Match:6:监控,python,hive,sql,tableau,mysql
+
 
 ```
 JD: 1、深入参与国际化电商数据科学团队的日常工作，理解业务逻辑与需求将业务逻辑与需求翻译成为可得易用的数据分析框架和指标体系，产出数据看板及分析结论，对业务情况进行有效监控；
@@ -1048,12 +1189,14 @@ Req: 1、精通至少一种数据库操作，如Hive/Mysql等。熟悉常用的�
 2、有互联网行业、移动互联网行业机器学习或者预测模型相关的从业经历者优先；
 3、能够帮助业务，通过标签进行场景策略的创建以及落地。同时形成效,.etc
 
+
 ```
 
 
 ##### 广州-增长营销平台服务端
 * URL: https://jobs.bytedance.com/referral/pc/position/7263107175186696508/detail
 * Match:6:k8s,go,java,sql,调度,mysql
+
 
 ```
 JD: 团队介绍：依托字节领先的用户增长能力及丰富的经验积累，联动强大的数据平台能力，基于用户数据和智能策略，为企业营销部门提供以数据为驱动的智能营销平台。通过平台提供的多种用户触点及智能化营销引擎，实现对不同客群精细化的营销，提升业务关键指标和运营效率，助力企业完成数字化转型。加入我们，与团队一起打造行业领先的增长营销平台！
@@ -1064,12 +1207,14 @@ Req: 1、具备扎实的计算机基础及编程能力，深入理解数据结�
 2、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分，理解常规的架构设计思想，包括不限于服务化、异步、高可用、可扩展等，具备良好的工程系统设计能力；
 3、熟悉使用Mysql、Redis、消息队列等常用组件并,.etc
 
+
 ```
 
 
 ##### 广州-数据库开发工程师/专家-Common Data Infra
 * URL: https://jobs.bytedance.com/referral/pc/position/7330889924793452827/detail
 * Match:6:go,spark,presto,hbase,sql,mysql
+
 
 ```
 JD: 团队介绍: 
@@ -1079,12 +1224,14 @@ Req: 1、至少深入了解 C/C++/Go 等编程语言之一，熟悉多线程与�
 2、掌握数据库引擎核心研发，包括但不限于：自研数据库引擎、RocksDB/LevelDB、MySQL、MongoDB、Cassandra、HBase、InfluxDB 等分布式或单机引擎；
 3、熟悉 Calcite、Greenplum、Presto、S,.etc
 
+
 ```
 
 
 ##### 广州-服务端研发工程师-营销增长平台
 * URL: https://jobs.bytedance.com/referral/pc/position/7387686093724764425/detail
 * Match:6:k8s,clickhouse,go,java,sql,mysql
+
 
 ```
 JD: 团队介绍：依托字节领先的用户增长能力及丰富的经验积累，联动强大的数据平台能力，基于用户数据和智能策略，为企业营销部门提供以数据为驱动的智能营销平台。通过平台提供的多种用户触点及智能化营销引擎，实现对不同客群精细化的营销，提升业务关键指标和运营效率，助力企业完成数字化转型。加入我们，与团队一起打造行业领先的增长营销平台！
@@ -1095,12 +1242,14 @@ Req: 1、具备扎实的计算机基础及编程能力，深入理解数据结�
 2、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分，理解常规的架构设计思想，包括不限于服务化、异步、高可用、可扩展等，具备良好的工程系统设计能力； 
 3、熟悉使用Mysql、Redis、消息队列、Cli,.etc
 
+
 ```
 
 
 ##### 广州-平台开发工程师/专家-DevOps方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7306899156621412646/detail
 * Match:5:go,java,kafka,调度,devops
+
 
 ```
 JD: 1、参与公司自动化工程效能平台的架构设计与研发；
@@ -1112,12 +1261,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，具备良�
 2、熟练掌握至少一种主流编程语言、框架及相关生态（如C/C++/PHP/Java/Golang等），有较强的架构能力和良好的代码规范；
 3、理解常规的架构设计思想，包括但不限于服务化、异步、高可用、可扩展等，有系统性解决问题的思维，有良好的抽象化思维能力和领域建模能力；熟悉,.etc
 
+
 ```
 
 
 ##### 广州-测试开发工程师/专家-DevOps方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7306898995182668059/detail
 * Match:5:go,监控,python,java,devops
+
 
 ```
 JD: 1、负责后端或web产品的质量保障工作；根据产品设计或需求，进行需求分析，制定测试计划、风险评估、设计测试数据和测试用例，执行测试用例，准确定位并追踪问题等；
@@ -1131,12 +1282,14 @@ Req: 1、计算机及相关专业，本科及以上学历；
 4、熟练掌握 DevOps 理念和实践，熟悉 CI/CD 流程，能够设计和实现自动化部署、自动化测试等流程；
 5、具有良好的沟通能力和团队合作精神、快速的学习能力、思维敏,.etc
 
+
 ```
 
 
 ##### 广州-资深后端开发工程师/架构师-飞书人力套件
 * URL: https://jobs.bytedance.com/referral/pc/position/7017707967051008269/detail
 * Match:5:大数据,go,python,java,linux
+
 
 ```
 JD: 1、负责企业SaaS产品的后端架构设计与研发，为海内外租户及用户提供优质的信息服务和极致体验；
@@ -1151,12 +1304,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，五年以�
 5、熟悉业务架构设计理论，熟悉行业常见的架构方案；
 6、积极乐观，认真负责,.etc
 
+
 ```
 
 
 ##### 广州-高级后端开发工程师-飞书人事
 * URL: https://jobs.bytedance.com/referral/pc/position/6797320083807930632/detail
 * Match:5:go,监控,python,java,linux
+
 
 ```
 JD: 1、负责各类效率工具与企业SaaS的后端架构设计与研发，主要形式有 Web 系统、小程序、H5 应用等，为海量用户提供优质的信息服务和极致体验；
@@ -1172,6 +1327,7 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 5、熟悉业务架构设计理论，熟悉行业常见的架构方案；
 6、此外，我们希望你是一位有潜力和热,.etc
 
+
 ```
 
 
@@ -1180,6 +1336,7 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 ##### 成都-日志服务研发工程师（查询分析引擎方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7132410050311702814/detail
 * Match:14:大数据,go,spark,实时,hadoop,presto,etl,python,java,hive,kafka,linux,olap,hbase
+
 
 ```
 JD: 1、负责火山引擎云原生日志服务(TLS, Tinder Log Service)查询分析引擎的设计和研发；
@@ -1191,12 +1348,14 @@ Req: 1、计算机相关专业本科及以上学历；
 4、 熟悉网络的基本原理，如TCP/IP协议，HTTP协议等；
 5、对技术有强烈的进取心，具,.etc
 
+
 ```
 
 
 ##### 成都-日志服务产品架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7120444186604587278/detail
 * Match:13:大数据,go,spark,hadoop,presto,etl,python,java,hive,kafka,linux,olap,hbase
+
 
 ```
 JD: 1、负责火山引擎云原生日志服务(TLS, Tinder Log Service)设计和研发；
@@ -1209,12 +1368,14 @@ Req: 1、计算机相关专业本科及以上学历；
 4、 熟悉网络的基本原理，如TCP/IP协议，HTTP协议等；
 5、对技术有强烈的进取心，具,.etc
 
+
 ```
 
 
 ##### 成都-大数据开发工程师-飞书架构
 * URL: https://jobs.bytedance.com/referral/pc/position/7325317633472186634/detail
 * Match:12:大数据,clickhouse,k8s,go,spark,flink,python,java,hive,kafka,容器,hbase
+
 
 ```
 JD: 1、负责飞书私有化大数据相关组件（如kafka、flink、clickhouse等）的开发、维护工作；
@@ -1226,12 +1387,14 @@ Req: 1、本科及以上学历，计算机、软件、通信等专业优先，OS
 2、熟悉Java、C++、Go、Python、Shell等一种或多种编程语言，具备良好的编码和 trouble-shooting 能力；
 3、熟练掌握 Spark、Flink、Kafka 等大数据批流应用开发，熟悉其原理与性能调优；熟悉 ClickHouse、HBase、HD,.etc
 
+
 ```
 
 
 ##### 成都-数据库管控资深架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7404679895122610441/detail
 * Match:12:k8s,kubernetes,go,spark,hadoop,监控,docker,python,java,治理,调度,容器
+
 
 ```
 JD: 字节跳动基础架构数据库团队，服务于字节跳动全系产品以及火山引擎外部客户。在这里，我们有丰富的云数据库产品，负责治理数十EB级别的海量数据，提供极致时延、超大吞吐的云原生数据库服务；有前沿的技术研究，探索新硬件与新软件架构的融合，致力于构建业界领先的云数据库服务，为公司和客户发展保驾护航。
@@ -1241,12 +1404,14 @@ JD: 字节跳动基础架构数据库团队，服务于字节跳动全系产品�
 Req: 1、计算机相关专业本科及以上学历，熟悉Go/Java/Python语言中的一种，5年以上架构/工程实践经验，对代码质量有追求，有Openstack、K8S Operator等相关研发经验；
 2、主导或参与设计过云数据库管控架构经验，了解云数据库各产品管控通用技术挑战、关键管控功能如监控、任务流引擎、资源调度、K8S安全、HA、备份，对可靠性、性能、可用性等有,.etc
 
+
 ```
 
 
 ##### 成都-日志服务产品开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7032228710662342920/detail
 * Match:12:大数据,go,spark,hadoop,etl,python,java,hive,kafka,linux,olap,hbase
+
 
 ```
 JD: 1、负责云原生日志服务(TLS, Tinder Log Service)设计和研发；
@@ -1259,12 +1424,14 @@ Req: 1、计算机相关专业本科及以上学历；
 4、 熟悉网络的基本原理，如TCP/IP协议，HTTP协议等；
 5、对技术有强烈的进取心，具,.etc
 
+
 ```
 
 
 ##### 成都-数据仓库开发工程师——飞书业务应用
 * URL: https://jobs.bytedance.com/referral/pc/position/7324898713242896666/detail
 * Match:11:大数据,数据仓库,spark,离线,实时,flink,hive,治理,sql,olap,分布式计算
+
 
 ```
 JD: 1、负责飞书People产品线核心业务离线&实时数据仓库构建；
@@ -1277,12 +1444,14 @@ Req: 1、计算机、数学相关专业本科及以上学历，三年及以上�
 3、熟练掌握HSQL，熟悉Spark/Hive/Flink分布式计算框架，熟悉大数据的离线和实时处理，可以进行海量数据模型的设计、开发；
 4、有产品思维，主动思,.etc
 
+
 ```
 
 
 ##### 成都-研发工程师-生活服务（诊断方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7309368443487684915/detail
 * Match:11:大数据,go,spark,离线,实时,hadoop,flink,python,java,hive,hbase
+
 
 ```
 JD: 1、基于对推荐系统的深度理解，根据业务提炼常见问题场景、诊断方法并沉淀为工具，提高问题排查的效率；
@@ -1296,12 +1465,14 @@ Req: 1、计算机相关专业，本科及以上学历；
 3、精通Java/Python/Golang/C++等至少一门语言，熟悉Hadoop/Spark/Hive/HBase/Flink等大数据研发工具；
 4、良好的逻辑思维、团队协作、沟通能力，乐于分享，良好的客户服务意识,.etc
 
+
 ```
 
 
 ##### 成都-数据传输服务开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7032229298014947620/detail
 * Match:10:大数据,go,spark,hadoop,etl,python,java,flink,sql,linux
+
 
 ```
 JD: 1、负责数据传输产品的设计和核心技术研发，包括数据同步/同异构迁移/备份/订阅；
@@ -1313,12 +1484,14 @@ Req: 1、计算机相关专业本科及以上学历；
 3、熟练掌握常见的数据结构和算法；熟悉网络的基本原理，如TCP/IP协议，HTTP协议等；
 4、数据库技术，RDBMS、NoSQL,.etc
 
+
 ```
 
 
 ##### 成都-数据库云原生管控研发工程师-RDS MySQL
 * URL: https://jobs.bytedance.com/referral/pc/position/7074830936743692557/detail
 * Match:10:k8s,kubernetes,go,docker,python,java,sql,linux,容器,mysql
+
 
 ```
 JD: 1、负责数据库云原生智能化管控平台，包括数据库创建、释放、更配、账户管理、高可用、容灾、备份、恢复、审计、优化等一整套数据库生命周期管控的系统研发工作；
@@ -1333,12 +1506,14 @@ Req: 1、熟练掌握Linux环境下Go/Python/Java/C/C++ 中的一种或几种；
 具备以下条件之一者优先：
 1、熟悉MySQL、PostgreSQL中,.etc
 
+
 ```
 
 
 ##### 成都-基础平台研发工程师（容器方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7121626574340213029/detail
 * Match:9:k8s,go,实时,监控,python,java,调度,容器,devops
+
 
 ```
 JD: 1、负责对基础平台K8S部署升级，并进行性能优化，参与K8S定制和改造工作，支撑业务混部、超卖和调度优化等需求;
@@ -1350,12 +1525,14 @@ Req: 1、计算机相关专业，熟悉Go/Java/Python语言中的一种，熟悉
 3、熟悉K8S原理，能够对K8S进行定制开发，了解源码优先;
 4、掌握Etcd、Nginx、Prometheus等容器相关组件的运维管理,.etc
 
+
 ```
 
 
 ##### 成都-云数据库研发工程师-RDS MySQL
 * URL: https://jobs.bytedance.com/referral/pc/position/7032225527704701191/detail
 * Match:8:k8s,go,python,java,sql,linux,容器,mysql
+
 
 ```
 JD: 1、云数据库RDS MySQL高可用开发。
@@ -1372,12 +1549,14 @@ Req: 1、熟练使用C/C++/Python/Golang/Java/Rust语言中的一种；
 具备以下条件之一者优先：
 1、熟悉MyS,.etc
 
+
 ```
 
 
 ##### 成都-数据库基础平台研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7324589839586887974/detail
 * Match:8:k8s,go,实时,监控,python,java,容器,devops
+
 
 ```
 JD: 1、负责构建分布式控制平台，统一管理海量的线上主机以及上面的各类数据库服务；
@@ -1390,12 +1569,14 @@ Req: 1、本科及以上，计算机相关专业，熟悉Go/Java/Python语言中
 3、掌握K8S、Etcd、Nginx、Prometheus等容器相关组件的运维管理，具备丰富的优化、排障经验，有源码级的了解更佳；
 ,.etc
 
+
 ```
 
 
 ##### 成都-数据挖掘算法工程师（治理方向）-生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7196981766468127033/detail
 * Match:8:大数据,spark,hadoop,python,java,hive,治理,分布式计算
+
 
 ```
 JD: 生活服务业务依托于抖音，抖音极速版，促进用户与本地服务的连接，让更多用户发现线下好去处，帮助本地商家拓展经营阵地。平台治理致力于打造更好的生活服务生态，提升商户，内容，服务的质量，营造公平合理的经营环境。
@@ -1410,12 +1591,14 @@ Req: 1、计算机或相关专业，本科及以上学历；
 4、对大数据、分布式计算工具（MapReduce、Hadoop、Hive、Spark等）有相关经验优先；
 5、极强的数据和业务敏感性，善于学习，思维活跃，善于,.etc
 
+
 ```
 
 
 ##### 成都-资深数据分析师
 * URL: https://jobs.bytedance.com/referral/pc/position/7431083359029315849/detail
 * Match:7:数据仓库,spark,可视化,监控,hive,sql,报表
+
 
 ```
 JD: 1、负责部门业务数据统计分析，分析跟踪业务变化，提出业务优化及管理改进建议，数据驱动支持业务决策和管理；
@@ -1427,12 +1610,14 @@ Req: 1、本科及以上学历，计算机、金融、数学、统计学等相�
 3、精通EXCEL、PPT、SQL，熟悉Hive、Spark等数据库工具，了解数据仓库、数据可视化，熟悉常用的统计和分析方法，有互联网数据分析经验者优先；
 4、抗,.etc
 
+
 ```
 
 
 ##### 成都-NoSQL数据库产品开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7032227354651330853/detail
 * Match:6:k8s,go,python,java,sql,hbase
+
 
 ```
 JD: 1、打造世界领先的云原生NoSQL云服务平台产品，作为核心产品服务火山云用户和抖音业务系统；
@@ -1446,12 +1631,14 @@ Req: 1、具备数据库领域相关的开发工作经验，掌握分布式、�
 4、熟练使用K8S，并掌握工作原理者优先；
 5、掌握Redis、MongoDB、HBase、RocksDB等数据,.etc
 
+
 ```
 
 
 ##### 成都-前端开发Leader-基础架构
 * URL: https://jobs.bytedance.com/referral/pc/position/7403643375264205066/detail
 * Match:6:大数据,kubernetes,java,治理,sql,容器
+
 
 ```
 JD: 字节跳动基础架构团队主要负责公司云基础建设，支撑着字节跳动旗下多款APP产品，如抖音、今日头条、番茄小说、西瓜视频、飞书、剪映等，同时也负责支持火山引擎公有云业务。迄今为止，我们通过云技术管理着百万量级的服务器构成的超大数据中心；我们通过字节深度优化的Kubernetes管理超过千万容器实例支持10万+微服务；我们还通过丰富的存储产品矩阵，如NewSQL、N,.etc
@@ -1460,12 +1647,14 @@ Req: 1、本科及以上学历，计算机、通信和电子信息科学等相�
 2、熟练运用 JavaScript、HTML、CSS、Node.js、ES6、TypeScript 等主流前端技术，对企业级高性能、高可用、优秀用户体验的 Web 产品研发有丰富经验；
 3、具备系统化的前端知识体系，熟悉主流的思想，有较强的抽象能力、工程化能力和技术敏感度，能利用自身技术能力提升,.etc
 
+
 ```
 
 
 ##### 成都-前端开发专家/工程师 - 基础架构（成都）
 * URL: https://jobs.bytedance.com/referral/pc/position/7323848600965237018/detail
 * Match:6:大数据,kubernetes,java,治理,sql,容器
+
 
 ```
 JD: 字节跳动基础架构团队主要负责公司云基础建设，支撑着字节跳动旗下多款APP产品，如抖音、今日头条、番茄小说、西瓜视频、飞书、剪映等，同时也负责支持火山引擎公有云业务。迄今为止，我们通过云技术管理着百万量级的服务器构成的超大数据中心；我们通过字节深度优化的Kubernetes管理超过千万容器实例支持10万+微服务；我们还通过丰富的存储产品矩阵，如NewSQL、N,.etc
@@ -1475,12 +1664,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 3、熟悉ReactNative/Weex框架，有相关开发经验者优先；
 4、熟悉Express/Ko,.etc
 
+
 ```
 
 
 ##### 成都-数据库基础平台测试开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7361731296215746826/detail
 * Match:6:k8s,go,python,java,调度,容器
+
 
 ```
 JD: 1、负责数据库产品的统一分布式控制平台的质量保障团队的搭建和管理；
@@ -1492,12 +1683,14 @@ Req: 1、本科及以上学历，5年以上工作经验，有过实线或虚线�
 3、主导或负责过集群管理、服务发现、云配置中心、资源调度等测试经验；
 4、熟悉一门以上脚本语言(Python/Shell等)，了解一门以上开发语言（Go/J,.etc
 
+
 ```
 
 
 ##### 成都-数据库管理平台开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7032229629004925220/detail
 * Match:6:go,python,java,sql,linux,mysql
+
 
 ```
 JD: 1、负责数据库管理平台的设计、开发、维护工作；
@@ -1507,12 +1700,14 @@ Req: 1、2年以上的数据库开发、使用和运维经验，关系型数据�
 2、熟练掌握linux环境下golang/python/java/c/c++ 中的一种或几种，以及相应开发框架下的服务端多线程、高并发处理技术，良好的编码习惯，包括代码整洁、重构、单元测试等；
 3、精通MySQL、SQL Server、MongoDB、P,.etc
 
+
 ```
 
 
 ##### 成都-测试开发专家-抖音（成都）
 * URL: https://jobs.bytedance.com/referral/pc/position/7327127953328965938/detail
 * Match:6:go,python,java,sql,linux,mysql
+
 
 ```
 JD: 私域与账号团队包含了抖音多个流量场景，承载着抖音每天数亿用户的互动行为。私域与账号质量保障团队致力于高效、完备的质量保障工作，为用户提供高可用、高品质的服务。我们的工作包含：
@@ -1525,12 +1720,14 @@ Req: 1、本科及以上学历，计算机相关专业优先；
 3、熟悉Linux操作系统，熟悉MySQL等数据库，熟悉python、java、oc、golang、js其中至少一门以上语言；
 4、具备完整自洽的质量架构思维。,.etc
 
+
 ```
 
 
 ##### 成都-云原生数据库MySQL内核开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7035978092545001758/detail
 * Match:5:go,python,sql,linux,mysql
+
 
 ```
 JD: 1、负责字节跳动自研RDS for MySQL及NewSQL产品设计与研发； 
@@ -1543,12 +1740,14 @@ Req: 1、Linux系统知识扎实，精通C/C++/Python/Golang/Rust语言中的一
 1、 熟悉MySQL（InnoDB/MyRocks）/PostgreSQL内核源码开发人员者优先； 
 2、 有Cloud Nati,.etc
 
+
 ```
 
 
 ##### 成都-云数据库测试开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7032234237961783559/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责云数据库（SQL全系列产品、NOSQL全系列产品）产品的测试设计和测试开发工作，包括但不限于功能、性能、可靠性、鲁棒性、用户体验等系统性测试；
@@ -1560,12 +1759,14 @@ Req: 1、1年以上软件或软硬一体化产品系统测试经验，主导过�
 3、满足以下条件之一者优先：
 - 熟悉至少一种数据库(SQLServer、MySQL、Redis、PostgreSQL、MongoDB、图等) ，有相关的开发或测试经验,.etc
 
+
 ```
 
 
 ##### 成都-后端开发工程师-LBA People Talent（成都）
 * URL: https://jobs.bytedance.com/referral/pc/position/7170891569623550221/detail
 * Match:5:大数据,go,python,java,linux
+
 
 ```
 JD: 1、负责企业SaaS产品的后端架构设计与研发，为海内外租户及用户提供优质的信息服务和极致体验；
@@ -1580,12 +1781,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，五年以�
 5、熟悉业务架构设计理论，熟悉行业常见的架构方案；
 6、积极乐观，认真负责,.etc
 
+
 ```
 
 
 ##### 成都-后端研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7268215112959396156/detail
 * Match:5:go,可视化,监控,python,java
+
 
 ```
 JD: 1、参与超大规模数据中心网络平台产品及工具服务的建设；
@@ -1599,12 +1802,14 @@ Req: 1、热爱编程，扎实的编程能力，良好的数据结构和算法�
 4、较好的产品意识，对用户需求、体验、交互、操作流程等有一定追求，愿意将产品效果做为工作最重要的驱动因素；
 5、有监控、性能分析、数据可视化相关经验者优先。,.etc
 
+
 ```
 
 
 ##### 成都-后端研发工程师-稳定性方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6965426656933136653/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与超大规模数据中心网络平台产品及工具服务的建设；
@@ -1617,12 +1822,14 @@ Req: 1、熟练掌握Go/Python/Java中至少一门开发语言，扎实的编程
 2、3年以上网络运维、监控、高可用保障等技术领域的经验，至少在一个领域有深入的理解；
 3、具备大型互联网基础设施领域相关产品、平台设计及落地经验。,.etc
 
+
 ```
 
 
 ##### 成都-基础平台研发工程师-管控方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7121998897426385189/detail
 * Match:5:k8s,go,python,java,调度
+
 
 ```
 JD: 1、负责管控中台的研发工作，为存储、数据库、中间件等产品提供通用的生命周期管理框架和工作流调度引擎，提高产品业务的迭代效率；
@@ -1633,12 +1840,14 @@ Req: 1、计算机相关专业，熟悉Go/Java/Python语言中的一种，1年�
 2、有大规模高并发、高可用应用的架构设计和开发运维经验，对可靠性、性能、可用性等有深刻理解，有存储或数据库管控服务研发经者优先；
 3、对技术有强烈的进取心，具有良好的沟通能力和团队合作,.etc
 
+
 ```
 
 
 ##### 成都-数据平台后端开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7090737855853431054/detail
 * Match:5:go,java,olap,tableau,报表
+
 
 ```
 JD: 1、设计和开发面向SaaS ToB 的 数据智能 业务系统； 
@@ -1652,12 +1861,14 @@ Req: 1、3年以上后端服务端开发经验；有数据sense，熟悉OLAP，�
 4、掌握WEB后端开发技术: 协议、架构、存储、缓存、安全等；
 5、积极乐观，认真负责，乐于协作。,.etc
 
+
 ```
 
 
 ##### 成都-数据库混合云开发工程师/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7303541745504520498/detail
 * Match:5:go,python,hbase,sql,mysql
+
 
 ```
 JD: 1、负责火山引擎混合云数据库产品开发，为字节内外部客户提供数据库和中间产品服务；
@@ -1669,12 +1880,14 @@ Req: 1、3年及以上工作经验，本科及以上学历，计算机相关专�
 3、熟悉一种或多种数据库或数据库生态中间件，如MySQL、PostgreSQL、MongoDB、Redis、Hbase、TiDB、PolarDB、GraphDB、DTS、DMS&DAS等；
 4、有数据库内核、数,.etc
 
+
 ```
 
 
 ##### 成都-网络研发工程师-监控告警方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7423661203132156170/detail
 * Match:5:大数据,元数据,实时,可视化,监控
+
 
 ```
 JD: 1、运用先进的网络技术，实时监控数据中心网络状态，快速发现、定位网络故障，提升网络可用性及效率；
@@ -1687,12 +1900,14 @@ Req: 1、计算机科学、电子工程及相关专业，本科及以上学历�
 2、2年及以上网络监控和报警系统实践经验，对网络协议和TCP/IP协议栈有深入的了解；
 3、具有网络监控和报警系统领域的实践或研究经验，并在开发大数据处理方面具有坚实的基础优先。,.etc
 
+
 ```
 
 
 ##### 成都-网络自动化工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7261948710073289015/detail
 * Match:5:go,监控,python,java,sql
+
 
 ```
 JD: 1、通过软件开发实现数据中心网络管理的自动化、智能化、数字化，提升网络建设运维效率；
@@ -1704,12 +1919,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 4、熟悉主流 SQL 和 NoSQL 数据库工作原理，具备数据库编程及优化能力；
 5、对代码和设计质量有严格要求，重视 C,.etc
 
+
 ```
 
 
 ##### 成都-资深后端开发工程师-LBA People Talent
 * URL: https://jobs.bytedance.com/referral/pc/position/7205496309254867261/detail
 * Match:5:大数据,go,python,java,linux
+
 
 ```
 JD: 1、负责企业SaaS产品的后端架构设计与研发，为海内外租户及用户提供优质的信息服务和极致体验；
@@ -1724,6 +1941,7 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，五年以�
 5、熟悉业务架构设计理论，熟悉行业常见的架构方案；
 6、积极乐观，认真负责,.etc
 
+
 ```
 
 
@@ -1732,6 +1950,7 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，五年以�
 ##### 新加坡-Data Engineer - Global Payment - Singapore
 * URL: https://jobs.bytedance.com/referral/pc/position/7055587743610685726/detail
 * Match:12:clickhouse,go,spark,hadoop,etl,python,java,hive,flink,sql,data warehouse,olap
+
 
 ```
 JD: About ByteDance
@@ -1743,12 +1962,14 @@ Req: Minimum Qualifications:
 1. Bachelor's degree or above in Computer Science, Statistics, Mathematics or other related majors;
 2. Proficient in at least one programming language such ,.etc
 
+
 ```
 
 
 ##### 新加坡-Senior Data Engineer - Game
 * URL: https://jobs.bytedance.com/referral/pc/position/7395544865403291941/detail
 * Match:12:yarn,go,spark,etl,python,java,hive,flink,kafka,linux,data warehouse,hbase
+
 
 ```
 JD: About Bytedance
@@ -1758,12 +1979,14 @@ Req: Minimum Qualifications：
 1. Bachelor's degree or above in computer-related majors, with more than 4 years of big data-related work experience;
 2. Master most of the big data-related,.etc
 
+
 ```
 
 
 ##### 新加坡-Backend Software Engineer (SRE) - Cloud Infrastructure
 * URL: https://jobs.bytedance.com/referral/pc/position/7203603759233304889/detail
 * Match:11:kubernetes,go,spark,docker,flink,python,java,sql,kafka,linux,mysql
+
 
 ```
 JD: ByteDance will be prioritising applicants who have a current right to work in Singapore and do not require ByteDance sponsorship of a visa.			
@@ -1775,12 +1998,14 @@ Req: What you should have:
 - Bachelor's / Master's Degree in Computer Science or related major, with at least 5 years of relevant experience;
 - Solid basic knowledge of computer softwar,.etc
 
+
 ```
 
 
 ##### 新加坡-Data Quality Assurance Engineer - Data Platform  2025 Start
 * URL: https://jobs.bytedance.com/referral/pc/position/7368370604573526323/detail
 * Match:11:clickhouse,yarn,go,spark,hadoop,etl,python,java,flink,sql,data warehouse
+
 
 ```
 JD: About ByteDance
@@ -1790,12 +2015,14 @@ Req: Minimum Qualifications:
 - Bachelor's degree or above in computer science, mathematics, statistics, or related fields.
 - At least 3 years of experience in testing development/develo,.etc
 
+
 ```
 
 
 ##### 新加坡-Backend Software Engineer (Observability Platform), Cloud Infrastructure
 * URL: https://jobs.bytedance.com/referral/pc/position/7248810429110880571/detail
 * Match:10:clickhouse,go,spark,hadoop,flink,python,java,hive,sql,kafka
+
 
 ```
 JD: About TikTok
@@ -1805,6 +2032,7 @@ Req: What you should have:
 1. Bachelor or Master's Degree in Computer Science or related technical field
 2. At least 2 years in software engineering and 1 years of relevant experience i,.etc
 
+
 ```
 
 
@@ -1812,11 +2040,13 @@ Req: What you should have:
 * URL: https://jobs.bytedance.com/referral/pc/position/7057825546885613832/detail
 * Match:9:go,spark,hadoop,flink,java,hive,sql,kafka,hbase
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: 1. Bachelor's degree or above in computer science, software engineering, or a related field 
 2. Familiar with many open source frameworks in the field of big data, e.g.Hadoop, Hive,.etc
+
 
 ```
 
@@ -1824,6 +2054,7 @@ Req: 1. Bachelor's degree or above in computer science, software engineering, or
 ##### 新加坡-Big Data Engineer, TikTok Recommendation Architecture
 * URL: https://jobs.bytedance.com/referral/pc/position/7057826198239332622/detail
 * Match:9:go,spark,hadoop,flink,java,hive,sql,kafka,hbase
+
 
 ```
 JD: TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
@@ -1833,12 +2064,14 @@ TikTok is the leading destination for shor,.etc
 Req: - Bachelor's degree or above in computer science, software engineering, or a related field 
 - Familiar with many open source frameworks in the field of big data, e.g.Hadoop, Hive,F,.etc
 
+
 ```
 
 
 ##### 新加坡-Site Reliability Engineer (Enterprise Services) - Foundation Engineering
 * URL: https://jobs.bytedance.com/referral/pc/position/7314190740636567845/detail
 * Match:9:kubernetes,go,spark,hadoop,docker,flink,python,java,linux
+
 
 ```
 JD: ByteDance will be prioritizing applicants who have a current right to work in Singapore, and do not require ByteDance's sponsorship of a visa.
@@ -1849,12 +2082,14 @@ Req: - Bachelor’s degree or above, major in Computer Science or related field;
 - At least 5 years of relevant working experience;
 - Solid computer software basic knowledge; understand L,.etc
 
+
 ```
 
 
 ##### 新加坡-Site Reliability Engineer (Enterprise Services), Foundation Engineering
 * URL: https://jobs.bytedance.com/referral/pc/position/7314190753810729242/detail
 * Match:9:kubernetes,go,spark,hadoop,docker,flink,python,java,linux
+
 
 ```
 JD: ByteDance will be prioritizing applicants who have a current right to work in Singapore, and do not require ByteDance's sponsorship of a visa.
@@ -1864,12 +2099,14 @@ Founded in 2012, ByteDance's mission,.etc
 Req: - Bachelor’s degree or above, major in Computer Science or related field
 - Solid computer software basic knowledge; understand Linux operating system, storage, network IO and other,.etc
 
+
 ```
 
 
 ##### 新加坡-Software Engineer - Data Engineering (Video Arch)
 * URL: https://jobs.bytedance.com/referral/pc/position/7432238305503136039/detail
 * Match:9:go,spark,flink,python,java,hive,hbase,sql,mysql
+
 
 ```
 JD: About ByteDance
@@ -1879,6 +2116,7 @@ Req: Minimum Qualifications
 1. Bachelor's degree or above in computer science or related fields.
 2. Solid programming skills, excellent design, and good coding style.
 3. Proficient in o,.etc
+
 
 ```
 
@@ -1887,6 +2125,7 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7426652383519869194/detail
 * Match:9:go,spark,flink,python,java,hive,hbase,sql,mysql
 
+
 ```
 JD: About ByteDance
 Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms spe,.etc
@@ -1896,12 +2135,14 @@ Req: Minimum Qualifications
 2. Solid programming skills, excellent design, and good coding style.
 3. Proficient in o,.etc
 
+
 ```
 
 
 ##### 新加坡-Big Data Engineer - CapCut
 * URL: https://jobs.bytedance.com/referral/pc/position/7402597959827835173/detail
 * Match:8:go,spark,etl,flink,hive,sql,data warehouse,hbase
+
 
 ```
 JD: About CapCut
@@ -1911,12 +2152,14 @@ Req: Minimum qualifications
 - 5 years in software engineering and 2 years of relevant experience in data engineering.
 - Proficient in creating and maintaining complex ETL pipeline end-t,.etc
 
+
 ```
 
 
 ##### 新加坡-Big Data Engineer - Data Lake / Feature Store
 * URL: https://jobs.bytedance.com/referral/pc/position/7433379709717694730/detail
 * Match:8:go,spark,hadoop,presto,etl,python,java,flink
+
 
 ```
 JD: About ByteDance
@@ -1925,12 +2168,14 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: Minimum Qualifications
 - Bachelor's Degree or above, majoring in Computer Science, or related fields, with 4+ years of relevant development experience in the field with a strong pr,.etc
 
+
 ```
 
 
 ##### 新加坡-Big Data Engineer, Data Lake / Feature Store
 * URL: https://jobs.bytedance.com/referral/pc/position/7433380825573755187/detail
 * Match:8:go,spark,hadoop,presto,etl,python,java,flink
+
 
 ```
 JD: About ByteDance
@@ -1939,12 +2184,14 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: Minimum Qualifications
 - Bachelor's Degree or above, majoring in Computer Science, or related fields, with 2+ years of relevant development experience in the field with a strong pr,.etc
 
+
 ```
 
 
 ##### 新加坡-Production System Engineer - Bytedance Infrastructure
 * URL: https://jobs.bytedance.com/referral/pc/position/7305974855882639654/detail
 * Match:8:clickhouse,go,bash,hadoop,python,hive,sql,linux
+
 
 ```
 JD: About ByteDance
@@ -1953,6 +2200,7 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: Qualifications
 • Education: Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
 • Experience: Minimal 3 years,.etc
+
 
 ```
 
@@ -1961,6 +2209,7 @@ Req: Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7305974023992609034/detail
 * Match:8:clickhouse,go,bash,hadoop,python,hive,sql,linux
 
+
 ```
 JD: About ByteDance
 Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as wel,.etc
@@ -1969,12 +2218,14 @@ Req: Qualifications
 • Education: Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
 • Experience: Minimal 3 years,.etc
 
+
 ```
 
 
 ##### 新加坡-Database Administrator - Game
 * URL: https://jobs.bytedance.com/referral/pc/position/7446701897643313415/detail
 * Match:7:kubernetes,go,bash,docker,python,sql,mysql
+
 
 ```
 JD: About Bytedance
@@ -1984,12 +2235,14 @@ Req: Minimum Qualifications:
 1. Experience: Proven experience in managing MongoDB and Redis clusters in production environments.
 2. Strong knowledge of database design, indexing, and op,.etc
 
+
 ```
 
 
 ##### 新加坡-Global SRE Lead, Security Engineering
 * URL: https://jobs.bytedance.com/referral/pc/position/7418076501096974601/detail
 * Match:7:kubernetes,go,python,java,sql,linux,mysql
+
 
 ```
 JD: About the Company 
@@ -1998,12 +2251,14 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: Minimum Qualifications
 1. Bachelor's degree in Computer Science or related fields, with minimum 5+ years of relevant experience in developing and maintaining large-scale distribute,.etc
 
+
 ```
 
 
 ##### 新加坡-Site Reliability Engineer (Infra and SRE) - Global Payment - Singapore
 * URL: https://jobs.bytedance.com/referral/pc/position/7259313464103274807/detail
 * Match:7:kubernetes,go,docker,python,java,sql,mysql
+
 
 ```
 JD: About ByteDance
@@ -2015,12 +2270,14 @@ Req: Qualifications
 1. Bachelor's degree in Computer Science-related technical discipline, or equivalent practical experience.
 2. Solid knowledge of Computer Science, and familiar with ,.etc
 
+
 ```
 
 
 ##### 新加坡-Site Reliability Engineer, Traffic Infrastructure
 * URL: https://jobs.bytedance.com/referral/pc/position/7101238993551690021/detail
 * Match:7:aws,kubernetes,go,docker,python,java,linux
+
 
 ```
 JD: About ByteDance
@@ -2029,12 +2286,14 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: Minimum Qualifications
 • At least a Bachelor’s degree in any of these faculties: Computer Science, Information Technology, Programming & Systems Analysis, Science (Computer Studies,.etc
 
+
 ```
 
 
 ##### 新加坡-Software Engineer (Compliance) - Global Payment - Singapore
 * URL: https://jobs.bytedance.com/referral/pc/position/7039583576816060702/detail
 * Match:7:go,spark,hadoop,flink,python,java,hive
+
 
 ```
 JD: About ByteDance
@@ -2046,6 +2305,7 @@ Req: Minimum Qualifications：
 - Bachelor's or Master Degree in Computer Science or a related field;
 - Solid coding foundation in one or more programming languages (Go/ Python/ Java/ PHP/,.etc
 
+
 ```
 
 
@@ -2053,12 +2313,14 @@ Req: Minimum Qualifications：
 * URL: https://jobs.bytedance.com/referral/pc/position/7387340965860837682/detail
 * Match:7:go,python,java,sql,kafka,linux,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 -Working experience in software engineering
 -Bachelor's degree in Computer Science or a related technical background involving software/system engineering, ,.etc
+
 
 ```
 
@@ -2067,12 +2329,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7387342069595490586/detail
 * Match:7:go,python,java,sql,kafka,linux,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 -Working experience in software engineering
 -Bachelor's degree in Computer Science or a related technical background involving software/system engineering, ,.etc
+
 
 ```
 
@@ -2081,11 +2345,13 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7072586627705309470/detail
 * Match:6:go,python,java,kafka,sql,mysql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: - As a world-class engineer, you have rich working experience in scalable, highly available, distributed and mission-critical systems.
 - Proficient in at least one of the following,.etc
+
 
 ```
 
@@ -2094,6 +2360,7 @@ Req: - As a world-class engineer, you have rich working experience in scalable, 
 * URL: https://jobs.bytedance.com/referral/pc/position/7083094651159562509/detail
 * Match:6:go,python,java,kafka,sql,mysql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
@@ -2101,12 +2368,14 @@ Req: Qualifications
 - As a world-class engineer, you have rich working experience in scalable, highly available, distributed and mission-critical systems.
 - Proficient in at least one o,.etc
 
+
 ```
 
 
 ##### 新加坡-C++ Developer - Data Platform
 * URL: https://jobs.bytedance.com/referral/pc/position/7136099249070950693/detail
 * Match:6:clickhouse,go,spark,presto,sql,mysql
+
 
 ```
 JD: About TikTok
@@ -2116,12 +2385,14 @@ Req: - Bachelor's degree in Computer Science, related technical discipline
 - At least 3 years of related experience in distributed system and algorithm on database kernel 
 - Familiar wi,.etc
 
+
 ```
 
 
 ##### 新加坡-Cloud Security Architect, BytePlus
 * URL: https://jobs.bytedance.com/referral/pc/position/7435858841751046407/detail
 * Match:6:aws,kubernetes,go,docker,python,java
+
 
 ```
 JD: About the Company 
@@ -2130,12 +2401,14 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: Minimum Qualifications
 1. Familiar with the principles of common risks, attack and defense strategies; Understand how to systematically lead security architecture and risk governan,.etc
 
+
 ```
 
 
 ##### 新加坡-DevOps Engineer - Applied Machine Learning Engine (Singapore)
 * URL: https://jobs.bytedance.com/referral/pc/position/7377996125096249638/detail
 * Match:6:aws,go,bash,python,linux,devops
+
 
 ```
 JD: ByteDance will be prioritizing applicants who have a current right to work in Singapore, and do not require ByteDance's sponsorship of a visa.
@@ -2146,12 +2419,14 @@ Req: Minimum Qualifications
 - Bachelor’s degree in Computer Science or equivalent with 3+ years of relevant experience
 - Proven experience in analyzing and troubleshooting distributed s,.etc
 
+
 ```
 
 
 ##### 新加坡-DevOps Engineer, Applied Machine Learning Engine (Singapore)
 * URL: https://jobs.bytedance.com/referral/pc/position/7377996091973962010/detail
 * Match:6:aws,go,bash,python,linux,devops
+
 
 ```
 JD: ByteDance will be prioritizing applicants who have a current right to work in Singapore, and do not require ByteDance's sponsorship of a visa.
@@ -2163,12 +2438,14 @@ Req: Minimum Qualifications
 - Proven experience in analyzing and troubleshooting distributed systems.
 - Prior experience designing ,.etc
 
+
 ```
 
 
 ##### 新加坡-Site Reliability Engineer (Cloud) -  Infrastructure Engineering
 * URL: https://jobs.bytedance.com/referral/pc/position/7280436016287992123/detail
 * Match:6:aws,kubernetes,go,python,java,linux
+
 
 ```
 JD: About ByteDance
@@ -2177,12 +2454,14 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: • At least a Bachelor’s degree in any of these faculties: Computer Science, Information Technology, Programming & Systems Analysis, Science (Computer Studies)
 • 5+ years of experie,.etc
 
+
 ```
 
 
 ##### 新加坡-Algorithm Engineer (NLP) - TikTok e-Commerce
 * URL: https://jobs.bytedance.com/referral/pc/position/7124143676541389093/detail
 * Match:5:go,spark,python,java,hive
+
 
 ```
 JD: TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
@@ -2193,12 +2472,14 @@ Req: Requirements
 - Bachelor and above with majors in Computer Science, Computer Engineering, Statistics, Applied Mathematics, Data Science or other related disciplines.
 - At least 5 ye,.etc
 
+
 ```
 
 
 ##### 新加坡-Backend Software Engineer (DevOps Platform) - Engineering Productivity
 * URL: https://jobs.bytedance.com/referral/pc/position/7200764085134494009/detail
 * Match:5:go,sql,linux,mysql,devops
+
 
 ```
 JD: About TikTok
@@ -2207,12 +2488,14 @@ TikTok is the leading destination for short-form mobile video. Our mission is to
 Req: 1. Bachelor's or higher degree in computer science, software engineering, or related fields;
 2. More than 3 years of professional experience in Golang (go) programming language and,.etc
 
+
 ```
 
 
 ##### 新加坡-Backend Software Engineer (DevOps Platform), Engineering Productivity
 * URL: https://jobs.bytedance.com/referral/pc/position/7200765812112640316/detail
 * Match:5:go,sql,linux,mysql,devops
+
 
 ```
 JD: TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
@@ -2223,12 +2506,14 @@ TikTok is the leading destina,.etc
 Req: 1. Bachelor's or higher degree in computer science, software engineering, or related fields;
 2. Proficient in Golang (go) programming language and familiar with common Linux comman,.etc
 
+
 ```
 
 
 ##### 新加坡-Data Analyst - Global Payment - Singapore
 * URL: https://jobs.bytedance.com/referral/pc/position/7127303852990761247/detail
 * Match:5:go,spark,java,hive,sql
+
 
 ```
 JD: About ByteDance
@@ -2240,12 +2525,14 @@ Req: Minimum Qualifications:
 1. Bachelor degree or above in Computer Science, Statistics, Mathematics or other related majors;
 2. Proficient in SQL, familiar with C ++/Java/Golang is pr,.etc
 
+
 ```
 
 
 ##### 新加坡-Machine Learning Engineer (Recommendation) - TikTok e-Commerce
 * URL: https://jobs.bytedance.com/referral/pc/position/7124145166063962404/detail
 * Match:5:go,spark,python,hive,sql
+
 
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
@@ -2254,12 +2541,14 @@ Req: - At least 3 years of work experience in related field
 - Strong in data structures and algorithms, with excellent problem-solving ability and programming skills
 - Experience in app,.etc
 
+
 ```
 
 
 ##### 新加坡-Machine Learning Engineer (Recommendation), TikTok e-Commerce
 * URL: https://jobs.bytedance.com/referral/pc/position/7061805893503797541/detail
 * Match:5:go,spark,python,hive,sql
+
 
 ```
 JD: TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
@@ -2269,6 +2558,7 @@ TikTok is the leading destination for shor,.etc
 Req: - Strong in data structures and algorithms, with excellent problem-solving ability and programming skills
 - Experience in applied machine learning, familiar with one or more of the,.etc
 
+
 ```
 
 
@@ -2276,11 +2566,13 @@ Req: - Strong in data structures and algorithms, with excellent problem-solving 
 * URL: https://jobs.bytedance.com/referral/pc/position/7056998972900952328/detail
 * Match:5:go,spark,hadoop,hive,linux
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: - Master or above degree in computer science, statistics, or other relevant, machine-learning-heavy majors.
 - Solid engineering skills. Proficiency in at least two of: Linux, Hadoo,.etc
+
 
 ```
 
@@ -2288,6 +2580,7 @@ Req: - Master or above degree in computer science, statistics, or other relevant
 ##### 新加坡-Senior Software Engineer, Vulnerability Scanning
 * URL: https://jobs.bytedance.com/referral/pc/position/7202791417055119674/detail
 * Match:5:go,python,sql,linux,mysql
+
 
 ```
 JD: About ByteDance
@@ -2297,12 +2590,14 @@ Req: Minimum Qualifications
 1. Familiar with common web security vulnerabilities, and have a deep understanding of vulnerability principles and detection methods.
 2. Proficient in Pytho,.etc
 
+
 ```
 
 
 ##### 新加坡-Site Reliability Engineer (Cloud), Infrastructure Engineering
 * URL: https://jobs.bytedance.com/referral/pc/position/7280437390617987387/detail
 * Match:5:aws,go,python,java,linux
+
 
 ```
 JD: About ByteDance
@@ -2311,12 +2606,14 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: • At least a Bachelor’s degree in any of these faculties: Computer Science, Information Technology, Programming & Systems Analysis, Science (Computer Studies)
 • 3+ years of experie,.etc
 
+
 ```
 
 
 ##### 新加坡-Site Reliability Engineering, Edge Services - Traffic Infrastructure
 * URL: https://jobs.bytedance.com/referral/pc/position/7403181940322683146/detail
 * Match:5:kubernetes,go,hadoop,python,java
+
 
 ```
 JD: About ByteDance
@@ -2326,12 +2623,14 @@ Req: Minimum qualifications
 • Master’s degree (or Bachelor's degree with 2+) years of experience in Computer Engineering, Electrical Engineering, Computer Science or related major
 • 2+ ,.etc
 
+
 ```
 
 
 ##### 新加坡-Software Engineer - NoSQL Graph Database
 * URL: https://jobs.bytedance.com/referral/pc/position/7432205333005928716/detail
 * Match:5:go,mysql,sql,linux,hbase
+
 
 ```
 JD: About ByteDance
@@ -2340,6 +2639,7 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: Minimum Qualifications:
 - Bachelor's degree or above in computer science, communication, or related fields.
 - Proficient in at least one or multiple languages from C++/Rust/Go in t,.etc
+
 
 ```
 
@@ -2348,6 +2648,7 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7429180834648197415/detail
 * Match:5:go,mysql,sql,linux,hbase
 
+
 ```
 JD: About ByteDance
 Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms spe,.etc
@@ -2355,6 +2656,7 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: Minimum Qualifications:
 - Bachelor's degree or above in computer science, communication, or related fields.
 - Proficient in at least one or multiple languages from C++/Rust/Go in t,.etc
+
 
 ```
 
@@ -2364,6 +2666,7 @@ Req: Minimum Qualifications:
 ##### 杭州-大数据开发工程师-抖音
 * URL: https://jobs.bytedance.com/referral/pc/position/7025578980955572493/detail
 * Match:16:大数据,数据仓库,go,实时,hadoop,etl,python,java,hive,数仓,flink,sql,kafka,olap,hbase,报表
+
 
 ```
 JD: 1、负责字节跳动抖音业务数据仓库的开发与优化；
@@ -2377,12 +2680,14 @@ Req: 1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase/Hive 等�
 4、了解统计以及数据挖掘、机器学习、人工智能技术，会使用关联分析、分类预测、聚类分析等常用分析方法；
 5、有高性能分布式平台,.etc
 
+
 ```
 
 
 ##### 杭州-大数据开发工程师-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6950239054588070174/detail
 * Match:16:大数据,数据仓库,go,实时,hadoop,etl,python,java,hive,数仓,flink,sql,kafka,olap,hbase,报表
+
 
 ```
 JD: 1、负责字节跳动抖音电商相关业务数据仓库的开发与优化；
@@ -2396,12 +2701,14 @@ Req: 1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase/Hive 等�
 4、了解统计以及数据挖掘、机器学习、人工智能技术，会使用关联分析、分类预测、聚类分析等常用分析方法；
 5、有高性能分布式平台,.etc
 
+
 ```
 
 
 ##### 杭州-Devops/运维开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7380191321216141594/detail
 * Match:15:k8s,aws,kubernetes,yarn,go,离线,spark,hadoop,监控,flink,python,sql,调度,linux,容器
+
 
 ```
 JD: 团队介绍：AML-Engine（Applied Machine Learning）机器学习引擎团队 为字节内部众多业务方向提供统一、高性能、高可靠、大规模的机器学习系统架构 和 支持内部大量算法工程师的机器学习平台。为字节旗下 头条/抖音/Tiktok/等各业务 的推荐/广告/搜索 在全球提供高质量的在线服务，和大规模机器学习训练环境
@@ -2411,12 +2718,14 @@ Req: 1、掌握 Python/Shell/Golang中至少一种语言，并具备一定的编
 2、熟悉 Linux 操作系统，具备一定的问题排查能力，对大规模分布式系统的设计、分析和排障有强烈兴趣；
 3、有强烈的工作责任心，较好,.etc
 
+
 ```
 
 
 ##### 杭州-Devops/运维开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7321931333453891867/detail
 * Match:15:k8s,aws,kubernetes,yarn,go,离线,spark,hadoop,监控,flink,python,sql,调度,linux,容器
+
 
 ```
 JD: 1、保障大规模机器学习系统的稳定运转；
@@ -2428,12 +2737,14 @@ Req: 1、掌握 Python/Shell/Golang中至少一种语言，并具备一定的编
 2、熟悉 Linux 操作系统，具备一定的问题排查能力，对大规模分布式系统的设计、分析和排障有强烈兴趣；
 3、有强烈的工作责任心，较好,.etc
 
+
 ```
 
 
 ##### 杭州-高级/资深数据开发工程师 - IDC基础设施（杭州）
 * URL: https://jobs.bytedance.com/referral/pc/position/7273009010248141093/detail
 * Match:15:大数据,数据仓库,go,spark,离线,实时,hadoop,监控,etl,python,java,hive,flink,治理,sql
+
 
 ```
 JD: 1、负责字节跳动全球大规模基础研发资源大数据体系建设，构建系统数据中台，赋能业务；
@@ -2446,12 +2757,14 @@ Req: 1、具备实际的大数据业务开发经验，熟练使用Hadoop、Hive�
 3、熟练使用 Java、Go、Python语言中的一种或者多种；
 4、具备数据库系统理论知识，掌握主流,.etc
 
+
 ```
 
 
 ##### 杭州-大数据研发工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6987687182837795109/detail
 * Match:14:大数据,clickhouse,go,spark,离线,实时,可视化,hadoop,flink,python,java,hive,olap,hbase
+
 
 ```
 JD: 1、负责电商业务数据体系的研发设计和建设，通过数据产品和数据服务等方式，赋能商家、运营的业务增长；
@@ -2463,12 +2776,14 @@ Req: 1、计算机相关专业，本科及以上学历，1-8年大数据开发�
 2、精通Java/Python/Scala/Golang等至少一门语言，熟悉Hadoop/Spark/Hive/HBase/Flink等大数据研发工具；
 3、有ClickHouse/Druid/Kylin/Superse,.etc
 
+
 ```
 
 
 ##### 杭州-日志服务研发工程师（查询分析引擎方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7130839624566556958/detail
 * Match:14:大数据,go,spark,实时,hadoop,presto,etl,python,java,hive,kafka,linux,olap,hbase
+
 
 ```
 JD: 1、负责火山引擎云原生日志服务(TLS, Tinder Log Service)查询分析引擎的设计和研发；
@@ -2480,12 +2795,14 @@ Req: 1、计算机相关专业本科及以上学历；
 4、 熟悉网络的基本原理，如TCP/IP协议，HTTP协议等；
 5、对技术有强烈的进取心，具,.etc
 
+
 ```
 
 
 ##### 杭州-流式计算研发工程师/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/6777337581504825607/detail
 * Match:14:kubernetes,yarn,go,spark,离线,实时,flink,java,hive,数仓,sql,kafka,olap,分布式计算
+
 
 ```
 JD: 团队简介：流式计算团队负责公司内部流式计算应用场景, 支撑了AML/推荐/数仓/搜索/广告/流媒体/安全和风控等众多核心业务。当前流式计算主要以 Flink 计算引擎为主，面临的挑战是超大单体作业(千万级别 QPS)，超大集群规模(上万台机器)的应用场景，在 SQL, State&Checkpoint, Runtime 都有深度优化。
@@ -2498,12 +2815,14 @@ Req: 1、自认为是技术Geek，具备很强的问题解决能力；
 4、具备并行计算或者分布式计算原理，熟悉高并发、高稳定性、可线性扩展、海量数据的系统特点和技术方案；
 5、对开源计算框架 Flink/Calcite/Storm/Kafka/Yarn/Hiv,.etc
 
+
 ```
 
 
 ##### 杭州-基础架构工程师 — 资源调度方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6774261153888471309/detail
 * Match:13:k8s,kubernetes,yarn,go,离线,spark,docker,flink,java,数仓,调度,linux,容器
+
 
 ```
 JD: 团队介绍：
@@ -2518,12 +2837,14 @@ Req: 1、自认为是技术Geek，具备很强的问题解决能力；
 具备以下条件者加分:
 1、深入了解 YARN / Kubernetes / Spark / Flink 等系统, 或在社区有过相关代码贡,.etc
 
+
 ```
 
 
 ##### 杭州-数据仓库专家-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7374328440013801737/detail
 * Match:13:大数据,数据仓库,yarn,go,hadoop,etl,python,java,hive,flink,治理,kafka,hbase
+
 
 ```
 JD: 1、负责字节跳动抖音生活服务业务数据仓库的大数据项目整体架构规划；
@@ -2536,12 +2857,14 @@ Req: 1、熟悉大数据相关技术：Kafka/Flink/Hadoop/Druid/HBase/Hive 等�
 3、熟悉业务建模、数据仓库建模、精通ETL设计开发，具备体系化的数据质量与数据治理相关经验，有大型项目相关领域深入实践经验，能独立主导完成某一业务领域的整体模型设计，具备跨域的沟通协调能力；
 ,.etc
 
+
 ```
 
 
 ##### 杭州-数据仓库工程师-Data
 * URL: https://jobs.bytedance.com/referral/pc/position/6917126117346969869/detail
 * Match:13:数据仓库,元数据,spark,离线,实时,etl,python,java,hive,flink,治理,sql,kafka
+
 
 ```
 JD: 1、参与抖音短视频、今日头条、西瓜视频、游戏等重点业务的离线和实时数据仓库建设；
@@ -2555,12 +2878,14 @@ Req: 1、精通数据仓库实施方法论、深入了解数据仓库体系，�
 3、对数据敏感，认真细致，善于从数据中发现疑点；
 4、善于沟通，具备优秀的技术与业务结合能力。,.etc
 
+
 ```
 
 
 ##### 杭州-数据仓库工程师-数仓建设方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7125777890046855461/detail
 * Match:13:大数据,数据仓库,spark,hadoop,etl,python,java,hive,数仓,flink,治理,sql,hbase
+
 
 ```
 JD: 1.基于抖音全域数据，构建电商业务场景的数据仓库体系；
@@ -2574,12 +2899,14 @@ Req: 1. 计算机或相关专业本科及以上学历，3年以上工作经验�
 3. 熟悉大数据的常用技术栈（hadoop，hive，spark，flink，hbase等），具备PB级体量的强实战经验；
 4. 精通SQL，具备海量数据下的性能调优能力，熟练掌握J,.etc
 
+
 ```
 
 
 ##### 杭州-日志服务产品架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7107526869880178958/detail
 * Match:13:大数据,go,spark,hadoop,presto,etl,python,java,hive,kafka,linux,olap,hbase
+
 
 ```
 JD: 1、负责火山引擎云原生日志服务(TLS, Tinder Log Service)设计和研发；
@@ -2593,12 +2920,14 @@ Req: 1、计算机相关专业本科及以上学历；
 4、 熟悉网络的基本原理，如TCP/IP协议，HTTP协议等；
 5、对技术有强烈的进取心，具,.etc
 
+
 ```
 
 
 ##### 杭州-流式计算-实时数仓系统架构 专家/工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6960955753159837989/detail
 * Match:13:大数据,spark,离线,实时,presto,flink,java,数据湖,数仓,delta lake,sql,kafka,hbase
+
 
 ```
 JD: 1、打造业界领先的超大规模流批一体的实时数仓基础设施及架构，并支撑字节跳动几乎所有产品线（如抖音、今日头条、直播、电商、教育）；
@@ -2611,12 +2940,14 @@ Req: 1、熟悉 Flink、Spark Streaming、Storm 等主流大数据计算系统�
 4、了解 KUDU、HBase、Doris、Druid、Kafka 等实时系统原理；
 5、有大型实时数仓架构落地经验者优先。,.etc
 
+
 ```
 
 
 ##### 杭州-Kubernetes/Docker高级研发工程师（调度方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/6780236190743267597/detail
 * Match:12:kubernetes,yarn,go,离线,spark,docker,flink,java,数仓,调度,linux,容器
+
 
 ```
 JD: 字节跳动的调度团队负责整个公司内部集群资源管理和调度, 支撑整个公司产品线发展，例如今日头条，抖音，西瓜视频等明星产品，同时也包括推荐，数仓，搜索，广告等众多内部核心业务。目前在集群规模、调度吞吐能力、资源利用率、业务复杂性等多个方向上都是业界Top级的。
@@ -2630,12 +2961,14 @@ Req: 1、自认为是技术Geek，敢于面对技术挑战，具备很强的问�
 具备以下条件者加分:
 1、深入了解Kubernetes/,.etc
 
+
 ```
 
 
 ##### 杭州-SRE高级/工程师/架构师/负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7019173868582603022/detail
 * Match:12:大数据,kubernetes,go,spark,hadoop,监控,flink,python,java,docker,治理,linux
+
 
 ```
 JD: Site Reliability Engineer (SRE) 结合了软件和系统工程，致力于打造高扩展、高可用的分布式系统。
@@ -2649,12 +2982,14 @@ Req: 1、本科以上学历, 计算机相关专业, 并有两年以上相关领�
 4、具备系统化解决问题的能力，良好的沟通技巧和主人翁责任感；
 5、具有相关计算/分布式/大数据等系统经验优先（Ngin,.etc
 
+
 ```
 
 
 ##### 杭州-SRE高级/工程师/架构师/负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7102353857262766349/detail
 * Match:12:大数据,kubernetes,go,spark,hadoop,监控,flink,python,java,docker,治理,linux
+
 
 ```
 JD: Site Reliability Engineer (SRE) 结合了软件和系统工程，致力于打造高扩展、高可用的分布式系统
@@ -2668,12 +3003,14 @@ Req: 1. 本科以上学历, 计算机相关专业, 并有两年以上相关领�
 4. 具备系统化解决问题的能力或工程化研发能力，良好的沟通技巧和主人翁责任感；
 5. 具有相关计算/分布式/大数,.etc
 
+
 ```
 
 
 ##### 杭州-后端开发工程师（数据平台方向）-集团信息系统
 * URL: https://jobs.bytedance.com/referral/pc/position/7386594446973929779/detail
 * Match:12:clickhouse,go,presto,python,java,数仓,治理,sql,kafka,hbase,olap,mysql
+
 
 ```
 JD: 1、负责字节跳动集团数仓的平台设计、开发工作；
@@ -2684,12 +3021,14 @@ Req: 1、计算机相关专业本科以上学历，深入理解计算机原理�
 2、熟悉使用 Java/Go/Scala/C++/Python 等至少一门语言，熟练使用MySQL/Redis/Kafka/ElasticSearch等常用存储技术，并熟悉其使用方式和实现原理；
 3、能够使用 Doris/ClickHouse/Druid/Presto/HBas,.etc
 
+
 ```
 
 
 ##### 杭州-后端高级工程师-OLAP分析型数据库
 * URL: https://jobs.bytedance.com/referral/pc/position/7268206235488078139/detail
 * Match:12:大数据,clickhouse,kubernetes,go,spark,hadoop,python,java,hive,数仓,kafka,容器
+
 
 ```
 JD: 我们致力于打造一款PB级的数据库+数据分析产品，为企业客户的数据驱动型决策助力。该产品也为字节跳动内部的数据处理与决策提供支持。
@@ -2705,12 +3044,14 @@ Req: 1、计算机相关专业，本科及以上学历；
 4、有Kubernetes容器开发、云上服务建设经验最佳；
 5、熟悉大数据生态环境，了解Hadoop，Hive，Kafka，Spark，Druid等大数据技术栈；分析型数据库（,.etc
 
+
 ```
 
 
 ##### 杭州-大数据工程师-即时零售
 * URL: https://jobs.bytedance.com/referral/pc/position/7309458927354743077/detail
 * Match:12:大数据,数据仓库,离线,实时,hadoop,监控,etl,python,java,hive,治理,sql
+
 
 ```
 JD: 1、负责即时零售业务的离线与实时数据仓库的构建；
@@ -2724,12 +3065,14 @@ Req: 1、熟悉数据仓库实施方法论、深入了解数据仓库体系，�
 2、熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
+
 ```
 
 
 ##### 杭州-数据分析师-供应链
 * URL: https://jobs.bytedance.com/referral/pc/position/7368814242320222502/detail
 * Match:12:大数据,数据仓库,离线,实时,可视化,etl,flink,数仓,治理,sql,hbase,报表
+
 
 ```
 JD: 1、负责统筹和推进字节跳动数据中心供应链内、外部数据系统的构建 (建模)，搭建供应链的数据分析体系，包括KPI指标体系、报表体系、专题分析体系等；
@@ -2741,12 +3084,14 @@ Req: 1、本科以上学历，数学、统计学、运筹学、计算机科学�
 3、掌握主流大数据和流式数据处理技术，如Flink、Storm、ES、HBase等；
 ,.etc
 
+
 ```
 
 
 ##### 杭州-数据库管控资深架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7404679548602140966/detail
 * Match:12:k8s,kubernetes,go,spark,hadoop,监控,docker,python,java,治理,调度,容器
+
 
 ```
 JD: 字节跳动基础架构数据库团队，服务于字节跳动全系产品以及火山引擎外部客户。在这里，我们有丰富的云数据库产品，负责治理数十EB级别的海量数据，提供极致时延、超大吞吐的云原生数据库服务；有前沿的技术研究，探索新硬件与新软件架构的融合，致力于构建业界领先的云数据库服务，为公司和客户发展保驾护航。
@@ -2756,12 +3101,14 @@ JD: 字节跳动基础架构数据库团队，服务于字节跳动全系产品�
 Req: 1、计算机相关专业本科及以上学历，熟悉Go/Java/Python语言中的一种，5年以上架构/工程实践经验，对代码质量有追求，有Openstack、K8S Operator等相关研发经验；
 2、主导或参与设计过云数据库管控架构经验，了解云数据库各产品管控通用技术挑战、关键管控功能如监控、任务流引擎、资源调度、K8S安全、HA、备份，对可靠性、性能、可用性等有,.etc
 
+
 ```
 
 
 ##### 杭州-测试开发工程师-集团信息系统-大数据方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7288992405368621373/detail
 * Match:12:大数据,数据仓库,go,离线,实时,hadoop,监控,etl,python,java,治理,sql
+
 
 ```
 JD: 1、负责财务数据全链路质量保障和治理，包括但不限于数据同步、数据加工（离线+实时）、数据资产化（指标、标签等）、数据业务支撑（财报、管报、应用服务数据等）；
@@ -2773,12 +3120,14 @@ Req: 1、数据或数据产品相关的开发或测试4年以上经验，对数�
 2、熟练掌握一门或多门编程语言，如Java、SQL、Python、go等；有测试框架或质量平台开发经验、大型项目开发编码经验者优先；
 3、熟悉数据仓库模型设计、ETL开发，维度建模设计方法，具备海量数据处理经验者优先；具备数据研发平台、数据服务等数据,.etc
 
+
 ```
 
 
 ##### 杭州-领域建模专家（数仓方向）-集团信息系统部
 * URL: https://jobs.bytedance.com/referral/pc/position/7379919459261139251/detail
 * Match:12:大数据,数据仓库,离线,实时,可视化,etl,flink,数仓,治理,sql,hbase,报表
+
 
 ```
 JD: 1、负责统筹和推进字节跳动财务系统的构建 (建模)，搭建财务域的数据分析体系，包括KPI指标、报表、专题分析体系等；
@@ -2792,12 +3141,14 @@ Req: 1、本科以上学历，数学、统计学、运筹学、计算机科学�
 3、掌握主流大数据和流式数据处理技术，如Flink、Storm、ES、HBase等；
 ,.etc
 
+
 ```
 
 
 ##### 杭州-【抖音】数据平台开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7118951870710778126/detail
 * Match:11:clickhouse,go,实时,presto,python,java,hbase,sql,kafka,olap,mysql
+
 
 ```
 JD: 1、负责抖音数据平台后台研发工作；
@@ -2810,12 +3161,14 @@ Req: 1、3年以上相关工作经验，计算机相关专业本科以上学历�
 3、精通Java/Go/Scala/C++/Python等至少一门语言，熟悉springboot和微服务开发；
 4、熟练使用MySQL/Redis/Kafka/Elasticsearch等常用存储技,.etc
 
+
 ```
 
 
 ##### 杭州-国际支付高级研发工程师-资金方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7308742073867831579/detail
 * Match:11:大数据,go,spark,hadoop,flink,python,java,hive,sql,linux,mysql
+
 
 ```
 JD: 1、构建高效、稳定、安全、合规的国际支付资金平台能力，为全球支付业务运作及拓展提供坚实的资金底盘；
@@ -2827,12 +3180,14 @@ Req: 1、熟练掌握常见的数据结构和算法，掌握Go/Python/Java/PHP/C
 3、优秀的逻辑思维能力，善于发现、分析和解决问题，可基于业务现状做出合理的技术选型设计；
 4、较强的责任心和主人翁意识，积极乐观并具备良好的,.etc
 
+
 ```
 
 
 ##### 杭州-大数据研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7326899595064412426/detail
 * Match:11:大数据,clickhouse,数据仓库,spark,离线,flink,python,java,hive,sql,mysql
+
 
 ```
 JD: 部门介绍：成为字节跳动广告收入增长的驱动力之一。成为以数据为中心的技术的先驱，并构建可衡量的高质量数据、服务和产品。非中国数据负责广告日志、广告数据仓库、数据中心仪表板中心、广告商数据服务等。
@@ -2846,12 +3201,14 @@ Req: 1、计算机相关专业本科以上学历，熟悉大数据计算架构�
 3、理解基本的设计模式，能将业务需求快速理解成技术需求；
 4、熟练使用Mysql，熟练使用ElasticSearch、Cli,.etc
 
+
 ```
 
 
 ##### 杭州-数据仓库开发工程师-APM
 * URL: https://jobs.bytedance.com/referral/pc/position/7345730963203524914/detail
 * Match:11:数据仓库,离线,实时,hadoop,监控,etl,python,java,hive,治理,sql
+
 
 ```
 JD: 1、负责字节跳动APM业务的离线与实时数据仓库的构建；
@@ -2864,12 +3221,14 @@ Req: 1、熟悉仓库实施方法论、深入了解数据仓库体系，并支�
 2、熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
+
 ```
 
 
 ##### 杭州-数据仓库开发工程师-飞书业务应用
 * URL: https://jobs.bytedance.com/referral/pc/position/7314183662218840358/detail
 * Match:11:大数据,数据仓库,spark,离线,实时,flink,hive,治理,sql,olap,分布式计算
+
 
 ```
 JD: 1、负责飞书People产品线业务离线&实时数据仓库构建；
@@ -2882,12 +3241,14 @@ Req: 1、计算机、数学相关专业本科及以上学历，三年及以上�
 3、熟练掌握HSQL，熟悉Spark/Hive/Flink分布式计算框架，熟悉大数据的离线和实时处理，可以进行海量数据模型的设计、开发；
 4、有产品意识，主动思,.etc
 
+
 ```
 
 
 ##### 杭州-数据开发工程师-巨量星图
 * URL: https://jobs.bytedance.com/referral/pc/position/7259710768702146877/detail
 * Match:11:数据仓库,go,spark,实时,flink,python,java,数仓,kafka,hbase,分布式计算
+
 
 ```
 JD: 1、参与星图数据平台的设计和开发工作；
@@ -2900,12 +3261,14 @@ Req: 1、深刻理解计算机原理，有良好的数据结构和算法基础�
 3、熟悉Kafka/Flink/Spark/Druid/HBase/Dori等计算引擎相关技术，有引擎研发经验者优先;
 4、熟练go、python、java中,.etc
 
+
 ```
 
 
 ##### 杭州-数据引擎-AI数据服务-云原生管控工程师（杭州/上海）
 * URL: https://jobs.bytedance.com/referral/pc/position/7443656857140496648/detail
 * Match:11:kubernetes,go,spark,presto,docker,flink,hbase,sql,linux,容器,mysql
+
 
 ```
 JD: 1、负责下一代AI数据引擎在云上的部署、管理和优化；
@@ -2915,12 +3278,14 @@ Req: 1、本科及以上学历，计算机、软件相关专业或工作经验�
 2、有Spark/Flink/Presto/Doris/Starrocks/HBase/MySQL/Redis/MongoDB中的一个或多个系统的运维和部署经验；
 3、熟练掌握Kubernetes的部署、使用和运维，具备实际项目经验，熟练使用Docker进行容器化应用的开发和运维,.etc
 
+
 ```
 
 
 ##### 杭州-数据测试开发工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7086748921616615711/detail
 * Match:11:大数据,go,hadoop,监控,flink,python,java,hive,sql,kafka,hbase
+
 
 ```
 JD: 1、负责字节跳动电商相关业务数据质量保障，包括数据透出和数据应用，保障分布式海量数据的正确性、健壮性、稳定性；
@@ -2933,12 +3298,14 @@ Req: 1、本科及以上学历，计算机软件等相关专业，2年及以上�
 3、熟练使用 Java、Go、Python 等语言中的一种或者多种，熟悉各种基本的中间件，Redis、rocketMQ，Kafka 等；
 4、具备数据库系统理论知识，掌,.etc
 
+
 ```
 
 
 ##### 杭州-计算引擎高级研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6903787081500477704/detail
 * Match:11:大数据,clickhouse,go,spark,实时,flink,java,数仓,sql,调度,olap
+
 
 ```
 JD: 1、打造业内领先的边缘大数据流计算引擎，能高效运行于广义边缘环境，实现端边云的协同运算，支撑字节跳动海量产品线；
@@ -2952,12 +3319,14 @@ Req: 1、精通C/C++/Go/Java语言中的一项或者多项；
 4、对Flink/Spark/Storm等开源流计算引擎中的一项或者多项有深入研究者优先；
 5、对Spark/Impala/Clickhouse等开源OLA,.etc
 
+
 ```
 
 
 ##### 杭州-运维开发工程师-Data
 * URL: https://jobs.bytedance.com/referral/pc/position/7353470817353763081/detail
 * Match:11:大数据,kubernetes,go,spark,hadoop,docker,flink,python,java,linux,devops
+
 
 ```
 JD: 1、参与运维平台的架构重构和功能迭代，提升运维效率和使用体验；
@@ -2972,12 +3341,14 @@ Req: 1、本科及以上学历，计算机相关专业，并有两年以上相�
 4、具备系统化解决问题的能力，良好的沟通技巧和责任意识；
 5、具有相关计算/分布式/大数据等系统经验优先（Ngi,.etc
 
+
 ```
 
 
 ##### 杭州-LakeHouse 公有云技术专家 - 火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7132702863922301220/detail
 * Match:10:大数据,lakehouse,spark,实时,presto,databricks,etl,flink,数据湖,deltalake
+
 
 ```
 JD: 湖仓一体分析服务 LAS（Lakehouse Analytics Service）是面向湖仓一体架构的Serverless数据处理分析服务，提供一站式的海量数据存储计算和交互分析能力，完全兼容 Spark、Presto、Flink 生态，帮助企业轻松完成数据价值洞察；
@@ -2990,12 +3361,14 @@ Req: 1、有大数据 toB 产品研发经验；有公有云大数据产品研发
 3、熟悉 HUDI、DeltaLake、Iceberg 等主流数据湖技术；
 4、熟悉业界大数据云产品，如 MaxCompute、EMR、MRS、DLF、Databricks、DLI、DLC,.etc
 
+
 ```
 
 
 ##### 杭州-实时数仓存储专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7290499221411957049/detail
 * Match:10:大数据,spark,实时,presto,flink,java,hive,数仓,kafka,hbase
+
 
 ```
 JD: 数据引擎-存储引擎团队，负责自研实时数仓存储服务的研发，实现一份存储同时满足流计算、批计算、交互式分析、点查等多种场景。团队内部有多名 Apache Committer，在国内外有较强的技术影响力，与众多优秀的大数据计算、存储领域专家一起合作，一起打造业界领先实时数仓存储服务。
@@ -3008,12 +3381,14 @@ Req: 1、具备良好的 Java / Scala 编程基础和良好的计算机技术基
 3、熟悉 HBase、Cassandra 等分布式 KV 存储系统者优先；
 4、熟悉 Spark、Flink、Presto、Hive 等主流大数据计算引擎者优先。,.etc
 
+
 ```
 
 
 ##### 杭州-数据产品经理-开发套件方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7374773940491077898/detail
 * Match:10:大数据,元数据,spark,hadoop,监控,etl,flink,hive,数仓,sql
+
 
 ```
 JD: 1、面向全公司所有产品线(抖音、今日头条、火山等）海量数据对应的大数据任务挑战，打造稳定（侧重质量）、高效（侧重研发效率）、可靠（侧重安全）的大数据开发建设服务；
@@ -3025,12 +3400,14 @@ Req: 1、3年以上数据开发或产品经验，计算机相关专业或从事�
 3、能熟练运用SQL及其他语言排查定位问题，高效与技术团队进行沟通；
 4、良好的语言沟通与表达能力，自我驱动，善于系统性思考，,.etc
 
+
 ```
 
 
 ##### 杭州-数据仓库工程师-抖音生活服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7374328417346537779/detail
 * Match:10:大数据,数据仓库,spark,实时,hadoop,etl,hive,治理,sql,olap
+
 
 ```
 JD: 1、以抖音系全域数据为依托，参与构建海量数据下符合生活服务业务特性的数据仓库建设；
@@ -3044,12 +3421,14 @@ Req: 1、熟悉数据仓库体系架构、数据建模方法、数据治理等�
 4、思维逻辑清晰，良好的自驱力、沟通能力和解决问题能力；
 5、扎实的数据结构、数据库原理等基础知识，理工科本科以,.etc
 
+
 ```
 
 
 ##### 杭州-数据库云原生管控研发工程师-RDS MySQL
 * URL: https://jobs.bytedance.com/referral/pc/position/7158375594832349471/detail
 * Match:10:k8s,kubernetes,go,docker,python,java,sql,linux,容器,mysql
+
 
 ```
 JD: 1、负责数据库云原生智能化管控平台，包括数据库创建、释放、更配、账户管理、高可用、容灾、备份、恢复、审计、优化等一整套数据库生命周期管控的系统研发工作；
@@ -3064,12 +3443,14 @@ Req: 1、熟练掌握Linux环境下Go/Python/Java/C/C++ 中的一种或几种；
 具备以下条件之一者优先：
 1、熟悉MySQL、PostgreSQL中,.etc
 
+
 ```
 
 
 ##### 杭州-数据湖存储专家-Hudi
 * URL: https://jobs.bytedance.com/referral/pc/position/7207433289186462007/detail
 * Match:10:大数据,spark,lakehouse,实时,presto,flink,java,数据湖,hive,delta lake
+
 
 ```
 JD: 数据引擎-数据湖团队，旨在打造业界领先的 EB 级超大规模数据湖，支持字节跳动众多业务线，如抖音、今日头条、电商。同时基于内部最佳实践，在火山引擎上打造一款云原生实时湖仓一体的 toB 产品——湖仓一体分析服务LAS（LakeHouse Analytics Service）。
@@ -3081,12 +3462,14 @@ Req: 1、具备良好的 Java / Scala 编程基础和良好的计算机技术基
 2、熟悉开源数据湖存储方案 Hudi，Iceberg，Delta Lake 的原理及源码，有内核开发经验或社区贡献者优先，开源社区 committer / PMC 优先；
 3、精通任一个 Parquet，ORC，Arrow 列存格式，或者 Avr,.etc
 
+
 ```
 
 
 ##### 杭州-系统运维开发工程师-AML
 * URL: https://jobs.bytedance.com/referral/pc/position/6982072313446238495/detail
 * Match:10:aws,go,离线,spark,hadoop,监控,flink,python,linux,容器
+
 
 ```
 JD: 团队介绍
@@ -3098,12 +3481,14 @@ Req: 1、 掌握 Python/Shell/Golang中至少一种语言，并具备一定的�
 3、熟悉 Linux 操作系统，具备一定的问题排查能力，对大规模分布式系统的设计、分析和排障有强烈兴趣；
 4、有强烈的工作责任心，较好的学习能力、沟通能力和自驱力，,.etc
 
+
 ```
 
 
 ##### 杭州-SRE工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7296785501930359077/detail
 * Match:9:kubernetes,go,docker,python,java,治理,sql,linux,mysql
+
 
 ```
 JD: 1、保障抖音电商多个核心系统的可靠性与正常运行，同时关注系统容量与稳定性；
@@ -3117,12 +3502,14 @@ Req: 1、扎实的计算机软件基础知识，了解Linux操作系统、存储
 3、具备系统化解决问题的能力，良好的沟通技巧和主人翁责任感；
 4、具有相关接入/计算/存储等系统经验优先（Nginx/Kubernetes/Docker/Redis/Mysql/RMQ等）；,.etc
 
+
 ```
 
 
 ##### 杭州-前端开发专家-IDE方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6995797129684617480/detail
 * Match:9:大数据,spark,hadoop,etl,python,java,hive,flink,sql
+
 
 ```
 JD: 1、负责大数据研发 IDE 的技术架构、开发工作；
@@ -3134,12 +3521,14 @@ Req: 1、三年以上前端相关开发经验，热爱 IDE 方向，关注业界
 3、熟悉 VS Code / IntelliJ / Eclipse 源码，了解其底层架构及原理者优先；
 4、熟悉 VS Code 的 Language Server Protocol 和 Debug Adapter Pro,.etc
 
+
 ```
 
 
 ##### 杭州-大数据开发专家 - 数据集成方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7299003548879112485/detail
 * Match:9:clickhouse,spark,实时,hadoop,flink,java,数据湖,kafka,分布式计算
+
 
 ```
 JD: 1、负责数据平台下实时数据集成业务的计算架构设计与开发；
@@ -3153,12 +3542,14 @@ Req: 1、扎实的计算机基础和算法数据结构功底，对技术有热�
 4、具备较强的业务需求分析能力，问题定位能力良好的沟通能力和自我学习能力；
 5、有Storm,.etc
 
+
 ```
 
 
 ##### 杭州-大数据开发专家-风控数据计算方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7355894486796519689/detail
 * Match:9:clickhouse,spark,实时,hadoop,flink,数据湖,治理,kafka,分布式计算
+
 
 ```
 JD: 1、负责治理与风控数据平台下实时数据集成业务的计算架构设计与开发；
@@ -3172,12 +3563,14 @@ Req: 1、扎实的计算机基础和算法数据结构功底，对技术有热�
 4、有Storm/SparkStreaming/Flink等实时计算开发经验；
 5、熟悉Hado,.etc
 
+
 ```
 
 
 ##### 杭州-大数据架构师-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/6900933796675193101/detail
 * Match:9:大数据,数据仓库,离线,实时,hadoop,python,java,hive,sql
+
 
 ```
 JD: 1、 负责字节跳动电商相关业务的大数据项目整体架构规划；
@@ -3191,12 +3584,14 @@ Req: 1、 熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言�
 3、 善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力；
 4、 6年以上数据仓库或大数据开发，丰富的实时或者离线数据体系建设经验。,.etc
 
+
 ```
 
 
 ##### 杭州-混部调度研发工程师/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7158404722038343949/detail
 * Match:9:大数据,kubernetes,yarn,go,离线,docker,java,调度,容器
+
 
 ```
 JD: 字节跳动在 2015 年开启构建微服务体系，拥抱 Go 语言社区，自研微服务框架，采用 Kubernetes 和容器作为在线服务运行环境的统一标准。团队负责构建字节跳动内部容器云平台，为字节产品线提供运行基石；以超大容器集群规模整体支撑了字节内部产品线，涵盖：今日头条，抖音，西瓜视频等；同时覆盖了在线，离线，机器学习，推荐/广告/搜索等多种应用场景；在持续多,.etc
@@ -3208,12 +3603,14 @@ Req: 1、本科及以上学历，计算机相关专业优先；
 5、深入理解 Kubernetes、Mesos、Yarn 等一个或多个系统的调度实现；
 6、熟悉容器化、轻量级虚拟机等相关技,.etc
 
+
 ```
 
 
 ##### 杭州-资深服务端研发专家-数据存储和计算中间件
 * URL: https://jobs.bytedance.com/referral/pc/position/7366962375746324746/detail
 * Match:9:clickhouse,go,hadoop,flink,python,java,sql,linux,olap
+
 
 ```
 JD: 1、负责存储或计算中间件服务的设计和研发工作；
@@ -3225,12 +3622,14 @@ Req: 1、计算机相关专业，本科及以上学历，5年及以上后端工�
 3、熟练掌握一到两个后端开发存储组件：对象存储系统（S3接口）、RDS、缓存（Redis)、消息队列、向量数据库等； 
 4、对技术有热情，具备良好,.etc
 
+
 ```
 
 
 ##### 杭州-隐私安全及数据运营经理-信息系统
 * URL: https://jobs.bytedance.com/referral/pc/position/7424821267054545178/detail
 * Match:9:大数据,数据仓库,spark,可视化,监控,hive,治理,sql,tableau
+
 
 ```
 JD: 1、建设与维护隐私和数据安全体指标体系，完成系统化指标监控及归因分析，为内部数据安全治理提供输入；
@@ -3243,12 +3642,14 @@ Req: 1、本科或以上学历，计算机、数学、统计、管理信息系�
 3、具有优秀的风险洞察能力，能够通过数据讲出好故事，同时具备数据指标体系拆解思路和看板交互设计能力；
 4、逻辑清晰、执行力强、具,.etc
 
+
 ```
 
 
 ##### 杭州-AML 机器学习系统SRE工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7276359832620861754/detail
 * Match:8:kubernetes,go,docker,python,治理,调度,linux,容器
+
 
 ```
 JD: AML（Applied Machine Learning）机器学习系统团队专注于机器学习系统领域的前沿技术研究和落地，提供高性能、高可靠、可扩展的机器学习系统架构、丰富的异构计算资源和极致的端到端的机器学习服务体验，为全公司的产品和业务提供核心技术支持和服务。
@@ -3262,12 +3663,14 @@ Req: 1、一年以上运维开发项目经验；
 4、熟悉 Docker/Kata 等容器化技术，具备1年以上运维经验；
 5、有强烈的工作责任心，较好的学习能力、沟通,.etc
 
+
 ```
 
 
 ##### 杭州-AML 机器学习系统调度编排工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7276328763338934584/detail
 * Match:8:kubernetes,go,离线,docker,python,调度,linux,容器
+
 
 ```
 JD: 1、负责机器学习系统资源调度的设计和开发，服务于各方向场景（NLP/CV/Speech等）的模型训练、模型评估和模型推理；
@@ -3279,12 +3682,14 @@ Req: 1、熟练掌握Linux环境下的Go/Python/Shell等1至2种以上语言；
 3、掌握分布式系统原理，参与过大规模分布式系统的设计、开发和维护；
 4、有优秀的逻辑分析能力，能够对业务逻辑进行合理的,.etc
 
+
 ```
 
 
 ##### 杭州-HTAP数据库SQL引擎架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7047338066420615432/detail
 * Match:8:clickhouse,aws,实时,presto,java,sql,linux,olap
+
 
 ```
 JD: 1、负责HTAP数据库SQL引擎的设计、研发、上线，为用户提供极致体验的实时数据分析服务；
@@ -3297,12 +3702,14 @@ Req: 1、良好的linux系统知识储备，精通Java/C++语言其中一种；
 具备以下条件之一者优先： 
 - 熟悉Doris、Presto、GreenPlum、Clickhouse,.etc
 
+
 ```
 
 
 ##### 杭州-云原生高级研发工程师/技术专家-容器运行时方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6832275384651450637/detail
 * Match:8:kubernetes,yarn,go,离线,可视化,docker,调度,容器
+
 
 ```
 JD: 字节跳动在 2015 年开启构建微服务体系，拥抱 Go 语言社区，自研微服务框架，采用 Kubernetes 和容器作为在线服务运行环境的统一标准。团队整体负责构建字节跳动统一的内部容器云平台，为字节所有产品线提供运行基石；以超大容器集群规模，整体支撑了字节内所有产品线，涵盖：今日头条，抖音，西瓜视频等；同时覆盖了在线，离线，机器学习，推荐/广告/搜索等多种,.etc
@@ -3315,12 +3722,14 @@ Req: 1、深入了解 cgroup、cgroup v2、CFS等内核技术原理，具备相�
 具备以下条件者优先
 - 了解 Kubernetes / Mesos / Yarn 等集群管控系统；,.etc
 
+
 ```
 
 
 ##### 杭州-云数据库研发工程师-RDS MySQL
 * URL: https://jobs.bytedance.com/referral/pc/position/7031784693481965861/detail
 * Match:8:k8s,go,python,java,sql,linux,容器,mysql
+
 
 ```
 JD: 1、云数据库RDS MySQL高可用开发；
@@ -3337,12 +3746,14 @@ Req: 1、熟练使用C/C++/Python/Golang/Java/Rust语言中的一种；
 具备以下条件之一者优先：
 1、熟悉MyS,.etc
 
+
 ```
 
 
 ##### 杭州-云计算PaaS产品SRE工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7044069015485335821/detail
 * Match:8:kubernetes,go,python,java,治理,linux,容器,devops
+
 
 ```
 JD: 1、负责PaaS平台的架构设计和运维工作，支撑容器平台、DevOps、微服务、Serverless 等产品的混合云服务；
@@ -3354,12 +3765,14 @@ Req: 1、计算机相关专业本科以上学历，2年以上系统运维或研�
 3、熟悉CNCF生态技术，如Serverless, Service Mesh, Prometheus, Kubernetes等；
 4、基于平台使用场景，深入优化提供最,.etc
 
+
 ```
 
 
 ##### 杭州-云计算高级研发工程师 — 资源调度方向
 * URL: https://jobs.bytedance.com/referral/pc/position/6774264371250989320/detail
 * Match:8:k8s,kubernetes,yarn,go,离线,docker,调度,容器
+
 
 ```
 JD: 字节跳动在 2015 年开启构建微服务体系，拥抱 Go 语言社区，自研微服务框架，采用 Kubernetes 和容器作为在线服务运行环境的统一标准。团队整体负责构建字节跳动统一的内部容器云平台，为字节所有产品线提供运行基石；以超大容器集群规模整体支撑了字节内所有产品线，涵盖：今日头条，抖音，西瓜视频等；同时覆盖了在线，离线，机器学习，推荐/广告/搜索等多种应,.etc
@@ -3374,12 +3787,14 @@ Req: 1、深入了解 Kubernetes / Mesos / Yarn 等系统；
 1、Kubernetes / Mesos / Yarn 等开源项目贡献者优先；
 2、,.etc
 
+
 ```
 
 
 ##### 杭州-后端技术专家-数据智能方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7295646292264749363/detail
 * Match:8:大数据,clickhouse,go,spark,hadoop,flink,python,java
+
 
 ```
 JD: 1、参与打造新一代 AI Native 大数据分析产品；
@@ -3390,12 +3805,14 @@ Req: 1、具有扎实的基础编程能力，熟练掌握至少一种主流编�
 2、有良好的产品和客户意识，善于深入理解业务场景并抽象需求，设计高效的技术方案并推动落地；
 3、熟悉分布式、缓存、消息等机制，熟悉 FaaS ,.etc
 
+
 ```
 
 
 ##### 杭州-后端研发工程师-数据服务方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7026244704220449061/detail
 * Match:8:大数据,go,hadoop,presto,flink,java,hive,分布式计算
+
 
 ```
 JD: 1、负责字节统一的数据查询服务、数据管理平台的架构设计与实现；
@@ -3407,12 +3824,14 @@ Req: 1、掌握Java或Go语言，计算机基础扎实，熟悉后端技术架�
 3、有复杂业务系统的抽象设计能力，思路清晰，善于思考，能够独立分析和解决业务、技术问题；
 4.、具有良好的逻辑思维、表达和沟通能力，具备良好的团队合作精神，有较强的成长型思维，对技术充满热情，责任心强,.etc
 
+
 ```
 
 
 ##### 杭州-国际支付高级研发工程师 - 风控合规方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7089284286079781150/detail
 * Match:8:大数据,go,spark,hadoop,flink,python,java,hive
+
 
 ```
 JD: 1、负责国际支付风控合规系统的架构设计、搭建与优化，保证工程质量和扩展性；
@@ -3426,12 +3845,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 5、具备优秀的逻辑思维能力，善于分析问题和解决问题；
 6、有较强的责任心和owner意识，积极乐观并有良好的团队,.etc
 
+
 ```
 
 
 ##### 杭州-基础平台研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6975853612140890399/detail
 * Match:8:k8s,go,实时,监控,python,java,容器,devops
+
 
 ```
 JD: 1、负责构建分布式控制平台，统一管理海量的线上主机以及上面的各类存储或数据库服务；
@@ -3444,12 +3865,14 @@ Req: 1、计算机相关专业，熟悉Go/Java/Python语言中的一种，熟悉
 3、掌握K8S、Etcd、Nginx、Prometheus等容器相关组件的运维管理，具备丰富的优化、排障经验，有源码级的了解更佳；
 4、熟悉至少,.etc
 
+
 ```
 
 
 ##### 杭州-增长算法工程师-电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7244752951365093690/detail
 * Match:8:大数据,go,spark,hadoop,flink,python,java,sql
+
 
 ```
 JD: 1、参与电商业务商家/达人增长，负责电商业务商家/达人增长算法，包括潜在商家/达人挖掘算法、分层算法、触达算法、成长算法等；
@@ -3460,12 +3883,14 @@ Req: 1、硕士研究生及以上学历，具备扎实的机器学习技术基�
 2、熟练使用SQL+Python进行模型开发，熟悉Spark/Hadoop/Flink等大数据处理技术，具备Java/Go/C++等复杂工程开发经验者优先；
 3、具备较好的商业理解能力，能够根据业务需求合理抽象算法问题，有良好的沟通和总结能力，,.etc
 
+
 ```
 
 
 ##### 杭州-大数据架构师-短视频
 * URL: https://jobs.bytedance.com/referral/pc/position/7138250669189843236/detail
 * Match:8:大数据,数据仓库,spark,hadoop,flink,hive,治理,kafka
+
 
 ```
 JD: 1、 作为架构师，负责短视频产品数据中心、数据本地化场景下的大数据架构，包括数据仓库的顶层设计、数据权限系统的设计等；
@@ -3478,12 +3903,14 @@ Req: 1、计算机、数学相关专业本科及以上学历，五年以上大�
 4、善于沟通，主动性强，具备优秀的技术与业务结合能力，有较强的项目推进能力；
 5、较好的英文沟,.etc
 
+
 ```
 
 
 ##### 杭州-抖音电商-推荐算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7156447306006776072/detail
 * Match:8:大数据,go,spark,python,java,hive,sql,linux
+
 
 ```
 JD: 1、独特的业务问题，涉及到商品/直播/短视频等多种体裁的混合推荐，多个场景/多种目标的联合建模；
@@ -3495,6 +3922,7 @@ Req: 1、扎实的算法和数据结构基础，优秀的问题理解能力和�
 2、机器学习基础理论扎实，熟悉常用的算法模型（如CF、FM、Word2vec、LR、GBDT、DNN），对模型调优有一定实践经验；
 3、对推荐系统召回/排序/多样性/冷启动中一个或多个方向有过深入的实践，了解业界经典的模型和方法；
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
+
 
 ```
 
@@ -3503,6 +3931,7 @@ Req: 1、扎实的算法和数据结构基础，优秀的问题理解能力和�
 * URL: https://jobs.bytedance.com/referral/pc/position/7330538626210679090/detail
 * Match:8:大数据,go,spark,python,java,hive,sql,linux
 
+
 ```
 JD: 1、独特的业务问题，涉及到商品/直播/短视频等多种体裁的混合推荐，多个场景/多种目标的联合建模；
 2、超大规模的推荐模型优化，利用深度学习、迁移学习、多任务学习、表征学习、强化学习等多种方法提升信息匹配的效率；
@@ -3514,12 +3943,14 @@ Req: 1、扎实的算法和数据结构基础，优秀的问题理解能力和�
 3、对推荐系统召回/排序/多样性/冷启动中一个或多个方向有过深入的实践，了解业界经典的模型和方法；
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
+
 ```
 
 
 ##### 杭州-推荐算法工程师-抖音电商即时零售
 * URL: https://jobs.bytedance.com/referral/pc/position/7280751390922066213/detail
 * Match:8:大数据,go,spark,python,java,hive,sql,linux
+
 
 ```
 JD: 1、负责构建抖音电商即时零售商品/直播/短视频等多种体裁的混合推荐，多个场景/多种目标的联合建模；
@@ -3531,12 +3962,14 @@ Req: 1、扎实的算法和数据结构基础，优秀的问题理解能力和�
 3、对推荐系统召回/排序/多样性/冷启动中一个或多个方向有过深入的实践，了解业界经典的模型和方法；
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
+
 ```
 
 
 ##### 杭州-数据库基础平台研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7324592303153711411/detail
 * Match:8:k8s,go,实时,监控,python,java,容器,devops
+
 
 ```
 JD: 1、负责构建分布式控制平台，统一管理海量的线上主机以及上面的各类数据库服务；
@@ -3549,12 +3982,14 @@ Req: 1、本科及以上，计算机相关专业，熟悉Go/Java/Python语言中
 3、掌握K8S、Etcd、Nginx、Prometheus等容器相关组件的运维管理，具备丰富的优化、排障经验，有源码级的了解更佳；
 ,.etc
 
+
 ```
 
 
 ##### 杭州-服务端开发工程师-Flow-AI数据服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7345680601955666214/detail
 * Match:8:clickhouse,离线,spark,presto,flink,hbase,sql,mysql
+
 
 ```
 JD: 1、设计并实现融合结构化数据（如表格）和非结构化数据（如文本、图片、视频）的多模态数据存储服务，确保数据服务具备高可用性、高并发性和低延迟；
@@ -3569,12 +4004,14 @@ Req: 1、本科及以上学历，计算机、软件相关专业或工作经验�
 1、熟悉后端研发的常用技术包括但不限于：对象存储、缓存、RPC、MQ、微服务等；
 2、精通一款或多款关系型数据库/湖仓/搜索/NoSQL产品，e.g. M,.etc
 
+
 ```
 
 
 ##### 杭州-服务端研发工程师-流水线集群
 * URL: https://jobs.bytedance.com/referral/pc/position/7280534212385245498/detail
 * Match:8:k8s,go,docker,python,java,调度,容器,devops
+
 
 ```
 JD: 字节跳动效能体系团队，通过探索更好的开发理念和开发实践，打造优秀的产品，改善开发者体验，持续提升业务整体的研发效率与质量。DevOps 团队专注于打造业界领先的效能平台，推动 DevOps一体化在字节跳动的实施和落地。
@@ -3588,12 +4025,14 @@ Req: 1、熟练掌握 Go、Java、Python 等后端语言和框架中的一种或
 4、熟悉 K8S 和 Docker，了解云原生相关技术，有PaaS平台经验者优先考虑，有大规模容器应用维护经验者尤佳；
 5、积极乐观,.etc
 
+
 ```
 
 
 ##### 杭州-机器学习存储系统工程师/专家-豆包大模型
 * URL: https://jobs.bytedance.com/referral/pc/position/7446260760940333320/detail
 * Match:8:kubernetes,go,监控,python,治理,调度,linux,容器
+
 
 ```
 JD: 团队介绍：字节跳动豆包大模型团队成立于 2023 年，致力于开发业界最先进的 AI 大模型技术，成为世界一流的研究团队，为科技和社会发展作出贡献。
@@ -3605,12 +4044,14 @@ Req: 1、熟练掌握Linux环境下的C++/Go/Python/Shell等1至2种以上语言
 4、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分； 
 5、有强烈的工,.etc
 
+
 ```
 
 
 ##### 杭州-机器学习平台研发工程师-Data
 * URL: https://jobs.bytedance.com/referral/pc/position/7426745280240978203/detail
 * Match:8:k8s,go,离线,docker,python,java,调度,devops
+
 
 ```
 JD: 1、平台化产品后端开发，熟练掌握字节跳动业界领先的超大规模推荐系统全流程；
@@ -3626,12 +4067,14 @@ Req: 1、扎实的编程基础、良好的编程风格与工作习惯；
 5、具有独立解决问题的能力，良好的团队合作意识和沟通能力；
 6、涉猎微服务架构/Docker/K8S/D,.etc
 
+
 ```
 
 
 ##### 杭州-机器学习系统SRE工程师-豆包大模型
 * URL: https://jobs.bytedance.com/referral/pc/position/7439931445470791944/detail
 * Match:8:kubernetes,go,docker,python,治理,调度,linux,容器
+
 
 ```
 JD: 团队介绍：字节跳动豆包大模型团队成立于 2023 年，致力于开发业界最先进的 AI 大模型技术，成为世界一流的研究团队，为科技和社会发展作出贡献。
@@ -3644,12 +4087,14 @@ Req: 1、一年以上运维开发项目经验；
 5、有强烈的工作责任心，较好的学习能力、沟通能力和自驱力，良好的团队合作精神；
 6、有优秀的逻辑分析能力，能够,.etc
 
+
 ```
 
 
 ##### 杭州-机器学习系统调度工程师/专家-豆包大模型
 * URL: https://jobs.bytedance.com/referral/pc/position/7446256483631876359/detail
 * Match:8:kubernetes,go,离线,docker,python,调度,linux,容器
+
 
 ```
 JD: 团队介绍：字节跳动豆包大模型团队成立于 2023 年，致力于开发业界最先进的 AI 大模型技术，成为世界一流的研究团队，为科技和社会发展作出贡献。
@@ -3660,12 +4105,14 @@ Req: 1、熟练掌握Linux环境下的Go/Python/Shell等1至2种以上语言；
 3、掌握分布式系统原理，参与过大规模分布式系统的设计、开发和维护；
 4、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆,.etc
 
+
 ```
 
 
 ##### 杭州-测试/资深测试开发工程师-国际电商数据
 * URL: https://jobs.bytedance.com/referral/pc/position/7275204150815197477/detail
 * Match:8:大数据,go,spark,etl,python,java,hive,sql
+
 
 ```
 JD: 1、参与国际电商业务数据质量保障工作，包括但不限于数据处理稳定性、数据一致性、准确性、规范性、数据服务接口质量保障；
@@ -3679,12 +4126,14 @@ Req: 1、本科及以上学历，熟悉大数据处理及测试的基本流程�
 4、对数据敏感，具备基础的统计学知识，具有良好的逻辑思维能力、分析能力、理解业务的能力；
 5,.etc
 
+
 ```
 
 
 ##### 杭州-资深服务端开发工程师/专家-Flow-AI数据服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7345680792281172261/detail
 * Match:8:clickhouse,离线,spark,presto,flink,hbase,sql,mysql
+
 
 ```
 JD: 1、设计并实现融合结构化数据（如表格）和非结构化数据（如文本、图片、视频）的多模态数据存储服务，确保数据服务具备高可用性、高并发性和低延迟；
@@ -3697,12 +4146,14 @@ Req: 1、5年以上工作经验，有复杂系统的构建与整体维护能力�
 4、对个人工作的价值、工作成果有清晰认知，有良好的行业认知、工作规划能力；
 5、能合理地规划工作节奏，具备良,.etc
 
+
 ```
 
 
 ##### 杭州-OLAP引擎专家/架构师/负责人-向量化引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7132735551006296334/detail
 * Match:7:大数据,spark,presto,hive,sql,olap,mysql
+
 
 ```
 JD: 1、打造业界领先的 PB 级 OLAP 引擎，并支撑字节跳动相关产品线；
@@ -3716,12 +4167,14 @@ Req: 1、良好的 C++ 编程基础；
 4、熟悉 Spark、Presto、Druid、Kylin、Hive、Impala 等主流大数据系统原理及源码；
 5、具备大,.etc
 
+
 ```
 
 
 ##### 杭州-OLAP研发工程师/技术专家-查询引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/6992820788807354638/detail
 * Match:7:spark,实时,presto,java,sql,olap,分布式计算
+
 
 ```
 JD: 1、打造高效、实时的分布式查询引擎；
@@ -3734,12 +4187,14 @@ Req: 1、熟悉分布式算法和系统，有分布式查询引擎使用和开�
 3、有扎实的算法基础，了解常见的数据结构，了解分布式查询性能分析；
 4、在数据库或OLAP数据分析领域有开发和优化经验，熟悉Impala/Presto/Greenplum/Spark等MPP架构数据库产品优先；,.etc
 
+
 ```
 
 
 ##### 杭州-SDN高级研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7287896249184471357/detail
 * Match:7:go,可视化,监控,python,java,调度,linux
+
 
 ```
 JD: 通过软件研发提高数据中心网络的可用性及效率：
@@ -3755,12 +4210,14 @@ Req: 1、计算机科学，电子工程，网络工程或相关领域的学士�
 4、快速学习及应变能力；对技术细节的执着及钻研精神；善于沟通和交流；
 5、具有运行大型数据中心网络经验者，开发分布式系统经验,.etc
 
+
 ```
 
 
 ##### 杭州-SRE工程师-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/6839568698346883342/detail
 * Match:7:大数据,go,监控,python,java,治理,linux
+
 
 ```
 JD: 1、保障大数据&计算多个核心系统的可靠性与正常运行，同时关注系统容量与稳定性；
@@ -3777,12 +4234,14 @@ Req: 1、本科以上学历, 计算机相关专业, 并有两年以上相关领�
 5、具备系统化解决问题的能力，良好的沟通技巧和主人翁责任感；
 6、具有相关计算/分布式/大数据等系统经验优,.etc
 
+
 ```
 
 
 ##### 杭州-SRE工程师-飞书KA（北/上/广/深/杭/武汉）
 * URL: https://jobs.bytedance.com/referral/pc/position/7078551274257975583/detail
 * Match:7:airflow,kubernetes,go,监控,python,java,调度
+
 
 ```
 JD: 1、构建飞书私有化领域产品解决方案，围绕生命周期管理、降本增效、稳定性保障，把飞书生产交付、稳定性、日常保障能力视作一种产品和解决方案来打造；
@@ -3795,12 +4254,14 @@ Req: 1、本科以上学历, 计算机相关专业, 并有5年以上相关领域
 4、具有产品思维，良好的数据结构、系统设计、项目管理能力者优先；
 5、,.etc
 
+
 ```
 
 
 ##### 杭州-商品增长算法-电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7251465963081451833/detail
 * Match:7:大数据,go,spark,hadoop,python,java,hive
+
 
 ```
 JD: 1、参与字节电商商品运营和价格运营全链路多场景智能体系建设，负责面向业务的数据挖掘及算法迭代；
@@ -3811,12 +4272,14 @@ Req: 1、硕士研究生及以上学历，熟悉机器学习/NLP/深度学习/�
 2、熟悉使用Python/Java/Go中的一门或多门语言，能独立抽象问题并基于tensorflow/pytorch建模，熟悉Spark/Hadoop/Hive等大数据处理；
 3、自信、主动、交流。能够主动深入了解业务，适应快速的业务变化，有良好的个人,.etc
 
+
 ```
 
 
 ##### 杭州-国际电商 - 数据分析师（治理分析）
 * URL: https://jobs.bytedance.com/referral/pc/position/7057453420487444767/detail
 * Match:7:可视化,监控,python,hive,治理,sql,报表
+
 
 ```
 JD: 1、负责国际电商平台治理业务的数据监控，构建平台治理业务指标体系，有效披露业务进展与风险；
@@ -3828,12 +4291,14 @@ Req: 1、本科及以上学历，5年以上数据科学/数据分析工作经验
 2、具备构建数据指标体系知识框架，曾有过构建指标体系经验；掌握基本数据分析方法，对数据落地到业务有一定经验，有专业的分析报告撰写能力；
 3、熟练使用Excel、精通SQL、hive，至少可以熟练使用一种数据可视化分析工具，擅,.etc
 
+
 ```
 
 
 ##### 杭州-增长算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7288219287986014501/detail
 * Match:7:大数据,spark,实时,hadoop,python,java,hive
+
 
 ```
 JD: 团队介绍
@@ -3843,12 +4308,14 @@ Req: 1、掌握扎实的计算机科学基础知识 (数据结构/算法/网络�
 2、掌握机器学习的理论基础，熟悉经典的算法模型 (GBDT/LR/FM/DNN等) 和相关工具框架 (Tensorflow/PyTorch等)；
 3、具有敏锐的数据分析和洞察能力，熟悉常见的大数据开发工具,.etc
 
+
 ```
 
 
 ##### 杭州-大数据SRE工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7314592950321940786/detail
 * Match:7:大数据,spark,hadoop,flink,治理,kafka,hbase
+
 
 ```
 JD: 1、保障电商大数据集群的稳定性和可靠性；
@@ -3862,12 +4329,14 @@ Req: 1、熟悉大数据生态，不限于Elasticsearch/Hadoop/Hbase/Kafka/Flink
 3、熟练掌握主流大数据的体系架构，能够进行合理的组件选型和设计；
 4、具有良好的客户服务意识，良好的沟通协作,.etc
 
+
 ```
 
 
 ##### 杭州-大数据工程师-实时数仓
 * URL: https://jobs.bytedance.com/referral/pc/position/6908630385249618184/detail
 * Match:7:大数据,数据仓库,spark,实时,flink,java,分布式计算
+
 
 ```
 JD: 1.负责抖音短视频和电商业务的实时数据仓库的构建；
@@ -3882,12 +4351,14 @@ Req: 1.具备扎实的Java语言基础；
 4.善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力；
 5.有数据仓库经验优先。,.etc
 
+
 ```
 
 
 ##### 杭州-实时数据仓库工程师-电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7309825716752927013/detail
 * Match:7:大数据,数据仓库,spark,实时,flink,java,分布式计算
+
 
 ```
 JD: 1、负责抖音电商业务的实时数据仓库的构建；
@@ -3901,12 +4372,14 @@ Req: 1、具备扎实的Java语言基础；
 4、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力；
 5、有数据仓库经验优先。,.etc
 
+
 ```
 
 
 ##### 杭州-数据湖存储 Tech Lead/架构师-Hudi
 * URL: https://jobs.bytedance.com/referral/pc/position/7290498338754595129/detail
 * Match:7:大数据,spark,presto,flink,数据湖,hive,delta lake
+
 
 ```
 JD: 数据引擎-存储引擎团队，负责开源数据湖 Hudi 的内核研发。团队内部有多名 Apache Committer，在国内外有较强的技术影响力，和国内顶尖的大数据计算、存储领域的专家一起合作，一起打造业界领先的 EB 级超大规模数据湖，并通过火山引擎的湖仓一体平台 LAS 对外输出。
@@ -3919,12 +4392,14 @@ Req: 1、熟悉开源数据湖存储方案 Hudi，Iceberg，Delta Lake 其一的
 3、具备大规模系统的故障诊断与性能优化能力；
 4、具有较强的项目推动能力，能推动技术项目在业务侧的落地。,.etc
 
+
 ```
 
 
 ##### 杭州-测试/资深测试开发工程师-国际电商平台治理
 * URL: https://jobs.bytedance.com/referral/pc/position/7270046940833990971/detail
 * Match:7:go,监控,python,java,治理,kafka,devops
+
 
 ```
 JD: 1、主要负责国际电商风险控制、内容安全等治理产品的质量保障工作；
@@ -3937,12 +4412,14 @@ Req: 1、本科及以上学历，计算机相关专业，3年及以上服务端�
 2、精通 Python/Javascript/Go 中的一种或者多种语言，熟悉各种基本的中间件，如Redis、rocketMQ、Kafka 等；
 3、熟悉服务端或者客户端质量测试方法和技术，包括但不限于服务端性能压测、自动化、客户端稳定性、客户端性能、DevOps等,.etc
 
+
 ```
 
 
 ##### 杭州-游戏AI研发工程师（AI工程方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7376529100598626611/detail
 * Match:7:大数据,aws,kubernetes,go,docker,python,linux
+
 
 ```
 JD: 1、负责各类AIGC技术在游戏项目中工程落地，需要你对于各类AIGC技术保持热爱和好奇，同时拥有资深的软件工程经验。包括但不限于：负责组内算法的工程落地，确保服务快速搭建、线上稳定、易维护；
@@ -3953,12 +4430,14 @@ Req: 1、优秀的编码能力和框架设计能力，逻辑清晰理解能力�
 2、熟练掌握Python，熟悉Js/C++/Golang/C#/Lua等加分，熟练使用docker、linux系统、Kubernetes；
 3、对于LLM技术热爱，有过Prompt Engine经验；日常使用LLM提效经验；理解,.etc
 
+
 ```
 
 
 ##### 杭州-火山引擎-大模型方舟平台研发工程师/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7296414738451400998/detail
 * Match:7:kubernetes,go,python,java,治理,调度,linux
+
 
 ```
 JD: 1、负责火山引擎-方舟大模型平台的研发，研究大模型在千行百业应用落地的系统化解决方案，大幅降低大模型应用的IT成本，满足用户不断增长的智能交互需求，全面提升用户在未来世界的生活和交流方式；
@@ -3968,12 +4447,14 @@ Req: 1、熟悉Linux平台下的分布式系统的开发及运维，有Golang/Py
 2、能够从产品思维、机器性能和稳定性、团队协作等多种视角，高标准要求自己的技术方案和每一行代码；
 3、对如下一个或多个领域有经验，或者无经验但有浓厚的兴趣（须额外付出自己的时间进行深,.etc
 
+
 ```
 
 
 ##### 杭州-资深后端研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7306724993168754971/detail
 * Match:7:实时,hadoop,java,数仓,kafka,hbase,分布式计算
+
 
 ```
 JD: 1、负责商业化内部数据应用产品的开发与迭代，如BI、埋点平台、实验平台等；
@@ -3986,12 +4467,14 @@ Req: 1、具备良好的沟通能力和自我学习能力，具备较强的责�
 4、对性能调优，算法效率和分布式计算的资源管理策略有较深的理解；
 5、熟悉,.etc
 
+
 ```
 
 
 ##### 杭州-资深后端研发工程师-国际电商数据智能方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7052625538368145701/detail
 * Match:7:go,离线,实时,可视化,java,sql,mysql
+
 
 ```
 JD: 1、负责国际化电商业务数据产品体系的研发设计和建设，通过数据产品和数据服务等方式，赋能商家、运营的业务增长；
@@ -4004,12 +4487,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，5年及以�
 4、良好的设计能力、沟通能力，团队协作能力及项目掌控能力，有owner意识，追求极致；
 5、对业务敏感，能快速理解业务背,.etc
 
+
 ```
 
 
 ##### 杭州-资源调度工程师/架构师 — 配额管理方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7158413066430040334/detail
 * Match:7:kubernetes,yarn,go,离线,java,调度,容器
+
 
 ```
 JD: 字节跳动在 2015 年开启构建微服务体系，拥抱 Go 语言社区，自研微服务框架，采用 Kubernetes 和容器作为在线服务运行环境的统一标准。团队负责构建字节跳动内部容器云平台，为字节产品线提供运行基石；以超大容器集群规模整体支撑了字节内部有产品线，涵盖：今日头条，抖音，西瓜视频等；同时覆盖了在线，离线，机器学习，推荐/广告/搜索等多种应用场景；在持续,.etc
@@ -4023,12 +4508,14 @@ Req: 1、本科及以上学历，计算机相关专业优先；
 具备以下条件者优先：
 1、Kuber,.etc
 
+
 ```
 
 
 ##### 杭州-跨平台研发工程师 - 基础建设方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7322742236298922277/detail
 * Match:7:go,监控,python,java,调度,linux,devops
+
 
 ```
 JD: 1、负责CI系统的核心能力开发和架构优化，如 CommitQueue、分布式调度服务、配置服务、动态 pipeline 定制以及指标监控等；
@@ -4042,12 +4529,14 @@ Req: 1、获得计算机科学、电子工程等相关专业的本科或以上�
 加分项：
 1、熟悉 ,.etc
 
+
 ```
 
 
 ##### 杭州-风控算法工程师-大模型业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7306049805117131045/detail
 * Match:7:大数据,spark,flink,python,java,hive,治理
+
 
 ```
 JD: 1、负责整个字节跳动大模型业务线的策略算法工作，解决大模型产品（豆包 、扣子 、星绘 、猫箱）中的流量，内容安全以及社区生态风险问题；
@@ -4057,12 +4546,14 @@ Req: 1、本科及以上学历，3年及以上工作经验，能够担当以下�
 2、熟悉C++、JAVA、Python中的一种或多种编程技术，编程能力强，了解大数据处理技术(hive/spark/flink)，善于学习应用业界领先数据架构和技术；
 ,.etc
 
+
 ```
 
 
 ##### 杭州-高级后端开发工程师-资金中台
 * URL: https://jobs.bytedance.com/referral/pc/position/7306413484480497947/detail
 * Match:7:go,python,java,sql,kafka,linux,mysql
+
 
 ```
 JD: 部门介绍：成为字节跳动广告收入增长的驱动力之一。成为以数据为中心的技术的先驱，并构建可衡量的高质量数据、服务和产品。负责广告计费、广告信用、广告优惠券、销售激励以及广告商和代理商激励。为财务报告提供数据也是该团队的责任。
@@ -4076,12 +4567,14 @@ Req: 1、深入理解计算机原理，有扎实的数据结构和算法基础�
 4、精通Java/Go/C/C++/Python等至少一门语言；
 5、熟练使用MySQL/Redis/Memcached/Kafka等常用存储技术，并熟悉其部署方案和实现,.etc
 
+
 ```
 
 
 ##### 杭州-高级数据仓库开发工程师(杭州)
 * URL: https://jobs.bytedance.com/referral/pc/position/7278958044204665147/detail
 * Match:7:数据仓库,spark,hadoop,etl,数仓,治理,sql
+
 
 ```
 JD: 1、主导财经业务相关主题的分布式数据仓库规划、设计、落地及运营；
@@ -4094,12 +4587,14 @@ Req: 1、计算机相关专业本科及以上学历；
 4、具备海量数据加工处理（ETL）及运维相关经验，灵活运用各类SQL实现数据ETL加工处理； 
 5、熟悉Hadoop生态相关技术,.etc
 
+
 ```
 
 
 ##### 杭州-AML机器学习平台SRE工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7445125822421813512/detail
 * Match:6:kubernetes,go,python,治理,调度,linux
+
 
 ```
 JD: 团队介绍：AML是字节跳动公司的机器学习中台，为抖音/今日头条/西瓜视频等业务提供推荐/广告/CV/语音/NLP的训练和推理系统。为公司内业务部门提供强大的机器学习算力，并在这些业务的问题上研究一些具有通用性和创新性的算法。同时，也通过火山引擎将一些机器学习/推荐系统的核心能力提供给外部企业客户。此外，AML还在AI for Science，科学计算等领域做,.etc
@@ -4111,12 +4606,14 @@ Req: 1、三年以上运维开发项目经验；
 5、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分；
 6、有良好,.etc
 
+
 ```
 
 
 ##### 杭州-NoSQL数据库产品开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7031785500081342750/detail
 * Match:6:k8s,go,python,java,sql,hbase
+
 
 ```
 JD: 1、打造世界领先的云原生NoSQL云服务平台产品，作为核心产品服务火山云用户和抖音业务系统；
@@ -4130,12 +4627,14 @@ Req: 1、具备数据库领域相关的开发工作经验，掌握分布式、�
 4、熟练使用K8S，并掌握工作原理者优先；
 5、掌握Redis、MongoDB、HBase、RocksDB等数据,.etc
 
+
 ```
 
 
 ##### 杭州-云稳定性架构师/技术专家-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7098287913527675143/detail
 * Match:6:go,监控,python,java,治理,devops
+
 
 ```
 JD: 平台架构-稳定性团队，负责火山引擎云产品稳定性保障体系的建设与运行。通过践行字节智能运维的最佳实践，以专业、高效、创新的平台化系统，让一切问题无所遁形，保障云上客户业务在飞速发展中稳如磐石。
@@ -4148,12 +4647,14 @@ Req: 1、熟悉云基础产品服务架构，对云计算、云网络、存储�
 3、有很强的分析复杂问题和解决复杂问题的能力，有强烈的责任心和使命感；
 4、熟悉面向对象设计，有较强的业务抽象能力，Golang/Python/Java至少,.etc
 
+
 ```
 
 
 ##### 杭州-云计算运维开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7043749134558578951/detail
 * Match:6:go,可视化,监控,python,java,linux
+
 
 ```
 JD: 1、负责字节跳动基础架构SRE（tob方向）运维自动化平台及其组件的设计和开发,优化,编码改进运维支持系统，并保证其安全高效稳定的运行，提升运维质量及效率；
@@ -4167,12 +4668,14 @@ Req: 1、计算机相关专业本科以上学历，2年以上系统运维或研�
 5、有运维自动化、监控系统、发布系统、运营支撑系统等开发经验者优先
 6、有大型分布式系统设计与开发经验者,.etc
 
+
 ```
 
 
 ##### 杭州-全栈研发工程师-Ads Dev Infra
 * URL: https://jobs.bytedance.com/referral/pc/position/7446769256404289799/detail
 * Match:6:go,监控,python,java,治理,linux
+
 
 ```
 JD: 1、为字节跳动商业化场景建设业务效能产品与解决方案，实现在系统研发模式、系统治理模式和架构能力交付模式上的迭代升级，支撑抖音、今日头条、西瓜视频、番茄小说、穿山甲等各类产品广告业务的发展，也驱动广告架构能力指标的代际提升；
@@ -4184,12 +4687,14 @@ Req: 1、本科及以上学历，计算机、软件工程等相关专业，具�
 3、深入理解各种Web前端技术和前端主流技术栈，追求高品质代码，注重代码的工程质量；
 4、在Go/Java/Python/Node.js等一个或多个后端领域有经验，在数据库、性能优化和线上监控等方面有实战,.etc
 
+
 ```
 
 
 ##### 杭州-分布式存储引擎研发专家-OLAP数据库
 * URL: https://jobs.bytedance.com/referral/pc/position/7226316162267072828/detail
 * Match:6:clickhouse,go,sql,调度,olap,mysql
+
 
 ```
 JD: 1、参与分布式数据库（云原生架构）存储引擎设计实现，打造业界领先的OLAP数据库系统；
@@ -4203,12 +4708,14 @@ Req: 1、学历年龄不限，熟练使用C/C++/Golang等语言的其中一项�
 等等；
 4、曾参与或主导过主流开源系统/企业级系统存储引擎设计,.etc
 
+
 ```
 
 
 ##### 杭州-前端开发专家/工程师 - 基础架构（杭州）
 * URL: https://jobs.bytedance.com/referral/pc/position/7323843708151171354/detail
 * Match:6:大数据,kubernetes,java,治理,sql,容器
+
 
 ```
 JD: 字节跳动基础架构团队主要负责公司云基础建设，支撑着字节跳动旗下多款APP产品，如抖音、今日头条、番茄小说、西瓜视频、飞书、剪映等，同时也负责支持火山引擎公有云业务。迄今为止，我们通过云技术管理着百万量级的服务器构成的超大数据中心；我们通过字节深度优化的Kubernetes管理超过千万容器实例支持10万+微服务；我们还通过丰富的存储产品矩阵，如NewSQL、N,.etc
@@ -4218,12 +4725,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 3、熟悉ReactNative/Weex框架，有相关开发经验者优先；
 4、熟悉Express/Ko,.etc
 
+
 ```
 
 
 ##### 杭州-可靠性架构师 - 火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7249215328000379195/detail
 * Match:6:go,监控,python,java,治理,devops
+
 
 ```
 JD: 1、分析和识别云产品服务的稳定性与高可用的薄弱点，掘并抽象故障场景，给出解决方案并推进落地与验证；
@@ -4236,12 +4745,14 @@ Req: 1、熟悉云基础产品服务架构，对云计算、云网络、存储�
 3、有很强的分析复杂问题和解决复杂问题的能力，有强烈的责任心和使命感；
 4、熟悉面向对象设计，有较强的业务抽象能力，Golang/Python/Java至少了解,.etc
 
+
 ```
 
 
 ##### 杭州-后端/资深后端研发工程师-跨境电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7281603724710807845/detail
 * Match:6:go,java,治理,sql,调度,mysql
+
 
 ```
 JD: 团队介绍：跨境电商业务是字节跳动国际电商业务的重点发展板块，我们持续探索着更有效的商业模式和更有针对性的电商解决方案，致力于为跨境商家和合作伙伴提供更大的生意机会和发展平台，为全球用户提供优质商品和购物体验。目前国际电商业务为跨境商家提供“商家自运营”和“全托管”等经营模式，让不同类型商家发挥其优势，共拓新蓝海。
@@ -4254,12 +4765,14 @@ Req: 1、熟练掌握至少一种服务端的主流编程语言、框架及相�
 3、熟悉Memcached/Redis、MongoDB、Elasticsearch等主流NoSQL技术和应用，有系统设计和开发经验者优先；
 4、理解常规,.etc
 
+
 ```
 
 
 ##### 杭州-后端/资深后端研发工程师-跨境电商价格方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7349096228481730826/detail
 * Match:6:go,离线,java,sql,linux,mysql
+
 
 ```
 JD: 团队介绍：跨境电商业务是字节跳动国际电商业务的重点发展板块，我们持续探索着更有效的商业模式和更有针对性的电商解决方案，致力于为跨境商家和合作伙伴提供更大的生意机会和发展平台，为全球用户提供优质商品和购物体验。目前国际电商业务为跨境商家提供“商家自运营”和“全托管”等经营模式，让不同类型商家发挥其优势，共拓新蓝海。
@@ -4272,12 +4785,14 @@ Req: 1、本科及以上学历，精通Golang/Java/C/C++/PHP中的一种或者�
 4、具备复杂业务场景下的功能拆解、数据一致性、容错降级和分库分表能力；
 5、有一定的数据研发能力，包括离线相,.etc
 
+
 ```
 
 
 ##### 杭州-后端/资深后端研发工程师-跨境电商营销方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7349096075183180070/detail
 * Match:6:go,java,治理,sql,linux,mysql
+
 
 ```
 JD: 团队介绍：跨境电商业务是字节跳动国际电商业务的重点发展板块，我们持续探索着更有效的商业模式和更有针对性的电商解决方案，致力于为跨境商家和合作伙伴提供更大的生意机会和发展平台，为全球用户提供优质商品和购物体验。目前国际电商业务为跨境商家提供“商家自运营”和“全托管”等经营模式，让不同类型商家发挥其优势，共拓新蓝海。
@@ -4290,12 +4805,14 @@ Req: 1、精通Golang/Java/C/C++/PHP中的一种或者多种语言、熟悉OOP�
 4、英语基础较好者优先，有电商系统开发经验者优先；
 5、业务理解能力强、技术学习迁移能力强、责任心强、具备良好的,.etc
 
+
 ```
 
 
 ##### 杭州-后端开发工程师-数据应用
 * URL: https://jobs.bytedance.com/referral/pc/position/7296370239640602890/detail
 * Match:6:大数据,clickhouse,go,java,olap,hbase
+
 
 ```
 JD: 1、参与支持字节跳动短视频业务的数据服务；
@@ -4307,12 +4824,14 @@ Req: 1、掌握Java、go等至少一种语言，计算机基础扎实，熟悉�
 3、熟练使用kv数据，对hbase，redis等kv数据库有使用经验；
 4、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
+
 ```
 
 
 ##### 杭州-后端研发Leader-电商供应链物流
 * URL: https://jobs.bytedance.com/referral/pc/position/6998356549300504869/detail
 * Match:6:go,java,hbase,sql,linux,mysql
+
 
 ```
 JD: 1、参与组建并带领相关技术团队，配合业务产品完成技术规划、架构设计、研发落地；
@@ -4324,12 +4843,14 @@ Req: 1、精通Java/Golang中的一种或者多种语言，有较强的架构能
 2、熟悉Memcached或Redis、Hbase等NoSQL技术，有大规模系统设计和开发经验者优先；沟通能力强，良好的团队合作精神；
 3、计算机、软件、通讯、数学等相关,.etc
 
+
 ```
 
 
 ##### 杭州-后端研发leader-抖音电商营销
 * URL: https://jobs.bytedance.com/referral/pc/position/7155445945626609928/detail
 * Match:6:go,java,治理,sql,linux,mysql
+
 
 ```
 JD: 1、负责电商营销整体用户产品/运营产品/基础能力建设，完善直播电商和货架电商导购链路营销产品，构建亿级日活营销能力；
@@ -4344,12 +4865,14 @@ Req: 1、精通Java/Golang/PHP中的一种或者多种语言，有较强的架�
 4、学习能力强，具备良好的问题分析和解决能力，对新技术有敏感性并愿意致力于新技术研究；
 5、质量,.etc
 
+
 ```
 
 
 ##### 杭州-后端研发工程师-Ads Dev Infra
 * URL: https://jobs.bytedance.com/referral/pc/position/7446770121534671112/detail
 * Match:6:go,监控,python,java,治理,linux
+
 
 ```
 JD: 1、为字节跳动商业化场景建设业务效能产品与解决方案，实现在系统研发模式、系统治理模式和架构能力交付模式上的迭代升级，支撑抖音、今日头条、西瓜视频、番茄小说、穿山甲等各类产品广告业务的发展，也驱动广告架构能力指标的代际提升；
@@ -4361,12 +4884,14 @@ Req: 1、本科及以上学历，计算机、软件工程等相关专业，具�
 3、深入理解各种Web前端技术和前端主流技术栈，追求高品质代码，注重代码的工程质量；
 4、在Go/Java/Python/Node.js等一个或多个后端领域有经验，在数据库、性能优化和线上监控等方面有实战,.etc
 
+
 ```
 
 
 ##### 杭州-后端研发工程师-业务安全（北/上/杭/深）
 * URL: https://jobs.bytedance.com/referral/pc/position/7034470697641281828/detail
 * Match:6:go,python,java,hbase,sql,mysql
+
 
 ```
 JD: 1、负责抖音、直播、开放平台等相关系统和产品功能服务端研发工作，构建内容安全平台，保证系统的稳定性并提升安全策略的实施效率，保障短视频及海量直播间的内容安全，包括但不限于：规则引擎、策略平台、特征平台、审核流系统、审核操作平台、劳动力管理平台、风险感知、风控数据、处置中心等等系统建设；
@@ -4379,12 +4904,14 @@ Req: 1、一年以上的Golang/Java/Python开发经验，具有较强的责任�
 4、具备良好的编码习惯，结构清晰，命名规范，逻辑性强，代码冗余率低；
 5、有大规模分布式系统的设计和开发,.etc
 
+
 ```
 
 
 ##### 杭州-后端研发工程师-抖音电商营销中心
 * URL: https://jobs.bytedance.com/referral/pc/position/7102029269034977572/detail
 * Match:6:go,java,治理,sql,linux,mysql
+
 
 ```
 JD: 1、负责电商营销整体用户产品/运营产品/基础能力建设，完善直播电商和货架电商导购链路营销产品，构建亿级日活营销能力；
@@ -4398,12 +4925,14 @@ Req: 1、精通Java/Golang/PHP中的一种或者多种语言，有较强的架�
 4、学习能力强，具备良好的问题分析和解决能力，对新技术有敏感性并愿意致力于新技术研究；
 5,.etc
 
+
 ```
 
 
 ##### 杭州-后端高级开发工程师-抖音
 * URL: https://jobs.bytedance.com/referral/pc/position/6954304023337388325/detail
 * Match:6:go,python,java,hbase,sql,mysql
+
 
 ```
 JD: 我们是抖音社区安全团队，我们致力于保障用户在抖音中能安全的创作和消费内容，具有更好的社交体验，为产品的增长保驾护航。
@@ -4416,12 +4945,14 @@ Req: 1、一年以上开发经验，一年以上的Golang/Java/Python开发经�
 4、具备良好的编码习惯，结构清晰，命名规范，逻辑性强，代码冗余率低；
 5、有大规模分布,.etc
 
+
 ```
 
 
 ##### 杭州-后端高级研发工程师-业务风控平台
 * URL: https://jobs.bytedance.com/referral/pc/position/7315205910119549194/detail
 * Match:6:go,python,java,sql,linux,mysql
+
 
 ```
 JD: 1、负责业务风控中台服务端开发工作。深入风控风险排查与风险风控平台，赋能业务健康发展，打造业界领先的风控智能平台，守护用户美好生活；
@@ -4433,12 +4964,14 @@ Req: 1、计算机相关专业，5年以上后端系统开发经验，有管理�
 2、熟悉Golang/Java/PHP/Python/C++等至少一门语言，Golang、Java、Python经验者优先；
 3、熟悉常用的互联网技术，包括但不限于Linux系统及原理、PSQL/MySQL、NoSQL、Neo4J, RPC、MQ、缓存技术、微服务架构、应用运维部署、可靠性与稳,.etc
 
+
 ```
 
 
 ##### 杭州-国际支付-SRE运维研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7304971272835303731/detail
 * Match:6:go,监控,python,java,治理,linux
+
 
 ```
 JD: 关于我们：
@@ -4453,12 +4986,14 @@ Req: 1、本科及以上学历，计算机相关专业；
 4、熟悉一种或多种编程语言，如 Python/Go/Java/Shell/C++等；
 5、善于沟通协作，积极响应解决问题，善于发现运维痛点，并提出方案进行优化。,.etc
 
+
 ```
 
 
 ##### 杭州-基础架构数据运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7390004612907043110/detail
 * Match:6:数据仓库,可视化,python,治理,sql,tableau
+
 
 ```
 JD: 1、负责云平台数据指标体系构建，定义数据标准，产出数据规范，并推动标准和规范的落地，推动数据治理的完成；
@@ -4473,12 +5008,14 @@ Req: 1、5年及以上互联网数据分析工作经验，有较强的数据统�
 5、熟悉Python，掌握Tableau、PowerBI等数据可视化工具者优先；
 6、英语水平较好，,.etc
 
+
 ```
 
 
 ##### 杭州-大数据架构师-数据应用
 * URL: https://jobs.bytedance.com/referral/pc/position/7301662988813191433/detail
 * Match:6:大数据,clickhouse,go,java,olap,hbase
+
 
 ```
 JD: 1、负责支持字节短视频业务某一垂类的业务支持，对应方向的POC；
@@ -4491,12 +5028,14 @@ Req: 1、掌握Java、go等至少一种语言，计算机基础扎实，熟悉�
 4、有负责过数据产品建设建设经验，短视频行业优先；
 5、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能,.etc
 
+
 ```
 
 
 ##### 杭州-广告算法工程师-国际商业产品与技术
 * URL: https://jobs.bytedance.com/referral/pc/position/7304510359632873755/detail
 * Match:6:go,spark,hadoop,python,java,分布式计算
+
 
 ```
 JD: 1、参与/负责字节跳动国际化业务广告排序算法优化，提升系统变现效率，优化客户体验；
@@ -4507,12 +5046,14 @@ Req: 1、计算机或相关专业本科及以上学历，2年以上广告/推荐
 2、扎实的数据结构和算法功底，编程能力强悍，熟练使用 C/C++/Python/Java/Golang 等编程语言，优先：有海量数据处理和分布式计算开发经验，熟悉 Hadoop、Spark 框架；
 3、有传统机器学习，深度学习相关知识背景，优先,.etc
 
+
 ```
 
 
 ##### 杭州-搜索架构工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7291877177066506505/detail
 * Match:6:clickhouse,离线,实时,调度,linux,分布式计算
+
 
 ```
 JD: 团队介绍：字节跳动搜索团队主要负责抖音、今日头条、西瓜视频等产品的搜索算法创新和架构研发工作。我们使用最前沿的机器学习技术进行端到端建模并不断创新突破，同时专注于分布式系统、机器学习系统的构建和性能优化，从内存、Disk等优化到索引压缩、召回、排序等算法的探索，充分给同学们提供成长自我的机会。主要工作方向包括：1、探索最前沿的NLP技术：从基础的分词、NER,.etc
@@ -4523,12 +5064,14 @@ Req: 1、具备扎实的计算机理论基础、出色的编码能力、出色�
 4、有主流大规模推荐/搜索引擎架构研发经验者优先；
 5、熟悉分布式系统相关理论，有分布式数据库、分布式计算框架,.etc
 
+
 ```
 
 
 ##### 杭州-数据库基础平台测试开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7361731557943609610/detail
 * Match:6:k8s,go,python,java,调度,容器
+
 
 ```
 JD: 1、负责数据库产品的统一分布式控制平台的质量保障团队的搭建和管理；
@@ -4540,12 +5083,14 @@ Req: 1、本科及以上学历，5年以上工作经验，有过实线或虚线�
 3、主导或负责过集群管理、服务发现、云配置中心、资源调度等测试经验；
 4、熟悉一门以上脚本语言(Python/Shell等)，了解一门以上开发语言（Go/J,.etc
 
+
 ```
 
 
 ##### 杭州-数据库稳定性工程师/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7311546927861991730/detail
 * Match:6:go,可视化,python,java,sql,linux
+
 
 ```
 JD: 1、负责数据库产品线稳定性整体规划、稳定性建设技术方案输出等稳定性相关研发活动；
@@ -4560,12 +5105,14 @@ Req: 1、本科及以上学历，计算机相关专业，五年及以上相关�
 
 具备以下条,.etc
 
+
 ```
 
 
 ##### 杭州-数据科学家-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7121706569926854919/detail
 * Match:6:大数据,spark,hadoop,python,hive,sql
+
 
 ```
 JD: 1、负责抖音电商商家端相关业务的数据科学及分析工作；
@@ -4578,12 +5125,14 @@ Req: 1、计算机/统计学/数学等相关专业本科及以上学历，有3�
 3、熟悉常见的数据分析及挖掘方法，以及常用的机器学习算法，了解深度学习原理和框架，具备优秀的理论研究和实际落地能力；
 4、良好的问题分析解,.etc
 
+
 ```
 
 
 ##### 杭州-数据科学家-电商供应链与物流
 * URL: https://jobs.bytedance.com/referral/pc/position/7392217489470966067/detail
 * Match:6:大数据,spark,hadoop,python,hive,sql
+
 
 ```
 JD: 1、负责电商供应链与物流相关业务的数据科学及分析工作；
@@ -4595,12 +5144,14 @@ Req: 1、计算机、统计学、数学等相关专业，有3年以上数据挖�
 2、精通SQL，熟练使用R/Python进行数据清洗、分析、建模，熟悉Hadoop/Spark/Hive/Blink等大数据相关组件；
 3、熟悉常见的数据分析及挖掘方法，以及常用的机器学习算法，了解深度学习原理和框架，具备优秀的理论研究和实际落地能力；,.etc
 
+
 ```
 
 
 ##### 杭州-测试/资深测试开发工程师-国际电商营销
 * URL: https://jobs.bytedance.com/referral/pc/position/7270040990482909501/detail
 * Match:6:go,监控,python,java,kafka,devops
+
 
 ```
 JD: 1、负责国际电商营销业务全生命周期的质量保障，包含营销导购、营销活动、营销工具、用户增长、招商选品、搭建投放、价格计算等电商业务领域；
@@ -4611,12 +5162,14 @@ Req: 1、本科及以上学历，计算机相关专业，3年及以上服务端�
 2、精通 Python/Javascript/Go 中的一种或者多种语言，熟悉各种基本的中间件，如Redis、rocketMQ、Kafka 等；
 3、熟悉服务端或者客户端质量测试方法和技术，包括但不限于服务端性能压测、自动化、资损、监控、DevOps等，至少对以上某,.etc
 
+
 ```
 
 
 ##### 杭州-测试开发工程师-国际支付（风控合规方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7186921183476255037/detail
 * Match:6:大数据,go,python,java,sql,linux
+
 
 ```
 JD: 1、参与国际支付风控合规系统的质量保障工作；
@@ -4630,12 +5183,14 @@ Req: 1、本科及以上学历，计算机相关专业，3年及以上互联网�
 3、熟练使用至少一种编程语言，包括但不仅限于：Java、OC、C、C++、Python、Go、PHP；
 4、具有良好的沟通协调和文档撰写能力，善于发现、定位、分析和总结问题，责任心强，吃苦,.etc
 
+
 ```
 
 
 ##### 杭州-研发工程师-跨端基础开发平台
 * URL: https://jobs.bytedance.com/referral/pc/position/7299410467012118794/detail
 * Match:6:go,python,java,调度,linux,devops
+
 
 ```
 JD: 1、负责CI系统能力开发和架构优化 ，包括Commit Queue，静态代码扫描服务，分布式调度服务，配置服务，动态Pipeline定制等；
@@ -4651,12 +5206,14 @@ Req: 1、本科及以上学历，计算机科学，EE相关专业；
 1、熟悉Android/iOS构建，有基础架构自动化、DevOps或CI/CD方面经验；
 2、有,.etc
 
+
 ```
 
 
 ##### 杭州-研发效能测试开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7000204421099981086/detail
 * Match:6:大数据,go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责云数据库团队工程效率相关平台或工具的优化与开发；
@@ -4670,12 +5227,14 @@ Req: 1、本科及以上学历，5年以上工作经验，计算机、软件工�
 4、具备自动化测试、性能测试、稳定性测试相关经验，有开发相关工具或平台经验者优先；
 5,.etc
 
+
 ```
 
 
 ##### 杭州-稳定性平台研发工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7296787357482125595/detail
 * Match:6:go,监控,java,治理,sql,mysql
+
 
 ```
 JD: 1、负责电商稳定性平台建设，参与风险防范、监控告警、归因定位、预案平台、链路平台等模块开发，致力于构建高效的平台产品能力；
@@ -4687,12 +5246,14 @@ Req: 1、具备稳定性和全故障生命周期建设能力；
 3、有良好的沟通表达能力，及团队合作意识，对问题有清晰的分析逻辑和全局思维；
 4、有稳定性建设经验者加分，包括但不限于业务域稳定性治理经验、稳定性平台建设经验、或稳,.etc
 
+
 ```
 
 
 ##### 杭州-资深后端研发工程师-电商即时配送方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7358725515584735515/detail
 * Match:6:大数据,go,java,sql,linux,mysql
+
 
 ```
 JD: 1、负责即时零售的配送履约、定价、ETA方向系统设计、核心功能开发等，保证业务需求实施落地；
@@ -4705,12 +5266,14 @@ Req: 1、精通Java/Golang/PHP中的一种或者多种语言，有扎实的编�
 3、熟悉Redis、mysql、MQ、RPC、NoSQL等应用开发和原理，熟悉相关的性能优化原理，有大规模系统设计和开发经验者优先；
 4、熟悉分布式架构、常,.etc
 
+
 ```
 
 
 ##### 杭州-资深开发工程师-云原生网关方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7428515733472233779/detail
 * Match:6:kubernetes,go,治理,sql,容器,mysql
+
 
 ```
 JD: 1、负责云原生容器平台中云原生网关的架构设计演进以及商业化产品开发；
@@ -4725,12 +5288,14 @@ Req: 1、本科及以上学历，计算机等相关专业；
 4、熟悉云原生网关相关技术栈，包括但不限于：Isito+envoy、Gloo、Nginx等，有相关社区开源贡献经验尤佳；
 5、熟悉云计算架构体系和技术解决方,.etc
 
+
 ```
 
 
 ##### 杭州-资深数据开发工程师-集团信息系统
 * URL: https://jobs.bytedance.com/referral/pc/position/7249650077828286757/detail
 * Match:6:大数据,数据仓库,hadoop,hive,sql,mysql
+
 
 ```
 JD: 1、对业务问题进行合理抽象和设计，设计和开发高质量的底层数据体系，驱动业务快速健康发展；
@@ -4746,12 +5311,14 @@ Req: 1、熟悉SQL/HQL/PLSQL之一，有SQL性能调优经验者优先；
 5、有电信，金融等行业应用经验者优先；
 6、具备优秀的逻辑思维能力，对解决挑战性问题充满热情，善于解决问题和,.etc
 
+
 ```
 
 
 ##### 杭州-运维平台架构师/Tech Lead-交付&效能方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7293056654369917194/detail
 * Match:6:大数据,go,python,java,linux,devops
+
 
 ```
 JD: 1、负责字节跳动基础架构部基础组件（计算/存储/数据库/大数据等产品）的统一运维管控平台的架构设计与开发工作，打造业界领先的运维基础设施平台；
@@ -4764,12 +5331,14 @@ Req: 1、本科及以上学历，计算机相关专业，并有五年及以上�
 3、熟悉 DevOps/云原生/云计算等相关生态体系和常见工具链，有 PaaS 平台/效能平台/资源运营平台建设经验者优先；
 4、有较好的架构设计、代码开发经验，能够制定,.etc
 
+
 ```
 
 
 ##### 杭州-运维平台架构师/Tech Lead-监控平台稳定性方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7281255920268855613/detail
 * Match:6:大数据,go,监控,python,java,linux
+
 
 ```
 JD: 1、负责字节跳动基础架构计算/存储/数据库/大数据等产品的统一运维管控平台的架构设计与开发工作，打造业界领先的运维基础设施平台；
@@ -4781,12 +5350,14 @@ Req: 1、本科及以上学历，计算机相关专业，并有五年及以上�
 3、有较好的架构设计、代码开发经验，能够制定可拆解可落地的目标，并能够在技术和产品设计上指导团队内同学；
 4、熟悉监控/告警/日志/事件/Trace等全链路观测产品体系，从0到,.etc
 
+
 ```
 
 
 ##### 杭州-高级后端开发工程师/架构师-互联网信贷
 * URL: https://jobs.bytedance.com/referral/pc/position/7257073832065468729/detail
 * Match:6:大数据,go,监控,python,java,治理
+
 
 ```
 JD: 1、参与并负责互联网信贷核心系统的设计、开发及维护；
@@ -4802,12 +5373,14 @@ Req: 1、本科及以上学历，5年以上工作经验，熟悉Java/PHP/C++/Go/
 4、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 5、有服务治理，稳定性提升，容量规划等高可用,.etc
 
+
 ```
 
 
 ##### 杭州-高级后端研发工程师-互娱抖音服务架构
 * URL: https://jobs.bytedance.com/referral/pc/position/7418575166462822694/detail
 * Match:6:go,python,java,kafka,sql,mysql
+
 
 ```
 JD: 团队介绍：互娱研发部门负责多款大型产品的研发，包括但不限于抖音、头条、剪映、西瓜视频、番茄小说、汽水音乐，截止2020年8月，抖音连同抖音火山版在内，日活用户超6亿。
@@ -4822,12 +5395,14 @@ Req: 1、本科及以上学历，计算机相关专业；
 4、具备良好的业务沟通能力和解决复杂问题能力，有较好的创新自驱力，责任心强；
 5、有大容量、高性能、稳定性的设计开发经验优先。,.etc
 
+
 ```
 
 
 ##### 杭州-FaaS研发工程师-基础架构
 * URL: https://jobs.bytedance.com/referral/pc/position/7438537773952813320/detail
 * Match:5:aws,kubernetes,go,python,java
+
 
 ```
 JD: 1、参与函数计算平台的设计与研发工作，打造易用的Serverless平台，为业务提供增效价值；
@@ -4841,12 +5416,14 @@ Req: 1、扎实的编程能力，优秀的算法和数据结构功底；
 4、有Kubernetes、OpenFaaS、Knative、WASM、V8等开源项目经验的同学优先；
 5、熟悉AWS Lambda、Google Fun,.etc
 
+
 ```
 
 
 ##### 杭州-Kubernetes 技术专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7312655809577421107/detail
 * Match:5:大数据,数据仓库,kubernetes,go,python
+
 
 ```
 JD: 团队负责数百万节点的云原生基础设施，支撑公司的所有产品线。目前在 kubernetes 集群管控技术，运行时资源优化，多云多集群，云原生基础设施稳定性保障方面都会比较深入的技术积累，并且开源有 kubebrain, katalyst 等云原生基础技术相关项目，团队持续围绕以资源并池，资源弹性为中心的基础技术研发和突破。
@@ -4858,12 +5435,14 @@ Req: 1、具备扎实的计算机理论基础，有扎实的操作系统，体�
 3、对大规模分布式系统感兴趣，有分布式系统的实践经验，精通 kubernetes 系统更佳；
 4、有好奇心，有技术热情，能自我驱动，喜欢钻研，具备良好的学习能力。,.etc
 
+
 ```
 
 
 ##### 杭州-Kubernetes 技术专家-Dev Infra
 * URL: https://jobs.bytedance.com/referral/pc/position/7280535014453250362/detail
 * Match:5:k8s,kubernetes,go,linux,容器
+
 
 ```
 JD: 1、负责字节跳动 Dev Infra 研发环境 Kubernetes 系统（macOS/Linux/Win多平台）开发优化和解决方案；
@@ -4875,12 +5454,14 @@ Req: 1、具备扎实的计算机基础知识，熟悉Golang，掌握常见的�
 3、有容器相关开发经验，能够解决复杂问题和性能优化，对macOS平台开发熟悉者优先；
 4、熟悉 CNCF 云原生周边生态，对CSI/CNI、Istio、Karmada、FinOps有实际经验者优先,.etc
 
+
 ```
 
 
 ##### 杭州-SaaS服务技术架构师-飞书零代码/低代码业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7246276185536743738/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 1、业务架构/SaaS服务架构设计经验丰富，精通系统架构、数据架构、安全架构等领域的知识；
@@ -4893,12 +5474,14 @@ Req: 1、丰富的系统架构、数据架构、安全架构设计经验及相�
 4、有低代码平台技术架构经验更优；
 5、优秀的自我驱动能力、问题分析能力、创新思维能力，团队协作管理能力和适应能力。,.etc
 
+
 ```
 
 
 ##### 杭州-云原生数据库MySQL内核开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7035978138349750565/detail
 * Match:5:go,python,sql,linux,mysql
+
 
 ```
 JD: 1、负责字节跳动自研RDS for MySQL及NewSQL产品设计与研发； 
@@ -4911,12 +5494,14 @@ Req: 1、Linux系统知识扎实，精通C/C++/Python/Golang/Rust语言中的一
 1、 熟悉MySQL（InnoDB/MyRocks）/PostgreSQL内核源码开发人员者优先； 
 2、 有Cloud Nati,.etc
 
+
 ```
 
 
 ##### 杭州-产品经理（云原生）
 * URL: https://jobs.bytedance.com/referral/pc/position/6964206545421682974/detail
 * Match:5:kubernetes,docker,监控,容器,devops
+
 
 ```
 JD: 1、参与云原生产品的策划，根据市场及用户反馈，制定产品线路、落实项目方案；
@@ -4934,12 +5519,14 @@ Req: 1、3-5年或以上IaaS/PaaS产品经验；
 1、熟悉虚拟化、网络、存储、Devops、监控、日志、微服务等云计算相关技术；
 2、有,.etc
 
+
 ```
 
 
 ##### 杭州-后端/资深后端研发工程师-隐私合规方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7419226364241725733/detail
 * Match:5:go,离线,python,java,sql
+
 
 ```
 JD: 1、负责电商合规平台的平台设计和研发，为各种业务场景提供合规解决方案的底层能力开发；
@@ -4951,12 +5538,14 @@ Req: 1、本科及以上学历，熟练掌握Golang/Java/Python中的一种语�
 3、有一定的数据研发能力，包括离线相关技术栈的使用，SQL脚本编写；
 4、积极乐观，责任心强，有自驱力，对技术怀有热情，具备良好的服务意识,.etc
 
+
 ```
 
 
 ##### 杭州-后端开发工程师-供应链物流算法工程方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7303823531001940234/detail
 * Match:5:大数据,go,spark,flink,java
+
 
 ```
 JD: 1、负责国际电商供应链物流相关的算法架构、数据生产链路的工程架构工作；
@@ -4967,12 +5556,14 @@ Req: 1、本科及以上学历，5年以上后端或架构经验，具备扎实�
 2、优秀的业务抽象和架构设计能力，熟悉常见设计模式和架构思想，有良好的学习习惯，了解行业最新技术趋势，并且可以结合业务场景，灵活落地；
 3、熟悉主流KV（Redis/MongoDB)，ElasticSearch和向量检索架构，熟悉消,.etc
 
+
 ```
 
 
 ##### 杭州-后端开发工程师-电商商家与运营
 * URL: https://jobs.bytedance.com/referral/pc/position/6828049960023755022/detail
 * Match:5:go,java,sql,linux,mysql
+
 
 ```
 JD: 1、探索字节系平台（抖音、抖音火山版、头条、西瓜视频等）内容电商业务模式，承担系统的设计开发维护工作；
@@ -4984,12 +5575,14 @@ Req: 1、精通Java/Golang/PHP中的一种或者多种语言，有较强的架�
 3、熟悉Memcached或Redis、MongoDB等NoSQL技术，有大规模系统设计和开发经验者优先；
 4、学习能力强，具备良好的问题分析和解决能力，对,.etc
 
+
 ```
 
 
 ##### 杭州-后端开发架构师-抖音支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7143943924313295117/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与并负责字节跳动抖音支付系统开发及维护，支持电商等核心场景；
@@ -5004,12 +5597,14 @@ Req: 1、本科及以上学历，5年以上工作经验，熟悉Java/PHP/C++/Go/
 4、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 5、有服务治理，稳定性提升，容量规划等高可用,.etc
 
+
 ```
 
 
 ##### 杭州-后端开发架构师/专家/工程师-支付商户平台
 * URL: https://jobs.bytedance.com/referral/pc/position/7278942122123331896/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与并负责字节跳动的核心业务场景的支付商家开通、签约、管理等服务能力和支付核心系统开发与维护；
@@ -5023,12 +5618,14 @@ Req: 1、本科及以上学历，2年以上工作经验，熟悉Java/PHP/C++/Go/
 4、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 5、有服务治理，稳定性提升，容量规划等高可用,.etc
 
+
 ```
 
 
 ##### 杭州-后端架构师-抖音电商消费者体验
 * URL: https://jobs.bytedance.com/referral/pc/position/7157976764433402148/detail
 * Match:5:go,监控,python,java,olap
+
 
 ```
 JD: 1、负责抖音电商服务体验子方向，基于全域数据分析，不断发现全链路中产品、规则、流程和服务等问题，通过数字化建设，让服务体验可衡量、可解决、可追踪、可评估；
@@ -5039,12 +5636,14 @@ Req: 1、快速学习能力强，问题分析定位及解决能力强，有良�
 2、精通Golang/Python/Php/Java等一种或多种编程语言，精通数据结构，掌握数据库、网络、操作系统的基本原理，有较强的架构能力和良好代码规范；
 3、有较强的业务抽象能力和推动执行力，理解所负责业务的关键问题，能从产品、技术、数据等视角给业务提出合理建议，并推动落地拿到业,.etc
 
+
 ```
 
 
 ##### 杭州-后端架构师-电商商家产品
 * URL: https://jobs.bytedance.com/referral/pc/position/6937951463716948255/detail
 * Match:5:go,java,sql,linux,mysql
+
 
 ```
 JD: 1、探索字节跳动系平台（抖音、抖音火山版、今日头条、西瓜视频等）内容电商业务模式，承担系统的设计开发维护工作；
@@ -5056,12 +5655,14 @@ Req: 1、精通Java/Golang/PHP中的一种或者多种语言，有较强的架�
 3、熟悉Memcached或Redis、MongoDB等NoSQL技术，有大规模系统设计和开发经验者优先；
 4、学习能力强，具备良好的问题分析和解决能力，对,.etc
 
+
 ```
 
 
 ##### 杭州-后端研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7268215507731728700/detail
 * Match:5:go,可视化,监控,python,java
+
 
 ```
 JD: 1、参与超大规模数据中心网络平台产品及工具服务的建设；
@@ -5075,12 +5676,14 @@ Req: 1、热爱编程，扎实的编程能力，良好的数据结构和算法�
 4、较好的产品意识，对用户需求、体验、交互、操作流程等有一定追求，愿意将产品效果做为工作最重要的驱动因素；
 5、有监控、性能分析、数据可视化相关经验者优先。,.etc
 
+
 ```
 
 
 ##### 杭州-后端研发工程师 -稳定性方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7195475123138169149/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与超大规模数据中心网络平台产品及工具服务的建设；
@@ -5093,12 +5696,14 @@ Req: 1、熟练掌握Go/Python/Java中至少一门开发语言，扎实的编程
 2、3年以上网络运维、监控、高可用保障等技术领域的经验，至少在一个领域有深入的理解；
 3、具备大型互联网基础设施领域相关产品、平台设计及落地经验。,.etc
 
+
 ```
 
 
 ##### 杭州-后端研发工程师-抖音电商商品中心
 * URL: https://jobs.bytedance.com/referral/pc/position/7044823739058686215/detail
 * Match:5:go,java,sql,linux,mysql
+
 
 ```
 JD: 1、承担字节跳动电商中台的多个领域（商品、交易、物流等）的设计、开发与维护，支撑字节跳动平台多个电商业务；
@@ -5110,12 +5715,14 @@ Req: 1、精通Java/Golang/PHP中的一种或者多种语言，有较强的架�
 3、熟悉Memcached或Redis、MongoDB等NoSQL技术，有大规模系统设计和开发经验者优先；
 4、学习能力强，具备良好的问题分析和解决能力，对,.etc
 
+
 ```
 
 
 ##### 杭州-后端研发工程师-搜索
 * URL: https://jobs.bytedance.com/referral/pc/position/7057755743135451406/detail
 * Match:5:go,离线,java,治理,linux
+
 
 ```
 JD: 1、负责抖音/今日头条等多个搜索产品和LLM方向的业务研发工作，追求前沿的技术做出好的搜索产品体验； 
@@ -5129,12 +5736,14 @@ Req: 1、出色的分析问题、解决问题能力，总是能从纷繁复杂�
 4、熟悉Linux开发环境，有C、C++、Golang、Java 等任一种使用娴熟的语言，并不排除学习更多技能； 
 5、有主,.etc
 
+
 ```
 
 
 ##### 杭州-国际支付-SRE运维研发leader
 * URL: https://jobs.bytedance.com/referral/pc/position/7304970409727707430/detail
 * Match:5:go,监控,python,java,linux
+
 
 ```
 JD: 关于我们：
@@ -5148,12 +5757,14 @@ Req: 1、本科及以上学历，计算机相关专业， 有多年SRE平台建�
 3、熟悉一种或多种编程语言，如 Python/Go/Java/Shell/C++等；
 4、善于系统化思考，能够产出高质量规划，并带领团队实施落地。,.etc
 
+
 ```
 
 
 ##### 杭州-基础平台研发工程师（管控方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7122666065004808485/detail
 * Match:5:k8s,go,python,java,调度
+
 
 ```
 JD: 1、负责管控中台的研发工作，为存储、数据库、中间件等产品提供通用的生命周期管理框架和工作流调度引擎，提高产品业务的迭代效率；
@@ -5164,12 +5775,14 @@ Req: 1、计算机相关专业，熟悉Go/Java/Python语言中的一种，1年�
 2、有大规模高并发、高可用应用的架构设计和开发运维经验，对可靠性、性能、可用性等有深刻理解，有存储或数据库管控服务研发经验的优先；
 3、对技术有强烈的进取心，具有良好的沟通能力和团队合作,.etc
 
+
 ```
 
 
 ##### 杭州-容器开发工程师/技术专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7312663813442455817/detail
 * Match:5:kubernetes,go,python,linux,容器
+
 
 ```
 JD: 本团队负责数百万节点的云原生基础设施，支撑公司的所有产品线。目前在 kubernetes 集群管控技术，运行时资源优化，多云多集群，云原生基础设施稳定性保障方面都会比较深入的技术积累，并且开源有 kubebrain, katalyst 等云原生基础技术相关项目，团队持续围绕以资源并池，资源弹性为中心的基础技术研发和突破。
@@ -5181,12 +5794,14 @@ Req: 1、具备扎实的计算机理论基础，有扎实的操作系统，体�
 3、熟悉容器社区，对 Containerd, Kata 等有深入理解，并且有一定的生产环境实践的经验；
 4、对资源隔离有了解，对cgroup、namespace机制有深入了解，熟悉常用的资源隔离手段,.etc
 
+
 ```
 
 
 ##### 杭州-平台开发工程师/专家-DevOps方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7306901106012490034/detail
 * Match:5:go,java,kafka,调度,devops
+
 
 ```
 JD: 1、参与公司自动化工程效能平台的架构设计与研发；
@@ -5198,12 +5813,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，具备良�
 2、熟练掌握至少一种主流编程语言、框架及相关生态（如C/C++/PHP/Java/Golang等），有较强的架构能力和良好的代码规范；
 3、理解常规的架构设计思想，包括但不限于服务化、异步、高可用、可扩展等，有系统性解决问题的思维，有良好的抽象化思维能力和领域建模能力；熟悉,.etc
 
+
 ```
 
 
 ##### 杭州-平台架构研发技术专家/架构师-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7155681889653999902/detail
 * Match:5:go,监控,python,java,devops
+
 
 ```
 JD: 1、负责火山引擎的平台架构工程系统研发，包括需求分析、系统设计、编码实现、测试等工作；
@@ -5216,12 +5833,14 @@ Req: 1、计算机相关专业，本科及以上学历，熟练掌握Golang, Jav
 3、扎实的技术基础，熟悉性能、可用性、伸缩性、扩展性、安全性等开发和设计方案，熟悉行业常见的架构方案；
 4、热爱编程，有较强的学习,.etc
 
+
 ```
 
 
 ##### 杭州-性能工具和平台研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7400215358579951909/detail
 * Match:5:go,离线,python,java,linux
+
 
 ```
 JD: 团队介绍：基础架构 编译&语言 团队致力于解决公司内部大规模集群中编程语言相关的各种问题，包括如何在微服务、离线计算等场景中更好的利用各类语言特性，如何让 Go, Python, Java, Rust 和 JS 等多种语言更好的有机结合在一起，如何使用数据驱动的方式去优化各个业务性能。Lidar 性能平台是 编译&语言 团队维护的全生命周期性能平台，涵盖多场,.etc
@@ -5236,12 +5855,14 @@ Req: 1、本科及以上学历，计算机或相关专业背景；
 2、熟悉Go/Java/Python等编程语言的设计和实现；
 3、有大模型相关应用开发经验。,.etc
 
+
 ```
 
 
 ##### 杭州-成本中心产品经理
 * URL: https://jobs.bytedance.com/referral/pc/position/7291601020878063882/detail
 * Match:5:数据仓库,可视化,etl,sql,mysql
+
 
 ```
 JD: 1、负责字节跳动全球大规模基础设施资源的成本经营及分析平台的产品设计和落地执行工作；
@@ -5254,12 +5875,14 @@ Req: 1、计算机、信息管理、数学或统计学相关专业本科及以�
 3、能够熟练应用一种或多种主流数据库（如：Oracle、MySQL等），有数据库设计经验者优先； 
 4、3年及以上成本经营分析相关工作经验、领域专家、了解技术能力,.etc
 
+
 ```
 
 
 ##### 杭州-推荐平台后端工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7350989841167075634/detail
 * Match:5:go,python,治理,sql,mysql
+
 
 ```
 JD: 团队介绍：字节跳动推荐架构中台团队，负责字节跳动旗下相关产品的推荐系统平台的设计和开发，推进平台项目迭代、保障平台稳定性和一致性。
@@ -5273,12 +5896,14 @@ Req: 1、编程能力扎实，熟悉Python等语言，熟悉MySQL/MongoDB/Redis�
 2、有优秀的设计和代码风格追求，对解决具有挑战性问题有足够热情，有一定的后端架构经验和视野；
 3、对云计算、云平台的开发有经验者优先。,.etc
 
+
 ```
 
 
 ##### 杭州-数据仓库开发工程师-杭州
 * URL: https://jobs.bytedance.com/referral/pc/position/7355427275117349146/detail
 * Match:5:大数据,数据仓库,spark,hadoop,etl
+
 
 ```
 JD: 1、根据不同的业务场景，构建业务指标体系，建立和完善日常业务报告体系，能够及时、准确、完整的披露公司整体及各项目的运作情况；
@@ -5288,12 +5913,14 @@ JD: 1、根据不同的业务场景，构建业务指标体系，建立和完善
 Req: 1、熟悉数据仓库模型设计方法论，并有实际模型设计及ETL开发经验；
 2、思维活跃，熟悉 Hadoop、spark等大数据基础设施。,.etc
 
+
 ```
 
 
 ##### 杭州-数据库工程师（DBA）
 * URL: https://jobs.bytedance.com/referral/pc/position/7265204754527258937/detail
 * Match:5:k8s,go,监控,python,sql
+
 
 ```
 JD: 1、负责数据库的监控，备份，性能优化及故障处理等；
@@ -5308,12 +5935,14 @@ Req: 1、熟悉业界主流关系型数据库或NoSQL数据库；知晓数据库
 4、熟悉go，Python等任意一种开发语言，具备一定的研发能力；
 5、要求你对工作保持激情，有上进心，有,.etc
 
+
 ```
 
 
 ##### 杭州-数据库混合云开发工程师/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7303542156819056946/detail
 * Match:5:go,python,hbase,sql,mysql
+
 
 ```
 JD: 1、负责火山引擎混合云数据库产品开发，为字节内外部客户提供数据库和中间产品服务；
@@ -5325,12 +5954,14 @@ Req: 1、3年及以上工作经验，本科及以上学历，计算机相关专�
 3、熟悉一种或多种数据库或数据库生态中间件，如MySQL、PostgreSQL、MongoDB、Redis、Hbase、TiDB、PolarDB、GraphDB、DTS、DMS&DAS等；
 4、有数据库内核、数,.etc
 
+
 ```
 
 
 ##### 杭州-服务端(高级)研发工程师 - 计算平台
 * URL: https://jobs.bytedance.com/referral/pc/position/6854060958424828168/detail
 * Match:5:k8s,go,python,java,调度
+
 
 ```
 JD: 1、参与字节跳动视频中台的高性能计算平台的业务开发和技术架构工作；
@@ -5344,12 +5975,14 @@ Req: 1、本科及以上学历，至少 2 年服务端开发经验，强悍的�
 4、良好的沟通能力和团队合作精神，有一定的组织协调能力；
 5、热爱技术，具备快速学习能力，做事情严,.etc
 
+
 ```
 
 
 ##### 杭州-服务端开发工程师-抖音支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7309801460660111666/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与并负责字节跳动支付系统开发及维护；
@@ -5365,12 +5998,14 @@ Req: 1、本科及以上学历，2年以上工作经验，熟悉Java/PHP/C++/Go/
 4、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 5、有服务治理，稳定性提升，容量规划等高可用,.etc
 
+
 ```
 
 
 ##### 杭州-服务端开发工程师-抖音支付
 * URL: https://jobs.bytedance.com/referral/pc/position/6919032406675769614/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与并负责字节跳动支付核心系统开发及维护；
@@ -5386,12 +6021,14 @@ Req: 1、本科及以上学历，2年以上工作经验，熟悉Java/PHP/C++/Go/
 4、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 5、有服务治理，稳定性提升，容量规划等高可用,.etc
 
+
 ```
 
 
 ##### 杭州-服务端研发工程师-抖音
 * URL: https://jobs.bytedance.com/referral/pc/position/7299034544811182373/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责开放平台的后端开发工作，助力字节能力开放，成就字节亿级用户及开发者；
@@ -5402,12 +6039,14 @@ Req: 1、热爱技术，有扎实的编程能力和良好的编码风格，对�
 2、至少能熟练使用Golang/Python/Java/PHP/C++/C一种语言，在计算机领域具有较完整的知识体系，并能结合到实际工作中，包括但不局限于算法、数据结构、操作系统、设计模式、分布式系统；
 3、能够熟练使用Mysql/Redis/Mq，对业界数据库中间件、消息中间件及其他分布式系统,.etc
 
+
 ```
 
 
 ##### 杭州-测试/资深测试开发工程师-国际电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7031821533853485348/detail
 * Match:5:go,python,java,kafka,devops
+
 
 ```
 JD: 1、负责相关电商业务质量保障工作，包括达人侧、供应链侧等质量保障工作，包括服务端、Android端、iOS端、前端、Web端等领域；
@@ -5418,12 +6057,14 @@ Req: 1、本科及以上学历，计算机相关专业，3年及以上服务端�
 2、精通 Python/Javascript/Go 中的一种或者多种语言，熟悉各种基本的中间件，如Redis、rocketMQ、Kafka 等；
 3、熟悉服务端或者客户端质量测试方法和技术，包括但不限于服务端性能压测、自动化、客户端稳定性、客户端性能、DevOps等,.etc
 
+
 ```
 
 
 ##### 杭州-测试/资深测试开发工程师-国际电商内容电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7270037019450362172/detail
 * Match:5:go,python,java,kafka,devops
+
 
 ```
 JD: 1、负责国际电商业务的质量保障工作，包括服务端、Android端、iOS端、前端、Web端等领域；
@@ -5435,12 +6076,14 @@ Req: 1、本科及以上学历，计算机相关专业，3年及以上服务端�
 2、精通 Python/Javascript/Go 中的一种或者多种语言，熟悉各种基本的中间件，如Redis、rocketMQ、Kafka 等；
 3、熟悉服务端或者客户端质量测试方法和技术，包括但不限于服务端性能压测、自动化、客户端稳定性、客户端性能、DevOps等,.etc
 
+
 ```
 
 
 ##### 杭州-测试/资深测试开发工程师-国际电商用户侧
 * URL: https://jobs.bytedance.com/referral/pc/position/7270034913964673338/detail
 * Match:5:go,python,java,kafka,devops
+
 
 ```
 JD: 1、负责搜索、交易、商城等电商业务质量保障工作，包括服务端、Android端、iOS端、前端、Web端等领域；
@@ -5452,12 +6095,14 @@ Req: 1、本科及以上学历，计算机相关专业，3年及以上服务端�
 2、精通 Python/Javascript/Go 中的一种或者多种语言，熟悉各种基本的中间件，如Redis、rocketMQ、Kafka 等；
 3、熟悉服务端或者客户端质量测试方法和技术，包括但不限于服务端性能压测、自动化、客户端稳定性、客户端性能、DevOps等,.etc
 
+
 ```
 
 
 ##### 杭州-测试开发工程师-生活服务（工具开发）
 * URL: https://jobs.bytedance.com/referral/pc/position/7395778965880178954/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 1、支持生活服务SaaS和小程序链路的客户对接过程中的集成验证工具，线上问题排查工具开发，提升链路整体效率；
@@ -5469,12 +6114,14 @@ Req: 1、至少熟悉一门Java/Go/C++等后端开发语言，掌握Python/Shell
 3、有技术追求，能自驱保持技术学习，持续提升自己开发能力；
 4、具备业务系统或者研发效能工具平台经验者优先。,.etc
 
+
 ```
 
 
 ##### 杭州-测试开发工程师/专家-DevOps方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7306898626445625637/detail
 * Match:5:go,监控,python,java,devops
+
 
 ```
 JD: 1、负责后端或web产品的质量保障工作；根据产品设计或需求，进行需求分析，制定测试计划、风险评估、设计测试数据和测试用例，执行测试用例，准确定位并追踪问题等；
@@ -5488,12 +6135,14 @@ Req: 1、计算机及相关专业，本科及以上学历；
 4、熟练掌握 DevOps 理念和实践，熟悉 CI/CD 流程，能够设计和实现自动化部署、自动化测试等流程；
 5、具有良好的沟通能力和团队合作精神、快速的学习能力、思维敏,.etc
 
+
 ```
 
 
 ##### 杭州-测试开发工程师—AI智能化方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7306893544903657766/detail
 * Match:5:go,监控,python,java,kafka
+
 
 ```
 JD: 1、负责字节AI智能化业务的质量保障，通过建立系统化的测试技术，推动产品质量不断提高；
@@ -5505,12 +6154,14 @@ Req: 1、本科及以上学历，计算机相关专业优先，3年及以上web/
 3、熟悉各种服务端测试方法， 比如性能压测、接口、监控配置、数据质量保障等；
 4、具备定义、解决复杂问题的能力，良好的沟通及项目管理、质量把控能力；,.etc
 
+
 ```
 
 
 ##### 杭州-混合云-云原生PaaS研发工程师/技术专家
 * URL: https://jobs.bytedance.com/referral/pc/position/7436736221244770568/detail
 * Match:5:kubernetes,go,docker,linux,容器
+
 
 ```
 JD: 1、负责混合云PaaS方向架构设计、系统开发，容器服务等产品化工作；
@@ -5521,12 +6172,14 @@ Req: 1、对云原生技术、中间件、容器、网络，分布式、GPU架�
 3、参与过相关开源项目和社区优先：Kubernetes、Docker、Openstack、容器网络/存储、Linux内核和异构管理，并对其中关键技术具有把控力；
 4、精通Go、C/,.etc
 
+
 ```
 
 
 ##### 杭州-算法工程师 - 供应链预测方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7330921812156745993/detail
 * Match:5:大数据,go,python,java,sql
+
 
 ```
 JD: 1、深度参与字节跳动电商业务智慧供应链建设，负责聚合维度和商品维度预测工作；
@@ -5535,12 +6188,14 @@ JD: 1、深度参与字节跳动电商业务智慧供应链建设，负责聚合
 Req: 1、本科及以上学历，具备3年及以上机器学习一线实战经验，熟悉深度学习算法；
 2、精通Python和SQL，熟悉Java/Go/C++至少一门语言，能够在大数据分布式环境熟练开发。,.etc
 
+
 ```
 
 
 ##### 杭州-系统稳定性工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7122000921256888612/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、负责分析和发现头条、电商、搜索、视频架构等前台业务和中后台服务的稳定性与高可用的薄弱点，给出解决方案并参与方案开发；
@@ -5553,12 +6208,14 @@ Req: 1、本科及以上学历，计算机相关专业；
 4、掌握扎实的计算机基础知识，深入理解数据结构、算法和操作系统知识；
 5、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分。,.etc
 
+
 ```
 
 
 ##### 杭州-网络系统研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7103512802278967559/detail
 * Match:5:go,监控,python,java,sql
+
 
 ```
 JD: 1、通过软件开发实现数据中心网络管理的自动化、智能化、数字化，提升网络建设运维效率；
@@ -5570,12 +6227,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 4、熟悉主流 SQL 和 NoSQL 数据库工作原理，具备数据库编程及优化能力；
 5、对代码和设计质量有严格要求，重视 C,.etc
 
+
 ```
 
 
 ##### 杭州-网络自动化工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7103514457283954975/detail
 * Match:5:go,监控,python,java,sql
+
 
 ```
 JD: 1、通过软件开发实现数据中心网络管理的自动化、智能化、数字化，提升网络建设运维效率；
@@ -5587,12 +6246,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 4、熟悉主流 SQL 和 NoSQL 数据库工作原理，具备数据库编程及优化能力；
 5、对代码和设计质量有严格要求，重视 C,.etc
 
+
 ```
 
 
 ##### 杭州-解决方案架构师（存储&数据库&中间件方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/6975862796957567268/detail
 * Match:5:kubernetes,go,sql,mysql,devops
+
 
 ```
 JD: 1、深入理解客户业务诉求，设计客户化解决方案，从功能、性能、运维、成本、安全等角度主导存储/数据库产品方案落地，助力客户成功；
@@ -5605,12 +6266,14 @@ Req: 1、熟悉云计算技术架构，熟悉一种或多种存储、数据库�
 3、数据库方向，熟悉MySQL、PostgreSQL、Redis、MongoDB等产品中的一种或多种，具备应用数据开发或数据库优化经验； 
 4、中间件方向，熟悉Elasticsear,.etc
 
+
 ```
 
 
 ##### 杭州-资深后端研发工程师-国际电商内容电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7298675820321622299/detail
 * Match:5:go,java,sql,linux,mysql
+
 
 ```
 JD: 1、负责内容电商方向相关系统的研发工作；
@@ -5623,12 +6286,14 @@ Req: 1、精通Golang/Java/C/C++/PHP中的一种或者多种语言；
 4、具备分布式大流量场景下服务端系统设计及性能优化经验者优先；
 5、业务领域抽象能力，能够对业务逻辑进行合理的抽象和拆,.etc
 
+
 ```
 
 
 ##### 杭州-资深后端研发工程师-国际电商消费者体验
 * URL: https://jobs.bytedance.com/referral/pc/position/7395167011828975899/detail
 * Match:5:go,实时,可视化,java,olap
+
 
 ```
 JD: 1、负责国际电商消费者体验智能相关的系统研发，提升消费者体验；
@@ -5640,12 +6305,14 @@ Req: 1、精通 Golang/Java 中的一种或者多种语言，有较强的数据�
 3、有数据分析、数据可视化、异常感知、NLP标签挖掘、LLM应用 系统开发设计经验优先；
 4、业务理解能力强、技术学习迁移能力强、责任心强、具备良好的沟通和团队协作,.etc
 
+
 ```
 
 
 ##### 杭州-资深后端研发工程师-抖音电商C端
 * URL: https://jobs.bytedance.com/referral/pc/position/7224090298623297847/detail
 * Match:5:go,治理,sql,linux,mysql
+
 
 ```
 JD: 1、完善并优化抖音C端直播电商能力和核心购物路径，构建服务亿级用户的高并发电商服务；
@@ -5660,12 +6327,14 @@ Req: 1、计算机、通讯、数学等相关专业本科以上学历；
 4、熟悉Memcached或Redis、MongoDB等NoSQL技术，有大规模系统设计和开发经验者优先；
 5、学习能力强，具备良好,.etc
 
+
 ```
 
 
 ##### 杭州-资深后端研发工程师-抖音超市C端
 * URL: https://jobs.bytedance.com/referral/pc/position/7144960171998169381/detail
 * Match:5:go,java,sql,linux,mysql
+
 
 ```
 JD: 1、负责抖音超市业务C端导购方向的后端研发；
@@ -5677,12 +6346,14 @@ Req: 1、精通Java/Golang/PHP中的一种或者多种语言，有较强的架�
 3、熟悉Memcached/Redis、MongoDB、Elasticsearch等主流NoSQL技术和应用，有大规模系统设计和开发经验者优先；
 4、学习能力强，具备良好的问题分,.etc
 
+
 ```
 
 
 ##### 杭州-资深后端研发工程师-电商消费者体验
 * URL: https://jobs.bytedance.com/referral/pc/position/7369231250672863498/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、负责抖音电商消费者体验方向业务研发，围绕体验问题监控平台、体验干预平台等系统进行设计开发及维护工作，为消费者提供优质的购物服务体验；
@@ -5694,12 +6365,14 @@ Req: 1、3年以上服务端开发经验，具备高并发分布式系统设计�
 3、较强的工作责任心和良好的沟通协调能力，具备中长期规划能力；
 4、拥有良好的业务理解和抽象能力，有治理、运营、安全、售后、订单、交易、履约、营销增长等系统开发设计,.etc
 
+
 ```
 
 
 ##### 杭州-资深测试开发专家-质量专项
 * URL: https://jobs.bytedance.com/referral/pc/position/7254906890076162364/detail
 * Match:5:go,监控,python,java,linux
+
 
 ```
 JD: 1、负责财经业务线自动化框架，质量度量，监控，流水线建设，性能优化，资金安全等质量专项建设工作，包括方案的设计，框架/工具/平台的开发等技术工作；
@@ -5711,12 +6384,14 @@ Req: 1、本科及以上学历，计算机或相关专业，3年及以上服务�
 3、熟练掌握一门编程语言，包括但不限于：python、Java、Golang等；具备良好的编码能力和习惯，掌握常见的设计模式；
 4、有扎实的基础专业知识，如操作系统、数据结构、计算机网,.etc
 
+
 ```
 
 
 ##### 杭州-资深测试开发工程师-抖音UG
 * URL: https://jobs.bytedance.com/referral/pc/position/7425565044744898843/detail
 * Match:5:go,python,java,治理,kafka
+
 
 ```
 JD: 1、负责抖音增长业务的质量保障工作，保障业务快速迭代、高质量交付；
@@ -5730,12 +6405,14 @@ Req: 1、计算机相关本科及以上学历，具备上互联网测试经验�
 3、有移动端&服务端测试经验及深入实践，熟悉接口测试、掌握Kafka/MQ等中间件测试、数据库测试方法，对测试有自己的工作方法或经验；
 4、熟练掌握Java/Python/Go中任意一门编程语言，具备较强的编码能力，能够独立负,.etc
 
+
 ```
 
 
 ##### 杭州-高级前端开发工程师 - 云平台
 * URL: https://jobs.bytedance.com/referral/pc/position/7081639320863869214/detail
 * Match:5:元数据,监控,java,治理,devops
+
 
 ```
 JD: 字节跳动内部私有云团队，主要为字节跳动内部的基建提供云基座能力，为研发者营造安全合规与全球化的开发环境，降低内部基础服务的使用门槛，提升研发效率与质量。目前团队主要专注方向，包括但不局限于云平台与控制面治理、权限与策略系统、API 网关、元数据系统、事件引擎等。
@@ -5749,12 +6426,14 @@ Req: 1、本科及以上学历，计算机、通信和电子信息科学等相�
 4、熟悉 Node.js，了解 Express/KOA 等框架，有大型服务端程序开发经验者优先；
 5、对,.etc
 
+
 ```
 
 
 ##### 杭州-高级后端开发工程师-抖音支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7314973534891149578/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与并负责字节跳动支付系统开发及维护；
@@ -5770,12 +6449,14 @@ Req: 1、本科及以上学历，2年以上工作经验，熟悉Java/PHP/C++/Go/
 4、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 5、有服务治理，稳定性提升，容量规划等高可用,.etc
 
+
 ```
 
 
 ##### 杭州-高级后端研发工程师-抖音支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7420309664778340659/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与并负责抖音支付系统的开发及维护；
@@ -5791,12 +6472,14 @@ Req: 1、本科及以上学历，5年以上研发工作经验，熟悉Java/PHP/C
 4、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 5、有服务治理，稳定性提升，容量规划等高,.etc
 
+
 ```
 
 
 ##### 杭州-高级数据产品经理 - EMR/LAS
 * URL: https://jobs.bytedance.com/referral/pc/position/7143938652408744206/detail
 * Match:5:大数据,数据仓库,spark,hadoop,flink
+
 
 ```
 JD: 1、负责面向客户建设有市场竞争力的EMR、LAS等大数据平台类产品，丰富火山引擎数据中台产品矩阵;
@@ -5808,6 +6491,7 @@ Req: 1、3年以上大数据产品管理、解决方案或开发经验，计算�
 2、有较强的ToB产品规划和分析能力，识别市场机会和关键需求，系统性思考能力，产品推动能力，有过云上数据产品设计和管理经验者优先;
 3、熟悉Hadoop生态圈和使用场景，熟悉对大数据流、批处理、交互式分析技术并理,.etc
 
+
 ```
 
 
@@ -5816,6 +6500,7 @@ Req: 1、3年以上大数据产品管理、解决方案或开发经验，计算�
 ##### 武汉-SRE工程师-飞书KA（北/上/广/深/杭/武汉）
 * URL: https://jobs.bytedance.com/referral/pc/position/7078553538775681310/detail
 * Match:7:airflow,kubernetes,go,监控,python,java,调度
+
 
 ```
 JD: 1、构建飞书私有化领域产品解决方案，围绕生命周期管理、降本增效、稳定性保障，把飞书 生产交付、稳定性、日常保障能力视作一种产品和解决方案来打造；
@@ -5828,12 +6513,14 @@ Req: 1、本科以上学历, 计算机相关专业, 并有5年以上相关领域
 4、具有产品思维，良好的数据结构、系统设计、项目管理能力者优先；
 5、,.etc
 
+
 ```
 
 
 ##### 武汉-后端开发架构师-抖音支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7133162487880501511/detail
 * Match:5:大数据,go,python,java,治理
+
 
 ```
 JD: 1、参与并负责字节跳动支付账单方向、跨境支付方向相关系统的开发及维护；
@@ -5847,12 +6534,14 @@ Req: 1、本科及以上学历，5年以上工作经验，熟悉Java/PHP/C++/Go/
 4、有跨境支付经验优先，有大规模交易系统设计经验优先；
 5,.etc
 
+
 ```
 
 
 ##### 武汉-安全开发专家（全栈）
 * URL: https://jobs.bytedance.com/referral/pc/position/7336821685339834634/detail
 * Match:5:go,可视化,python,sql,mysql
+
 
 ```
 JD: 1、负责自研系统的开发维护，包括网络准入控制、网络资产攻击面管理、分布式资产探测和漏扫系统的核心功能优化及管理界面迭代；
@@ -5869,12 +6558,14 @@ Req: 1、熟悉 Golang / Python 或其他后端语言，了解 Mysql、Redis、�
 加分项：
 1,.etc
 
+
 ```
 
 
 ##### 武汉-高级后端开发工程师-抖音支付
 * URL: https://jobs.bytedance.com/referral/pc/position/6952767283682167076/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与并负责抖音支付核心系统的开发及维护；
@@ -5890,6 +6581,7 @@ Req: 1、本科及以上学历，2年以上工作经验，熟悉Java/PHP/C++/Go/
 4、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 5、有服务治理，稳定性提升，容量规划等高可用,.etc
 
+
 ```
 
 
@@ -5899,12 +6591,14 @@ Req: 1、本科及以上学历，2年以上工作经验，熟悉Java/PHP/C++/Go/
 * URL: https://jobs.bytedance.com/referral/pc/position/7418745181861923123/detail
 * Match:6:aws,kubernetes,go,hadoop,python,java
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications
 • Bachelor's degree with 2+ years of experience in Computer Engineering, Computer Science, or related fields.
 • 2+ years working experience in the field of C,.etc
+
 
 ```
 
@@ -5915,12 +6609,14 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7429843960422533412/detail
 * Match:5:aws,go,python,sql,mysql
 
+
 ```
 JD: About ByteDance
 Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, as well as platforms sp,.etc
 
 Req: Minimum Qualifications
 - Experience: 5+ years of relevant experience in Technology and Operational Audit, Risk Management, Cyber Security Compliance or Security Engineering prefera,.etc
+
 
 ```
 
@@ -5930,6 +6626,7 @@ Req: Minimum Qualifications
 ##### 深圳-数据开发工程师-游戏技术
 * URL: https://jobs.bytedance.com/referral/pc/position/7380248998396021018/detail
 * Match:17:大数据,数据仓库,yarn,go,spark,离线,元数据,实时,etl,python,java,hive,flink,治理,kafka,linux,hbase
+
 
 ```
 JD: 1、参与游戏业务的离线和实时数据仓库建设和运维；
@@ -5943,12 +6640,14 @@ Req: 1、计算机相关专业本科以上学历，4年以上大数据相关工�
 4、熟悉Linux操作系统，熟练Shell编程；
 5、工作积极主动，能独立分析和解决问题；,.etc
 
+
 ```
 
 
 ##### 深圳-数据开发工程师-用户中台
 * URL: https://jobs.bytedance.com/referral/pc/position/7120053811905300766/detail
 * Match:16:大数据,clickhouse,数据仓库,go,spark,离线,实时,hadoop,flink,python,java,hive,数仓,治理,sql,kafka
+
 
 ```
 JD: 1、负责字节跳动用户中台的大数据产品研发以及离线、实时数据仓库的构建；
@@ -5960,12 +6659,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，3年以上�
 3、熟悉大数据生态中常用组件（如：Hadoop\Hive\Spark\Flink\ClickHouse\Kafka）的应用和基本原理，熟悉数据倾斜等分布式场景常见问题的解决方案；
 4、对数仓建设、数据建模、数,.etc
 
+
 ```
 
 
 ##### 深圳-数据平台技术负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7418109665625524489/detail
 * Match:15:大数据,clickhouse,go,spark,实时,hadoop,presto,flink,python,java,数仓,治理,kafka,olap,hbase
+
 
 ```
 JD: 1、负责字节跳动内部数据平台产品的建设，包括实时数仓、数据引擎、数据治理、数据自动标注等，面向研发效能和质量大模型提供特征工程和数据闭环能力，支撑大模型应用的训练和调优；
@@ -5976,12 +6677,14 @@ Req: 1、计算机相关专业本科及以上学历，5年以上数据平台/实
 2、熟悉大数据生态组件，包括Flink/Clickhouse/ES/Hadoop/Spark/Kafka/Druid/Hbase/Presto等，熟悉Golang/Python/Scala/Java等至少两种开发语言；
 3、有大数据量、高并发处理经验，有大模型全,.etc
 
+
 ```
 
 
 ##### 深圳-数据平台技术负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7071905484848597278/detail
 * Match:15:大数据,clickhouse,go,spark,实时,hadoop,presto,flink,python,java,数仓,治理,kafka,olap,hbase
+
 
 ```
 JD: 团队介绍：互娱研发部门负责抖音、抖音火山版、直播、剪映、音乐、醒图多款明星产品的研发，截止2021年12月，抖音连同抖音火山版在内，日活用户超7亿，并继续保持高速增长。加入我们，你会支持包括但不限于上述产品的研发和相关架构工作，每一行代码都能服务亿万用户。
@@ -5992,12 +6695,14 @@ Req: 1、计算机相关专业本科及以上学历，5年以上数据平台/实
 2、熟悉大数据生态组件，包括Flink/Clickhouse/ES/Hadoop/Spark/Kafka/Druid/Hbase/Presto等，熟悉Java/Golang/Python/Scala等至少两种开发语言；
 3、有大数据量、高并发处理经验，有处理上亿用户数据的,.etc
 
+
 ```
 
 
 ##### 深圳-云计算技术支持专家-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7043769342991845640/detail
 * Match:14:大数据,clickhouse,kubernetes,go,spark,hadoop,python,java,sql,kafka,linux,容器,mysql,devops
+
 
 ```
 JD: 1、为客户提供技术支持服务，负责疑难问题的快速定位、问题分析解决；
@@ -6007,12 +6712,14 @@ JD: 1、为客户提供技术支持服务，负责疑难问题的快速定位、
 Req: 1、计算机科学或者相关专业，5年以上传统/DevOps/开发/售后/技术服务工作经验；
 2、熟悉两种以上相关领域 ，相关领域有Linux操作系统、Windows操作系统、网络、数据库(MySQL、SQL server、PostGreSQL、Oracle、MongoDB、Redis、Cassandra、ClickHouse)、中间件(ElasticSearch,.etc
 
+
 ```
 
 
 ##### 深圳-大数据运维工程师-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7123131144661289252/detail
 * Match:13:大数据,clickhouse,k8s,spark,hadoop,docker,flink,python,hive,kafka,linux,容器,hbase
+
 
 ```
 JD: 1、负责私有化项目的售后技术支持工作；
@@ -6026,12 +6733,14 @@ Req: 1、本科及以上学历，具有两年以上大型 IT 系统实施和运�
 3、熟悉Hadoop大数据生态，包括但不限于Hadoop、Hive、Spark、Hbase、Flink、Impala、Clickhouse、Redis、Kafka等组件；
 4、至,.etc
 
+
 ```
 
 
 ##### 深圳-SRE工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6779491223842326797/detail
 * Match:12:大数据,kubernetes,go,spark,hadoop,监控,flink,python,java,docker,治理,linux
+
 
 ```
 JD: 1、保障大数据&在线计算多个核心系统的可靠性与正常运行，同时关注系统容量与稳定性；
@@ -6046,12 +6755,14 @@ Req: 1、本科以上学历, 计算机相关专业, 并有两年以上相关领�
 4、具备系统化解决问题的能力，良好的沟通技巧和主人翁责任感；
 5、具有相关计算/分布式/大数据等系统经验,.etc
 
+
 ```
 
 
 ##### 深圳-SRE高级/工程师/架构师/负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7102355212429789454/detail
 * Match:12:大数据,kubernetes,go,spark,hadoop,监控,flink,python,java,docker,治理,linux
+
 
 ```
 JD: Site Reliability Engineer (SRE) 结合了软件和系统工程，致力于打造高扩展、高可用的分布式系统
@@ -6065,12 +6776,14 @@ Req: 1. 本科以上学历, 计算机相关专业, 并有两年以上相关领�
 4. 具备系统化解决问题的能力或工程化研发能力，良好的沟通技巧和主人翁责任感；
 5. 具有相关计算/分布式/大数,.etc
 
+
 ```
 
 
 ##### 深圳-【剪映CapCut】大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7196980737177307450/detail
 * Match:12:大数据,数据仓库,离线,实时,hadoop,监控,etl,python,java,hive,治理,sql
+
 
 ```
 JD: 1、负责剪映CapCut、醒图Hypic和即梦Dreamina国际化业务的离线和实时数据仓库的构建；
@@ -6083,12 +6796,14 @@ Req: 1、熟悉数据仓库实施方法论、深入了解数据仓库体系，�
 2、熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
+
 ```
 
 
 ##### 深圳-【国际化业务】大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7103954525178300702/detail
 * Match:12:大数据,数据仓库,离线,实时,hadoop,监控,etl,python,java,hive,治理,sql
+
 
 ```
 JD: 1、负责国际化业务的离线与实时数据仓库的构建；
@@ -6102,12 +6817,14 @@ Req: 1、仓库实施方法论、深入了解数据仓库体系，并支撑过�
 2、熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
+
 ```
 
 
 ##### 深圳-【抖音国际化直播】大数据工程师-数仓方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7166818310809078046/detail
 * Match:12:大数据,数据仓库,离线,实时,hadoop,监控,etl,python,java,hive,治理,sql
+
 
 ```
 JD: 1、负责抖音国际化直播业务的离线与实时数据仓库的构建；
@@ -6121,12 +6838,14 @@ Req: 1、数据仓库实施方法论、深入了解数据仓库体系，并支�
 2、熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
+
 ```
 
 
 ##### 深圳-【抖音直播】大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7196980005183392057/detail
 * Match:12:大数据,数据仓库,离线,实时,hadoop,监控,etl,python,java,hive,治理,sql
+
 
 ```
 JD: 1、负责抖音直播业务的离线与实时数据仓库的构建；
@@ -6140,12 +6859,14 @@ Req: 1、熟悉数据仓库实施方法论、深入了解数据仓库体系，�
 2、熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 3、善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
+
 ```
 
 
 ##### 深圳-【抖音直播】大数据工程师-数据仓库方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7103954457273043230/detail
 * Match:12:大数据,数据仓库,离线,实时,hadoop,监控,etl,python,java,hive,治理,sql
+
 
 ```
 JD: 1. 负责抖音直播业务的离线与实时数据仓库的构建；
@@ -6159,12 +6880,14 @@ Req: 1. 熟悉数据仓库实施方法论、深入了解数据仓库体系，并
 2. 熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 3. 善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
+
 ```
 
 
 ##### 深圳-端智能平台开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7385113986993883401/detail
 * Match:12:大数据,clickhouse,go,spark,hadoop,监控,flink,java,hive,sql,kafka,mysql
+
 
 ```
 JD: 团队介绍：字节跳动产品研发和工程架构端智能团队，负责端智能基建和业务算法落地。团队产品在字节跳动核心应用的推荐、广告、直播、电商、消息、社交等场景中应用。在这里，你可以深入钻研机器学习算法，通过云端协同推荐、横向联邦学习等前沿技术，结合对产品的理解和思考，优化核心应用、核心场景的商业效率；还可以探索 SLM、VLM 等新技术，开拓未来产品方向。
@@ -6178,12 +6901,14 @@ Req: 1、本科及以上学历，计算机相关专业，5年以上互联网开�
 
 加分项,.etc
 
+
 ```
 
 
 ##### 深圳-资深大数据研发工程师-数据治理方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7010620363667802375/detail
 * Match:12:大数据,元数据,spark,实时,hadoop,flink,python,java,hive,数仓,治理,sql
+
 
 ```
 JD: 1、负责字节跳动数据中台数据治理工作，包括元数据管理、数据质量检查、成本优化等系统的设计、开发及应用，提升数据易用性、安全性及稳定性；
@@ -6195,12 +6920,14 @@ Req: 1、熟练使用SQL、Python、Java等工具进行大型数据分析及建�
 3、有较强的逻辑分析、沟通及工作推进能力，具备优秀的技术与业务结合能力；
 4、对数据治理有一定的实践经验，有良好业务sense，对数据业务场景敏感，能够横向协同、跨团队整合资源，形成完整的方案解决,.etc
 
+
 ```
 
 
 ##### 深圳-Java开发专家-数据治理平台方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7215426761034631461/detail
 * Match:11:大数据,clickhouse,spark,hadoop,flink,java,hive,治理,sql,kafka,mysql
+
 
 ```
 JD: 1、负责字节跳动分布式数据治理平台的架构设计与产品研发工作，包括治理评估体系、框架引擎、数据服务能力及自动化工具能力的建设等；
@@ -6212,12 +6939,14 @@ Req: 1、扎实的计算机基础，熟练掌握Java语言和面向对象编程�
 2、熟练掌握Spring框架，熟练使用Redis、MySQL等基本组件，熟悉分布式、缓存、消息队列、微服务等架构机制；
 3、熟悉大数据生态，包括Hadoop、Hive、Spark、ES、Kafka、Clickhouse、Flink等，对大数据组件有一,.etc
 
+
 ```
 
 
 ##### 深圳-【国际化直播】数仓研发工程师（实时/离线）
 * URL: https://jobs.bytedance.com/referral/pc/position/7122659441274767630/detail
 * Match:11:数据仓库,离线,实时,hadoop,etl,python,java,hive,治理,sql,报表
+
 
 ```
 JD: 1. 负责国际化直播业务的离线与实时数据仓库的构建，如数据模型的设计，ETL实施，性能优化以及相关技术问题的解决；
@@ -6229,12 +6958,14 @@ Req: 1. 仓库实施方法论、深入了解数据仓库体系，并支撑过实
 2. 熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言；
 3. 善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力。,.etc
 
+
 ```
 
 
 ##### 深圳-云计算大数据产品SRE工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7044068537023564069/detail
 * Match:11:大数据,yarn,go,spark,presto,监控,flink,python,java,治理,linux
+
 
 ```
 JD: 1、负责字节跳动大数据产品相关的数据迁移、监控、备份、性能优化及故障处理等工作；
@@ -6246,12 +6977,14 @@ Req: 1、计算机相关专业本科以上学历，2年以上系统运维或研�
 3、有两年以上HDFS/Yarn/Flink/Spark/Presto运维管理经验；
 4、基于大数据产品的使,.etc
 
+
 ```
 
 
 ##### 深圳-大数据开发leader
 * URL: https://jobs.bytedance.com/referral/pc/position/6956778876228159775/detail
 * Match:11:大数据,go,spark,实时,flink,python,java,hive,kafka,hbase,devops
+
 
 ```
 JD: 1、负责海量数据和大规模业务系统的实时数据处理框架开发工作；
@@ -6264,12 +6997,14 @@ Req: 1、本科及以上学历，计算机类相关专业，有丰富的后端�
 3、熟练掌握Kafka Streaming, Flink, Spark等大数据流式或批式开发框架；
 4、熟练掌握大数据开源开源组件，如 Kafka, Hive, HBase, Redis, ElasticS,.etc
 
+
 ```
 
 
 ##### 深圳-大数据研发工程师-风控方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7007262611175983367/detail
 * Match:11:大数据,clickhouse,数据仓库,go,spark,hadoop,etl,python,java,flink,治理
+
 
 ```
 JD: 1、负责风控数据链路开发工作，参与业务数据仓库架构设计、建模和ETL开发；
@@ -6282,12 +7017,14 @@ Req: 1、3年以上大数据研发经历，计算机相关专业本科及以上�
 4、具备优秀的逻辑思维能力，对解决挑战性问题充满热情，善于解决问题和分析问题；
 ,.etc
 
+
 ```
 
 
 ##### 深圳-大数据解决方案架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7012256303330838791/detail
 * Match:11:大数据,clickhouse,数据仓库,k8s,spark,hadoop,flink,hive,kafka,linux,容器
+
 
 ```
 JD: 1、与销售、行业解决方案等团队一起，在售前交流、技术方案设计、招投标等工作上，为客户及合作伙伴提供火山引擎数据中台及相应解决方案的支持；
@@ -6299,12 +7036,14 @@ Req: 1、计算机相关专业，本科及以上学历；
 3、熟悉大数据生态环境，掌握Hadoop，Hive，Kafka，Spark，Flink等大数据技术栈；
 4、有Linux系统系统的基础运维能力，熟悉K8S容器编排基本概念、原理、组件、工具；,.etc
 
+
 ```
 
 
 ##### 深圳-数据开发工程师-国际支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7041566959129594142/detail
 * Match:11:大数据,spark,实时,hadoop,python,java,hive,治理,kafka,linux,hbase
+
 
 ```
 JD: 1、负责字节跳动国际支付的数据流和相关数据服务；
@@ -6323,12 +7062,14 @@ Req: 1、熟悉Linux操作系统及开发环境；
 2、参加过 ACM 或者其他类型的软件开发大赛；
 3、熟悉大数据处理工具/框架中的一项或多项，包括但不,.etc
 
+
 ```
 
 
 ##### 深圳-数据治理开发工程师-国际化业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7262175143991494970/detail
 * Match:11:大数据,clickhouse,spark,hadoop,flink,java,hive,治理,sql,kafka,mysql
+
 
 ```
 JD: 1、负责字节跳动数据治理平台产品建设，支持国际化业务的数据治理场景，包括架构设计、功能研发、服务部署和维护等，治理场景涉及数据SLA治理、质量治理、成本治理、安全治理等；
@@ -6341,12 +7082,14 @@ Req: 1、扎实的计算机基础，熟练掌握Java语言和面向对象编程�
 3、有机房架构设计、研发、部署相关经验者优先；
 4、熟悉大数据生态，包括不限于Hadoop、Hi,.etc
 
+
 ```
 
 
 ##### 深圳-测试开发工程师-To B
 * URL: https://jobs.bytedance.com/referral/pc/position/6956155987359516936/detail
 * Match:11:大数据,k8s,go,spark,hadoop,docker,flink,python,java,sql,mysql
+
 
 ```
 JD: 1、深度参与ToB平台项目， 协同产品和研发团队高质量交付产品；
@@ -6362,12 +7105,14 @@ Req: 1、三年及以上工作经验，本科及以上学历，计算机相关�
 4、熟悉常用的数据库，有一定的使用和设计能力，比如：mysql, redis, mongo等；
 5、加分项：有大,.etc
 
+
 ```
 
 
 ##### 深圳-运维开发工程师-Data
 * URL: https://jobs.bytedance.com/referral/pc/position/7426757547442768137/detail
 * Match:11:大数据,kubernetes,go,spark,hadoop,docker,flink,python,java,linux,devops
+
 
 ```
 JD: 1、参与运维平台的架构重构和功能迭代，提升运维效率和使用体验；
@@ -6382,12 +7127,14 @@ Req: 1、本科及以上学历，计算机相关专业，并有两年以上运�
 4、具备系统化解决问题的能力，良好的沟通技巧和责任意识；
 5、具有相关计算/分布式/大数据等系统经验优先（Nginx/,.etc
 
+
 ```
 
 
 ##### 深圳-SRE高级工程师/架构师/负责人（存储&大数据方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7102255516709980424/detail
 * Match:10:大数据,k8s,go,spark,hadoop,python,java,hive,治理,hbase
+
 
 ```
 JD: 1、负责字节跳动存储和大数据系统高可用架构和规划；
@@ -6399,12 +7146,14 @@ Req: 1、计算机相关专业本科以上学历，3年以上系统运维或研�
 2、掌握分布式系统原理，对存储、计算、流式计算中的一项或多项有深入的理解和认识，能够熟练使用Hadoop、Hive、Hbase、Spark、Zookeeper等产品，并有过实际项目经验。具备一定集群调优和trouble shooting能力；
 3、具有算法思维，良好的数据结构和系统设计的能力者优先,.etc
 
+
 ```
 
 
 ##### 深圳-云迁移技术专家-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7429547828077545739/detail
 * Match:10:大数据,k8s,spark,hadoop,docker,python,hive,linux,容器,hbase
+
 
 ```
 JD: 1、协同销售、解决方案、产品研发等角色完成公有云客户迁移需求调研、迁移方案设计和技术细化工作；
@@ -6416,12 +7165,14 @@ Req: 1、本科及以上学历，计算机相关专业，具有5年以上系统�
 2、熟悉Linux/Unix操作系统、日常操作命令；熟悉常见开源组件，并有相关使用经验，具有一定的排错能力；
 3、熟练掌握以下至少一种技术：熟悉TCP/IP、OSPF、BGP等网络协议，有丰富的网络排障能力；熟悉数据库&中间件等技术，熟悉数据备份、同步,.etc
 
+
 ```
 
 
 ##### 深圳-大数据研发高级工程师/专家-智能服务
 * URL: https://jobs.bytedance.com/referral/pc/position/6993206150566480141/detail
 * Match:10:大数据,数据仓库,spark,hadoop,flink,python,java,hive,linux,olap
+
 
 ```
 JD: 团队介绍：我们是智能服务团队，团队负责互娱业务的泛体验、泛安全问题挖掘和业务赋能，为抖音/直播/剪映/醒图/本地生活等业务，提供服务化与智能化解决方案。
@@ -6432,12 +7183,14 @@ Req: 1、计算机、大数据或者相关专业，本科及以上学历，两�
 3、熟悉大数据技术栈，包括 Flink/Spark/Hive/Hadoop/ES/Hudi/Iceberg等，有大数据平台开发优化经验者优先；
 4、有高并发、高,.etc
 
+
 ```
 
 
 ##### 深圳-大数据高级工程师——实时计算方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7047754546261428517/detail
 * Match:10:k8s,yarn,spark,实时,flink,python,数据湖,java,sql,kafka
+
 
 ```
 JD: 团队介绍：字节跳动推荐架构团队实时计算方向，负责字节跳动旗下海量用户推荐系统架构实时计算系统的设计和研发，抽象通用实时计算系统，构建统一的特征中台，实现灵活可扩展的高性能存储和计算模型，为推荐业务实现先进的消重、计数、特征等实时数据系统。
@@ -6450,12 +7203,14 @@ Req: 1、对流式计算系统有深入的了解，有大规模实时计算系�
 3、熟悉Java、C++、Scala、Python等编程语言，有扎实的编码和trouble-shooting能力；
 4、有以下经验者优先：数据湖技术、Yarn、,.etc
 
+
 ```
 
 
 ##### 深圳-数据库云原生管控研发工程师-RDS MySQL
 * URL: https://jobs.bytedance.com/referral/pc/position/7074830417433905416/detail
 * Match:10:k8s,kubernetes,go,docker,python,java,sql,linux,容器,mysql
+
 
 ```
 JD: 1、负责数据库云原生智能化管控平台，包括数据库创建、释放、更配、账户管理、高可用、容灾、备份、恢复、审计、优化等一整套数据库生命周期管控的系统研发工作；
@@ -6470,12 +7225,14 @@ Req: 1、熟练掌握Linux环境下Go/Python/Java/C/C++ 中的一种或几种；
 具备以下条件之一者优先：
 1、熟悉MySQL、PostgreSQL中,.etc
 
+
 ```
 
 
 ##### 深圳-数据库云原生管控研发工程师-VeDB
 * URL: https://jobs.bytedance.com/referral/pc/position/7220388654442776869/detail
 * Match:10:k8s,kubernetes,go,docker,python,java,sql,linux,容器,mysql
+
 
 ```
 JD: 1、负责自研云原生数据库VeDB智能化管控平台，包括数据库创建、释放、更配、账户管理、高可用、容灾、备份、恢复、审计、优化等一整套数据库生命周期管控的系统研发工作；
@@ -6490,12 +7247,14 @@ Req: 1、熟练掌握Linux环境下Go/Python/Java/C/C++ 中的一种或几种；
 具备以下条件之一者优先：
 1、熟悉MySQL、PostgreSQL中,.etc
 
+
 ```
 
 
 ##### 深圳-数据开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7397321707319625994/detail
 * Match:10:k8s,yarn,spark,实时,flink,python,数据湖,java,sql,kafka
+
 
 ```
 JD: 1、为大规模推荐系统设计和实现合理的流式计算系统；
@@ -6508,12 +7267,14 @@ Req: 1、对流式计算系统有深入的了解，具备大规模实时计算�
 3、熟悉Java、C++、Scala、Python等编程语言，有扎实的编码和Trouble-shooting能力；
 4、有以下经验者优先：数据湖技术、Yar,.etc
 
+
 ```
 
 
 ##### 深圳-国际化广告平台资深研发工程师-数据方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7225916834885077304/detail
 * Match:9:大数据,clickhouse,go,flink,java,hive,sql,kafka,mysql
+
 
 ```
 JD: 1、负责国际广告业务数据方向系统的设计与实现，面向广告主、分析师等提供体验良好的数据分析平台；
@@ -6525,12 +7286,14 @@ Req: 1、熟练使用java/c++/golang任意一种语言；
 3、对elastic-search有深入理解，有elastic-search搜索准确性/性能优化经验优先；
 4、有百亿级数据的在线统计分析系统设计经验者加分；精通 Flink、Doris,.etc
 
+
 ```
 
 
 ##### 深圳-大数据开发专家 - 数据集成方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7133511182959708447/detail
 * Match:9:clickhouse,spark,实时,hadoop,flink,java,数据湖,kafka,分布式计算
+
 
 ```
 JD: 1、负责数据平台下实时数据集成业务的计算架构设计与开发；
@@ -6544,12 +7307,14 @@ Req: 1、扎实的计算机基础和算法数据结构功底，对技术有热�
 4、具备较强的业务需求分析能力，问题定位能力良好的沟通能力和自我学习能力；
 5、有Storm,.etc
 
+
 ```
 
 
 ##### 深圳-抖音大数据架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/6862612705489291534/detail
 * Match:9:大数据,数据仓库,离线,实时,hadoop,python,java,hive,sql
+
 
 ```
 JD: 1、 负责支持抖音短视频和直播业务的大数据项目整体架构规划；
@@ -6562,12 +7327,14 @@ Req: 1、 熟练使用Hadoop及Hive，熟悉SQL、Java、Python等编程语言�
 3、 善于沟通，对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力；
 4、 6年以上数据仓库或大数据开发，丰富的实时或者离线数据体系建设经验。,.etc
 
+
 ```
 
 
 ##### 深圳-服务器系统集成测试工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6959492374829582623/detail
 * Match:9:大数据,spark,flink,python,java,sql,kafka,linux,mysql
+
 
 ```
 JD: 1、负责服务器产品的系统集成测试工作，确保服务器系统的功能完整性、软硬件兼容性、性能、可靠性；
@@ -6579,12 +7346,14 @@ Req: 1、计算机或相近专业本科及以上学历；3年以上服务器测�
 3、具备服务器选型测试经验，熟练掌握BMC IPMI命令、BIOS性能及功耗节能相关调优手段，具备debug技能；
 ,.etc
 
+
 ```
 
 
 ##### 深圳-资深测试开发工程师-边缘云
 * URL: https://jobs.bytedance.com/referral/pc/position/7099000684359600397/detail
 * Match:9:k8s,go,docker,监控,python,java,治理,调度,linux
+
 
 ```
 JD: 团队介绍：字节跳动基础技术团队，负责字节跳动超大规模数据中心、服务器、网络、CDN 等基础设施的设计、研发、采购、交付与管理，为公司业务的发展以及企业客户提供高效、稳定、具备可扩展性的基础设施。部门当前业务开展包括不限于：数据中心设计建设、实施，芯片与服务器研发，网络工程研发，接入与分发技术，以及高性能智能硬件研发、IDC资源智能交付与运维、硬件基础设施智能,.etc
@@ -6593,12 +7362,14 @@ Req: 1、计算机网络或相关专业本科及以上学历，2年及以上服�
 2、具备良好的计算机网络相关基础知识，熟悉Linux，熟悉TCP/IP、HTTP/HTTPS 等协议，并有较强的分析故障排查能力和丰富的处理经验；
 3、从事过云计算相关，具有网络类产品实际开发或测试经验者（例如：CDN、DNS、四七层网关、消息网关或者基于OPENSTACK、K8s、Dock,.etc
 
+
 ```
 
 
 ##### 深圳-业务效能研发工程师-国际化短视频-深圳
 * URL: https://jobs.bytedance.com/referral/pc/position/7132722693618714916/detail
 * Match:8:大数据,go,spark,flink,python,java,hive,devops
+
 
 ```
 JD: 1、负责支持国际化短视频研发团队的效能支撑平台建设，包括但不限：需求管理平台，研效度量平台；
@@ -6610,12 +7381,14 @@ Req: 1、本科及以上学历，计算机、软件工程、通信等相关专�
 4、积极乐观，责任心强，工作认真细致，具备良好的服务意识，具有良好的团队沟通与协作能力；
 5、熟悉大数据技术栈优先，如Hive/Spark,.etc
 
+
 ```
 
 
 ##### 深圳-云数据库研发工程师-RDS MySQL
 * URL: https://jobs.bytedance.com/referral/pc/position/6704526636580079876/detail
 * Match:8:k8s,go,python,java,sql,linux,容器,mysql
+
 
 ```
 JD: 1、云数据库RDS MySQL高可用开发；
@@ -6632,12 +7405,14 @@ Req: 1、熟练使用C/C++/Python/Golang/Java/Rust语言中的一种；
 具备以下条件之一者优先：
 1、熟悉MyS,.etc
 
+
 ```
 
 
 ##### 深圳-云计算PaaS产品SRE工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7044069500555397412/detail
 * Match:8:kubernetes,go,python,java,治理,linux,容器,devops
+
 
 ```
 JD: 1、负责PaaS平台的架构设计和运维工作，支撑容器平台、DevOps、微服务、Serverless 等产品的混合云服务；
@@ -6649,12 +7424,14 @@ Req: 1、计算机相关专业本科以上学历，2年以上系统运维或研�
 3、熟悉CNCF生态技术，如Serverless, Service Mesh, Prometheus, Kubernetes等；
 4、基于平台使用场景，深入优化提供最,.etc
 
+
 ```
 
 
 ##### 深圳-大数据研发工程师 - 抖音
 * URL: https://jobs.bytedance.com/referral/pc/position/7283764847483947320/detail
 * Match:8:大数据,clickhouse,离线,spark,实时,hadoop,flink,hive
+
 
 ```
 JD: 1、负责抖音/火山等多个业务线的策略算法建设与优化工作；
@@ -6668,12 +7445,14 @@ Req: 1、计算机等相关专业，硕士或以上学历，3年以上大数据�
 4、有丰富的行业经验，丰富的专业知识，独特的行业见解，有战略视野和规划能力优先；
 5、优秀的理解沟通能力，崇尚数据说话，深信数,.etc
 
+
 ```
 
 
 ##### 深圳-数据策略高级工程师/专家-智能服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7408442930656463155/detail
 * Match:8:大数据,spark,hadoop,flink,python,java,hive,linux
+
 
 ```
 JD: 团队介绍：我们是智能服务团队，团队负责互娱业务的泛体验、泛安全问题挖掘和业务赋能，为抖音/直播/剪映/醒图/本地生活等业务，提供服务化与智能化解决方案。
@@ -6684,12 +7463,14 @@ Req: 1、本科及以上学历，计算机、大数据、人工智能或者相�
 3、熟悉大数据技术栈，包括 Flink/Spark/Hive/Hadoop/ES/Hudi/Iceberg等，有海量数据场景实际项目经验；
 4、在数据,.etc
 
+
 ```
 
 
 ##### 深圳-数据集成平台技术专家/负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7008813797485971719/detail
 * Match:8:大数据,离线,spark,实时,可视化,hadoop,flink,java
+
 
 ```
 JD: 1、打造业界领先的数据集成平台，提供各类数据源的实时和离线异构传输服务，支撑字节跳动各大产品线；
@@ -6703,12 +7484,14 @@ Req: 1、扎实的计算机基础和算法数据结构功底，对技术有热�
 4、熟悉Hadoop EcoSystem等开源大数据框架，有实时流计算开发经验者优先；
 ,.etc
 
+
 ```
 
 
 ##### 深圳-算法策略工程师-直播
 * URL: https://jobs.bytedance.com/referral/pc/position/6966939713722779941/detail
 * Match:8:大数据,go,spark,hadoop,flink,python,hive,linux
+
 
 ```
 JD: 1、参与字节跳动直播变现业务的优化，服务亿级全球用户的直播体验；
@@ -6720,12 +7503,14 @@ Req: 1、极强的C/C++功底，熟悉Python/Golang开发，熟悉Linux 多线�
 3、扎实的数学基础，包括概率统计、数值优化等，对数据敏感，善于从数据中发现、分析、解决问题；
 4、熟悉 Flink、Spark、H,.etc
 
+
 ```
 
 
 ##### 深圳-SDN高级研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7287895912243284285/detail
 * Match:7:go,可视化,监控,python,java,调度,linux
+
 
 ```
 JD: 通过软件研发提高数据中心网络的可用性及效率：
@@ -6741,12 +7526,14 @@ Req: 1、计算机科学，电子工程，网络工程或相关领域的学士�
 4、快速学习及应变能力；对技术细节的执着及钻研精神；善于沟通和交流；
 5、具有运行大型数据中心网络经验者，开发分布式系统经验,.etc
 
+
 ```
 
 
 ##### 深圳-云数据库SQLServer研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7230818124617976119/detail
 * Match:7:kubernetes,go,python,java,sql,容器,mysql
+
 
 ```
 JD: 1、参与火山引擎云数据库 SQL Server 管控平台的整套生命周期的设计和研发工作，打造业界先进的云上托管型数据库服务； 
@@ -6757,12 +7544,14 @@ Req: 1、5年以上Microsoft SQL Server 真实项目开发或运维经验, 熟�
 2、熟练掌握 GO/Python/.NET/Java 中的一种或者多种语言, 熟悉 Powershell 脚本开发；
 3、熟练掌握多线程等高并发系统编,.etc
 
+
 ```
 
 
 ##### 深圳-后台研发工程师 - 国际直播（营收方向）
 * URL: https://jobs.bytedance.com/referral/pc/position/7316853360735668530/detail
 * Match:7:go,实时,python,java,sql,kafka,mysql
+
 
 ```
 JD: 国际化短视频团队是由一群谦逊、聪颖、有同情心且富有创造力的人组成。我们的工作服务于灵感，旨在激发每一个人——不管是您，我们，抑或是平台上的数亿用户。我们怀抱好奇心，不断突破自我，从不畏惧风险，并勇于面对不确定性。在这里，对于那些有大胆想法的人来说有无限的机会。加入我们，展现您的影响力。
@@ -6775,12 +7564,14 @@ Req: 1、3年以上工作经验，有大型分布式系统相关经验；
 4、能够与不同的利益相关者密切合作，并具有良好的沟通技巧；
 5、自我驱动，积极向上，具有合作精神，并随时保持学习的热情。,.etc
 
+
 ```
 
 
 ##### 深圳-后端研发工程师（成本方向）-剪映-深圳/广州
 * URL: https://jobs.bytedance.com/referral/pc/position/6937954821166172423/detail
 * Match:7:大数据,go,监控,python,java,治理,linux
+
 
 ```
 JD: 1、负责剪映CapCut成本优化工作，建立成本洞察体系，沉淀相关工具和平台，做好成本治理和长期成本运营；
@@ -6794,12 +7585,14 @@ Req: 1、本科以上学历，计算机相关专业，有3年以上相关领域�
 4、有不错的开发能力，精通一种或多种编程语言，例如Python/Go/Java/Rust；
 5、加分,.etc
 
+
 ```
 
 
 ##### 深圳-增长算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7260130008562665765/detail
 * Match:7:大数据,spark,实时,hadoop,python,java,hive
+
 
 ```
 JD: 团队介绍
@@ -6809,12 +7602,14 @@ Req: 1、掌握扎实的计算机科学基础知识 (数据结构/算法/网络�
 2、掌握机器学习的理论基础，熟悉经典的算法模型 (GBDT/LR/FM/DNN等) 和相关工具框架 (Tensorflow/PyTorch等)；
 3、具有敏锐的数据分析和洞察能力，熟悉常见的大数据开发工具,.etc
 
+
 ```
 
 
 ##### 深圳-数据挖掘工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7441152815068072210/detail
 * Match:7:大数据,spark,监控,flink,python,java,hive
+
 
 ```
 JD: 1、基于互联网大数据和算法模型能力，对各类用户人群进行刻画，包括消费意愿、关系行为、内容质量、账号风险等维度；
@@ -6825,12 +7620,14 @@ Req: 1、计算机相关专业本科及以上学历，优秀的编码能力，�
 2、熟悉C++、Java、Python中的一种或多种编程技术，编程能力强，对数据敏感，具备较强特征发现能力，熟悉大数据处理技术(Hive/Spark/Flink)，善于学习应用业界领先数据架构和技术；
 3、精通并灵活使用Xgboost、LightGBM、LR等机器学习算法；在搜索广告和,.etc
 
+
 ```
 
 
 ##### 深圳-数据湖构建平台负责人
 * URL: https://jobs.bytedance.com/referral/pc/position/7039589686398896420/detail
 * Match:7:大数据,spark,实时,hadoop,flink,java,数据湖
+
 
 ```
 JD: 1、打造业界领先的数据湖构建和数据集成平台，同时服务外部行业和字节内部各大业务线
@@ -6843,12 +7640,14 @@ Req: 1、扎实的计算机功底，对产品和技术有热情，愿意不断�
 3、熟悉Flink、Spark或Hadoop EcoSystem等大数据领域，有数据湖、实时计算、数据集成或开源贡献者优先；
 4、自驱和执行力强，有大型项目管理经验或有,.etc
 
+
 ```
 
 
 ##### 深圳-服务端技术负责人-剪映
 * URL: https://jobs.bytedance.com/referral/pc/position/7020994647313778957/detail
 * Match:7:go,团队负责人,python,java,治理,sql,mysql
+
 
 ```
 JD: 1、负责剪映业务和新业务的后台研发及管理工作；
@@ -6863,12 +7662,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，5年及以�
 4、熟悉Mysql 、Memcache、Redis、消息队列等常用服务组件，有定制化改进经验者优先；  
 5、有较强软件架构设计能力，较强,.etc
 
+
 ```
 
 
 ##### 深圳-高级数据产品解决方案架构师-公有云方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7324303327449418011/detail
 * Match:7:大数据,spark,hadoop,flink,hive,治理,kafka
+
 
 ```
 JD: 1、了解大数据、数据产品、数据中台数据应用等行业趋势，根据行业客户的战略、业务、产品及技术需求及公司内部产品布局，制定数据产品ToB解决方案；
@@ -6881,12 +7682,14 @@ Req: 1、计算机相关专业优先；
 4、有公有云大数据产品商业化经验者优先；
 5、具备优秀,.etc
 
+
 ```
 
 
 ##### 深圳-高级测试开发工程师-用户中台-深圳
 * URL: https://jobs.bytedance.com/referral/pc/position/7325034940398405925/detail
 * Match:7:大数据,go,spark,hadoop,python,java,hive
+
 
 ```
 JD: 用户中台涵盖用户账号、实名认证等技术型通用产品和共享平台，为抖音、今日头条、西瓜视频、剪映/CC等提供良好基础支撑。用户中台QA隶属IES质量保障部，依托强大的质量及效率建设平台，深挖各业务质量痛点，积极探索中台性业务的质量特性，致力于建设技术驱动的质量解决方案。
@@ -6898,12 +7701,14 @@ Req: 1、本科及以上学历，计算机相关专业毕业，2年以上工作�
 4、熟悉hadoop、spark、hive等常用大数据技术，有大数据平台开发经验；
 5、,.etc
 
+
 ```
 
 
 ##### 深圳-高级风控算法工程师-国际支付
 * URL: https://jobs.bytedance.com/referral/pc/position/7174976837331683640/detail
 * Match:7:spark,监控,flink,python,java,hive,sql
+
 
 ```
 JD: 部门介绍：国际支付团队致力向字节所有国际化业务提供专业的海外支付服务及解决方案、有效支撑字节跳动国际化业务的拓展与增长，当前团队分布在北京、深圳、上海、杭州、新加坡、山景城。风控数据智能团队职责是运用数据工程、数据科学、算法三种核心能力，以数字化、智能化方式，驱动全链路支付风控效果，推动包括fraud rate，chargeback rate，complia,.etc
@@ -6913,12 +7718,14 @@ Req: 1、数学或计算机专业本科及以上学历，扎实的计算机算�
 3、精通LR，GBDT等常用统计学习方法，熟悉多目标学习、深度学习、在线学习算法，良好的编码习惯和工程优化能力；
 4、3年以上互联网公司的数据挖掘或机器学,.etc
 
+
 ```
 
 
 ##### 深圳-IT 在线服务中心 - 数据分析
 * URL: https://jobs.bytedance.com/referral/pc/position/7263368926025156921/detail
 * Match:6:可视化,监控,python,sql,tableau,报表
+
 
 ```
 JD: 1、负责IT在线服务台数据分析及建设工作，包括数据建模、数据挖掘与提取、数据看板制作等，实现运营数据全链路指标监控，为业务决策提供支持；
@@ -6932,12 +7739,14 @@ Req: 1、本科及以上学历，计算机、统计学及相关领域专业背�
 4、较强的逻辑思维能力和优秀的学习能力，对技术更新迭代和行业趋势保持敏感；
 5、主动性强，具备良好的沟通和协作能力，能够推动跨,.etc
 
+
 ```
 
 
 ##### 深圳-SRE高级工程师-视频云
 * URL: https://jobs.bytedance.com/referral/pc/position/6772420742702172423/detail
 * Match:6:kubernetes,go,docker,监控,python,java
+
 
 ```
 JD: 1、负责直播&CDN业务的规划、设计、部署、运维以及业务性能调优；
@@ -6951,12 +7760,14 @@ Req: 1、精通TCP/HTTP/DNS/RTMP协议原理，精通CDN、视频直播原理和
 4、熟悉ECS、OSS、SLB、CDN等云产品；
 5、熟悉云计算平台Open,.etc
 
+
 ```
 
 
 ##### 深圳-分布式事务研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7078614305666763038/detail
 * Match:6:go,监控,java,sql,linux,mysql
+
 
 ```
 JD: 1、分布式事务服务的设计和核心技术研发，包括强一致事务服务，最终一致状态机服务；
@@ -6969,12 +7780,14 @@ Req: 1、计算机相关专业，本科及以上学历；
 4、熟悉一种主流数据库（MySQL，Mongo，PostgreSQL）架构，并对实现细节有较深了解；
 5、有良,.etc
 
+
 ```
 
 
 ##### 深圳-前端开发专家/工程师 - 基础架构（深圳）
 * URL: https://jobs.bytedance.com/referral/pc/position/7323848672973228315/detail
 * Match:6:大数据,kubernetes,java,治理,sql,容器
+
 
 ```
 JD: 字节跳动基础架构团队主要负责公司云基础建设，支撑着字节跳动旗下多款APP产品，如抖音、今日头条、番茄小说、西瓜视频、飞书、剪映等，同时也负责支持火山引擎公有云业务。迄今为止，我们通过云技术管理着百万量级的服务器构成的超大数据中心；我们通过字节深度优化的Kubernetes管理超过千万容器实例支持10万+微服务；我们还通过丰富的存储产品矩阵，如NewSQL、N,.etc
@@ -6984,12 +7797,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 3、熟悉ReactNative/Weex框架，有相关开发经验者优先；
 4、熟悉Express/Ko,.etc
 
+
 ```
 
 
 ##### 深圳-后端研发工程师-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7387022251432053001/detail
 * Match:6:kubernetes,go,docker,python,java,容器
+
 
 ```
 JD: 1、建设大语言模型相关工具和平台，包括大语言模型、插件、工作流、智能体、评测、安全、SFT等相关平台的后端研发工作，跨部门团队密切合作，共同推动大模型核心架构和生态系统的发展；
@@ -7003,12 +7818,14 @@ Req: 1、本科及以上学历，计算机相关专业，3年以上后端开发�
 5、有良好的编码习惯以保证高质量软件的产出；
 6、优秀的沟通协作能力、分析,.etc
 
+
 ```
 
 
 ##### 深圳-后端研发工程师（稳定性方向）剪映-深圳/广州
 * URL: https://jobs.bytedance.com/referral/pc/position/6948627723649567006/detail
 * Match:6:go,监控,python,java,治理,linux
+
 
 ```
 JD: 1、负责剪映CapCut业务核心系统的线上可用性，保障服务高效、可靠、稳定运行；
@@ -7022,12 +7839,14 @@ Req: 1、本科以上学历，计算机相关专业，有3年以上相关领域�
 4、有不错的开发能力，精通一种或多种编程语言，例如Python/Go/Java/Rust；
 5、加分,.etc
 
+
 ```
 
 
 ##### 深圳-基础架构数据运营
 * URL: https://jobs.bytedance.com/referral/pc/position/7390004942000916787/detail
 * Match:6:数据仓库,可视化,python,治理,sql,tableau
+
 
 ```
 JD: 1、负责云平台数据指标体系构建，定义数据标准，产出数据规范，并推动标准和规范的落地，推动数据治理的完成；
@@ -7042,12 +7861,14 @@ Req: 1、5年及以上互联网数据分析工作经验，有较强的数据统�
 5、熟悉Python，掌握Tableau、PowerBI等数据可视化工具者优先；
 6、英语水平较好，,.etc
 
+
 ```
 
 
 ##### 深圳-大模型工程平台研发专家-智能服务
 * URL: https://jobs.bytedance.com/referral/pc/position/7419283793284565274/detail
 * Match:6:go,python,java,sql,调度,mysql
+
 
 ```
 JD: 团队介绍：我们是智能服务团队，团队负责互娱业务的泛体验、泛安全问题挖掘和业务赋能，为抖音/直播/剪映/醒图/本地生活等业务，提供服务化与智能化解决方案。
@@ -7058,12 +7879,14 @@ Req: 1、3年以上研发工作经验，本科及以上学历，计算机相关�
 3、良好的设计能力、沟通能力，团队协作能力及项目掌控能力，有较强的责任心，追求极致；
 4、对业务敏感，能快速理解业务背景，具备优秀的技术与业务结合能力,.etc
 
+
 ```
 
 
 ##### 深圳-数据产品经理（GameBI）-游戏技术
 * URL: https://jobs.bytedance.com/referral/pc/position/7425925521954343206/detail
 * Match:6:大数据,数据仓库,可视化,治理,sql,tableau
+
 
 ```
 JD: 1、负责GameBI平台规划和设计，独立完成产品调研、方案设计以及协调各方资源推动产品上线；
@@ -7076,12 +7899,14 @@ Req: 1、5年以上数据产品设计经验，统计、数学、计算机相关�
 3、熟悉数据仓库、数据开发、数据治理，了解相关的解决方案和经验，熟练掌握互联网产品设计相关软件，如Sketch，Axure，Visio等；
 4、熟练使用SQL及其他分析工具，,.etc
 
+
 ```
 
 
 ##### 深圳-数据库开发工程师/专家-Common Data Infra
 * URL: https://jobs.bytedance.com/referral/pc/position/7330890637929597222/detail
 * Match:6:go,spark,presto,hbase,sql,mysql
+
 
 ```
 JD: 团队介绍: 
@@ -7091,12 +7916,14 @@ Req: 1、至少深入了解 C/C++/Go 等编程语言之一，熟悉多线程与�
 2、掌握数据库引擎核心研发，包括但不限于：自研数据库引擎、RocksDB/LevelDB、MySQL、MongoDB、Cassandra、HBase、InfluxDB 等分布式或单机引擎；
 3、熟悉 Calcite、Greenplum、Presto、S,.etc
 
+
 ```
 
 
 ##### 深圳-数据库生态工程师/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7262565811432081722/detail
 * Match:6:clickhouse,go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责数据库生态产品（数据传输服务、数据库备份系统、数据库管理平台、数据库智能秘书DBGPT）的设计、开发、维护工作；
@@ -7109,12 +7936,14 @@ Req: 1、计算机相关专业，3年以上云平台/数据库管控平台/数�
 3、熟悉一种或多种常见数据库（如MySQL、Redis、PG、MongoDB、ES、ClickHouse等）的基本原理，包括存储引擎、日志管理、查询引擎等；
 4、自驱力强、,.etc
 
+
 ```
 
 
 ##### 深圳-服务端技术负责人-抖音用户体验
 * URL: https://jobs.bytedance.com/referral/pc/position/7122004904412350751/detail
 * Match:6:go,python,java,kafka,sql,mysql
+
 
 ```
 JD: 部门介绍：互娱研发部门负责抖音、抖音火山版、直播、音乐、影像等多款明星产品的研发，截止2020年8月，抖音连同抖音火山版在内，日活用户超6亿，并继续保持高速增长。加入我们，你会支持包括但不限于上述产品的研发和相关架构工作，每一行代码都能服务亿万用户。
@@ -7126,12 +7955,14 @@ Req: 1、5年以上服务端开发经验；
 3、掌握互联网后端开发相关知识/技术：包括不限于Kafka/MySQL/Redis/ES等；
 4、熟悉常规的架构设计思想，包括不限于服务化/异步/高并发/高可用/可扩展等，良好的业务架,.etc
 
+
 ```
 
 
 ##### 深圳-服务端高级工程师-数据集成平台
 * URL: https://jobs.bytedance.com/referral/pc/position/7086302811508181278/detail
 * Match:6:spark,实时,hadoop,flink,java,数仓
+
 
 ```
 JD: 1、参与公司火山引擎全域数据集成平台的开发和建设；
@@ -7143,12 +7974,14 @@ Req: 1、扎实的计算机基础和算法数据结构功底，对技术有热�
 3、具备较强的产品sense，业务需求分析能力，问题定位能力，良好的沟通能力和自我学习能力；
 4、深入了解Flink或S,.etc
 
+
 ```
 
 
 ##### 深圳-服务端（高级）开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6966965311334959396/detail
 * Match:6:kubernetes,go,监控,python,java,devops
+
 
 ```
 JD: 基础架构质量与体验团队，主要围绕如何提升产品、开发者的质量与体验开展工作。作为一个聚焦质量、效率与开发者体验的中台团队，我们提供一系列业界领先的产品和基础设施，支撑字节跳动内部包括抖音、飞书、电商、头条等全球化产品，同时也通过火山引擎向全球开发者输出我们的产品技术。
@@ -7161,12 +7994,14 @@ Req: 1、本科及以上学历，计算机及相关专业；
 5、良好的后端架构设计能力，能够带领小团队完成迭代开发，有实际项目经验者优先；
 6、有较强的学习能力和抽象能力，有,.etc
 
+
 ```
 
 
 ##### 深圳-测试开发工程师-视频云
 * URL: https://jobs.bytedance.com/referral/pc/position/7123104263950125342/detail
 * Match:6:大数据,go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责业务测试、自动化测试、性能测试、系统级测试，保证业务稳定性、保障核心链路高可用； 
@@ -7179,12 +8014,14 @@ Req: 1、计算机或相关专业本科及以上学历，有音视频测试经�
 3、掌握一门以上编程语言，包括但不限于Python、golang、Java、C、C++；
 4、了解常用服务端或客户端开发、测试工具，如自动化框架、压测工具或大数据处理工具。,.etc
 
+
 ```
 
 
 ##### 深圳-资深后端开发工程师-ASM
 * URL: https://jobs.bytedance.com/referral/pc/position/7379452181290912010/detail
 * Match:6:go,python,java,kafka,sql,mysql
+
 
 ```
 JD: 团队描述：ASM 是一个专注于设计和实现下一代资产服务管理系统的团队，通过 ITIL 最佳实践框架迭代升级资产管理和服务管理业务线的核心产品，确保IT企业服务能够满足内外部组织的业务需求。我们的愿景是打造世界级和行业领先的资产服务管理软件平台，以释放全球不同企业的生产力，提供易用/用户体验极佳的数字化企业服务，帮助业务以更低的成本提供更高质量的服务。
@@ -7198,12 +8035,14 @@ Req: 1、本科及以上学历，计算机、通信及相关专业， 5年及以
 5、熟练掌握 Golang/Python/Java中至少一门编程语言，精通Golang者优先；
 6、熟悉关系型数据库（MySQL或Po,.etc
 
+
 ```
 
 
 ##### 深圳-音视频后台开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7391825041929177353/detail
 * Match:6:k8s,调度,go,docker,kafka,sql
+
 
 ```
 JD: 1、参与字节跳动流媒体处理(转码、录制、截图、视频编辑和特效)平台的业务功能、调度系统开发和整体框架设计，支撑西瓜视频、火山引擎、抖音、今日头条等产品；
@@ -7216,12 +8055,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，2年以上�
 4、熟悉消息队列，如Kafka；熟悉Zookeeper；熟悉Docker、K8s等技术；
 5、有基本的流媒体知识和图,.etc
 
+
 ```
 
 
 ##### 深圳-风控算法工程师(CV/NLP)-抖音风控
 * URL: https://jobs.bytedance.com/referral/pc/position/7312363370161932581/detail
 * Match:6:大数据,spark,flink,python,java,hive
+
 
 ```
 JD: 1、负责处理字节跳动相关产品线（抖音/直播/游戏/电商等）上存在的各种的业务安全问题，识别作弊用户，包括色情导流、欺诈、赌博、电商黑灰产等；
@@ -7231,12 +8072,14 @@ JD: 1、负责处理字节跳动相关产品线（抖音/直播/游戏/电商等
 Req: 1、在CV/NLP/Graph的某个领域有较深入的研究，包括但不限于：图像/视频分类和识别、目标检测、无监督/半监督学习、Metric Learning, 文本分类、文本挖掘，Graph Embedding等；
 2、熟悉C++、JAVA、python中的一种或多种编程技术，编程能力强，了解大数据处理技术(hive/spark/flink)，善于学习应用业界领,.etc
 
+
 ```
 
 
 ##### 深圳-高级后端开发工程师-互联网信贷&风控
 * URL: https://jobs.bytedance.com/referral/pc/position/7257913924288055613/detail
 * Match:6:大数据,go,监控,python,java,治理
+
 
 ```
 JD: 1、参与并负责互联网信贷核心系统的设计、开发及维护；
@@ -7252,12 +8095,14 @@ Req: 1、本科及以上学历，5年以上工作经验，熟悉Java/PHP/C++/Go/
 4、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 5、有服务治理，稳定性提升，容量规划等高可用,.etc
 
+
 ```
 
 
 ##### 深圳-高级研发工程师-AI工程化方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7428873140916554010/detail
 * Match:6:kubernetes,go,java,治理,sql,mysql
+
 
 ```
 JD: 1、负责工程效率相关应用技术研发、开发和维护，包括但不限于质量、流程、自动化等方向，确保产品的高质量和稳定性；
@@ -7269,12 +8114,14 @@ Req: 1、3年及以上后端系统开发经验，有扎实的编程能力和良�
 3、负责过较高复杂度及大流量的业务后端服务，对于架构和工程的实现有独立思考和见解，有丰富的稳定性治理、服务性能优化经验；
 4、了解API网关/Service Mesh/Kubern,.etc
 
+
 ```
 
 
 ##### 深圳-AIGC服务端工程师（业务方向）-剪映CapCut（深圳/广州）
 * URL: https://jobs.bytedance.com/referral/pc/position/7148797740414486814/detail
 * Match:5:大数据,go,kafka,sql,mysql
+
 
 ```
 JD: 1、负责剪映AI应用项目和平台工具的工程研发，结合各类AI技术特点，发挥想象力与创造性，落地有价值的AI应用场景，打造极致的用户体验；
@@ -7287,12 +8134,14 @@ Req: 1、熟悉Golang或C++，有扎实的算法与数据结构基础、良好�
 3、3年及以上研发经验，具备独立解决问题的能力，对挑战性问题充满热情，具备内在成就动机；
 4、加分项：对AIGC有了解和动手经验，希,.etc
 
+
 ```
 
 
 ##### 深圳-SMB后端开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7300850468111567130/detail
 * Match:5:k8s,go,docker,监控,java
+
 
 ```
 JD: 1、负责SMB的前瞻性架构探索，规划和落地以“应用”为中心的研发运行平台，实现从开发、构建、测试、交付、运行、监控、优化等应用全生命周期的工程服务；
@@ -7305,12 +8154,14 @@ Req: 1、本科以上学历，5年以上开发经验，对aPaaS产品体系有�
 4、精通架构设计，熟悉DDD，能够独立完成复杂系统的架构设计；领导和设计过大型项目研发和落地推广者优先；
 5、熟悉云平台、分布式和微服务技术，包括但不,.etc
 
+
 ```
 
 
 ##### 深圳-SRE工程师-飞书（北/深）
 * URL: https://jobs.bytedance.com/referral/pc/position/7161696725216053512/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、负责字节跳动飞书相关产品的可靠、稳定运行，为相关产品SLA负责、梳理、识别应用架构风险，解决或推动业务研发解决架构风险；
@@ -7324,12 +8175,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 4、熟悉应用高可用架构，对架构治理、稳定性架构有较深入理解；
 5、熟练掌握Shell或Python开发，有Golang或Jav,.etc
 
+
 ```
 
 
 ##### 深圳-SRE工程师/专家-飞书（北/上/广/深/杭/武汉）
 * URL: https://jobs.bytedance.com/referral/pc/position/7080736157282437384/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、负责字节跳动飞书产品的可靠、稳定运行，为相关产品SLA负责；
@@ -7344,12 +8197,14 @@ Req: 1、2年及以上工作经验，本科及以上学历，计算机、通信�
 4、熟悉应用高可用架构，对架构治理、稳定性架构有较深入理解；
 5、熟练掌握Shell或Python开发，有,.etc
 
+
 ```
 
 
 ##### 深圳-业务风控算法工程师—火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7312358795378936091/detail
 * Match:5:大数据,spark,监控,hive,sql
+
 
 ```
 JD: 1、结合互联网大数据能力和金融信贷场景需求 ，开发信用评分、反欺诈等风控模型，进行行业赋能；
@@ -7362,12 +8217,14 @@ Req: 1、计算机相关专业本科及以上学历，优秀的编码能力，�
 3、精通并灵活使用Xgboost、LightGBM等机器学习算法和常用深度学习算法，能够不断学习和应用新技术；
 4、有风控行业相关建模经验和互联网用户画像等大数据挖,.etc
 
+
 ```
 
 
 ##### 深圳-云计算存储产品SRE工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7018086174480992549/detail
 * Match:5:go,python,java,治理,linux
+
 
 ```
 JD: 1、负责字节跳动存储产品（块、对象、文件）产品的运维容量规划、SLA设计与保障、性能调优、应急处理等相关工作；
@@ -7379,12 +8236,14 @@ Req: 1、计算机相关专业本科以上学历，2年以上系统运维或研�
 3、掌握分布式系统原理，有对象存储、块存储、文件存储、消息队列等分布式存储产品运维开发经验优先；
 4、基于平台使用场景，深入优化提供最佳服务治理实践，包含不局限于关键,.etc
 
+
 ```
 
 
 ##### 深圳-后端开发工程师-飞书文档-中台服务方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7281585622689974589/detail
 * Match:5:大数据,go,python,java,治理
+
 
 ```
 JD: 1、负责文档协同、生命周期管理等中台服务的需求设计及开发；
@@ -7398,12 +8257,14 @@ Req: 1、本科及以上学历，技术基础扎实，精通至少一门开发�
 4、较好的产品意识，愿意将产品效果作为工作最重要的驱动因素；
 5、具备良好的沟通能力、责任心及团队合作精神，有较强的分析和解决问,.etc
 
+
 ```
 
 
 ##### 深圳-后端研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7268215510285699365/detail
 * Match:5:go,可视化,监控,python,java
+
 
 ```
 JD: 1、参与超大规模数据中心网络平台产品及工具服务的建设；
@@ -7417,12 +8278,14 @@ Req: 1、热爱编程，扎实的编程能力，良好的数据结构和算法�
 4、较好的产品意识，对用户需求、体验、交互、操作流程等有一定追求，愿意将产品效果做为工作最重要的驱动因素；
 5、有监控、性能分析、数据可视化相关经验者优先。,.etc
 
+
 ```
 
 
 ##### 深圳-后端研发工程师 -稳定性方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7195475568154233143/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与超大规模数据中心网络平台产品及工具服务的建设；
@@ -7435,12 +8298,14 @@ Req: 1、熟练掌握Go/Python/Java中至少一门开发语言，扎实的编程
 2、3年以上网络运维、监控、高可用保障等技术领域的经验，至少在一个领域有深入的理解；
 3、具备大型互联网基础设施领域相关产品、平台设计及落地经验。,.etc
 
+
 ```
 
 
 ##### 深圳-后端研发工程师-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7011030975551949087/detail
 * Match:5:大数据,go,python,java,报表
+
 
 ```
 JD: 1、负责云服务生态的业务实现、系统重构及效能提升；
@@ -7454,12 +8319,14 @@ Req: 1、本科及以上学历，计算机、数学等相关专业，五年以�
 4、对于常见的中间件（包括但不限于存储、缓存、消息队列、大数据）有一定的了解和使用经验；
 5、具有良好的沟,.etc
 
+
 ```
 
 
 ##### 深圳-国际支付-SRE运维研发leader
 * URL: https://jobs.bytedance.com/referral/pc/position/7304969111586801957/detail
 * Match:5:go,监控,python,java,linux
+
 
 ```
 JD: 关于我们：
@@ -7473,12 +8340,14 @@ Req: 1、本科及以上学历，计算机相关专业， 有多年SRE平台建�
 3、熟悉一种或多种编程语言，如 Python/Go/Java/Shell/C++等；
 4、善于系统化思考，能够产出高质量规划，并带领团队实施落地。,.etc
 
+
 ```
 
 
 ##### 深圳-国际支付-SRE运维研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7304970870971287818/detail
 * Match:5:go,python,java,调度,linux
+
 
 ```
 JD: 关于我们：
@@ -7493,12 +8362,14 @@ Req: 1、本科及以上学历，计算机相关专业；
 4、熟悉一种或多种编程语言，如 Python/Go/Java/Shell/C++等；
 5、善于沟通协作，积极响应解决问题，善于发现,.etc
 
+
 ```
 
 
 ##### 深圳-大数据研发工程师--推荐特征方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7311607506873714995/detail
 * Match:5:大数据,spark,flink,python,java
+
 
 ```
 JD: 字节跳动推荐架构团队，负责字节跳动旗下相关产品的推荐系统架构的设计和开发，保障系统稳定和高可用；负责特征和样本数据流性能优化，解决系统瓶颈，降低成本开销；抽象系统通用组件和服务，建设端到端的特征和样本平台，支撑新产品快速孵化以及为ToB赋能。
@@ -7511,12 +8382,14 @@ Req: 1、扎实的编程能力，有优秀的设计和代码品位，对解决�
 3、对特征、样本的平台化和产品化有深入的了解，有机器学习相关经验者优先；
 4、熟悉Java、C++、Scal,.etc
 
+
 ```
 
 
 ##### 深圳-平台开发工程师/专家-DevOps方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7306897350878152969/detail
 * Match:5:go,java,kafka,调度,devops
+
 
 ```
 JD: 1、参与公司自动化工程效能平台的架构设计与研发；
@@ -7528,12 +8401,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，具备良�
 2、熟练掌握至少一种主流编程语言、框架及相关生态（如C/C++/PHP/Java/Golang等），有较强的架构能力和良好的代码规范；
 3、理解常规的架构设计思想，包括但不限于服务化、异步、高可用、可扩展等，有系统性解决问题的思维，有良好的抽象化思维能力和领域建模能力；熟悉,.etc
 
+
 ```
 
 
 ##### 深圳-技术专家/后端研发工程师（存储架构开发）-TikTok直播
 * URL: https://jobs.bytedance.com/referral/pc/position/7327505776463956274/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 团队介绍：TikTok是一个覆盖150个国家和地区的国际短视频平台，我们希望通过TikTok发现真实、有趣的瞬间，让生活更美好。TikTok 在全球各地设有办公室，全球总部位于洛杉矶和新加坡，办公地点还包括纽约、伦敦、都柏林、巴黎、柏林、迪拜、雅加达、首尔和东京等多个城市。
@@ -7546,12 +8421,14 @@ Req: 1、扎实的计算机基础知识，较强的逻辑理解能力和深入�
 4、熟悉MySQL 、Memcache、Redis、消息队列等常用存储组件，有存储组件性能调优经验者优先；
 5、有大规模分布式存储/缓存/,.etc
 
+
 ```
 
 
 ##### 深圳-数据仓库leader
 * URL: https://jobs.bytedance.com/referral/pc/position/7195087340079253818/detail
 * Match:5:大数据,数据仓库,团队负责人,离线,实时
+
 
 ```
 JD: 1、深入业务，理解并合理抽象业务需求，发挥数据价值，与业务团队紧密合作；
@@ -7564,12 +8441,14 @@ Req: 1、熟悉数据仓库实施方法论、深入了解数据仓库体系，�
 4、有大数据团队负责人角色经验者优先；
 5、有复杂业务场景的数据体系建设经验优先。,.etc
 
+
 ```
 
 
 ##### 深圳-数据库工程师（DBA）
 * URL: https://jobs.bytedance.com/referral/pc/position/6704520120804313357/detail
 * Match:5:k8s,go,监控,python,sql
+
 
 ```
 JD: 1、负责数据库的监控，备份，性能优化及故障处理等；
@@ -7584,12 +8463,14 @@ Req: 1、熟悉业界主流关系型数据库或NoSQL数据库；知晓数据库
 4、熟悉go，Python等任意一种开发语言，具备一定的研发能力；
 5、要求你对工作保持激情，有上进心，有,.etc
 
+
 ```
 
 
 ##### 深圳-数据库混合云开发工程师/架构师
 * URL: https://jobs.bytedance.com/referral/pc/position/7311546913067813129/detail
 * Match:5:go,python,hbase,sql,mysql
+
 
 ```
 JD: 1、负责火山引擎混合云数据库产品开发，为字节跳动内外部客户提供数据库和中间产品服务；
@@ -7601,12 +8482,14 @@ Req: 1、3年及以上工作经验，本科及以上学历，计算机相关专�
 3、熟悉一种或多种数据库或数据库生态中间件，如MySQL、PostgreSQL、MongoDB、Redis、Hbase、TiDB、PolarDB、GraphDB、DTS、DMS&DAS等；
 4.  有数据库内核,.etc
 
+
 ```
 
 
 ##### 深圳-文档数据库研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6704473012290193668/detail
 * Match:5:aws,go,python,sql,linux
+
 
 ```
 JD: 1、负责字节跳动自研DocumentDB架构设计与研发；
@@ -7621,12 +8504,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 1、了解云服务架构的技术挑战，并有对应的解决方案；  
 2、有过高流量大并发，有MongoDB,.etc
 
+
 ```
 
 
 ##### 深圳-服务端开发工程师-游戏技术
 * URL: https://jobs.bytedance.com/referral/pc/position/7384282609311222054/detail
 * Match:5:大数据,go,python,sql,mysql
+
 
 ```
 JD: 1、负责字节跳动游戏客服分布式业务的服务系统设计与研发与建设；
@@ -7640,12 +8525,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业；
 5、有高并发服务设计和实现经验优先，有较好的产品意识优先，有游戏行业经验或国际化方向经验优先；
 6、积极乐观，,.etc
 
+
 ```
 
 
 ##### 深圳-服务端开发工程师-生态策略-今日头条
 * URL: https://jobs.bytedance.com/referral/pc/position/7078966246780438815/detail
 * Match:5:clickhouse,go,python,sql,mysql
+
 
 ```
 JD: 1、负责今日头条产品后端系统研发工作，提供高效稳定的系统，打造一流的创作者平台；
@@ -7662,12 +8549,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业者优先；
 6、有较好的产品意识，对互联网业务和产品有高度的兴趣；
 7、积,.etc
 
+
 ```
 
 
 ##### 深圳-服务端开发工程师-用户触达
 * URL: https://jobs.bytedance.com/referral/pc/position/7145342457315985671/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责公司用户触达相关的研发工作，构建及改进海量用户下的分钟级消息触达能力，具体包含但不仅限于：推送通道建设、架构优化、推送策略优化、热点推送提速等方面；
@@ -7680,12 +8569,14 @@ Req: 1、能熟练使用一种编程语言，包括不限于Golang/Python/Java/C
 4、熟悉使用MySQL、Redis、消息队列等常用组件，能灵活使用解决实际的工程问题；
 5、有强烈的求知欲,.etc
 
+
 ```
 
 
 ##### 深圳-服务端研发工程师-抖音
 * URL: https://jobs.bytedance.com/referral/pc/position/7290442583548709176/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责开放平台的后端开发工作，助力字节能力开放，成就字节亿级用户及开发者；
@@ -7696,12 +8587,14 @@ Req: 1、热爱技术，有扎实的编程能力和良好的编码风格，对�
 2、至少能熟练使用Golang/Python/Java/PHP/C++/C一种语言，在计算机领域具有较完整的知识体系，并能结合到实际工作中，包括但不局限于算法、数据结构、操作系统、设计模式、分布式系统；
 3、能够熟练使用Mysql/Redis/Mq，对业界数据库中间件、消息中间件及其他分布式系统,.etc
 
+
 ```
 
 
 ##### 深圳-服务端研发工程师-直播电商-今日头条
 * URL: https://jobs.bytedance.com/referral/pc/position/7065509110472722725/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责头条直播电商的服务端技术架构设计和系统优化；
@@ -7714,12 +8607,14 @@ Req: 1、本科及以上学历，计算机、通信等相关专业，3年以上�
 3、有扎实的编程能力，有优秀的设计和代码品位，深刻理解计算机原理，有良好的数据结构和算法基础；
 4、熟悉MySQL 、Redis、MQ等常用开源组件，,.etc
 
+
 ```
 
 
 ##### 深圳-服务端研发工程师—抖音小程序
 * URL: https://jobs.bytedance.com/referral/pc/position/7052628857115789582/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责抖音开放平台共用能力的抽象、开发及架构工作，包括但不限于抖音基础和直播能力开放、行业场景建设、流量分发等工作；
@@ -7731,12 +8626,14 @@ Req: 1、热爱技术，有扎实的编程能力和良好的编码风格，对�
 2、至少能熟练使用Golang/Python/Java/PHP/C++/C一种语言，在计算机领域具有较完整的知识体系，并能结合到实际工作中，包括但不局限于算法、数据结构、操作系统、设计模式、分布式系统；
 3、能够熟练使用Mysql/Redis/Mq，对业界数据库中间件、消息中间件及其他分布式系统,.etc
 
+
 ```
 
 
 ##### 深圳-流媒体开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6704273932821727499/detail
 * Match:5:go,实时,python,java,调度
+
 
 ```
 JD: 1、全球化直播CDN的建设与维护 
@@ -7750,12 +8647,14 @@ Req: 1、精通TCP/HTTP/DNS协议原理，精通CDN原理和产品使用
 4、有视频CDN开发经验，精通视频CDN架构、策略、调度、建设及优化 
 5、精通常用算法、数据结构,.etc
 
+
 ```
 
 
 ##### 深圳-测试开发工程师-广告商业安全
 * URL: https://jobs.bytedance.com/referral/pc/position/6752730531995060491/detail
 * Match:5:go,监控,python,java,linux
+
 
 ```
 JD: 1、负责广告系统商业安全方向的质量保障工作，包括API测试／Web平台测试／后端服务测试等；
@@ -7770,12 +8669,14 @@ Req: 1、1-5年工作经验，本科及以上学历，计算机相关专业优�
 5、熟悉Web架构，了解Django／Flask等框架优先； 
 6、有持续集成方面经验者,.etc
 
+
 ```
 
 
 ##### 深圳-测试开发工程师/专家-DevOps方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7306899154583488818/detail
 * Match:5:go,监控,python,java,devops
+
 
 ```
 JD: 1、负责后端或web产品的质量保障工作；根据产品设计或需求，进行需求分析，制定测试计划、风险评估、设计测试数据和测试用例，执行测试用例，准确定位并追踪问题等；
@@ -7789,12 +8690,14 @@ Req: 1、计算机及相关专业，本科及以上学历；
 4、熟练掌握 DevOps 理念和实践，熟悉 CI/CD 流程，能够设计和实现自动化部署、自动化测试等流程；
 5、具有良好的沟通能力和团队合作精神、快速的学习能力、思维敏,.etc
 
+
 ```
 
 
 ##### 深圳-测试开发工程师—AI智能化方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7306896314133760265/detail
 * Match:5:go,监控,python,java,kafka
+
 
 ```
 JD: 1、负责字节AI智能化业务的质量保障，通过建立系统化的测试技术，推动产品质量不断提高；
@@ -7806,12 +8709,14 @@ Req: 1、本科及以上学历，计算机相关专业优先，3年及以上web/
 3、熟悉各种服务端测试方法， 比如性能压测、接口、监控配置、数据质量保障等；
 4、具备定义、解决复杂问题的能力，良好的沟通及项目管理、质量把控能力；,.etc
 
+
 ```
 
 
 ##### 深圳-系统稳定性工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7304541398458648841/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、负责分析和发现头条、电商、搜索、视频架构等前台业务和中后台服务的稳定性与高可用的薄弱点，给出解决方案并参与方案开发；
@@ -7824,12 +8729,14 @@ Req: 1、本科及以上学历，计算机相关专业；
 4、掌握扎实的计算机基础知识，深入理解数据结构、算法和操作系统知识；
 5、有优秀的逻辑分析能力，能够对业务逻辑进行合理的抽象和拆分。,.etc
 
+
 ```
 
 
 ##### 深圳-营销算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7363507360814303525/detail
 * Match:5:大数据,go,spark,hadoop,python
+
 
 ```
 JD: 1、基于海量数据，利用统计学、机器学习和数据挖掘方法，为营销业务（含短信营销、外呼营销、RTA营销等）提供模型与策略，优化营销效果；
@@ -7842,12 +8749,14 @@ Req: 1、熟练掌握DPI、APP等营销行业主流数据源的挖掘技术，3�
 4、沟通能力强，能够跟非技术人员对模型的优势进行有效沟通；
 5、逻辑思维好，有优秀的分析问题解,.etc
 
+
 ```
 
 
 ##### 深圳-资深大模型测试开发工程师-Data
 * URL: https://jobs.bytedance.com/referral/pc/position/7424107879731726642/detail
 * Match:5:k8s,go,docker,python,java
+
 
 ```
 JD: 1、深度参与AI大模型项目，协同产品团队和研发团队高质量交付产品；
@@ -7861,12 +8770,14 @@ Req: 1、5年及以上研发测试工作经验，本科及以上学历，计算�
 4、有搜推广效果评测、大模型评测经验最佳；
 5、加分项：熟练使用Docker、K8S，有作为测试负责人主导平台上云、私有云交付的,.etc
 
+
 ```
 
 
 ##### 深圳-资深安全研发工程师-多云安全方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7220788055078144314/detail
 * Match:5:大数据,spark,实时,hadoop,治理
+
 
 ```
 JD: 1、负责公有云环境下多云安全平台的设计与架构搭建，深入研究公有云平台架构与安全机制，规划并制定全面的风险检测策略与治理方案，确保云服务及资源的安全性与合规性；
@@ -7877,12 +8788,14 @@ Req: 1、5年以上信息安全相关经验，深入了解常见网络和系统/
 2、深入理解公有云平台架构与安全服务体系，熟练掌握云资源管理、网络配置、身份认证与访问控制等相关技术，具备在公有云环境中进行安全产品部署与运维的实践经验；
 3、熟练掌握常见的安全检测技术与工具，如漏洞扫描器、入侵检测系统（IDS/IPS）、安全信,.etc
 
+
 ```
 
 
 ##### 深圳-资深测试开发工程师- 飞书办公套件-AI方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7324699106323958026/detail
 * Match:5:大数据,go,python,java,治理
+
 
 ```
 JD: 1、负责飞书创作工具和内容管理类产品的测试开发工作，通过建立系统化的测试技术，推动产品质量不断提高；
@@ -7896,12 +8809,14 @@ Req: 1、本科及以上学历，计算机或人工智能等相关专业优先�
 4、至少熟练使用 Python/Go/Java 其中一种语言，可进行相关开发；
 5、有AI、大数据相关应用测试开发和评测经验者优先。,.etc
 
+
 ```
 
 
 ##### 深圳-资源SRE开发工程师-国际化短视频-深圳
 * URL: https://jobs.bytedance.com/referral/pc/position/7236655345678108989/detail
 * Match:5:go,监控,python,java,容器
+
 
 ```
 JD: 1、通过自动化和工程化手段来解决国际化短视频资源交付和管理问题，制定资源容量和管理计划，为不断增长的业务提供坚实的基础设施支持；
@@ -7913,12 +8828,14 @@ Req: 1、本科以上学历，计算机相关专业；熟悉信息和通信技�
 3、具备系统化解决问题的能力，良好的沟通技巧和主人翁责任感，具备团队合作和沟通能力；
 4、熟悉监控、性能测试、调优和故障排除工具，例如Prometheus、Grafana、ELK,.etc
 
+
 ```
 
 
 ##### 深圳-金融风控算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7254776378033391932/detail
 * Match:5:大数据,spark,监控,hive,sql
+
 
 ```
 JD: 1、结合互联网大数据能力和金融信贷场景需求 ，开发信用评分、反欺诈等风控模型，进行行业赋能；
@@ -7931,12 +8848,14 @@ Req: 1、计算机相关专业本科及以上学历，优秀的编码能力，�
 3、精通并灵活使用Xgboost、LightGBM等机器学习算法和常用深度学习算法，能够不断学习和应用新技术；
 4、有风控行业相关建模经验和互联网用户画像等大数据挖,.etc
 
+
 ```
 
 
 ##### 深圳-高级Node.js全栈工程师-TikTok
 * URL: https://jobs.bytedance.com/referral/pc/position/7391794066483464486/detail
 * Match:5:大数据,go,java,sql,mysql
+
 
 ```
 JD: 团队介绍：TikTok是一个覆盖150个国家和地区的国际短视频平台，我们希望通过TikTok发现真实、有趣的瞬间，让生活更美好。TikTok 在全球各地设有办公室，全球总部位于洛杉矶和新加坡，办公地点还包括纽约、伦敦、都柏林、巴黎、柏林、迪拜、雅加达、首尔和东京等多个城市。
@@ -7950,12 +8869,14 @@ Req: 1、拥有至少5年的全栈开发经验，其中至少3年使用Node.js/G
 5、具备良好的团队合作精神和沟通能力；
 6、能够独立处理和解决问题,.etc
 
+
 ```
 
 
 ##### 深圳-高级前端开发工程师 - 云平台
 * URL: https://jobs.bytedance.com/referral/pc/position/7084151736370579749/detail
 * Match:5:元数据,监控,java,治理,devops
+
 
 ```
 JD: 字节跳动内部私有云团队，主要为字节跳动内部的基建提供云基座能力，为研发者营造安全合规与全球化的开发环境，降低内部基础服务的使用门槛，提升研发效率与质量。目前团队主要专注方向，包括但不局限于云平台与控制面治理、权限与策略系统、API 网关、元数据系统、事件引擎等。
@@ -7969,12 +8890,14 @@ Req: 1、本科及以上学历，计算机、通信和电子信息科学等相�
 4、熟悉 Node.js，了解 Express/KOA 等框架，有大型服务端程序开发经验者优先；
 5、对,.etc
 
+
 ```
 
 
 ##### 深圳-高级后台开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7262346214723586361/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责字节跳动旗下抖音、头条、番茄小说等10+款应用营销增长相关研发工作；
@@ -7987,12 +8910,14 @@ Req: 1、拥有丰富的数字营销平台开发经验，对广告投放系统�
 3、熟悉Mysql、Redis、MQ等常用WEB组件，并了解基本原理；
 4、理解常规的架构设计思想，,.etc
 
+
 ```
 
 
 ##### 深圳-高级后端工程师（账号与身份认证）-火山引擎
 * URL: https://jobs.bytedance.com/referral/pc/position/7339842771647318323/detail
 * Match:5:大数据,go,监控,python,java
+
 
 ```
 JD: 1、负责火山引擎账号与账号属性、统一身份认证、Organization、云身份中心等业务建设，参与业务系统的架构设计、研发、监控运维等工作；
@@ -8005,12 +8930,14 @@ Req: 1、3 年及以上后端开发经验，具备优秀的工程设计、实现
 3、熟悉常见的中间件，包括但不限于存储、缓存、消息队列、大数据；
 4、具有良好的沟通、合作、逻辑思,.etc
 
+
 ```
 
 
 ##### 深圳-高级后端开发工程师-抖音支付
 * URL: https://jobs.bytedance.com/referral/pc/position/6919726624339626247/detail
 * Match:5:go,监控,python,java,治理
+
 
 ```
 JD: 1、参与并负责抖音支付核心系统的开发及维护；
@@ -8026,6 +8953,7 @@ Req: 1、本科及以上学历，2年以上工作经验，熟悉Java/PHP/C++/Go/
 4、学习能力强，对产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；
 5、有服务治理，稳定性提升，容量规划等高可用,.etc
 
+
 ```
 
 
@@ -8034,6 +8962,7 @@ Req: 1、本科及以上学历，2年以上工作经验，熟悉Java/PHP/C++/Go/
 ##### 珠海-后端/资深后端研发工程师-跨境电商计划方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7363074406274517274/detail
 * Match:8:go,元数据,实时,etl,java,flink,数仓,分布式计算
+
 
 ```
 JD: 团队介绍：跨境电商业务是字节跳动国际电商业务的重点发展板块，我们持续探索着更有效的商业模式和更有针对性的电商解决方案，致力于为跨境商家和合作伙伴提供更大的生意机会和发展平台，为全球用户提供优质商品和购物体验。目前国际电商业务为跨境商家提供“商家自运营”和“全托管”等经营模式，让不同类型商家发挥其优势，共拓新蓝海。
@@ -8045,12 +8974,14 @@ Req: 1、本科及以上学历，精通Golang/Java/C/C++/PHP中的一种或者�
 3、精通并行计算或者分布式计算原理，熟悉高并发、高稳定性、可线性扩展、海量数据的系统特点和技术方案；
 4、具备数仓建模理论知识，包括但不限于元数据管理、维度建模、数据生命周期、数据质量等，具有实时数,.etc
 
+
 ```
 
 
 ##### 珠海-国际电商-推荐算法工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7274800096528140604/detail
 * Match:8:大数据,go,spark,python,java,hive,sql,linux
+
 
 ```
 JD: 1、独特的业务问题，涉及到商品/直播/短视频等多种体裁的混合推荐，多个场景/多种目标的联合建模；
@@ -8063,12 +8994,14 @@ Req: 1、扎实的算法和数据结构基础，优秀的问题理解能力和�
 3、对推荐系统召回/排序/多样性/冷启动中一个或多个方向有过深入的实践，了解业界经典的模型和方法；
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
+
 ```
 
 
 ##### 珠海-增长算法工程师-电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7273796786429921573/detail
 * Match:8:大数据,go,spark,hadoop,flink,python,java,sql
+
 
 ```
 JD: 1、参与电商业务商家/达人增长，负责电商业务商家/达人增长算法，包括潜在商家/达人挖掘算法、分层算法、触达算法、成长算法等；
@@ -8079,12 +9012,14 @@ Req: 1、硕士研究生及以上学历，具备扎实的机器学习技术基�
 2、熟练使用SQL+Python进行模型开发，熟悉Spark/Hadoop/Flink等大数据处理技术，具备Java/Go/C++等复杂工程开发经验者优先；
 3、具备较好的商业理解能力，能够根据业务需求合理抽象算法问题，有良好的沟通和总结能力，,.etc
 
+
 ```
 
 
 ##### 珠海-推荐算法工程师-国际电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7329422353618766107/detail
 * Match:8:大数据,go,spark,python,java,hive,sql,linux
+
 
 ```
 JD: 1、支持国际化电商业务快速发展，服务数百万达人商家，探索更高效的商业模式，满足用户最好的购物体验，促进生态良性发展；
@@ -8097,12 +9032,14 @@ Req: 1、扎实的算法和数据结构基础，优秀的问题理解能力和�
 3、对推荐系统召回/排序/多样性/冷启动中一个或多个方向有过深入的实践，了解业界经典的模型和方法；
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
+
 ```
 
 
 ##### 珠海-推荐算法工程师-国际电商（商城）
 * URL: https://jobs.bytedance.com/referral/pc/position/7330538225108338954/detail
 * Match:8:大数据,go,spark,python,java,hive,sql,linux
+
 
 ```
 JD: 1、独特的业务问题，涉及到商品/直播/短视频等多种体裁的混合推荐，多个场景/多种目标的联合建模；
@@ -8115,12 +9052,14 @@ Req: 1、扎实的算法和数据结构基础，优秀的问题理解能力和�
 3、对推荐系统召回/排序/多样性/冷启动中一个或多个方向有过深入的实践，了解业界经典的模型和方法；
 4、熟悉至少一门编程语言（C/C++/Java/go/python,.etc
 
+
 ```
 
 
 ##### 珠海-商品增长算法-电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7309744217479547186/detail
 * Match:7:大数据,go,spark,hadoop,python,java,hive
+
 
 ```
 JD: 1、参与字节电商商品运营和价格运营全链路多场景智能体系建设，负责面向业务的数据挖掘及算法迭代；
@@ -8131,12 +9070,14 @@ Req: 1、硕士及以上学历，熟悉机器学习/NLP/深度学习/因果推�
 2、熟悉使用Python/Java/Go中的一门或多门语言，能独立抽象问题并基于tensorflow/pytorch建模，熟悉Spark/Hadoop/Hive等大数据处理；
 3、自信、主动、交流。能够主动深入了解业务，适应快速的业务变化，有良好的个人表达和,.etc
 
+
 ```
 
 
 ##### 珠海-达人增长算法工程师-抖音电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7407372140104632603/detail
 * Match:7:大数据,go,spark,hadoop,python,java,hive
+
 
 ```
 JD: 1、参与字节跳动电商达人增长全链路多场景智能体系建设，负责面向业务的数据挖掘及算法迭代；
@@ -8147,12 +9088,14 @@ Req: 1、硕士研究生及以上学历，熟悉机器学习/NLP/深度学习/�
 2、熟悉使用Python/Java/Go中的一门或多门语言，能独立抽象问题并基于Tensorflow/Pytorch建模，熟悉Spark/Hadoop/Hive等大数据处理；
 3、自信、主动、交流，能够主动深入了解业务，适应快速的业务变化，有良好的个人表达和组织沟通能力，能够推进,.etc
 
+
 ```
 
 
 ##### 珠海-后端/资深后端研发工程师-跨境电商业务
 * URL: https://jobs.bytedance.com/referral/pc/position/7128262641101850887/detail
 * Match:6:go,java,治理,sql,调度,mysql
+
 
 ```
 JD: 团队介绍：跨境电商业务是字节跳动国际电商业务的重点发展板块，我们持续探索着更有效的商业模式和更有针对性的电商解决方案，致力于为跨境商家和合作伙伴提供更大的生意机会和发展平台，为全球用户提供优质商品和购物体验。目前国际电商业务为跨境商家提供“商家自运营”和“全托管”等经营模式，让不同类型商家发挥其优势，共拓新蓝海。
@@ -8165,12 +9108,14 @@ Req: 1、熟练掌握至少一种服务端的主流编程语言、框架及相�
 3、熟悉Memcached/Redis、MongoDB、Elasticsearch等主流NoSQL技术和应用，有系统设计和开发经验者优先；
 4、理解常规,.etc
 
+
 ```
 
 
 ##### 珠海-后端/资深后端架构师-国际电商资金方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7418526177263929651/detail
 * Match:5:大数据,go,离线,python,java
+
 
 ```
 JD: 1、参与国际电商财务系统建设，打造安全、可靠、稳定、高效的财务系统；
@@ -8183,12 +9128,14 @@ Req: 1、本科及以上学历，计算机相关专业，5年以上研发工作�
 3、具备较强的责任心，良好的沟通能力和优秀的团队协作能力，有长远思维，有耐心，愿意投身相关业务；
 4、加分项：有大数据技术栈经验优先。,.etc
 
+
 ```
 
 
 ##### 珠海-后端开发工程师-供应链物流算法工程方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7435936124205549832/detail
 * Match:5:大数据,go,spark,flink,java
+
 
 ```
 JD: 1、负责国际电商供应链物流相关的算法架构、数据生产链路的工程架构工作；
@@ -8199,12 +9146,14 @@ Req: 1、本科及以上学历，5年以上后端或架构经验，具备扎实�
 2、优秀的业务抽象和架构设计能力，熟悉常见设计模式和架构思想，有良好的学习习惯，了解行业最新技术趋势，并且可以结合业务场景，灵活落地；
 3、熟悉主流KV（Redis/MongoDB)，ElasticSearch和向量检索架构，熟悉消,.etc
 
+
 ```
 
 
 ##### 珠海-算法工程师 - 供应链运筹方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7330923068078934309/detail
 * Match:5:大数据,go,python,java,sql
+
 
 ```
 JD: 1、深度参与字节跳动电商业务智慧供应链建设，负责仓内作业效率优化工作；
@@ -8214,12 +9163,14 @@ Req: 1、本科及以上学历，具备3年及以上运筹优化一线实战经�
 2、精通Python和SQL，熟悉Java/Go/C++至少一门语言，能够在大数据分布式环境熟练开发；
 3、自我驱动，能够深入了解业务，适应快速的业务变化，有良好的个人表达和沟通能力，能够推动项目落地。,.etc
 
+
 ```
 
 
 ##### 珠海-算法工程师 - 供应链预测方向
 * URL: https://jobs.bytedance.com/referral/pc/position/7330921954402584870/detail
 * Match:5:大数据,go,python,java,sql
+
 
 ```
 JD: 1、深度参与字节电商业务智慧供应链建设，负责聚合维度和商品维度预测工作；
@@ -8228,12 +9179,14 @@ JD: 1、深度参与字节电商业务智慧供应链建设，负责聚合维度
 Req: 1、本科及以上学历，具备3年及以上机器学习一线实战经验，熟悉深度学习算法；
 2、精通Python和SQL，熟悉Java/Go/C++至少一门语言，能够在大数据分布式环境熟练开发。,.etc
 
+
 ```
 
 
 ##### 珠海-资深后端研发工程师-国际电商内容电商
 * URL: https://jobs.bytedance.com/referral/pc/position/7298676407684335922/detail
 * Match:5:go,java,sql,linux,mysql
+
 
 ```
 JD: 1、负责内容电商方向相关系统的研发工作；
@@ -8246,6 +9199,7 @@ Req: 1、精通Golang/Java/C/C++/PHP中的一种或者多种语言；
 4、具备分布式大流量场景下服务端系统设计及性能优化经验者优先；
 5、业务领域抽象能力，能够对业务逻辑进行合理的抽象和拆,.etc
 
+
 ```
 
 
@@ -8254,6 +9208,7 @@ Req: 1、精通Golang/Java/C/C++/PHP中的一种或者多种语言；
 ##### 西安-数据传输服务开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7031860071194413320/detail
 * Match:10:大数据,go,spark,hadoop,etl,python,java,flink,sql,linux
+
 
 ```
 JD: 1、负责数据传输产品的设计和核心技术研发，包括数据同步/同异构迁移/备份/订阅；
@@ -8265,12 +9220,14 @@ Req: 1、计算机相关专业本科及以上学历；
 3、熟练掌握常见的数据结构和算法；熟悉网络的基本原理，如TCP/IP协议，HTTP协议等；
 4、数据库技术，RDBMS、NoSQL,.etc
 
+
 ```
 
 
 ##### 西安-NoSQL数据库产品开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7031847633647880484/detail
 * Match:6:k8s,go,python,java,sql,hbase
+
 
 ```
 JD: 1、打造世界领先的云原生NoSQL云服务平台产品，作为核心产品服务火山云用户和抖音业务系统；
@@ -8284,12 +9241,14 @@ Req: 1、具备数据库领域相关的开发工作经验，掌握分布式、�
 4、熟练使用K8S，并掌握工作原理者优先；
 5、掌握Redis、MongoDB、HBase、RocksDB等数据,.etc
 
+
 ```
 
 
 ##### 西安-数据库管理平台开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7031860026981828878/detail
 * Match:6:go,python,java,sql,linux,mysql
+
 
 ```
 JD: 1、负责数据库管理平台的设计、开发、维护
@@ -8299,12 +9258,14 @@ Req: 1、2年以上的数据库开发、使用和运维经验，关系型数据�
 2、熟练掌握linux环境下golang/python/java/c/c++ 中的一种或几种，以及相应开发框架下的服务端多线程、高并发处理技术，良好的编码习惯，包括代码整洁、重构、单元测试等；
 3、精通MySQL、SQL Server、MongoDB、P,.etc
 
+
 ```
 
 
 ##### 西安-文档数据库研发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7035974465927235876/detail
 * Match:6:k8s,go,python,sql,linux,mysql
+
 
 ```
 JD: 1、 负责业界领先的计算存储分离文档数据库产品及服务的研发和维护工作； 
@@ -8320,12 +9281,14 @@ Req: 1、 本科及以上学历，计算机、通信等相关专业；
 具备以下条件之一者优先： 
 1、 熟悉 MongoDB/MySQL/SQL Server/Oracle/Po,.etc
 
+
 ```
 
 
 ##### 西安-云原生数据库PostgreSQL开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7186903257053923621/detail
 * Match:5:go,python,sql,linux,mysql
+
 
 ```
 JD: 1、负责字节跳动云原生 PostgreSQL 产品架构、设计与研发；
@@ -8338,12 +9301,14 @@ Req: 1、具备良好的沟通和团队协作能力；
 4、熟悉或者使用过至少一种数据库：Oracle、PostgreSQL、Greenplum、MySQL；
 5、对业界优秀的数据相关系统的设计、实现、服务化 有研究者优先；,.etc
 
+
 ```
 
 
 ##### 西安-云数据库测试开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/7000564848385067278/detail
 * Match:5:go,python,java,sql,mysql
+
 
 ```
 JD: 1、负责云数据库（SQL全系列产品、NOSQL全系列产品）产品的测试设计和测试开发工作，包括但不限于功能、性能、可靠性、鲁棒性、用户体验等系统性测试；
@@ -8355,12 +9320,14 @@ Req: 1、1年以上软件或软硬一体化产品系统测试经验，主导过�
 3、满足以下条件之一者优先：
 - 熟悉至少一种数据库(SQLServer、MySQL、redis、PostgreSQL、MongoDB、图等) ，有相关的开发或测试经验,.etc
 
+
 ```
 
 
 ##### 西安-关系型数据库产品开发工程师
 * URL: https://jobs.bytedance.com/referral/pc/position/6991743392141019428/detail
 * Match:5:go,python,sql,olap,mysql
+
 
 ```
 JD: 1、负责企业级的关系型数据库产品的设计和开发工作，打造业界先进的OLTP/OLAP标准化产品；
@@ -8374,6 +9341,7 @@ Req: 1、熟悉关系型数据库系统原理，具有中间件、HA、内核等
 3、有数据库、高并发系统、分布式系统等工作经验，并深入理解该领域技术；
 4、熟悉分库分表、事务机制、MVCC、查询优化、主从复制、备份恢复、存储引擎、高可用等机制,.etc
 
+
 ```
 
 
@@ -8383,11 +9351,13 @@ Req: 1、熟悉关系型数据库系统原理，具有中间件、HA、内核等
 * URL: https://jobs.bytedance.com/referral/pc/position/7184879550440950076/detail
 * Match:10:clickhouse,go,spark,hadoop,presto,etl,flink,hive,sql,kafka
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: • BS or MS degree in Computer Science or related technical field or equivalent practical experience;
 • Experience in the Big Data technologies(Hadoop, M/R, Hive, Spark, Metastore, ,.etc
+
 
 ```
 
@@ -8396,11 +9366,13 @@ Req: • BS or MS degree in Computer Science or related technical field or equiv
 * URL: https://jobs.bytedance.com/referral/pc/position/7036228410565527844/detail
 * Match:10:k8s,aws,kubernetes,yarn,go,spark,hadoop,flink,python,linux
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req: - Experience contributing to an open sourced machine learning framework (TensorFlow/PyTorch).
 - Experience in big data frameworks (e.g., Spark/Hadoop/Flink), experience in resource,.etc
+
 
 ```
 
@@ -8409,11 +9381,13 @@ Req: - Experience contributing to an open sourced machine learning framework (Te
 * URL: https://jobs.bytedance.com/referral/pc/position/6992664380123859236/detail
 * Match:10:clickhouse,go,spark,hadoop,presto,flink,sql,kafka,data warehouse,olap
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: • BS or MS degree in Computer Science or related technical field or equivalent practical experience
 • Familiar with commonly used algorithms, data structures, network programming a,.etc
+
 
 ```
 
@@ -8422,12 +9396,14 @@ Req: • BS or MS degree in Computer Science or related technical field or equiv
 * URL: https://jobs.bytedance.com/referral/pc/position/7402414296972364082/detail
 * Match:9:aws,kubernetes,go,docker,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications
 - Bachelors Degree in Computer Science, Computing Engineering, or related fields.
 - 2+ years experience in programming languages (such as Go, Python, Java, C,.etc
+
 
 ```
 
@@ -8436,11 +9412,13 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7366555450789218598/detail
 * Match:8:aws,go,spark,hadoop,flink,python,hive,sql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 1. Master’s degree or higher in Computer Science, Statistics, Mathematics, or a closely related field, with a strong focus on data research methodologies an,.etc
+
 
 ```
 
@@ -8449,11 +9427,13 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7366553377318439195/detail
 * Match:8:aws,go,spark,hadoop,flink,python,hive,sql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 1. Bachelor’s degree or higher in Computer Science, Statistics, Mathematics, or relevant fields, with 3 years of experience in data mining, machine learning,.etc
+
 
 ```
 
@@ -8461,6 +9441,7 @@ Req: Minimum Qualifications:
 ##### 西雅图-Senior Software Engineer - Data Transmission- Seattle
 * URL: https://jobs.bytedance.com/referral/pc/position/7420844112834496819/detail
 * Match:8:clickhouse,aws,go,etl,python,hbase,sql,mysql
+
 
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
@@ -8470,12 +9451,14 @@ Req: Minimum Qualifications
 2. Minimum of 4 years of working experience in Software development field. 
 3. Proficiency in one or mo,.etc
 
+
 ```
 
 
 ##### 西雅图-Backend Software Engineer - Global E-Commerce Logistics
 * URL: https://jobs.bytedance.com/referral/pc/position/7194536690077681981/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
+
 
 ```
 JD: About the company:
@@ -8485,6 +9468,7 @@ Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline
 - 2 to 5 years experience developing highly scalable backend services and s,.etc
 
+
 ```
 
 
@@ -8492,12 +9476,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7166044219001538852/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline.
 - 2 to 5 years experience developing highly scalable backend services and ,.etc
+
 
 ```
 
@@ -8506,12 +9492,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7388245108149799218/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline.
 - 2 to 5 years experience developing highly scalable backend services and ,.etc
+
 
 ```
 
@@ -8520,12 +9508,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7388241586973886730/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline.
 - 2 to 5 years experience developing highly scalable backend services and ,.etc
+
 
 ```
 
@@ -8534,12 +9524,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7388245109219412233/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline.
 - 2 to 5 years experience developing highly scalable backend services and ,.etc
+
 
 ```
 
@@ -8548,12 +9540,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7325787162166741257/detail
 * Match:7:aws,go,python,java,kafka,sql,mysql
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 - Bachelors or higher degree in Computer Science or related technical discipline.
 - 2 to 5 years experience developing highly scalable backend services and ,.etc
+
 
 ```
 
@@ -8562,6 +9556,7 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7329651320196073765/detail
 * Match:7:clickhouse,aws,go,java,sql,linux,hbase
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
@@ -8569,12 +9564,14 @@ Req: Minimum Qualifications:
 -Proficiency in C++/Java programming (at least one), with a focus on high-quality code and engineering standards.
 -Solid knowledge of Linux systems, with ex,.etc
 
+
 ```
 
 
 ##### 西雅图-Backend Software Engineer - CapCut - Seattle (SEA)
 * URL: https://jobs.bytedance.com/referral/pc/position/7379506073571625254/detail
 * Match:6:aws,go,java,kafka,sql,mysql
+
 
 ```
 JD: About ByteDance
@@ -8584,6 +9581,7 @@ Req: Minimum Qualifications:
 1. Bachelors or higher degree in Computer Science or related technical discipline.
 2. 3+ years experience developing highly scalable backend services and sy,.etc
 
+
 ```
 
 
@@ -8591,11 +9589,13 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7257312971838458169/detail
 * Match:6:aws,go,python,java,hive,hbase
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req:   - Bachelor or higher degree in Computer Science or related technical discipline
   - 2 to 5 years experience developing highly scalable backend services and systems using at least,.etc
+
 
 ```
 
@@ -8604,11 +9604,13 @@ Req:   - Bachelor or higher degree in Computer Science or related technical disc
 * URL: https://jobs.bytedance.com/referral/pc/position/7257314875500120375/detail
 * Match:6:aws,go,python,java,hive,hbase
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req:   - Bachelor or higher degree in Computer Science or related technical discipline
   - 2 to 5 years experience developing highly scalable backend services and systems using at least,.etc
+
 
 ```
 
@@ -8617,12 +9619,14 @@ Req:   - Bachelor or higher degree in Computer Science or related technical disc
 * URL: https://jobs.bytedance.com/referral/pc/position/7329624012840880434/detail
 * Match:6:aws,go,python,sql,linux,hbase
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req: Qualifications:
 -Solid knowledge of Linux systems, and proficiency in one of the programming languages: C, C++, Python, Golang, or Rust.
 -Familiarity with the Linux kernel, experti,.etc
+
 
 ```
 
@@ -8631,12 +9635,14 @@ Req: Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7221699539660212536/detail
 * Match:6:aws,go,spark,hadoop,python,sql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science or related engineering fields with 5+ years of software development experience.
 • Strong coding skills, especially in Pyt,.etc
+
 
 ```
 
@@ -8645,12 +9651,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7328957272461478171/detail
 * Match:6:aws,go,mysql,sql,linux,hbase
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
 Req: Minimum Qualifications:
 - Bachelor's degree or above in computer science, communication, or related fields.
 - Proficient in at least one or multiple languages from C++/Rust/Go in t,.etc
+
 
 ```
 
@@ -8659,12 +9667,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7221696719795718461/detail
 * Match:6:aws,go,spark,hadoop,python,sql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science or related engineering fields with 3+ years of software development experience.
 • Strong coding skills, especially in Pyt,.etc
+
 
 ```
 
@@ -8673,12 +9683,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7262979049433434427/detail
 * Match:6:aws,kubernetes,go,docker,python,linux
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 1. Be proficient in 1 to 2 programming languages such as Go/Python/Shell in Linux environment
 2. Be familiar with Kubernetes architecture and container tech,.etc
+
 
 ```
 
@@ -8687,12 +9699,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7261804666886211898/detail
 * Match:6:aws,kubernetes,go,docker,python,linux
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific t,.etc
 
 Req: Minimum Qualifications:
 1. Be proficient in 1 to 2 programming languages such as Go/Python/Shell in Linux environment
 2. Be familiar with Kubernetes architecture and container tech,.etc
+
 
 ```
 
@@ -8701,11 +9715,13 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/6977206774159984904/detail
 * Match:5:go,spark,python,hive,sql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, Mountain View, N,.etc
 
 Req: 1. MS or PhD in a quantitative field such as Computer Science, Engineering, Math, Statistics, etc.
 2. 7+ years of experience in data science, algorithmic engineering, or machine le,.etc
+
 
 ```
 
@@ -8714,11 +9730,13 @@ Req: 1. MS or PhD in a quantitative field such as Computer Science, Engineering,
 * URL: https://jobs.bytedance.com/referral/pc/position/7320738065576003878/detail
 * Match:5:aws,go,spark,hadoop,flink
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req: - Experience contributing to an open sourced machine learning framework (tensorflow / jax / pytorch / torchscript / mxnet / tensorrt).
 - Experience in big data frameworks (e.g., Sp,.etc
+
 
 ```
 
@@ -8727,11 +9745,13 @@ Req: - Experience contributing to an open sourced machine learning framework (te
 * URL: https://jobs.bytedance.com/referral/pc/position/7207323676760099133/detail
 * Match:5:aws,go,spark,hadoop,python
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science, Statistics, Operation Research, Applied Mathematics, Physics or similar quantitative fields, with 3+ years of related ex,.etc
+
 
 ```
 
@@ -8740,12 +9760,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7249900339532466491/detail
 * Match:5:aws,go,spark,python,linux
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science, Computer Engineering, or other relevant majors, with 1+ years of related work experience.
 • Solid programming skills, in,.etc
+
 
 ```
 
@@ -8754,11 +9776,13 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7138162578354866439/detail
 * Match:5:aws,go,spark,hive,sql
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: - Master's or PhD degree in Computer Science, Engineering, Operations Research or related fields.
 - Strong in data structures and algorithms, with excellent problem-solving ability,.etc
+
 
 ```
 
@@ -8767,11 +9791,13 @@ Req: - Master's or PhD degree in Computer Science, Engineering, Operations Resea
 * URL: https://jobs.bytedance.com/referral/pc/position/7207323469482379578/detail
 * Match:5:aws,go,spark,hadoop,python
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science, Statistics, Operation Research, Applied Mathematics, Physics or similar quantitative fields, with 5+ years of related ex,.etc
+
 
 ```
 
@@ -8780,12 +9806,14 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7329642015343642906/detail
 * Match:5:aws,go,python,sql,linux
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms s,.etc
 
 Req: Qualifications:
 - Bachelor's degree or above in computer science, communication, or related fields.
 - Proficient in at least one or multiple languages from C/C++/Go/Python in the L,.etc
+
 
 ```
 
@@ -8794,6 +9822,7 @@ Req: Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7422009751532308787/detail
 * Match:5:aws,kubernetes,go,docker,linux
 
+
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
 
@@ -8801,12 +9830,14 @@ Req: Minimum Qualifications:
 • 3+ years experience in developing network systems in Rust, C, C++, and/or Go, strong developing skills in Linux environment.
 • Master’s degree (or Bachelo,.etc
 
+
 ```
 
 
 ##### 西雅图-Senior/Tech Lead  Software Development Engineer,  Network Monitoring & Alerts - Seattle
 * URL: https://jobs.bytedance.com/referral/pc/position/7370167238982453555/detail
 * Match:5:aws,go,metadata,python,java
+
 
 ```
 JD: About ByteDance
@@ -8817,12 +9848,14 @@ Qualifications
 Minimum Qualifications
   - Bachelor degree or above in Computer Science , Electrical Engineering is preferred; Master's or Ph.D with networking research experien,.etc
 
+
 ```
 
 
 ##### 西雅图-Site Reliability Engineer, Traffic Platform
 * URL: https://jobs.bytedance.com/referral/pc/position/7422010000845506867/detail
 * Match:5:aws,kubernetes,go,python,java
+
 
 ```
 JD: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the Chi,.etc
@@ -8831,6 +9864,7 @@ Req: Minimum Qualifications
  • Bachelor’s degree in any of these faculties: Computer Science, Information Technology, Programming & Systems Analysis, Science (Computer Studies)
 • Experi,.etc
 
+
 ```
 
 
@@ -8838,12 +9872,14 @@ Req: Minimum Qualifications
 * URL: https://jobs.bytedance.com/referral/pc/position/7207326245091182904/detail
 * Match:5:aws,go,spark,hadoop,python
 
+
 ```
 JD: TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London,.etc
 
 Req: Minimum Qualifications:
 • BS/MS degree in Computer Science, Statistics, Operation Research, Applied Mathematics, Physics or similar quantitative fields, with related experience. 
 •,.etc
+
 
 ```
 
@@ -8854,6 +9890,7 @@ Req: Minimum Qualifications:
 * URL: https://jobs.bytedance.com/referral/pc/position/7356482851007646003/detail
 * Match:5:go,python,sql,data warehouse,tableau
 
+
 ```
 JD: About ByteDance
 Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, as well as platforms sp,.etc
@@ -8861,6 +9898,7 @@ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. W
 Req: Minimum Qualifications
 1. Bachelor's degree or above; minimum of three years of relevant experience in data analysis;
 2. Proficient in SQL and Tableau/PowerBI or similar visualizat,.etc
+
 
 ```
 
@@ -8870,6 +9908,7 @@ Req: Minimum Qualifications
 ##### 重庆-数据交付
 * URL: https://jobs.bytedance.com/referral/pc/position/7270019968787581221/detail
 * Match:13:k8s,clickhouse,数据仓库,spark,hadoop,docker,flink,python,hive,kafka,linux,容器,hbase
+
 
 ```
 JD: 1、负责数据平台的交付实施，包括安装部署等工作；
@@ -8881,12 +9920,14 @@ Req: 1、本科及以上学历，计算机，软件工程或其他相关专业�
 2、熟悉Hadoop生态、不限于Hadoop、Hive、Spark、Hbase、Flink、Impala、Clickhouse、Redis、Kafka等组件；
 3、熟悉 Linux/Unix 系统、网络、硬件等相关知识，具有很强的 Troubleshooti,.etc
 
+
 ```
 
 
 ##### 重庆-大模型实施运维
 * URL: https://jobs.bytedance.com/referral/pc/position/7438463738099648775/detail
 * Match:6:kubernetes,go,docker,python,linux,容器
+
 
 ```
 JD: 1、负责公司大模型产品的交付实施，包括安装部署、运维等工作；
@@ -8898,6 +9939,7 @@ Req: 1、本科及以上学历，计算机科学、软件工程等相关专业�
 3、熟悉Golang/Python中至少一种开发语言，有Ansible等自动化部署和编排工具开发经验优先；
 4、熟悉Linux/Unix系统、网络、硬件等相关知识，具有很强的Troubleshooting能力；
 5、,.etc
+
 
 ```
 

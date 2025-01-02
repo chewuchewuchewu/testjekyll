@@ -5,6 +5,7 @@
 * URL: http://careers.tencent.com/jobdesc.html?postId=1811348347965943808
 * Match:4:大数据,数据分析,项目管理,治理
 
+
 ```
 JD: 1.根据监管要求及信息安全相关法律法规，开展内部自查，发现并推进整改，消除合规风险；
 2.将法规要求结合公司的业务情况，沉淀为内部技术要求，与相关部门协作并推进落地；
@@ -19,12 +20,14 @@ Req:1.计算机、信息安全或相关专业本科及以上学历，8 年及以
 * ImportantItem: 1.在同等条件下，通过腾讯云认证或取得同等资格认证的候选人，我们会优先考虑。 
 * DepartmentIntroduction: 腾讯安全作为腾讯立足互联网安全的行业领先品牌，集结吴石、TK、killer等大批安全专家，致力于成为产业数字化升级进程中的安全战略官。腾讯安全多次斩获国内、外各大顶级赛事冠军，两次夺得有“网安世界杯”之称的DEF CON CTF全球总,.etc
 
+
 ```
 
 
 ##### 北京-腾讯广告-策略算法工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1797825255515889664
 * Match:4:java,python,分布式计算,建模
+
 
 ```
 JD: 1.基于内外部数据，运用统计学、机器学习、计算广告等多个领域知识，洞察行业业务特点，研发短剧、小游戏、社交、视频等泛网服行业算法策略，包括但不限于设计和实现行业深度模型、行业大客户建模、oCPx出价策略等，通过召回/粗排/精排全链路优化提升行业效果和收入。,.etc
@@ -37,6 +40,7 @@ Req:1.优秀的编码能力，至少熟练掌握C++/Java/Python/Scala其中一�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
@@ -45,6 +49,7 @@ Req:1.优秀的编码能力，至少熟练掌握C++/Java/Python/Scala其中一�
 ##### 深圳-腾讯互娱增长中台 --用户增长高级算法工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1783346616212660224
 * Match:5:java,建模,数据分析,python,go
+
 
 ```
 JD: 1.负责前沿机器学习技术在游戏用户增长领域的应用，包括用户行为建模、留存/付费预估等，挖掘游戏高价值用户群体；
@@ -61,12 +66,14 @@ Req:1.计算机或相关专业硕士以上学历，具备扎实的数学、统�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-高级系统测试
 * URL: http://careers.tencent.com/jobdesc.html?postId=1843845549611053056
 * Match:5:java,linux,数据分析,项目管理,python
+
 
 ```
 JD: 1.负责应用宝业务质量保障相关工作，包含整体质量体系规划和质量方案设计；
@@ -84,12 +91,14 @@ Req:1.5年及以上相关工作经验，本科以上学历，计算机或相关�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-高级系统测试
 * URL: http://careers.tencent.com/jobdesc.html?postId=1843845547245461504
 * Match:5:java,linux,数据分析,项目管理,python
+
 
 ```
 JD: 1.负责QQ、浏览器业务质量保障相关工作，包含整体质量体系规划和质量方案设计；
@@ -107,12 +116,14 @@ Req:1.5年及以上相关工作经验，本科以上学历，计算机或相关�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-PUBG Mobile-高级游戏后台开发工程师-(UGC方向)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1856640223623012352
 * Match:4:sql,mysql,bi,linux
+
 
 ```
 JD: 1.负责PUBG Mobile游戏UGC模块后台架构设计，对系统架构针对性优化调整，逻辑系统设计和开发工作；
@@ -130,12 +141,14 @@ Req:1.3~5年以上Linux游戏后台工作经验，本科及以上学历，计算
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-PUBG Mobile-高级游戏大数据开发工程师-(UGC方向)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1856640227012009984
 * Match:4:java,python,bi,数据分析
+
 
 ```
 JD: 1.负责利用机器学习算法解决PUBG Mobile的UGC业务问题，如作品推荐、AIGC、商业化等相关内容的系统搭建和优化，能够进行问题抽象、技术选型、算法优化，最终提升玩家体验；
@@ -154,12 +167,14 @@ Req:1.3年以上机器学习应用开发或游戏后台开发工作经验，计�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-PUBG Mobile-高级算法工程师-(数据挖掘)
 * URL: http://careers.tencent.com/jobdesc.html?postId=1848213487361224704
 * Match:4:java,python,bi,数据分析
+
 
 ```
 JD: 1.负责利用机器学习算法解决PUBG Mobile的业务问题，如活跃、社交、商业化等相关内容的推荐和优化，能够进行问题抽象、技术选型、算法落地与优化，最终提升玩家体验；
@@ -174,12 +189,14 @@ Req:1.3年以上大规模机器学习和数据挖掘工作经验，计算机/统
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-QQ浏览器-平台治理专家（黑灰产方向）  -后台策略安全
 * URL: http://careers.tencent.com/jobdesc.html?postId=1790987771750391808
 * Match:4:sql,python,数据分析,治理
+
 
 ```
 JD: 1.对增长、拉活等业务的黑灰产开展体系化分析及系统性治理，输出结论报告；
@@ -196,12 +213,14 @@ Req:1.全日制本科及以上学历，网络社会工程、计算机科学等�
 
 * DepartmentIntroduction: QQ浏览器是一款服务4亿用户的搜索、工具、内容综合平台，产品覆盖PC、手机、iPad等各类终端。为用户提供全网内容搜索、百科等信息交互服务；文档文件管理、智能扫描处理等工具能力；新热资讯、影视剧集、免费正版小说等浏览服务。团队深挖用户需求，探索深度语义搜索，多模态AIGC技术，超大规模语言模型（LLM）等前沿技术，在产品能力拓展、推荐技术层面不断,.etc
 
+
 ```
 
 
 ##### 深圳-SSV-腾讯公益测试工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1864253155957567488
 * Match:4:项目管理,python,linux,java
+
 
 ```
 JD: 1.负责腾讯公益小程序、一块走小程序等产品质量保障相关工作，包含整体质量体系规划和质量方案；
@@ -219,12 +238,14 @@ Req:1.3年以上相关工作经验，本科以上学历，计算机或相关专�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-TAB实验中台-#后台开发工程师#
 * URL: http://careers.tencent.com/jobdesc.html?postId=1830792312167358464
 * Match:4:a/b,kubernetes,go,治理
+
 
 ```
 JD: 1.主导腾讯一站式的 A/B 实验平台建设，覆盖整个实验流程后台系统的开发建设和运营；
@@ -243,12 +264,14 @@ Req:1.计算机或相关本科及以上学历；
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-数据中心嵌入式产品开发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1844274786901979136
 * Match:4:项目管理,go,调度,linux
+
 
 ```
 JD: 1.负责腾讯数据中心传感网络的技术规划，跟踪数据中心的数据采集、传感器、控制、物联网等相关技术，推进嵌入式弱电产品研发和迭代；
@@ -263,12 +286,14 @@ Req:1.本科及以上学历，电力电子、自动化、仪器等相关专业�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-SRE高级工程师-DNS稳定性
 * URL: http://careers.tencent.com/jobdesc.html?postId=1849273454667264000
 * Match:4:devops,bi,linux,监控
+
 
 ```
 JD: 1.负责提升腾讯云DNS相关产品以及腾讯内部DNS相关服务的稳定性和可用性，确保业务流程的稳定运行； 2.负责构建并优化DNS相关的运营体系，包括但不限于故障监控平台、故障预防方案、紧急故障响应及分析、流程变更优化以及排障工具等。,.etc
@@ -280,12 +305,14 @@ Req:1.对DNS协议、DNS解析流程及DNS安全有深入理解； 2.至少熟�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-售后服务 AI 化产品经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1845132712852090880
 * Match:4:项目管理,python,go,java
+
 
 ```
 JD: 1.负责对管理售后服务的培训、质检和客户服务智能化推动，通过服务智能化确保客户满意度；
@@ -300,12 +327,14 @@ Req:1.计算机科学/信息技术或相关领域的本科及以上学历，3年
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云-资深ITOM产品经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1680801291313356800
 * Match:4:大数据,数据分析,容器,治理
+
 
 ```
 JD: 1.负责公司ITOM产品的需求分析、产品设计、竞品分析和市场调研；
@@ -325,12 +354,14 @@ Req:1.计算机、信息技术或相关专业本科及以上学历；
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-腾讯云顾问-高级产品经理
 * URL: http://careers.tencent.com/jobdesc.html?postId=1806179973195636736
 * Match:4:大数据,数据分析,容器,治理
+
 
 ```
 JD: 1.负责公司ITOM产品的需求分析、产品设计、竞品分析和市场调研；
@@ -351,12 +382,14 @@ Req:1.计算机、信息技术或相关专业本科及以上学历；
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-金融科技风险模型分析师（北京&深圳）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1553713525925355520
 * Match:4:大数据,实时,python,建模
+
 
 ```
 JD: 1.通过机器学习建模与数据挖掘有效识别支付领域各类违法犯罪风险（如涉赌、欺诈、洗钱）并进行实时打击，控制风险大盘；
@@ -370,12 +403,14 @@ Req:1.本科以上学历，5年以上工作经验，有大数据加工建模、�
 * RequireWorkYearsName: 五年以上工作经验 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-高级产品策划
 * URL: https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/_R103832-3
 * Match:4:项目管理,go,bi,数据分析
+
 
 ```
 JD: Level Infinite 是腾讯旗下国际游戏业务品牌，致力为全球玩家带来充满乐趣、原汁原味的游戏体验，让玩家随时随地进入游戏世界；并通过打造包容、互通、便捷的玩家社区，促进分享交流。
@@ -393,12 +428,14 @@ Req:岗位要求：
 
 ,.etc
 
+
 ```
 
 
 ##### 深圳-高级安全策略工程师（DDOS方向）
 * URL: http://careers.tencent.com/jobdesc.html?postId=1846810425295921152
 * Match:4:大数据,python,go,数据分析
+
 
 ```
 JD: 1.负责腾讯广告、游戏、微信等自研业务和腾讯云EdgeOne的DDoS防护策略建设工作，保障重点业务的安全稳定运营；
@@ -413,6 +450,7 @@ Req:1.本科及以上学历，3年以上安全相关工作经验，有互联网�
 * RequireWorkYearsName: 三年以上工作经验 
 ,.etc
 
+
 ```
 
 
@@ -421,6 +459,7 @@ Req:1.本科及以上学历，3年以上安全相关工作经验，有互联网�
 ##### 长沙-腾讯云CDN后台研发工程师
 * URL: http://careers.tencent.com/jobdesc.html?postId=1722494723274317824
 * Match:4:go,调度,bi,数据分析
+
 
 ```
 JD: 1.负责腾讯云CDN业务的后台服务研发、体验优化、数据分析；
@@ -435,6 +474,7 @@ Req:1.熟悉短视频业务流程，对播放器、推荐流、传输协议、CD
 
 * RequireWorkYearsName: 一年以上工作经验 
 ,.etc
+
 
 ```
 

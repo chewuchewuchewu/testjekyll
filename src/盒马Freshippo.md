@@ -1,14 +1,17 @@
 ### 盒马 Freshippo 数据
 * URL: https://hire.freshippo.com/off-campus/position-list
 * with filters
+
 ```
 - 搜索关键字 数据
+
 ```
 
 
 ##### Title: 盒马-数据研发工程师-杭州
 * ID: 6000056422
 * Detail URL: https://hire.freshippo.com/
+
 ```
 Description: 1. 负责盒马各类决策数据体系的质量治理，通过标准化、规则化、创新应用大模型等方式，提升盒马整体数据的交付质量
 2. 通过深度分析数据架构，从成本的视角联合数据、算法、工程等团队，挖掘数据成本节降的空间
@@ -27,20 +30,24 @@ Requirement:1. 从事数据仓库领域3年以上，熟悉数据仓库模型设�
 Location:['杭州']
 
 Date-created:2024-09-19 08:36:19
+
 ```
 
 
 ### 盒马 Freshippo 分析
 * URL: https://hire.freshippo.com/off-campus/position-list
 * with filters
+
 ```
 - 搜索关键字 分析
+
 ```
 
 
 ##### Title: 盒马-数据研发工程师-杭州
 * ID: 6000056422
 * Detail URL: https://hire.freshippo.com/
+
 ```
 Description: 1. 负责盒马各类决策数据体系的质量治理，通过标准化、规则化、创新应用大模型等方式，提升盒马整体数据的交付质量
 2. 通过深度分析数据架构，从成本的视角联合数据、算法、工程等团队，挖掘数据成本节降的空间
@@ -59,4 +66,5 @@ Requirement:1. 从事数据仓库领域3年以上，熟悉数据仓库模型设�
 Location:['杭州']
 
 Date-created:2024-09-19 08:36:19
+
 ```
