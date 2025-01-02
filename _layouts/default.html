@@ -7,11 +7,17 @@
 
     {% include header.html %}
 
+    {% assign readme_post = false %}
     {% for post in site.posts %}
         {% if post.title == "readme" %}
-            {{ post.content }}
+            {% assign readme_post = post %}
         {% endif %}
     {% endfor %}
+
+    {% if readme_post %}
+        {{ readme_post.content }}
+    {% endif %}
+
 
     {% include footer.html %}
 
